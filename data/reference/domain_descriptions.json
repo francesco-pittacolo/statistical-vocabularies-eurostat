@@ -1,0 +1,31 @@
+{
+    "agriculture": "Agriculture, farming, crops, livestock, fisheries, forestry and rural activities",
+
+    "transport": "Transport of passengers and goods including road, rail, aviation, maritime transport and vehicles",
+
+    "industry": "Industrial activities, manufacturing, production, enterprises and industrial sectors",
+
+    "energy": "Energy production, electricity, gas, fuels, renewable energy and energy consumption",
+
+    "environment": "Environment, climate change, emissions, pollution, waste and water resources",
+
+    "population": "Population statistics, demographics, households, births, deaths and migration",
+
+    "health": "Health, diseases, medical services, healthcare and mortality",
+
+    "labour": "Employment, unemployment, workforce, labour market and wages",
+
+    "education": "Education, schools, students, training and learning",
+
+    "economy": "Economy, GDP, finance, prices, income, trade and economic accounts",
+
+    "science_technology": "Science, research, innovation, technology and digitalisation",
+
+    "crime": "Crime, violence, justice, police and security",
+
+    "tourism": "Tourism, hotels, accommodation and travel",
+
+    "construction": "Construction, buildings, housing and infrastructure",
+
+    "social": "Social conditions, poverty, inequality and social protection"
+}

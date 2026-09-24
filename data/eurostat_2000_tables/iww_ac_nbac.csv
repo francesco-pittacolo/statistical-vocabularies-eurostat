@@ -1,0 +1,19 @@
+Time frequency,Accident,Unit of measure,Geopolitical entity (reporting)\Time,1995.0,1996.0,1997.0,1998.0,1999.0,2000.0,2001.0,2002.0,2003.0,2004.0,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0,2023.0
+Annual,Accidents involving transport of dangerous goods,Number,Austria,:,:,:,:,:,:,:,:,:,:,:,:,:,:,3.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,:,:,:,0.0,0.0,0.0
+Annual,Accidents involving transport of dangerous goods,Number,Bulgaria,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,1.0,0.0,0.0,:,:,:,:,0.0,0.0,0.0,:
+Annual,Accidents involving transport of dangerous goods,Number,Czechia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Accidents involving transport of dangerous goods,Number,Finland,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,:,:
+Annual,Accidents involving transport of dangerous goods,Number,Croatia,:,:,:,:,:,:,:,:,:,1.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Accidents involving transport of dangerous goods,Number,Hungary,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Annual,Accidents involving transport of dangerous goods,Number,Poland,:,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Accidents involving transport of dangerous goods,Number,Romania,:,:,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,2.0,0.0,0.0,:,:,:,:,:,:
+Annual,Accidents involving transport of dangerous goods,Number,Slovakia,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,1.0,2.0,0.0,:,:,:,:,:,:,:,:,:,:
+Annual,Total,Number,Austria,:,:,:,:,:,:,:,:,:,:,:,:,:,:,18.0,19.0,14.0,12.0,25.0,19.0,28.0,12.0,14.0,:,:,:,11.0,9.0,11.0
+Annual,Total,Number,Bulgaria,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,3.0,0.0,5.0,4.0,0.0,1.0,:,:,:,:,1.0,0.0,0.0,:
+Annual,Total,Number,Czechia,32.0,12.0,27.0,16.0,17.0,19.0,15.0,14.0,23.0,24.0,23.0,19.0,19.0,10.0,11.0,7.0,9.0,3.0,7.0,6.0,12.0,20.0,11.0,21.0,12.0,35.0,25.0,21.0,21.0
+Annual,Total,Number,Finland,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,1.0,5.0,5.0,:,:
+Annual,Total,Number,Croatia,:,:,:,:,:,:,:,:,:,4.0,2.0,3.0,6.0,2.0,0.0,3.0,1.0,2.0,2.0,1.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Total,Number,Hungary,:,:,:,:,:,:,:,:,:,:,:,:,:,2.0,8.0,38.0,13.0,21.0,4.0,5.0,6.0,20.0,18.0,32.0,18.0,29.0,20.0,9.0,20.0
+Annual,Total,Number,Poland,:,:,:,:,:,:,:,:,:,:,:,:,:,:,8.0,9.0,5.0,5.0,12.0,10.0,8.0,4.0,6.0,4.0,5.0,7.0,4.0,12.0,3.0
+Annual,Total,Number,Romania,:,:,:,:,:,:,:,:,:,:,:,151.0,65.0,30.0,51.0,32.0,34.0,80.0,81.0,41.0,75.0,53.0,56.0,:,:,:,:,:,:
+Annual,Total,Number,Slovakia,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,16.0,9.0,5.0,9.0,:,:,:,:,:,:,:,:,:,:

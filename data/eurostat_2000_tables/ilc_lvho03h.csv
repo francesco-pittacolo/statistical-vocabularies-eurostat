@@ -1,0 +1,250 @@
+Time frequency,Type of building,Tenure status,Geopolitical entity (reporting)\Time,1994.0,1995.0,1996.0,1997.0,1998.0,1999.0,2000.0,2001.0
+Annual,Flat,Owner,Austria,:,1.8,1.9,1.9,2.0,2.0,2.0,2.1
+Annual,Flat,Owner,Belgium,2.4,2.3,2.3,2.4,2.3,2.3,2.4,2.4
+Annual,Flat,Owner,Germany,2.0,2.0,2.1,2.0,2.0,2.0,2.0,2.1
+Annual,Flat,Owner,Denmark,2.0,1.9,2.0,1.9,2.0,2.0,2.1,2.0
+Annual,Flat,Owner,Greece,1.3,1.3,1.4,1.3,1.3,1.3,1.3,1.4
+Annual,Flat,Owner,Spain,1.6,1.6,1.5,1.6,1.6,1.7,1.7,1.8
+Annual,Flat,Owner,European Union - 15 countries (1995-2004),1.9,2.0,2.0,1.9,1.9,2.0,2.0,2.0
+Annual,Flat,Owner,Finland,:,:,1.6,1.7,1.7,1.7,1.7,1.7
+Annual,Flat,Owner,France,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Annual,Flat,Owner,Ireland,:,1.9,:,:,:,:,:,:
+Annual,Flat,Owner,Italy,1.5,1.6,1.6,1.6,1.6,1.6,1.6,1.6
+Annual,Flat,Owner,Luxembourg,:,2.1,2.2,2.1,2.1,2.1,2.1,2.0
+Annual,Flat,Owner,Netherlands,2.7,2.7,2.7,2.8,2.6,2.7,2.7,2.8
+Annual,Flat,Owner,Portugal,1.5,1.4,1.4,1.4,1.4,1.5,1.4,1.4
+Annual,Flat,Owner,Sweden,:,:,:,1.9,1.8,1.8,1.9,2.2
+Annual,Flat,Owner,United Kingdom,2.1,2.1,2.2,2.2,2.2,2.3,2.3,2.3
+Annual,Flat,Tenant,Austria,:,1.7,1.7,1.7,1.8,1.8,1.9,2.0
+Annual,Flat,Tenant,Belgium,2.0,2.0,2.0,2.0,2.1,2.0,2.1,2.1
+Annual,Flat,Tenant,Germany,1.7,1.6,1.7,1.7,1.7,1.7,1.7,1.7
+Annual,Flat,Tenant,Denmark,1.9,1.9,1.9,1.8,1.9,1.9,1.8,1.9
+Annual,Flat,Tenant,Greece,1.3,1.2,1.3,1.3,1.3,1.3,1.3,1.3
+Annual,Flat,Tenant,Spain,1.8,1.8,1.8,1.8,1.9,2.0,2.0,2.1
+Annual,Flat,Tenant,European Union - 15 countries (1995-2004),1.7,1.7,1.7,1.7,1.7,1.7,1.8,1.8
+Annual,Flat,Tenant,Finland,:,:,1.2,1.3,1.3,1.3,1.3,1.3
+Annual,Flat,Tenant,France,1.5,1.5,1.6,1.6,1.6,1.6,1.6,1.7
+Annual,Flat,Tenant,Ireland,1.7,1.8,1.6,2.0,2.1,2.3 u,1.9 u,1.6 u
+Annual,Flat,Tenant,Italy,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4
+Annual,Flat,Tenant,Luxembourg,:,1.6,1.6,1.7,1.6,1.7,1.6,1.6
+Annual,Flat,Tenant,Netherlands,2.6,2.7,2.7,2.7,2.7,2.7,2.8,2.7
+Annual,Flat,Tenant,Portugal,1.5,1.5,1.5,1.5,1.6,1.5,1.5,1.5
+Annual,Flat,Tenant,Sweden,:,:,:,1.7,1.7,1.7,1.7,1.8
+Annual,Flat,Tenant,United Kingdom,1.8,1.9,1.9,1.8,1.9,1.9,1.9,1.9
+Annual,Flat,"Tenant, rent at reduced price or free",Austria,:,2 u,1.8,1.8 u,1.7,1.9 u,1.9 u,2 u
+Annual,Flat,"Tenant, rent at reduced price or free",Belgium,:,1.7,:,2.4 u,2.5 u,:,:,:
+Annual,Flat,"Tenant, rent at reduced price or free",Germany,1.8 u,1.7 u,1.7 u,2.3 u,2 u,2.1 u,2.1 u,1.9 u
+Annual,Flat,"Tenant, rent at reduced price or free",Denmark,:,2.5,:,:,:,:,:,:
+Annual,Flat,"Tenant, rent at reduced price or free",Greece,1.4,1.3,1.4,1.3,1.5,1.4,1.4,1.5
+Annual,Flat,"Tenant, rent at reduced price or free",Spain,1.8,1.8,1.8,1.8,2.2,1.9,2.3,2.2
+Annual,Flat,"Tenant, rent at reduced price or free",European Union - 15 countries (1995-2004),1.9,1.8,1.9,2.0,1.9,1.9,2.0,1.9
+Annual,Flat,"Tenant, rent at reduced price or free",Finland,:,:,1.2,:,:,:,:,:
+Annual,Flat,"Tenant, rent at reduced price or free",France,1.9,1.8,1.6,1.8,1.8,1.9,1.8,1.8
+Annual,Flat,"Tenant, rent at reduced price or free",Ireland,:,3.3,:,:,:,:,:,:
+Annual,Flat,"Tenant, rent at reduced price or free",Italy,1.7,1.8,1.8,1.7,1.7,1.8,1.7,1.8
+Annual,Flat,"Tenant, rent at reduced price or free",Luxembourg,:,2 u,:,2 u,1.9 u,1.8 u,1.9 u,1.8 u
+Annual,Flat,"Tenant, rent at reduced price or free",Netherlands,:,2.0,:,:,:,:,:,:
+Annual,Flat,"Tenant, rent at reduced price or free",Portugal,1.6,1.3,1.4,1.5,1.5,1.4,1.4,1.3
+Annual,Flat,"Tenant, rent at reduced price or free",United Kingdom,2.3 u,2.2,:,2.1,2.5 u,2 u,:,:
+Annual,Flat,Total,Austria,:,1.7,1.8,1.8,1.8,1.9,1.9,2.0
+Annual,Flat,Total,Belgium,2.1,2.1,2.1,2.1,2.2,2.1,2.2,2.2
+Annual,Flat,Total,Germany,1.7,1.7,1.7,1.7,1.8,1.7,1.8,1.8
+Annual,Flat,Total,Denmark,1.9,1.9,1.9,1.9,1.9,1.9,1.9,1.9
+Annual,Flat,Total,Greece,1.3,1.3,1.3,1.3,1.3,1.3,1.3,1.4
+Annual,Flat,Total,Spain,1.6,1.6,1.6,1.6,1.7,1.7,1.8,1.8
+Annual,Flat,Total,European Union - 15 countries (1995-2004),1.7,1.8,1.8,1.8,1.8,1.8,1.8,1.9
+Annual,Flat,Total,Finland,:,:,1.4,1.5,1.5,1.5,1.5,1.5
+Annual,Flat,Total,France,1.7,1.7,1.7,1.7,1.7,1.7,1.7,1.8
+Annual,Flat,Total,Ireland,1.8,1.8,1.7,2.1,2.1,2.5,2.4 u,2.4 u
+Annual,Flat,Total,Italy,1.5,1.6,1.6,1.6,1.6,1.5,1.6,1.6
+Annual,Flat,Total,Luxembourg,:,1.8,1.8,1.9,1.8,1.9,1.8,1.8
+Annual,Flat,Total,Netherlands,2.6,2.7,2.7,2.7,2.7,2.7,2.8,2.8
+Annual,Flat,Total,Portugal,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+Annual,Flat,Total,Sweden,:,:,:,1.8,1.8,1.7,1.8,2.0
+Annual,Flat,Total,United Kingdom,1.9,2.0,2.0,2.0,2.0,2.0,2.0,2.1
+Annual,House,Owner,Austria,:,2.1,2.0,2.0,2.1,2.1,2.1,2.2
+Annual,House,Owner,Belgium,2.2,2.1,2.1,2.1,2.0,2.0,2.0,2.0
+Annual,House,Owner,Germany,2.1,2.1,2.1,2.1,2.1,2.0,2.0,2.0
+Annual,House,Owner,Denmark,2.2,2.1,2.1,2.1,2.1,2.1,2.1,2.1
+Annual,House,Owner,Greece,1.3,1.4,1.4,1.4,1.4,1.4,1.4,1.4
+Annual,House,Owner,Spain,1.8,1.8,1.7,1.8,1.8,1.7,1.8,1.8
+Annual,House,Owner,European Union - 15 countries (1995-2004),2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Annual,House,Owner,Finland,:,:,1.7,1.8,1.8,1.8,1.8,1.8
+Annual,House,Owner,France,2.0,2.0,2.0,2.1,2.1,2.1,2.1,2.1
+Annual,House,Owner,Ireland,2.2,2.1,2.1,2.2,2.2,2.2,2.2,2.2
+Annual,House,Owner,Italy,1.6,1.7,1.7,1.7,1.6,1.7,1.7,1.7
+Annual,House,Owner,Luxembourg,:,2.4,2.4,2.4,2.4,2.5,2.5,2.5
+Annual,House,Owner,Netherlands,2.4,2.4,2.4,2.5,2.4,2.4,2.5,2.5
+Annual,House,Owner,Portugal,1.7,1.7,1.6,1.6,1.6,1.6,1.6,1.6
+Annual,House,Owner,Sweden,:,:,:,2.3,2.3,2.3,2.3,2.2
+Annual,House,Owner,United Kingdom,2.3,2.3,2.4,2.4,2.4,2.4,2.4,2.4
+Annual,House,Tenant,Austria,:,1.9,1.9,2.1,2.1,2.3,2.0,2.3
+Annual,House,Tenant,Belgium,2.0,2.0,2.0,1.9,1.9,1.9,2.0,1.9
+Annual,House,Tenant,Germany,1.8,1.8,1.8,1.8,1.9,1.9,1.9,1.9
+Annual,House,Tenant,Denmark,2.0,1.9,1.9,1.9,2.0,1.9,1.8,1.8
+Annual,House,Tenant,Greece,1.2,1.1,1.2,1.1,1.1,1.1,1.1,1.1
+Annual,House,Tenant,Spain,1.5,1.6,1.4,1.6,1.6,1.8,1.9,1.9
+Annual,House,Tenant,European Union - 15 countries (1995-2004),1.8,1.8,1.8,1.8,1.8,1.8,1.8,1.8
+Annual,House,Tenant,Finland,:,:,1.2,1.5,1.6,1.4,1.3,1.4
+Annual,House,Tenant,France,1.9,2.0,1.9,1.7,1.7,1.6,1.7,1.6
+Annual,House,Tenant,Ireland,1.6,1.6,1.5,1.5,1.6,1.7,1.7,1.6
+Annual,House,Tenant,Italy,1.6,1.5,1.6,1.6,1.5,1.5,1.5,1.5
+Annual,House,Tenant,Luxembourg,:,2.0,1.9,2.0,2.0,1.9,1.8,1.8
+Annual,House,Tenant,Netherlands,2.6,2.7,2.8,2.7,2.6,2.7,2.7,2.7
+Annual,House,Tenant,Portugal,1.3,1.3,1.3,1.3,1.2,1.3,1.3,1.4
+Annual,House,Tenant,Sweden,:,:,:,2.0,2.0,2.0,2.1,1.7
+Annual,House,Tenant,United Kingdom,2.1,2.1,2.1,2.1,2.1,2.1,2.2,2.2
+Annual,House,"Tenant, rent at reduced price or free",Austria,:,2.5,2.5,2.4,2.3,2.6,2.6,2.5
+Annual,House,"Tenant, rent at reduced price or free",Belgium,2.3,2.5,2.2,2.1,2.2,2.1,2.0,2.2 u
+Annual,House,"Tenant, rent at reduced price or free",Germany,2.0,1.9,1.9,2.1,2.1,2.1,2.3,2.2
+Annual,House,"Tenant, rent at reduced price or free",Denmark,:,3.1,:,:,:,:,:,:
+Annual,House,"Tenant, rent at reduced price or free",Greece,1.1,1.3,1.4 u,1.5 u,1.3,1.3,1.2,1.2
+Annual,House,"Tenant, rent at reduced price or free",Spain,1.7,1.7,1.6,1.7,2.0,1.8,1.8,2.4
+Annual,House,"Tenant, rent at reduced price or free",European Union - 15 countries (1995-2004),2.2,2.2,2.2,2.3,2.3,2.3,2.4,2.4
+Annual,House,"Tenant, rent at reduced price or free",Finland,:,:,1.8,2.1 u,2.1 u,2 u,2.5 u,2.3 u
+Annual,House,"Tenant, rent at reduced price or free",France,2.4,2.4,2.4,2.8,2.8,2.8,2.9,3.0
+Annual,House,"Tenant, rent at reduced price or free",Ireland,2.9 u,3 u,2.5 u,3 u,2.8 u,2.4 u,2.4 u,2.7 u
+Annual,House,"Tenant, rent at reduced price or free",Italy,1.6,1.6,1.8,1.7,1.7,1.6,1.6,1.5
+Annual,House,"Tenant, rent at reduced price or free",Luxembourg,:,2.9,2.8 u,2.8 u,3.1,3.2,3 u,2.8 u
+Annual,House,"Tenant, rent at reduced price or free",Netherlands,3.7 u,3.7 u,3.2 u,3.3 u,3.2 u,3.1 u,3.4 u,:
+Annual,House,"Tenant, rent at reduced price or free",Portugal,1.4,1.5,1.4,1.4,1.4,1.4,1.4,1.3
+Annual,House,"Tenant, rent at reduced price or free",United Kingdom,2.8,3.0,3.2,2.8,2.6,2.7,2.5,2.6 u
+Annual,House,Total,Austria,:,2.1,2.1,2.1,2.1,2.1,2.1,2.2
+Annual,House,Total,Belgium,2.2,2.1,2.1,2.1,2.0,2.0,2.0,2.0
+Annual,House,Total,Germany,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Annual,House,Total,Denmark,2.2,2.1,2.1,2.1,2.1,2.1,2.1,2.0
+Annual,House,Total,Greece,1.3,1.4,1.4,1.4,1.3,1.3,1.4,1.4
+Annual,House,Total,Spain,1.8,1.8,1.7,1.8,1.8,1.7,1.8,1.9
+Annual,House,Total,European Union - 15 countries (1995-2004),2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Annual,House,Total,Finland,:,:,1.7,1.8,1.8,1.8,1.7,1.7
+Annual,House,Total,France,2.0,2.0,2.0,2.1,2.1,2.0,2.0,2.1
+Annual,House,Total,Ireland,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1
+Annual,House,Total,Italy,1.6,1.7,1.7,1.7,1.6,1.7,1.6,1.7
+Annual,House,Total,Luxembourg,:,2.4,2.4,2.3,2.4,2.4,2.4,2.4
+Annual,House,Total,Netherlands,2.5,2.5,2.5,2.5,2.5,2.5,2.6,2.6
+Annual,House,Total,Portugal,1.6,1.6,1.5,1.5,1.5,1.5,1.5,1.5
+Annual,House,Total,Sweden,:,:,:,2.3,2.3,2.3,2.3,2.1
+Annual,House,Total,United Kingdom,2.3,2.3,2.3,2.3,2.3,2.4,2.4,2.4
+Annual,Non-residential buildings,Owner,Austria,:,2.3,2.3,2.0,2.1,2.1,2.2,2.0
+Annual,Non-residential buildings,Owner,Belgium,2.8 u,2.8 u,2.2 u,2.1 u,2.1 u,1.7 u,1.9 u,1.9 u
+Annual,Non-residential buildings,Owner,Germany,2.1,2.1,2.1,2.2,2.2,2.2,2.3,2.3
+Annual,Non-residential buildings,Owner,Denmark,2.3,2.3,2.1,2.3,2.1 u,2.1,1.9,2.1
+Annual,Non-residential buildings,Owner,Greece,1.4 u,1.4 u,1.5 u,1.4 u,1.2 u,1.3 u,1.4 u,1.5 u
+Annual,Non-residential buildings,Owner,Spain,:,1.6,:,:,:,:,:,:
+Annual,Non-residential buildings,Owner,European Union - 15 countries (1995-2004),2.0,2.0,1.9,1.8,1.8,1.9,1.8,1.9
+Annual,Non-residential buildings,Owner,France,1.8 u,1.9 u,1.8 u,1.8 u,1.8 u,1.8 u,1.8 u,1.8 u
+Annual,Non-residential buildings,Owner,Ireland,1.7 u,1.3 u,1.4 u,1.3 u,1.5 u,:,1.5 u,:
+Annual,Non-residential buildings,Owner,Italy,1.7,1.7,1.7,1.7,1.6,1.7,1.8,1.7
+Annual,Non-residential buildings,Owner,Luxembourg,:,1.4,:,:,:,:,:,:
+Annual,Non-residential buildings,Owner,Netherlands,2.4,2.5,2.3,2.4,2.3,2.4,2.6,2.7
+Annual,Non-residential buildings,Owner,Portugal,0.7 u,0.7,:,:,:,:,:,0.9 u
+Annual,Non-residential buildings,Owner,United Kingdom,:,2.2 u,2 u,1.8 u,1.9 u,2.2 u,:,:
+Annual,Non-residential buildings,Tenant,Austria,:,1.8 u,2.1 u,2.1 u,1.8 u,2.1 u,2.1 u,2.2 u
+Annual,Non-residential buildings,Tenant,Belgium,1.7,2.0,1.9 u,1.7 u,2 u,1.9 u,2.1 u,2.3 u
+Annual,Non-residential buildings,Tenant,Germany,1.5,1.6,1.7,1.6,1.6,1.6,1.7,1.8
+Annual,Non-residential buildings,Tenant,Denmark,1.4,1.4,1.4,1.3,1.3,1.5,1.5,1.4
+Annual,Non-residential buildings,Tenant,Greece,:,1.2,:,:,:,:,:,:
+Annual,Non-residential buildings,Tenant,Spain,:,8.0,:,:,:,:,:,:
+Annual,Non-residential buildings,Tenant,European Union - 15 countries (1995-2004),1.6,2.2,1.6,1.5,1.4,1.4,1.6,1.5
+Annual,Non-residential buildings,Tenant,Finland,:,:,1.3 u,1.3 u,1.3 u,1.3 u,1.3 u,1.3 u
+Annual,Non-residential buildings,Tenant,France,1.5 u,1.7 u,1.5 u,1.3 u,1.4 u,1.2 u,1.4 u,1.5 u
+Annual,Non-residential buildings,Tenant,Ireland,:,2.2,:,:,:,:,:,:
+Annual,Non-residential buildings,Tenant,Italy,1.3,1.3,1.5,1.5,1.3,1.3 u,1.2 u,1.3 u
+Annual,Non-residential buildings,Tenant,Luxembourg,:,1.1,:,:,:,:,:,:
+Annual,Non-residential buildings,Tenant,Netherlands,2.3,2.3,2.5,2.5,2.5,2.5,2.9,2.7
+Annual,Non-residential buildings,Tenant,Portugal,1 u,1.1 u,1.1 u,1 u,1.2 u,:,:,:
+Annual,Non-residential buildings,Tenant,Sweden,:,:,:,1.2 u,1.3 u,1.4,:,:
+Annual,Non-residential buildings,Tenant,United Kingdom,:,2.0,1.9 u,:,:,:,2 u,:
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",Austria,:,2.3,2.4 u,2 u,2.7 u,2.2 u,2.3 u,2.4 u
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",Belgium,:,1.9,:,:,:,:,:,:
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",Germany,1.7 u,1.9,2.4 u,2.3 u,2.4,2.3 u,1.8 u,2.7 u
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",Denmark,:,1.9,:,:,:,:,:,:
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",Greece,:,0.0,:,:,:,:,:,:
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",Spain,:,0.9,:,:,:,:,:,:
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",European Union - 15 countries (1995-2004),1.5,1.6,1.9,1.8,2.1,2.0,1.6,2.0
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",Finland,:,:,1.5 u,:,:,:,:,:
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",France,:,1.5 u,:,:,:,:,:,:
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",Ireland,:,3.9,:,:,:,:,:,:
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",Italy,1.5 u,1.8 u,1.7 u,1.9 u,1.8 u,1.9 u,1.8 u,1.8 u
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",Luxembourg,:,0.7,:,:,:,:,:,:
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",Netherlands,:,1.7,:,:,:,:,:,:
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",Portugal,:,0.8,:,:,:,0.9 u,:,:
+Annual,Non-residential buildings,"Tenant, rent at reduced price or free",United Kingdom,:,5.0,:,:,:,:,:,:
+Annual,Non-residential buildings,Total,Austria,:,2.2,2.2,2.1,2.1,2.1,2.2,2.1
+Annual,Non-residential buildings,Total,Belgium,2.1,2.2,2.0,1.9,2.1,1.8,2.0,2.1
+Annual,Non-residential buildings,Total,Germany,1.8,1.8,1.9,1.9,1.9,2.0,2.0,2.2
+Annual,Non-residential buildings,Total,Denmark,1.8,1.7,1.7,1.7,1.6,1.7,1.6,1.7
+Annual,Non-residential buildings,Total,Greece,1.3,1.4 u,1.5 u,1.4 u,1.2 u,1.2 u,1.3 u,1.5 u
+Annual,Non-residential buildings,Total,Spain,:,1.6,:,:,:,:,:,:
+Annual,Non-residential buildings,Total,European Union - 15 countries (1995-2004),1.7,1.8,1.8,1.7,1.7,1.7,1.8,1.9
+Annual,Non-residential buildings,Total,Finland,:,:,1.4 u,1.4 u,1.3,1.4 u,1.4 u,1.4 u
+Annual,Non-residential buildings,Total,France,1.7,1.7,1.6,1.5,1.6,1.6,1.6,1.6
+Annual,Non-residential buildings,Total,Ireland,1.6,1.8,1.5 u,1.6 u,1.6 u,2.8 u,1.5 u,2.1 u
+Annual,Non-residential buildings,Total,Italy,1.6,1.6,1.7,1.7,1.6,1.7,1.8,1.7
+Annual,Non-residential buildings,Total,Luxembourg,:,1.1,:,:,:,:,:,:
+Annual,Non-residential buildings,Total,Netherlands,2.3,2.3,2.4,2.5,2.5,2.5,2.8,2.7
+Annual,Non-residential buildings,Total,Portugal,0.9,0.9,1.0,1.0,1.1,1.0,1.0,1.1 u
+Annual,Non-residential buildings,Total,United Kingdom,:,2.0,2 u,:,:,:,:,:
+Annual,Total,Owner,Austria,:,2.0,2.0,2.0,2.1,2.1,2.1,2.1
+Annual,Total,Owner,Belgium,2.2,2.2,2.1,2.1,2.1,2.1,2.1,2.1
+Annual,Total,Owner,Germany,2.1,2.1,2.1,2.1,2.1,2.1,2.1,2.1
+Annual,Total,Owner,Denmark,2.2,2.1,2.1,2.1,2.1,2.1,2.1,2.1
+Annual,Total,Owner,Greece,1.3,1.4,1.4,1.4,1.3,1.3,1.4,1.4
+Annual,Total,Owner,Spain,1.7,1.7,1.6,1.7,1.7,1.7,1.8,1.8
+Annual,Total,Owner,European Union - 15 countries (1995-2004),2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Annual,Total,Owner,Finland,:,:,1.7,1.8,1.8,1.8,1.7,1.8
+Annual,Total,Owner,France,2.0,2.0,2.0,2.1,2.1,2.0,2.0,2.1
+Annual,Total,Owner,Ireland,2.1,2.1,2.1,2.2,2.1,2.2,2.2,2.2
+Annual,Total,Owner,Italy,1.6,1.6,1.7,1.7,1.6,1.6,1.6,1.6
+Annual,Total,Owner,Luxembourg,:,2.4,2.4,2.3,2.3,2.4,2.4,2.4
+Annual,Total,Owner,Netherlands,2.4,2.5,2.5,2.5,2.5,2.5,2.5,2.6
+Annual,Total,Owner,Portugal,1.6,1.6,1.6,1.5,1.6,1.6,1.5,1.6
+Annual,Total,Owner,Sweden,:,:,:,2.2,2.2,2.2,2.2,2.2
+Annual,Total,Owner,United Kingdom,2.3,2.3,2.3,2.3,2.4,2.4,2.4,2.4
+Annual,Total,Tenant,Austria,:,1.7,1.7,1.8,1.8,1.9,1.9,2.0
+Annual,Total,Tenant,Belgium,2.0,2.0,2.0,1.9,2.0,2.0,2.0,2.0
+Annual,Total,Tenant,Germany,1.7,1.6,1.7,1.7,1.7,1.7,1.7,1.8
+Annual,Total,Tenant,Denmark,1.9,1.8,1.9,1.8,1.9,1.9,1.8,1.8
+Annual,Total,Tenant,Greece,1.3,1.2,1.2,1.3,1.2,1.3,1.3,1.3
+Annual,Total,Tenant,Spain,1.7,1.7,1.7,1.7,1.8,2.0,2.0,2.1
+Annual,Total,Tenant,European Union - 15 countries (1995-2004),1.7,1.7,1.7,1.7,1.8,1.8,1.8,1.8
+Annual,Total,Tenant,Finland,:,:,1.2,1.4,1.4,1.3,1.3,1.4
+Annual,Total,Tenant,France,1.6,1.6,1.7,1.6,1.6,1.6,1.6,1.7
+Annual,Total,Tenant,Ireland,1.6,1.6,1.6,1.7,1.7,1.8,1.7,1.6
+Annual,Total,Tenant,Italy,1.4,1.4,1.4,1.5,1.4,1.4,1.4,1.4
+Annual,Total,Tenant,Luxembourg,:,1.7,1.9,1.8,1.7,1.7,1.7,1.6
+Annual,Total,Tenant,Netherlands,2.6,2.7,2.7,2.7,2.7,2.7,2.8,2.7
+Annual,Total,Tenant,Portugal,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4
+Annual,Total,Tenant,Sweden,:,:,:,1.7,1.7,1.7,1.8,1.8
+Annual,Total,Tenant,United Kingdom,1.9,2.0,2.0,2.0,2.0,2.0,2.1,2.1
+Annual,Total,"Tenant, rent at reduced price or free",Austria,:,2.3,2.3,2.2,2.1,2.4,2.4,2.4
+Annual,Total,"Tenant, rent at reduced price or free",Belgium,2.3,2.4,2.2,2.2,2.3,2.1,2.2,2.2
+Annual,Total,"Tenant, rent at reduced price or free",Germany,1.8,1.9,1.9,2.2,2.1,2.2,2.1,2.3
+Annual,Total,"Tenant, rent at reduced price or free",Denmark,:,2.3 u,:,:,:,:,:,:
+Annual,Total,"Tenant, rent at reduced price or free",Greece,1.3,1.3,1.4,1.4,1.4,1.4,1.3,1.4
+Annual,Total,"Tenant, rent at reduced price or free",Spain,1.8,1.7,1.7,1.7,2.1,1.8,2.0,2.3
+Annual,Total,"Tenant, rent at reduced price or free",European Union - 15 countries (1995-2004),2.0,2.1,2.1,2.2,2.2,2.2,2.2,2.3
+Annual,Total,"Tenant, rent at reduced price or free",Finland,:,:,1.8,2.0,1.9 u,1.8,2.4 u,2.2 u
+Annual,Total,"Tenant, rent at reduced price or free",France,2.1,2.1,2.0,2.4,2.4,2.4,2.4,2.5
+Annual,Total,"Tenant, rent at reduced price or free",Ireland,2.8,3.1,2.4,3.1,2.7,2.8 u,2.3 u,2.8 u
+Annual,Total,"Tenant, rent at reduced price or free",Italy,1.6,1.7,1.8,1.7,1.7,1.8,1.7,1.7
+Annual,Total,"Tenant, rent at reduced price or free",Luxembourg,:,2.7,2.7 u,2.4,2.7,2.7,2.6,2.4
+Annual,Total,"Tenant, rent at reduced price or free",Netherlands,3.2 u,3.1 u,3.0,3 u,3.2,3.4 u,3.1 u,3.2 u
+Annual,Total,"Tenant, rent at reduced price or free",Portugal,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.3
+Annual,Total,"Tenant, rent at reduced price or free",United Kingdom,2.5 u,2.6 u,2.9 u,2.6 u,2.6 u,2.6 u,2.3,2.4
+Annual,Total,Total,Austria,:,1.9,1.9,1.9,2.0,2.0,2.0,2.1
+Annual,Total,Total,Belgium,2.2,2.1,2.1,2.1,2.1,2.0,2.1,2.1
+Annual,Total,Total,Germany,1.8,1.8,1.9,1.9,1.9,1.9,1.9,1.9
+Annual,Total,Total,Denmark,2.1,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Annual,Total,Total,Greece,1.3,1.3,1.4,1.3,1.3,1.3,1.3,1.4
+Annual,Total,Total,Spain,1.7,1.7,1.6,1.7,1.7,1.7,1.8,1.9
+Annual,Total,Total,European Union - 15 countries (1995-2004),1.9,1.9,1.9,1.9,1.9,1.9,1.9,2.0
+Annual,Total,Total,Finland,:,:,1.5,1.7,1.7,1.6,1.6,1.6
+Annual,Total,Total,France,1.9,1.9,1.9,1.9,1.9,1.9,1.9,2.0
+Annual,Total,Total,Ireland,2.1,2.1,2.0,2.1,2.1,2.2,2.1,2.1
+Annual,Total,Total,Italy,1.6,1.6,1.6,1.6,1.6,1.6,1.6,1.6
+Annual,Total,Total,Luxembourg,:,2.2,2.3,2.2,2.2,2.2,2.2,2.2
+Annual,Total,Total,Netherlands,2.5,2.6,2.6,2.6,2.6,2.6,2.6,2.6
+Annual,Total,Total,Portugal,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+Annual,Total,Total,Sweden,:,:,:,2.0,2.0,2.0,2.1,2.0
+Annual,Total,Total,United Kingdom,2.2,2.2,2.2,2.2,2.3,2.3,2.3,2.3

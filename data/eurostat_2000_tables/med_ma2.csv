@@ -1,0 +1,17 @@
+Time frequency,Unit of measure,Type of vessel,Geopolitical entity (reporting)\Time,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0
+Annual,Number,Merchant ship,Algeria,47.0,35.0,32.0,34.0,35.0,37.0,36.0,34.0,34.0,26.0,26.0,28.0,28.0,28.0
+Annual,Number,Merchant ship,Egypt,1.0,1.0,1.0,1.0,102 b,99.0,93 b,86.0,87.0,87.0,87.0,:,:,:
+Annual,Number,Merchant ship,Israel,57.0,53.0,55.0,50.0,54.0,56.0,50.0,53.0,51.0,35.0,35.0,33.0,33.0,34.0
+Annual,Number,Merchant ship,Jordan,14.0,14.0,18.0,21.0,23.0,25.0,28.0,30.0,32.0,31.0,32.0,32.0,29.0,30.0
+Annual,Number,Merchant ship,Lebanon,39.0,34.0,23.0,27.0,24.0,24.0,:,:,:,:,:,:,:,:
+Annual,Number,Merchant ship,Morocco,:,:,:,:,:,:,:,:,7.0,7.0,7.0,7 p,:,:
+Annual,Number,Merchant ship under foreign flag belonging to a resident company,Algeria,1.0,1.0,2.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+Annual,Number,Merchant ship under foreign flag belonging to a resident company,Egypt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,:,:,:
+Annual,Number,Merchant ship under national flag,Algeria,46.0,34.0,30.0,31.0,32.0,34.0,33.0,31.0,31.0,23.0,23.0,25.0,25.0,25.0
+Annual,Number,Merchant ship under national flag,Egypt,1.0,1.0,1.0,1.0,102 b,99.0,93 b,86.0,87.0,87.0,87.0,:,:,:
+Annual,Number,Merchant ship under national flag,Jordan,14.0,14.0,18.0,21.0,23.0,25.0,28.0,30.0,32.0,31.0,32.0,32.0,29.0,30.0
+Annual,Number,Merchant ship under national flag,Lebanon,39.0,34.0,23.0,27.0,24.0,24.0,:,:,:,:,:,:,:,:
+Annual,Number,Cruise ship,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Number,Cruise ship,Egypt,1.0,1.0,1.0,1.0,:,:,0.0,0.0,0.0,0.0,:,:,:,:
+Annual,Number,Cruise ship,Lebanon,0.0,0.0,0.0,0.0,0.0,0.0,:,:,:,:,:,:,:,:
+Annual,Number,Cruise ship,Morocco,:,:,:,:,:,:,:,:,0.0,0.0,:,:,:,:

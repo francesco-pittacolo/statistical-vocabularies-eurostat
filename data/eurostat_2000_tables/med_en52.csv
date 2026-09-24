@@ -1,0 +1,53 @@
+Time frequency,Indicator used in Euro_Med,Geopolitical entity (reporting)\Time,2000.0,2002.0,2003.0,2004.0,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0
+Annual,Mammals (number),Algeria,107.0,:,107.0,:,:,:,:,:,:,:,:,:,:
+Annual,Mammals (number),Egypt,:,:,:,132.0,:,132.0,134.0,111.0,:,110.0,:,:,:
+Annual,Mammals (number),Israel,:,105.0,105.0,105.0,105.0,105.0,105.0,105.0,105.0,105.0,105.0,105.0,105.0
+Annual,Mammals (number),Jordan,72.0,:,77.0,77.0,77.0,:,77.0,77.0,77.0,77.0,77.0,77.0,:
+Annual,Mammals (number),Lebanon,65.0,:,:,:,:,:,:,:,:,59.0,:,:,:
+Annual,Mammals (number),Palestine*,95 d,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Mammals (number),Syria,:,:,125.0,:,:,:,:,:,:,:,:,:,:
+Annual,Mammals (number),Tunisia,78.0,:,:,:,:,:,:,78.0,:,:,:,:,:
+Annual,Birds (number),Algeria,336.0,:,378.0,:,:,:,:,:,:,:,:,:,:
+Annual,Birds (number),Egypt,:,:,:,514.0,:,514.0,514.0,780.0,:,475.0,:,:,:
+Annual,Birds (number),Israel,:,210.0,210.0,210.0,210.0,210.0,210.0,210.0,210.0,210.0,210.0,210.0,210.0
+Annual,Birds (number),Jordan,422.0,:,418.0,419.0,427.0,:,418.0,418.0,418.0,418.0,418.0,418.0,:
+Annual,Birds (number),Lebanon,338.0,:,:,:,:,:,:,:,:,395.0,:,:,:
+Annual,Birds (number),Palestine*,470 d,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Birds (number),Syria,:,:,360.0,:,:,:,:,:,:,:,:,:,:
+Annual,Birds (number),Tunisia,362.0,:,:,:,:,:,:,398.0,:,:,:,:,:
+Annual,Reptiles (number),Algeria,70.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Reptiles (number),Egypt,:,:,:,90.0,:,120.0,120.0,113.0,:,112.0,:,:,:
+Annual,Reptiles (number),Israel,:,105.0,105.0,105.0,105.0,105.0,105.0,105.0,105.0,105.0,105.0,105.0,105.0
+Annual,Reptiles (number),Jordan,88.0,:,89.0,98.0,97.0,:,89.0,89.0,89.0,89.0,89.0,89.0,:
+Annual,Reptiles (number),Lebanon,48.0,:,:,:,:,:,:,:,:,54.0,:,:,:
+Annual,Reptiles (number),Palestine*,93 d,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Reptiles (number),Syria,:,:,127.0,:,:,:,:,:,:,:,:,:,:
+Annual,Reptiles (number),Tunisia,63.0,:,:,:,:,:,:,66.0,:,:,:,:,:
+Annual,Amphibians (number),Algeria,12.0,:,12.0,:,:,:,:,:,:,:,:,:,:
+Annual,Amphibians (number),Egypt,:,:,:,8.0,:,8.0,8.0,11.0,:,9.0,:,:,:
+Annual,Amphibians (number),Israel,:,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0
+Annual,Amphibians (number),Jordan,4.0,:,5.0,4.0,5.0,:,5.0,5.0,5.0,5.0,5.0,5.0,:
+Annual,Amphibians (number),Lebanon,5.0,:,:,:,:,:,:,:,:,6.0,:,:,:
+Annual,Amphibians (number),Palestine*,7 d,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Amphibians (number),Syria,:,:,16.0,:,:,:,:,:,:,:,:,:,:
+Annual,Amphibians (number),Tunisia,8.0,:,:,:,:,:,:,7.0,:,:,:,:,:
+Annual,Fish (number),Algeria,:,:,300.0,:,:,:,:,:,:,:,:,:,:
+Annual,Fish (number),Egypt,:,:,:,766.0,:,766.0,766.0,1010.0,:,1200.0,:,:,:
+Annual,Fish (number),Israel,:,39 d,39 d,39 d,39 d,39 d,39 d,39 d,39 d,39 d,39 d,39 d,39 d
+Annual,Fish (number),Jordan,1026.0,:,1026.0,:,:,:,1026.0,1026.0,1026.0,1026.0,1026.0,1026.0,:
+Annual,Fish (number),Lebanon,382.0,:,:,:,:,:,:,:,:,977.0,:,:,:
+Annual,Fish (number),Palestine*,284 d,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Fish (number),Syria,:,:,452.0,:,:,:,:,:,:,:,:,:,:
+Annual,Fish (number),Tunisia,336.0,:,:,:,:,:,:,347.0,:,:,:,:,:
+Annual,Invertebrates (number),Egypt,:,:,:,8175.0,:,14706.0,14706.0,14706.0,:,12000.0,:,:,:
+Annual,Invertebrates (number),Lebanon,1540.0,:,:,:,:,:,:,:,:,3835.0,:,:,:
+Annual,Invertebrates (number),Palestine*,127 d,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Invertebrates (number),Syria,:,:,1500.0,:,:,:,:,:,:,:,:,:,:
+Annual,Invertebrates (number),Tunisia,1434.0,:,:,:,:,:,:,2435.0,:,:,:,:,:
+Annual,Vascular plants (number),Algeria,3139.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Vascular plants (number),Egypt,:,:,:,2672.0,:,5121.0,5121.0,4996.0,:,2145.0,:,:,:
+Annual,Vascular plants (number),Israel,:,2288.0,2288.0,2288.0,2288.0,2288.0,2288.0,2288.0,2288.0,2288.0,2288.0,2288.0,2288.0
+Annual,Vascular plants (number),Jordan,2307.0,:,2400.0,2450.0,2450.0,:,2400.0,2400.0,2400.0,2400.0,2400.0,2400.0,:
+Annual,Vascular plants (number),Lebanon,35.0,:,:,:,:,:,:,:,:,3790.0,:,:,:
+Annual,Vascular plants (number),Palestine*,2483 d,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Vascular plants (number),Tunisia,2924.0,:,:,:,:,:,:,2215.0,:,:,:,:,:

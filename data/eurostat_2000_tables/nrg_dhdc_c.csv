@@ -1,0 +1,78 @@
+Time frequency,Unit of measure,Level of efficiency,Type of network,Geopolitical entity (reporting)\Time,2019.0,2020.0,2021.0,2022.0
+Annual,Number,High,District cooling,Belgium,:,0.0,:,:
+Annual,Number,High,District cooling,Euro area – 20 countries (from 2023),:,2420.0,:,761.0
+Annual,Number,High,District cooling,Estonia,11.0,20.0,24.0,31.0
+Annual,Number,High,District cooling,European Union - 27 countries (from 2020),:,2420.0,:,761.0
+Annual,Number,High,District cooling,Finland,625.0,646.0,695.0,726.0
+Annual,Number,High,District cooling,Luxembourg,:,4.0,4.0,4.0
+Annual,Number,High,District cooling,Malta,:,:,:,0.0
+Annual,Number,High,District cooling,Portugal,1750.0,1750.0,1750.0,:
+Annual,Number,High,District cooling,Slovenia,2.0,0.0,0.0,0.0
+Annual,Number,High,District heating,Austria,1299706.815,1330126.335,1330126.335,1370341.0
+Annual,Number,High,District heating,Belgium,:,1017.0,:,:
+Annual,Number,High,District heating,Bulgaria,464844.0,468257.0,471628.0,475198.0
+Annual,Number,High,District heating,Euro area – 20 countries (from 2023),:,1723151.335,:,1760685.0
+Annual,Number,High,District heating,Estonia,13702.0,13441.0,14478.0,15166.0
+Annual,Number,High,District heating,Greece,19146.0,31375.0,21889.0,17227.0
+Annual,Number,High,District heating,European Union - 27 countries (from 2020),:,3061122.335,:,3003081.0
+Annual,Number,High,District heating,Finland,142803.0,146796.0,149419.0,146421.0
+Annual,Number,High,District heating,France,36773.0,38065.0,40034.0,42642.0
+Annual,Number,High,District heating,Italy,77710.0,78453.0,79633.0,83906.0
+Annual,Number,High,District heating,Luxembourg,:,1649.0,1770.0,1770.0
+Annual,Number,High,District heating,Malta,:,:,:,0.0
+Annual,Number,High,District heating,Romania,787777.0,869714.0,829778.0,767198.0
+Annual,Number,High,District heating,Slovenia,68861.0,82229.0,80028.0,83212.0
+Annual,Number,High,District heating - hot water,Austria,1299706.815,1330126.335,1330126.335,1370341.0
+Annual,Number,High,District heating - hot water,Bulgaria,464817.0,468226.0,471602.0,475168.0
+Annual,Number,High,District heating - hot water,Euro area – 20 countries (from 2023),:,1553116.266,:,1566113.546
+Annual,Number,High,District heating - hot water,Estonia,13702.0,13441.0,:,:
+Annual,Number,High,District heating - hot water,Greece,19146.0,31375.0,21889.0,17227.0
+Annual,Number,High,District heating - hot water,European Union - 27 countries (from 2020),:,2891052.266,:,2808477.546
+Annual,Number,High,District heating - hot water,Finland,142803.0,146796.0,149419.0,146421.0
+Annual,Number,High,District heating - hot water,France,26572.627,27877.931,29565.296,32124.546
+Annual,Number,High,District heating - hot water,Malta,:,:,:,0.0
+Annual,Number,High,District heating - hot water,Portugal,3500.0,3500.0,3500.0,:
+Annual,Number,High,District heating - hot water,Romania,787772.0,869710.0,829774.0,767196.0
+Annual,Number,High,District heating - steam,Austria,0.0,:,:,:
+Annual,Number,High,District heating - steam,Bulgaria,27.0,31.0,26.0,30.0
+Annual,Number,High,District heating - steam,Euro area – 20 countries (from 2023),:,10187.069,:,10517.454
+Annual,Number,High,District heating - steam,European Union - 27 countries (from 2020),:,10222.069,:,10549.454
+Annual,Number,High,District heating - steam,France,10200.373,10187.069,10468.704,10517.454
+Annual,Number,High,District heating - steam,Malta,:,:,:,0.0
+Annual,Number,High,District heating - steam,Romania,5.0,4.0,4.0,2.0
+Annual,Number,Low,District cooling,Belgium,:,0.0,:,:
+Annual,Number,Low,District cooling,Euro area – 20 countries (from 2023),:,1439.0,:,3364.0
+Annual,Number,Low,District cooling,Estonia,3.0,3.0,4.0,5.0
+Annual,Number,Low,District cooling,European Union - 27 countries (from 2020),:,1439.0,:,3364.0
+Annual,Number,Low,District cooling,Finland,23.0,23.0,26.0,34.0
+Annual,Number,Low,District cooling,France,1339.0,1401.0,1445.0,1563.0
+Annual,Number,Low,District cooling,Luxembourg,:,0.0,0.0,0.0
+Annual,Number,Low,District cooling,Malta,:,:,:,0.0
+Annual,Number,Low,District cooling,Slovenia,10.0,12.0,12.0,12.0
+Annual,Number,Low,District heating,Belgium,:,2862.0,:,:
+Annual,Number,Low,District heating,Bulgaria,174143.0,174908.0,176187.0,177562.0
+Annual,Number,Low,District heating,Euro area – 20 countries (from 2023),:,50362.0,:,49258.0
+Annual,Number,Low,District heating,Greece,:,:,4078.0,5421.0
+Annual,Number,Low,District heating,European Union - 27 countries (from 2020),:,494819.0,:,516502.0
+Annual,Number,Low,District heating,Finland,5228.0,3918.0,3085.0,3159.0
+Annual,Number,Low,District heating,France,3276.0,4232.0,4083.0,3829.0
+Annual,Number,Low,District heating,Italy,14634.445,14817.0,15030.0,11267.0
+Annual,Number,Low,District heating,Malta,:,:,:,0.0
+Annual,Number,Low,District heating,Romania,302240.0,269549.0,252434.0,289682.0
+Annual,Number,Low,District heating,Slovenia,37717.0,24533.0,29752.0,25582.0
+Annual,Number,Low,District heating - hot water,Belgium,:,2862.0,:,:
+Annual,Number,Low,District heating - hot water,Bulgaria,174143.0,174908.0,176187.0,177562.0
+Annual,Number,Low,District heating - hot water,Euro area – 20 countries (from 2023),:,10192.845,:,14100.965
+Annual,Number,Low,District heating - hot water,Greece,:,:,:,4373.0
+Annual,Number,Low,District heating - hot water,European Union - 27 countries (from 2020),:,454648.845,:,481343.965
+Annual,Number,Low,District heating - hot water,Finland,5228.0,3918.0,3085.0,3159.0
+Annual,Number,Low,District heating - hot water,France,2626.092,3412.845,3283.121,3068.965
+Annual,Number,Low,District heating - hot water,Malta,:,:,:,0.0
+Annual,Number,Low,District heating - hot water,Romania,302239.0,269548.0,252432.0,289681.0
+Annual,Number,Low,District heating - steam,Belgium,:,0.0,:,:
+Annual,Number,Low,District heating - steam,Bulgaria,0.0,0.0,:,:
+Annual,Number,Low,District heating - steam,Euro area – 20 countries (from 2023),:,819.155,:,760.035
+Annual,Number,Low,District heating - steam,European Union - 27 countries (from 2020),:,820.155,:,761.035
+Annual,Number,Low,District heating - steam,France,649.908,819.155,799.879,760.035
+Annual,Number,Low,District heating - steam,Malta,:,:,:,0.0
+Annual,Number,Low,District heating - steam,Romania,1.0,1.0,2.0,1.0

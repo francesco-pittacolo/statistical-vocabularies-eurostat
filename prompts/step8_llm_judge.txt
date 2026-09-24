@@ -1,0 +1,16 @@
+You are independently reviewing an automatic classification of the semantic relationship between two statistical measures.
+
+Measure A: "{measure1}"
+Measure B: "{measure2}"
+Assigned relation: "{relation}"
+
+Allowed gold labels:
+- same_concept
+- synonym
+- subtype
+- complementary
+- different_aspects
+- related
+- unrelated
+
+Return JSON only: {"agree": true/false, "suggested_relation": "..."}

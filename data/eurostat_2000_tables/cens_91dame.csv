@@ -1,0 +1,412 @@
+Time frequency,Amenities,Tenure status,Unit of measure,Geopolitical entity (reporting)\Time,1991.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Austria,1228173.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Belgium,1112219.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Germany,14786237.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Denmark,883298.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",39256815.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Greece,718873.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Spain,2364526.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,European Union - 15 countries (1995-2004),48229933.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Finland,489663.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,France,9062364.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Départements d'outre-mer (NUTS 2010),137535.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Ireland,186948.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Italy,5975061.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Luxembourg,40120.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Netherlands,3158000.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Norway,345982.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,Portugal,853504.0
+Annual,Fixed bath or shower in the housing unit,Other,Number,United Kingdom,7370947.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Austria,1392348.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Belgium,2174375.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Germany,9670637.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Denmark,1151662.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",52567193.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Greece,1989930.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Spain,8842081.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,European Union - 15 countries (1995-2004),70448662.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Finland,1326014.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,France,11067228.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Départements d'outre-mer (NUTS 2010),173739.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Ireland,761915.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Italy,12942742.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Luxembourg,88613.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Netherlands,2644000.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Norway,1332489.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,Portugal,1657240.0
+Annual,Fixed bath or shower in the housing unit,Owner,Number,United Kingdom,14739877.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Austria,2620571.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Belgium,3286594.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Germany,24456874.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Denmark,2034960.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",91824058.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Greece,2708803.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Spain,11206607.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,European Union - 15 countries (1995-2004),118678645.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Finland,1815677.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,France,20129592.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Départements d'outre-mer (NUTS 2010),311274.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Ireland,948863.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Italy,18917803.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Luxembourg,128733.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Netherlands,5802000.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Norway,1678471.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,Portugal,2510744.0
+Annual,Fixed bath or shower in the housing unit,Total,Number,United Kingdom,22110824.0
+Annual,"Bath, shower in building - unknown",Other,Number,Belgium,14551.0
+Annual,"Bath, shower in building - unknown",Other,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",16280.0
+Annual,"Bath, shower in building - unknown",Other,Number,European Union - 15 countries (1995-2004),16280.0
+Annual,"Bath, shower in building - unknown",Other,Number,Ireland,1729.0
+Annual,"Bath, shower in building - unknown",Owner,Number,Belgium,14793.0
+Annual,"Bath, shower in building - unknown",Owner,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",16178.0
+Annual,"Bath, shower in building - unknown",Owner,Number,European Union - 15 countries (1995-2004),16178.0
+Annual,"Bath, shower in building - unknown",Owner,Number,Ireland,1385.0
+Annual,"Bath, shower in building - unknown",Total,Number,Belgium,29344.0
+Annual,"Bath, shower in building - unknown",Total,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",32458.0
+Annual,"Bath, shower in building - unknown",Total,Number,European Union - 15 countries (1995-2004),32458.0
+Annual,"Bath, shower in building - unknown",Total,Number,Ireland,3114.0
+Annual,Central heating,Other,Number,Austria,1143252.0
+Annual,Central heating,Other,Number,Belgium,761798.0
+Annual,Central heating,Other,Number,Switzerland,1923061.0
+Annual,Central heating,Other,Number,Germany,11369049.0
+Annual,Central heating,Other,Number,Denmark,1040958.0
+Annual,Central heating,Other,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",25295200.0
+Annual,Central heating,Other,Number,Greece,481567.0
+Annual,Central heating,Other,Number,Spain,476583.0
+Annual,Central heating,Other,Number,European Union - 15 countries (1995-2004),34221907.0
+Annual,Central heating,Other,Number,Finland,523046.0
+Annual,Central heating,Other,Number,France,7754088.0
+Annual,Central heating,Other,Number,Luxembourg,37384.0
+Annual,Central heating,Other,Number,Netherlands,3230000.0
+Annual,Central heating,Other,Number,United Kingdom,7404182.0
+Annual,Central heating,Owner,Number,Austria,1233587.0
+Annual,Central heating,Owner,Number,Belgium,1568313.0
+Annual,Central heating,Owner,Number,Switzerland,877892.0
+Annual,Central heating,Owner,Number,Germany,7797670.0
+Annual,Central heating,Owner,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",26467102.0
+Annual,Central heating,Owner,Number,Greece,922117.0
+Annual,Central heating,Owner,Number,Spain,2555127.0
+Annual,Central heating,Owner,Number,European Union - 15 countries (1995-2004),42167623.0
+Annual,Central heating,Owner,Number,Finland,1305279.0
+Annual,Central heating,Owner,Number,France,9251920.0
+Annual,Central heating,Owner,Number,Luxembourg,81206.0
+Annual,Central heating,Owner,Number,Netherlands,2674000.0
+Annual,Central heating,Owner,Number,United Kingdom,14778404.0
+Annual,Central heating,Total,Number,Austria,2197306.0
+Annual,Central heating,Total,Number,Belgium,2330111.0
+Annual,Central heating,Total,Number,Switzerland,2799234.0
+Annual,Central heating,Total,Number,Germany,19166719.0
+Annual,Central heating,Total,Number,Denmark,2251112.0
+Annual,Central heating,Total,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",51582769.0
+Annual,Central heating,Total,Number,Greece,1403684.0
+Annual,Central heating,Total,Number,Spain,3031710.0
+Annual,Central heating,Total,Number,European Union - 15 countries (1995-2004),77420151.0
+Annual,Central heating,Total,Number,Finland,1828325.0
+Annual,Central heating,Total,Number,France,17006008.0
+Annual,Central heating,Total,Number,Luxembourg,118590.0
+Annual,Central heating,Total,Number,Netherlands,5904000.0
+Annual,Central heating,Total,Number,United Kingdom,22182586.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,Austria,5093.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,Germany,699342.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,Denmark,157660.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",2195578.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,European Union - 15 countries (1995-2004),2386473.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,Finland,64052.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,France,758560.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,Départements d'outre-mer (NUTS 2010),34801.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,Ireland,22661.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,Italy,341731.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,Luxembourg,9092.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,Netherlands,72000.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,Norway,36390.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,Portugal,223047.0
+Annual,No fixed bath or shower in the housing unit,Other,Number,United Kingdom,33235.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,Austria,4965.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,Germany,278215.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,Denmark,58492.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",1963300.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,European Union - 15 countries (1995-2004),2060319.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,Finland,150923.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,France,654000.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,Départements d'outre-mer (NUTS 2010),64077.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,Ireland,45085.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,Italy,476378.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,Luxembourg,3605.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,Netherlands,30000.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,Norway,36502.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,Portugal,320129.0
+Annual,No fixed bath or shower in the housing unit,Owner,Number,United Kingdom,38527.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,Austria,10058.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,Germany,977557.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,Denmark,216152.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",4157878.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,European Union - 15 countries (1995-2004),4445792.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,Finland,214975.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,France,1412560.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,Départements d'outre-mer (NUTS 2010),98878.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,Ireland,67746.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,Italy,818109.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,Luxembourg,12697.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,Netherlands,101000.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,Norway,72892.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,Portugal,543176.0
+Annual,No fixed bath or shower in the housing unit,Total,Number,United Kingdom,71762.0
+Annual,No heating,Other,Number,Austria,488611.0
+Annual,No heating,Other,Number,Belgium,568695.0
+Annual,No heating,Other,Number,Switzerland,1569.0
+Annual,No heating,Other,Number,Germany,4116530.0
+Annual,No heating,Other,Number,Denmark,66558.0
+Annual,No heating,Other,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",14395239.0
+Annual,No heating,Other,Number,Greece,772434.0
+Annual,No heating,Other,Number,Spain,2065302.0
+Annual,No heating,Other,Number,European Union - 15 countries (1995-2004),17260729.0
+Annual,No heating,Other,Number,Finland,30669.0
+Annual,No heating,Other,Number,France,2066836.0
+Annual,No heating,Other,Number,Italy,4178768.0
+Annual,No heating,Other,Number,Liechtenstein,375.0
+Annual,No heating,Other,Number,Luxembourg,11828.0
+Annual,No heating,Other,Number,Netherlands,868000.0
+Annual,No heating,Other,Number,Norway,329147.0
+Annual,No heating,Other,Number,United Kingdom,2026498.0
+Annual,No heating,Owner,Number,Austria,281687.0
+Annual,No heating,Owner,Number,Belgium,849358.0
+Annual,No heating,Owner,Number,Switzerland,150.0
+Annual,No heating,Owner,Number,Germany,2151182.0
+Annual,No heating,Owner,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",23342536.0
+Annual,No heating,Owner,Number,Greece,420217.0
+Annual,No heating,Owner,Number,Spain,6639364.0
+Annual,No heating,Owner,Number,European Union - 15 countries (1995-2004),25839788.0
+Annual,No heating,Owner,Number,Finland,171658.0
+Annual,No heating,Owner,Number,France,2469308.0
+Annual,No heating,Owner,Number,Italy,10338967.0
+Annual,No heating,Owner,Number,Liechtenstein,546.0
+Annual,No heating,Owner,Number,Luxembourg,11012.0
+Annual,No heating,Owner,Number,Netherlands,430000.0
+Annual,No heating,Owner,Number,Norway,1198167.0
+Annual,No heating,Owner,Number,United Kingdom,2077035.0
+Annual,No heating,Total,Number,Austria,770298.0
+Annual,No heating,Total,Number,Belgium,1418053.0
+Annual,No heating,Total,Number,Switzerland,1719.0
+Annual,No heating,Total,Number,Germany,6267712.0
+Annual,No heating,Total,Number,Denmark,100468.0
+Annual,No heating,Total,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",37737775.0
+Annual,No heating,Total,Number,Greece,1192651.0
+Annual,No heating,Total,Number,Spain,8704666.0
+Annual,No heating,Total,Number,European Union - 15 countries (1995-2004),43134427.0
+Annual,No heating,Total,Number,Finland,202327.0
+Annual,No heating,Total,Number,France,4536144.0
+Annual,No heating,Total,Number,Italy,14517735.0
+Annual,No heating,Total,Number,Liechtenstein,921.0
+Annual,No heating,Total,Number,Luxembourg,22840.0
+Annual,No heating,Total,Number,Netherlands,1298000.0
+Annual,No heating,Total,Number,Norway,1527314.0
+Annual,No heating,Total,Number,United Kingdom,4103533.0
+Annual,No flush toilet in the housing unit,Other,Number,Austria,3623.0
+Annual,No flush toilet in the housing unit,Other,Number,Belgium,50257.0
+Annual,No flush toilet in the housing unit,Other,Number,Germany,218910.0
+Annual,No flush toilet in the housing unit,Other,Number,Denmark,2795.0
+Annual,No flush toilet in the housing unit,Other,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",1368839.0
+Annual,No flush toilet in the housing unit,Other,Number,Greece,18415.0
+Annual,No flush toilet in the housing unit,Other,Number,Spain,35551.0
+Annual,No flush toilet in the housing unit,Other,Number,European Union - 15 countries (1995-2004),1396516.0
+Annual,No flush toilet in the housing unit,Other,Number,Finland,23412.0
+Annual,No flush toilet in the housing unit,Other,Number,France,755952.0
+Annual,No flush toilet in the housing unit,Other,Number,Ireland,3572.0
+Annual,No flush toilet in the housing unit,Other,Number,Italy,61812.0
+Annual,No flush toilet in the housing unit,Other,Number,Netherlands,23000.0
+Annual,No flush toilet in the housing unit,Other,Number,Portugal,192750.0
+Annual,No flush toilet in the housing unit,Other,Number,United Kingdom,6467.0
+Annual,No flush toilet in the housing unit,Owner,Number,Austria,7326.0
+Annual,No flush toilet in the housing unit,Owner,Number,Belgium,95728.0
+Annual,No flush toilet in the housing unit,Owner,Number,Germany,155132.0
+Annual,No flush toilet in the housing unit,Owner,Number,Denmark,8977.0
+Annual,No flush toilet in the housing unit,Owner,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",1595675.0
+Annual,No flush toilet in the housing unit,Owner,Number,Greece,182116.0
+Annual,No flush toilet in the housing unit,Owner,Number,Spain,146298.0
+Annual,No flush toilet in the housing unit,Owner,Number,European Union - 15 countries (1995-2004),1797273.0
+Annual,No flush toilet in the housing unit,Owner,Number,Finland,94210.0
+Annual,No flush toilet in the housing unit,Owner,Number,France,633676.0
+Annual,No flush toilet in the housing unit,Owner,Number,Ireland,23981.0
+Annual,No flush toilet in the housing unit,Owner,Number,Italy,114538.0
+Annual,No flush toilet in the housing unit,Owner,Number,Netherlands,25000.0
+Annual,No flush toilet in the housing unit,Owner,Number,Portugal,299786.0
+Annual,No flush toilet in the housing unit,Owner,Number,United Kingdom,10505.0
+Annual,No flush toilet in the housing unit,Total,Number,Austria,10949.0
+Annual,No flush toilet in the housing unit,Total,Number,Belgium,145985.0
+Annual,No flush toilet in the housing unit,Total,Number,Germany,374042.0
+Annual,No flush toilet in the housing unit,Total,Number,Denmark,11772.0
+Annual,No flush toilet in the housing unit,Total,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",2964514.0
+Annual,No flush toilet in the housing unit,Total,Number,Greece,200531.0
+Annual,No flush toilet in the housing unit,Total,Number,Spain,181849.0
+Annual,No flush toilet in the housing unit,Total,Number,European Union - 15 countries (1995-2004),3193789.0
+Annual,No flush toilet in the housing unit,Total,Number,Finland,117622.0
+Annual,No flush toilet in the housing unit,Total,Number,France,1389628.0
+Annual,No flush toilet in the housing unit,Total,Number,Ireland,27553.0
+Annual,No flush toilet in the housing unit,Total,Number,Italy,176350.0
+Annual,No flush toilet in the housing unit,Total,Number,Netherlands,48000.0
+Annual,No flush toilet in the housing unit,Total,Number,Portugal,492536.0
+Annual,No flush toilet in the housing unit,Total,Number,United Kingdom,16972.0
+Annual,No piped water in the housing unit,Other,Number,Austria,582.0
+Annual,No piped water in the housing unit,Other,Number,Belgium,5773.0
+Annual,No piped water in the housing unit,Other,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",435648.0
+Annual,No piped water in the housing unit,Other,Number,Greece,4011.0
+Annual,No piped water in the housing unit,Other,Number,Spain,15318.0
+Annual,No piped water in the housing unit,Other,Number,European Union - 15 countries (1995-2004),439659.0
+Annual,No piped water in the housing unit,Other,Number,Finland,13899.0
+Annual,No piped water in the housing unit,Other,Number,Ireland,5235.0
+Annual,No piped water in the housing unit,Other,Number,Italy,279353.0
+Annual,No piped water in the housing unit,Other,Number,Portugal,115488.0
+Annual,No piped water in the housing unit,Owner,Number,Austria,497.0
+Annual,No piped water in the housing unit,Owner,Number,Belgium,9690.0
+Annual,No piped water in the housing unit,Owner,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",1125688.0
+Annual,No piped water in the housing unit,Owner,Number,Greece,35570.0
+Annual,No piped water in the housing unit,Owner,Number,Spain,40010.0
+Annual,No piped water in the housing unit,Owner,Number,European Union - 15 countries (1995-2004),1161258.0
+Annual,No piped water in the housing unit,Owner,Number,Finland,61322.0
+Annual,No piped water in the housing unit,Owner,Number,Ireland,22334.0
+Annual,No piped water in the housing unit,Owner,Number,Italy,770417.0
+Annual,No piped water in the housing unit,Owner,Number,Portugal,221418.0
+Annual,No piped water in the housing unit,Total,Number,Austria,1079.0
+Annual,No piped water in the housing unit,Total,Number,Belgium,15463.0
+Annual,No piped water in the housing unit,Total,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",1561336.0
+Annual,No piped water in the housing unit,Total,Number,Greece,39581.0
+Annual,No piped water in the housing unit,Total,Number,Spain,55328.0
+Annual,No piped water in the housing unit,Total,Number,European Union - 15 countries (1995-2004),1600917.0
+Annual,No piped water in the housing unit,Total,Number,Finland,75221.0
+Annual,No piped water in the housing unit,Total,Number,Ireland,27569.0
+Annual,No piped water in the housing unit,Total,Number,Italy,1049770.0
+Annual,No piped water in the housing unit,Total,Number,Portugal,336906.0
+Annual,Flush toilet in the housing unit,Other,Number,Austria,1233266.0
+Annual,Flush toilet in the housing unit,Other,Number,Belgium,1209464.0
+Annual,Flush toilet in the housing unit,Other,Number,Germany,15266669.0
+Annual,Flush toilet in the housing unit,Other,Number,Denmark,997477.0
+Annual,Flush toilet in the housing unit,Other,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",40114648.0
+Annual,Flush toilet in the housing unit,Other,Number,Greece,730270.0
+Annual,Flush toilet in the housing unit,Other,Number,Spain,2454598.0
+Annual,Flush toilet in the housing unit,Other,Number,European Union - 15 countries (1995-2004),49202921.0
+Annual,Flush toilet in the housing unit,Other,Number,Finland,530303.0
+Annual,Flush toilet in the housing unit,Other,Number,France,9064972.0
+Annual,Flush toilet in the housing unit,Other,Number,Départements d'outre-mer (NUTS 2010),135460.0
+Annual,Flush toilet in the housing unit,Other,Number,Ireland,187232.0
+Annual,Flush toilet in the housing unit,Other,Number,Italy,6058462.0
+Annual,Flush toilet in the housing unit,Other,Number,Luxembourg,42508.0
+Annual,Flush toilet in the housing unit,Other,Number,Netherlands,3207000.0
+Annual,Flush toilet in the housing unit,Other,Number,Norway,349953.0
+Annual,Flush toilet in the housing unit,Other,Number,Portugal,860174.0
+Annual,Flush toilet in the housing unit,Other,Number,United Kingdom,7360526.0
+Annual,Flush toilet in the housing unit,Owner,Number,Austria,1397363.0
+Annual,Flush toilet in the housing unit,Owner,Number,Belgium,2234893.0
+Annual,Flush toilet in the housing unit,Owner,Number,Germany,9793720.0
+Annual,Flush toilet in the housing unit,Owner,Number,Denmark,1197973.0
+Annual,Flush toilet in the housing unit,Owner,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",52966550.0
+Annual,Flush toilet in the housing unit,Owner,Number,Greece,2042815.0
+Annual,Flush toilet in the housing unit,Owner,Number,Spain,8948265.0
+Annual,Flush toilet in the housing unit,Owner,Number,European Union - 15 countries (1995-2004),70933108.0
+Annual,Flush toilet in the housing unit,Owner,Number,Finland,1382727.0
+Annual,Flush toilet in the housing unit,Owner,Number,France,11087552.0
+Annual,Flush toilet in the housing unit,Owner,Number,Départements d'outre-mer (NUTS 2010),174531.0
+Annual,Flush toilet in the housing unit,Owner,Number,Ireland,755915.0
+Annual,Flush toilet in the housing unit,Owner,Number,Italy,12992491.0
+Annual,Flush toilet in the housing unit,Owner,Number,Luxembourg,90548.0
+Annual,Flush toilet in the housing unit,Owner,Number,Netherlands,2649000.0
+Annual,Flush toilet in the housing unit,Owner,Number,Norway,1332475.0
+Annual,Flush toilet in the housing unit,Owner,Number,Portugal,1634076.0
+Annual,Flush toilet in the housing unit,Owner,Number,United Kingdom,14725770.0
+Annual,Flush toilet in the housing unit,Total,Number,Austria,2630629.0
+Annual,Flush toilet in the housing unit,Total,Number,Belgium,3444357.0
+Annual,Flush toilet in the housing unit,Total,Number,Germany,25060389.0
+Annual,Flush toilet in the housing unit,Total,Number,Denmark,2195450.0
+Annual,Flush toilet in the housing unit,Total,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",93080198.0
+Annual,Flush toilet in the housing unit,Total,Number,Greece,2773085.0
+Annual,Flush toilet in the housing unit,Total,Number,Spain,11402863.0
+Annual,Flush toilet in the housing unit,Total,Number,European Union - 15 countries (1995-2004),120135029.0
+Annual,Flush toilet in the housing unit,Total,Number,Finland,1913030.0
+Annual,Flush toilet in the housing unit,Total,Number,France,20152524.0
+Annual,Flush toilet in the housing unit,Total,Number,Départements d'outre-mer (NUTS 2010),309991.0
+Annual,Flush toilet in the housing unit,Total,Number,Ireland,943147.0
+Annual,Flush toilet in the housing unit,Total,Number,Italy,19050953.0
+Annual,Flush toilet in the housing unit,Total,Number,Luxembourg,133056.0
+Annual,Flush toilet in the housing unit,Total,Number,Netherlands,5855000.0
+Annual,Flush toilet in the housing unit,Total,Number,Norway,1682428.0
+Annual,Flush toilet in the housing unit,Total,Number,Portugal,2494250.0
+Annual,Flush toilet in the housing unit,Total,Number,United Kingdom,22086296.0
+Annual,Flush toilet - unknown,Other,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",3575.0
+Annual,Flush toilet - unknown,Other,Number,European Union - 15 countries (1995-2004),3575.0
+Annual,Flush toilet - unknown,Other,Number,Ireland,3575.0
+Annual,Flush toilet - unknown,Owner,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",5192.0
+Annual,Flush toilet - unknown,Owner,Number,European Union - 15 countries (1995-2004),5192.0
+Annual,Flush toilet - unknown,Owner,Number,Ireland,5192.0
+Annual,Flush toilet - unknown,Total,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",8767.0
+Annual,Flush toilet - unknown,Total,Number,European Union - 15 countries (1995-2004),8767.0
+Annual,Flush toilet - unknown,Total,Number,Ireland,8767.0
+Annual,Unknown,Other,Number,Belgium,15035.0
+Annual,Unknown,Other,Number,Denmark,662524.0
+Annual,Unknown,Other,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",141219.0
+Annual,Unknown,Other,Number,European Union - 15 countries (1995-2004),896885.0
+Annual,Unknown,Other,Number,Ireland,5129.0
+Annual,Unknown,Other,Number,Luxembourg,3055.0
+Annual,Unknown,Other,Number,Netherlands,118000.0
+Annual,Unknown,Other,Number,Sweden,93142.0
+Annual,Unknown,Owner,Number,Belgium,10635.0
+Annual,Unknown,Owner,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",37969.0
+Annual,Unknown,Owner,Number,European Union - 15 countries (1995-2004),69314.0
+Annual,Unknown,Owner,Number,Ireland,5986.0
+Annual,Unknown,Owner,Number,Luxembourg,348.0
+Annual,Unknown,Owner,Number,Netherlands,21000.0
+Annual,Unknown,Owner,Number,Sweden,31345.0
+Annual,Unknown,Total,Number,Belgium,25670.0
+Annual,Unknown,Total,Number,Denmark,1049864.0
+Annual,Unknown,Total,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",179188.0
+Annual,Unknown,Total,Number,European Union - 15 countries (1995-2004),1353539.0
+Annual,Unknown,Total,Number,Ireland,11115.0
+Annual,Unknown,Total,Number,Luxembourg,3403.0
+Annual,Unknown,Total,Number,Netherlands,139000.0
+Annual,Unknown,Total,Number,Sweden,124487.0
+Annual,Piped water in the housing unit,Other,Number,Austria,1433828.0
+Annual,Piped water in the housing unit,Other,Number,Belgium,1324720.0
+Annual,Piped water in the housing unit,Other,Number,Germany,15485579.0
+Annual,Piped water in the housing unit,Other,Number,Denmark,1040958.0
+Annual,Piped water in the housing unit,Other,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",31643521.0
+Annual,Piped water in the housing unit,Other,Number,Greece,757824.0
+Annual,Piped water in the housing unit,Other,Number,Spain,2515116.0
+Annual,Piped water in the housing unit,Other,Number,European Union - 15 countries (1995-2004),33442303.0
+Annual,Piped water in the housing unit,Other,Number,Finland,539816.0
+Annual,Piped water in the housing unit,Other,Number,Ireland,199000.0
+Annual,Piped water in the housing unit,Other,Number,Italy,5974411.0
+Annual,Piped water in the housing unit,Other,Number,Netherlands,3230000.0
+Annual,Piped water in the housing unit,Other,Number,Portugal,941051.0
+Annual,Piped water in the housing unit,Owner,Number,Austria,1464646.0
+Annual,Piped water in the housing unit,Owner,Number,Belgium,2407981.0
+Annual,Piped water in the housing unit,Owner,Number,Germany,9948852.0
+Annual,Piped water in the housing unit,Owner,Number,Denmark,1210154.0
+Annual,Piped water in the housing unit,Owner,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",42032501.0
+Annual,Piped water in the housing unit,Owner,Number,Greece,2296238.0
+Annual,Piped water in the housing unit,Owner,Number,Spain,9144026.0
+Annual,Piped water in the housing unit,Owner,Number,European Union - 15 countries (1995-2004),45538893.0
+Annual,Piped water in the housing unit,Owner,Number,Finland,1415615.0
+Annual,Piped water in the housing unit,Owner,Number,Ireland,764021.0
+Annual,Piped water in the housing unit,Owner,Number,Italy,12492628.0
+Annual,Piped water in the housing unit,Owner,Number,Netherlands,2674000.0
+Annual,Piped water in the housing unit,Owner,Number,Portugal,1720732.0
+Annual,Piped water in the housing unit,Total,Number,Austria,2898474.0
+Annual,Piped water in the housing unit,Total,Number,Belgium,3732701.0
+Annual,Piped water in the housing unit,Total,Number,Germany,25434431.0
+Annual,Piped water in the housing unit,Total,Number,Denmark,2251112.0
+Annual,Piped water in the housing unit,Total,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",73676022.0
+Annual,Piped water in the housing unit,Total,Number,Greece,3054062.0
+Annual,Piped water in the housing unit,Total,Number,Spain,11659142.0
+Annual,Piped water in the housing unit,Total,Number,European Union - 15 countries (1995-2004),78981196.0
+Annual,Piped water in the housing unit,Total,Number,Finland,1955431.0
+Annual,Piped water in the housing unit,Total,Number,Ireland,963021.0
+Annual,Piped water in the housing unit,Total,Number,Italy,18467039.0
+Annual,Piped water in the housing unit,Total,Number,Netherlands,5904000.0
+Annual,Piped water in the housing unit,Total,Number,Portugal,2661783.0
+Annual,Piped water - unknown,Other,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",7103.0
+Annual,Piped water - unknown,Other,Number,European Union - 15 countries (1995-2004),7103.0
+Annual,Piped water - unknown,Other,Number,Ireland,7103.0
+Annual,Piped water - unknown,Owner,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",22030.0
+Annual,Piped water - unknown,Owner,Number,European Union - 15 countries (1995-2004),22030.0
+Annual,Piped water - unknown,Owner,Number,Ireland,22030.0
+Annual,Piped water - unknown,Total,Number,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",29133.0
+Annual,Piped water - unknown,Total,Number,European Union - 15 countries (1995-2004),29133.0
+Annual,Piped water - unknown,Total,Number,Ireland,29133.0

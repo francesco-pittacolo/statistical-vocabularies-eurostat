@@ -1,0 +1,139 @@
+Time frequency,Unit of measure,Rail network segment (2010),Train category\Time,2010.0
+Annual,Number,Linha Do Minho(Porto São Bento->Valença Fronteira),Goods trains,10017.0
+Annual,Number,Linha Do Minho(Porto São Bento->Valença Fronteira),Other trains,27193.0
+Annual,Number,Linha Do Minho(Porto São Bento->Valença Fronteira),Passenger trains,107978.0
+Annual,Number,Concordância De São Gemil(Ermesinde->São Gemil),Goods trains,740.0
+Annual,Number,Concordância De São Gemil(Ermesinde->São Gemil),Other trains,557.0
+Annual,Number,Concordância De São Gemil(Ermesinde->São Gemil),Passenger trains,17477.0
+Annual,Number,Ramal De Braga(Nine->Braga),Goods trains,490.0
+Annual,Number,Ramal De Braga(Nine->Braga),Other trains,445.0
+Annual,Number,Ramal De Braga(Nine->Braga),Passenger trains,22656.0
+Annual,Number,Linha De Leixões(Contumil->Leixões),Goods trains,1931.0
+Annual,Number,Linha De Leixões(Contumil->Leixões),Other trains,2222.0
+Annual,Number,Linha De Leixões(Contumil->Leixões),Passenger trains,17484.0
+Annual,Number,Linha Do Douro(Ermesinde->Pocinho),Goods trains,3100.0
+Annual,Number,Linha Do Douro(Ermesinde->Pocinho),Other trains,6631.0
+Annual,Number,Linha Do Douro(Ermesinde->Pocinho),Passenger trains,38159.0
+Annual,Number,Linha Do Norte(Lisboa Santa Apolónia->Porto Campanhã),Goods trains,38413.0
+Annual,Number,Linha Do Norte(Lisboa Santa Apolónia->Porto Campanhã),Other trains,15065.0
+Annual,Number,Linha Do Norte(Lisboa Santa Apolónia->Porto Campanhã),Passenger trains,172663.0
+Annual,Number,Linha De Guimarães(Lousado->Guimarães),Goods trains,1.0
+Annual,Number,Linha De Guimarães(Lousado->Guimarães),Other trains,791.0
+Annual,Number,Linha De Guimarães(Lousado->Guimarães),Passenger trains,14161.0
+Annual,Number,Linha Do Corgo(Régua->Vila Real),Other trains,378.0
+Annual,Number,Linha Do Corgo(Régua->Vila Real),Passenger trains,3275.0
+Annual,Number,Linha Do Tua(Tua->Carvalhais),Other trains,153.0
+Annual,Number,Linha Do Tua(Tua->Carvalhais),Passenger trains,8757.0
+Annual,Number,Linha Do Vouga(Espinho-Vouga->Aveiro),Other trains,423.0
+Annual,Number,Linha Do Vouga(Espinho-Vouga->Aveiro),Passenger trains,12936.0
+Annual,Number,Linha Da Beira Alta(Pampilhosa->Vilar Formoso Fronteira),Goods trains,4119.0
+Annual,Number,Linha Da Beira Alta(Pampilhosa->Vilar Formoso Fronteira),Other trains,550.0
+Annual,Number,Linha Da Beira Alta(Pampilhosa->Vilar Formoso Fronteira),Passenger trains,7375.0
+Annual,Number,Ramal Da Lousã(Coimbra B->Serpins),Goods trains,10.0
+Annual,Number,Ramal Da Lousã(Coimbra B->Serpins),Other trains,392.0
+Annual,Number,Ramal Da Lousã(Coimbra B->Serpins),Passenger trains,34658.0
+Annual,Number,Ramal De Alfarelos(Bifurcação De Lares->Alfarelos),Goods trains,4840.0
+Annual,Number,Ramal De Alfarelos(Bifurcação De Lares->Alfarelos),Other trains,304.0
+Annual,Number,Ramal De Alfarelos(Bifurcação De Lares->Alfarelos),Passenger trains,11134.0
+Annual,Number,Linha Do Oeste(Mira Sintra - Meleças->Figueira Da Foz),Goods trains,5169.0
+Annual,Number,Linha Do Oeste(Mira Sintra - Meleças->Figueira Da Foz),Other trains,4214.0
+Annual,Number,Linha Do Oeste(Mira Sintra - Meleças->Figueira Da Foz),Passenger trains,54222.0
+Annual,Number,Ramal De Tomar(Soudos - Vila Nova->Tomar),Goods trains,122.0
+Annual,Number,Ramal De Tomar(Soudos - Vila Nova->Tomar),Other trains,61.0
+Annual,Number,Ramal De Tomar(Soudos - Vila Nova->Tomar),Passenger trains,10802.0
+Annual,Number,Linha Da Beira Baixa(Entroncamento->Guarda),Goods trains,6455.0
+Annual,Number,Linha Da Beira Baixa(Entroncamento->Guarda),Other trains,2302.0
+Annual,Number,Linha Da Beira Baixa(Entroncamento->Guarda),Passenger trains,11488.0
+Annual,Number,Ramal De Cáceres(Torre Das Vargens->Marvão-Beirã-Fronteira),Goods trains,443.0
+Annual,Number,Ramal De Cáceres(Torre Das Vargens->Marvão-Beirã-Fronteira),Other trains,25.0
+Annual,Number,Ramal De Cáceres(Torre Das Vargens->Marvão-Beirã-Fronteira),Passenger trains,2159.0
+Annual,Number,Linha Do Leste(Abrantes->Elvas-Fronteira),Goods trains,1689.0
+Annual,Number,Linha Do Leste(Abrantes->Elvas-Fronteira),Other trains,312.0
+Annual,Number,Linha Do Leste(Abrantes->Elvas-Fronteira),Passenger trains,2889.0
+Annual,Number,Linha De Sintra(Lisboa Rossio->Sintra),Goods trains,797.0
+Annual,Number,Linha De Sintra(Lisboa Rossio->Sintra),Other trains,18807.0
+Annual,Number,Linha De Sintra(Lisboa Rossio->Sintra),Passenger trains,102611.0
+Annual,Number,Linha De Cintura(Alcântara-Mar->Braço De Prata),Goods trains,2864.0
+Annual,Number,Linha De Cintura(Alcântara-Mar->Braço De Prata),Other trains,10414.0
+Annual,Number,Linha De Cintura(Alcântara-Mar->Braço De Prata),Passenger trains,117360.0
+Annual,Number,Ramal Do Pego(Mouriscas-A->Central Do Pego),Goods trains,1079.0
+Annual,Number,Ramal Do Pego(Mouriscas-A->Central Do Pego),Other trains,4.0
+Annual,Number,Linha De Cascais(Cais Do Sodré->Cascais),Goods trains,5.0
+Annual,Number,Linha De Cascais(Cais Do Sodré->Cascais),Other trains,4920.0
+Annual,Number,Linha De Cascais(Cais Do Sodré->Cascais),Passenger trains,82233.0
+Annual,Number,Linha De Vendas Novas(Morgado->Vendas Novas),Goods trains,9659.0
+Annual,Number,Linha De Vendas Novas(Morgado->Vendas Novas),Other trains,452.0
+Annual,Number,Linha De Vendas Novas(Morgado->Vendas Novas),Passenger trains,2774.0
+Annual,Number,Linha Do Alentejo(Barreiro->Funcheira),Goods trains,15262.0
+Annual,Number,Linha Do Alentejo(Barreiro->Funcheira),Other trains,2259.0
+Annual,Number,Linha Do Alentejo(Barreiro->Funcheira),Passenger trains,28050.0
+Annual,Number,Linha Do Sul(Alvito-A->Tunes),Goods trains,19470.0
+Annual,Number,Linha Do Sul(Alvito-A->Tunes),Other trains,14793.0
+Annual,Number,Linha Do Sul(Alvito-A->Tunes),Passenger trains,75247.0
+Annual,Number,Linha De Sines(Ermidas - Sado->Porto De Sines),Goods trains,5267.0
+Annual,Number,Linha De Sines(Ermidas - Sado->Porto De Sines),Other trains,223.0
+Annual,Number,Linha De Évora(Casa Branca->Estremoz),Goods trains,78.0
+Annual,Number,Linha De Évora(Casa Branca->Estremoz),Other trains,21.0
+Annual,Number,Linha De Évora(Casa Branca->Estremoz),Passenger trains,2108.0
+Annual,Number,Linha Do Algarve(Lagos->Vila Real De Stº António),Goods trains,2251.0
+Annual,Number,Linha Do Algarve(Lagos->Vila Real De Stº António),Other trains,562.0
+Annual,Number,Linha Do Algarve(Lagos->Vila Real De Stº António),Passenger trains,21528.0
+Annual,Number,Concordância De Poceirão(Bifurcação Do Poceirão - Descendente->Bifurcação De Águas De Moura - Sul),Goods trains,12695.0
+Annual,Number,Concordância De Poceirão(Bifurcação Do Poceirão - Descendente->Bifurcação De Águas De Moura - Sul),Other trains,979.0
+Annual,Number,Concordância De Poceirão(Bifurcação Do Poceirão - Descendente->Bifurcação De Águas De Moura - Sul),Passenger trains,1428.0
+Annual,Number,Concordância De Verride(Agulha 1 Da Amieira->Bifurcação De Verride),Goods trains,4369.0
+Annual,Number,Concordância De Verride(Agulha 1 Da Amieira->Bifurcação De Verride),Other trains,175.0
+Annual,Number,Concordância De Verride(Agulha 1 Da Amieira->Bifurcação De Verride),Passenger trains,673.0
+Annual,Number,Concordância De Agualva(Pk De Inicio Concordância Agualva->Bifurcação De Agualva),Goods trains,9172.0
+Annual,Number,Concordância De Agualva(Pk De Inicio Concordância Agualva->Bifurcação De Agualva),Other trains,842.0
+Annual,Number,Concordância De Agualva(Pk De Inicio Concordância Agualva->Bifurcação De Agualva),Passenger trains,3.0
+Annual,Number,Concordância De Sete Rios(Sete Rios->Benfica),Goods trains,594.0
+Annual,Number,Concordância De Sete Rios(Sete Rios->Benfica),Other trains,692.0
+Annual,Number,Concordância De Sete Rios(Sete Rios->Benfica),Passenger trains,49321.0
+Annual,Number,Ramal Louriçal(- ->Agulha Celbi/Soporcel),Goods trains,1462.0
+Annual,Number,Ramal Louriçal(- ->Agulha Celbi/Soporcel),Other trains,38.0
+Annual,Number,Ramal Da Figueira Da Foz(Figueira Da Foz->Pampilhosa),Goods trains,472.0
+Annual,Number,Ramal Da Figueira Da Foz(Figueira Da Foz->Pampilhosa),Other trains,15.0
+Annual,Number,Concordância Norte Do Setil(Bifurcação Norte Do Setil->Bifurcação Do Setil - Vendas Novas),Goods trains,5571.0
+Annual,Number,Concordância Norte Do Setil(Bifurcação Norte Do Setil->Bifurcação Do Setil - Vendas Novas),Other trains,270.0
+Annual,Number,Concordância Norte Do Setil(Bifurcação Norte Do Setil->Bifurcação Do Setil - Vendas Novas),Passenger trains,5.0
+Annual,Number,Ramal De Neves Corvo(Ourique->Minas De Neves Corvo),Goods trains,1549.0
+Annual,Number,Ramal De Neves Corvo(Ourique->Minas De Neves Corvo),Other trains,227.0
+Annual,Number,Ramal Petrogal - Asfaltos(Ramal Petrogal - Asfaltos (Inserção)->Ramal Petrogal (Início) R. Petr.Asf.(Extremo)),Goods trains,920.0
+Annual,Number,Ramal Petrogal - Asfaltos(Ramal Petrogal - Asfaltos (Inserção)->Ramal Petrogal (Início) R. Petr.Asf.(Extremo)),Other trains,74.0
+Annual,Number,Concordância Da Funcheira(Bifurcação Da Funcheira - Sul->Bifurcação Da Funcheira - Alentejo),Goods trains,1698.0
+Annual,Number,Concordância Da Funcheira(Bifurcação Da Funcheira - Sul->Bifurcação Da Funcheira - Alentejo),Other trains,9.0
+Annual,Number,Concordância De Ermidas(Bifurcação De Ermidas - Sines->Bifurcação De Ermidas - Sul),Goods trains,537.0
+Annual,Number,Concordância De Ermidas(Bifurcação De Ermidas - Sines->Bifurcação De Ermidas - Sul),Other trains,13.0
+Annual,Number,Concordância Águas Moura(Águas De Moura->Bifurcação De Águas De Moura - Norte),Goods trains,6578.0
+Annual,Number,Concordância Águas Moura(Águas De Moura->Bifurcação De Águas De Moura - Norte),Other trains,672.0
+Annual,Number,Concordância Águas Moura(Águas De Moura->Bifurcação De Águas De Moura - Norte),Passenger trains,1.0
+Annual,Number,Concordância De Bombel(Pk De Inicio Concordância Bombel->Agulha 2 De Vidigal),Goods trains,8580.0
+Annual,Number,Concordância De Bombel(Pk De Inicio Concordância Bombel->Agulha 2 De Vidigal),Other trains,229.0
+Annual,Number,Concordância De Bombel(Pk De Inicio Concordância Bombel->Agulha 2 De Vidigal),Passenger trains,4.0
+Annual,Number,Concordância De Xabregas(Bifurcação De Chelas->Bifurcação De Xabregas),Goods trains,43.0
+Annual,Number,Concordância De Xabregas(Bifurcação De Chelas->Bifurcação De Xabregas),Other trains,1525.0
+Annual,Number,Concordância De Xabregas(Bifurcação De Chelas->Bifurcação De Xabregas),Passenger trains,602.0
+Annual,Number,Ramal Barreiro-Quimigal(Ramal Barreiro Quimigal (Inserção)->Ramal Barreiro - Quimigal (Extremo)),Goods trains,465.0
+Annual,Number,Ramal Barreiro-Quimigal(Ramal Barreiro Quimigal (Inserção)->Ramal Barreiro - Quimigal (Extremo)),Other trains,470.0
+Annual,Number,Variante De Alcácer(Inicio Variante De Alcácer (Agulha 4i De Pinheiro)->Extremo Variante De Alcácer (Agulha 3 De Grândola Norte)),Goods trains,234.0
+Annual,Number,Variante De Alcácer(Inicio Variante De Alcácer (Agulha 4i De Pinheiro)->Extremo Variante De Alcácer (Agulha 3 De Grândola Norte)),Passenger trains,80.0
+Annual,Number,Terminal De Tadim(Terminal De Mercadorias Tadim (Inserção)->Terminal De Mercadorias De Tadim (Extremo)),Goods trains,442.0
+Annual,Number,Terminal De Tadim(Terminal De Mercadorias Tadim (Inserção)->Terminal De Mercadorias De Tadim (Extremo)),Other trains,4.0
+Annual,Number,Ramal Da Siderurgia Nacional(Ramal Da Siderurgia Nacional (Inserção)->Siderurgia Nacional (Extremo)),Goods trains,1552.0
+Annual,Number,Ramal Da Siderurgia Nacional(Ramal Da Siderurgia Nacional (Inserção)->Siderurgia Nacional (Extremo)),Other trains,103.0
+Annual,Number,Ramal Terminal Mercadorias Do Fundão(Ramal Terminal De Mercadorias Do Fundão (Inserção)->Terminal De Mercadorias Do Fundão (Extremo)),Goods trains,617.0
+Annual,Number,Ramal Terminal Mercadorias Do Fundão(Ramal Terminal De Mercadorias Do Fundão (Inserção)->Terminal De Mercadorias Do Fundão (Extremo)),Other trains,294.0
+Annual,Number,Plataforma De Cacia(Plataforma De Cacia (Inserção Lado Aveiro)->Plataforma De Cacia (Inserção Lado Cacia)),Goods trains,717.0
+Annual,Number,Plataforma De Cacia(Plataforma De Cacia (Inserção Lado Aveiro)->Plataforma De Cacia (Inserção Lado Cacia)),Other trains,142.0
+Annual,Number,Plataforma De Cacia(Plataforma De Cacia (Inserção Lado Aveiro)->Plataforma De Cacia (Inserção Lado Cacia)),Passenger trains,10.0
+Annual,Number,Terminal De Mercadorias Da Bobadela(Bobadela Sul (Inserção T. Mer. Bobadela Lado Oriente)->Bobadela Norte (Inserção T. Mer. Bobadela Lado Alverca)),Goods trains,7627.0
+Annual,Number,Terminal De Mercadorias Da Bobadela(Bobadela Sul (Inserção T. Mer. Bobadela Lado Oriente)->Bobadela Norte (Inserção T. Mer. Bobadela Lado Alverca)),Other trains,744.0
+Annual,Number,Ramal Celbi(Ramal Celbi/Ramal Soporcel (Inserção)->Celbi (Portão)),Goods trains,582.0
+Annual,Number,Ramal Celbi(Ramal Celbi/Ramal Soporcel (Inserção)->Celbi (Portão)),Other trains,22.0
+Annual,Number,Ramal Soporcel(Ramal Celbi/Ramal Soporcel (Inserção)->Ramal Soporcel (Extremo)),Goods trains,880.0
+Annual,Number,Ramal Soporcel(Ramal Celbi/Ramal Soporcel (Inserção)->Ramal Soporcel (Extremo)),Other trains,16.0
+Annual,Number,Ramal De Porto De Aveiro(Pk 0.000 Do Ramal Porto De Aveiro->Triagem Porto De Aveiro),Goods trains,383.0
+Annual,Number,Ramal De Porto De Aveiro(Pk 0.000 Do Ramal Porto De Aveiro->Triagem Porto De Aveiro),Other trains,99.0
+Annual,Number,Ramal De Porto De Aveiro(Pk 0.000 Do Ramal Porto De Aveiro->Triagem Porto De Aveiro),Passenger trains,4.0
+Annual,Number,Ramal Colpor(Ramal Colpor (Inserção)->Ramal Colpor (Extremo)),Goods trains,66.0

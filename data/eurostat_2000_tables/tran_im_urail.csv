@@ -1,0 +1,125 @@
+Time frequency,Type of cargo,Unit of measure,Geopolitical entity (reporting)\Time,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0
+Annual,Containers and swap bodies,Percentage of total,Austria,13.4,14.0,14.1,16.6,16.7,17.7,15.7,17.1,18.9,:,:,:,:,:,:,:
+Annual,Containers and swap bodies,Percentage of total,Belgium,26.2,30.7,34.5,29.7,31.2,:,:,:,:,:,:,:,:,:,:,:
+Annual,Containers and swap bodies,Percentage of total,Bulgaria,7.3,10.4,18.8,10.4,9.3,8.8,8.5,4.8,4.6,8.1,6.8,6.0,6.6,11.7,10.9,15.1
+Annual,Containers and swap bodies,Percentage of total,Switzerland,:,31.2,30.0,33.6,34.6,36.5,42.3,42.6,42.8,40.7,42.6,42.3,43.2,37.6,44.5,43.8
+Annual,Containers and swap bodies,Percentage of total,Czechia,9.5,11.1,11.3,13.7,15.2,16.6,14.2,14.5,15.5,15.8,15.3,17.4,18.2,18.3,17.7,17.4
+Annual,Containers and swap bodies,Percentage of total,Germany,26.4,28.6,29.1,29.0,28.6,29.5,30.1,29.0,26.7,27.2,26.9,27.6,27.8,29.5,28.6,29.4
+Annual,Containers and swap bodies,Percentage of total,Denmark,25.7,26.1,23.9,23.9,20.3,17.3,15.1,14.8,11.6,10.8,34.9,33.7,27.4,22.3,18.5,24.8
+Annual,Containers and swap bodies,Percentage of total,Estonia,4.7,6.3,6.2,0.9,1.1,1.4,1.6,2.6,1.7,2.1,1.8,2.1,3.8,4.0,3.6,6.3
+Annual,Containers and swap bodies,Percentage of total,Greece,15.6,17.6,21.7,7.5,13.6,14.5,12.2,17.7,50.7,43.3,60.6,72.8,80.7,84.0,86.9,85.8
+Annual,Containers and swap bodies,Percentage of total,Spain,31.8,36.7,36.2,39.5,43.8,51.5,47.1,48.5,49.3,50.2,52.1,55.2,54.3,63.9,63.1,67.7
+Annual,Containers and swap bodies,Percentage of total,Finland,2.9,2.7,2.4,1.8,1.5,1.1,1.1,1.0,1.2,1.5,1.6,2.2,2.5,2.6,2.3,3.2
+Annual,Containers and swap bodies,Percentage of total,France,:,:,19.5,19.2,18.7,22.0,23.3,24.6,24.1,22.3,22.1,30.4,31.7,32.7,34.2,34.7
+Annual,Containers and swap bodies,Percentage of total,Croatia,6.0,8.0,6.7,8.2,7.4,6.2,7.3,7.7,8.3,10.1,14.8,15.4,16.8,21.3,24.7,26.9
+Annual,Containers and swap bodies,Percentage of total,Hungary,6.8,8.6,12.6,11.3,11.6,9.4,10.8,8.5,13.6,12.9,9.7,16.1,10.6,10.8,10.2,15.4
+Annual,Containers and swap bodies,Percentage of total,Ireland,11.6,0.0,13.9,46.7,48.6,51.6,52.5,53.0,53.1,57.4,59.0,55.1,61.1,52.7,45.7,58.0
+Annual,Containers and swap bodies,Percentage of total,Italy,41.1,:,37.4,35.4,41.7,42.6,47.6,46.3,37.1,50.3,52.8,46.2,49.8,43.1,45.9,44.0
+Annual,Containers and swap bodies,Percentage of total,Lithuania,2.3,2.7,2.1,2.3,2.7,2.9,3.1,2.3,1.9,1.8,2.3,3.1,4.6,4.4,6.8,13.1
+Annual,Containers and swap bodies,Percentage of total,Luxembourg,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,7.2
+Annual,Containers and swap bodies,Percentage of total,Latvia,0.9,0.9,1.3,2.1,1.9,1.8,1.8,1.8,1.2,1.2,1.2,1.1,1.4,2.9,3.4,3.8
+Annual,Containers and swap bodies,Percentage of total,Montenegro,:,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,0.8,:,:
+Annual,Containers and swap bodies,Percentage of total,North Macedonia,:,:,16.5,20.4,21.3,20.1,19.2,21.4,34.2,27.0,38.3,37.1,39.7,54.1,23.1,29.7
+Annual,Containers and swap bodies,Percentage of total,Netherlands,33.8,42.2,42.0,34.9,30.4,33.4,33.8,35.7,34.9,36.3,37.7,46.1,40.7,42.0,42.2,42.1
+Annual,Containers and swap bodies,Percentage of total,Norway,42.8,58.4,58.5,57.0,47.3,46.7,43.5,39.9,38.3,31.8,36.1,34.7,34.2,32.1,31.1,32.1
+Annual,Containers and swap bodies,Percentage of total,Poland,3.0,4.5,3.4,4.1,4.7,6.5,6.3,6.8,7.5,8.8,9.8,9.9,12.9,15.0,14.6,13.8
+Annual,Containers and swap bodies,Percentage of total,Portugal,18.6,18.9,20.0,18.2,27.9,28.3,25.5,0.0,30.0,40.9,45.5,55.0,67.7,66.5,77.7,43.1
+Annual,Containers and swap bodies,Percentage of total,Romania,4.3,3.3,2.8,5.7,6.6,6.6,5.8,6.7,4.8,4.9,5.9,7.4,7.5,8.4,7.5,6.6
+Annual,Containers and swap bodies,Percentage of total,Sweden,13.1,14.2,17.2,14.5,15.0,14.7,12.5,12.6,12.7,10.8,11.2,12.2,13.1,16.0,15.9,:
+Annual,Containers and swap bodies,Percentage of total,Slovenia,16.9,18.6,24.6,26.0,26.5,27.5,26.2,27.2,30.3,31.0,31.0,34.7,34.6,34.0,33.1,31.6
+Annual,Containers and swap bodies,Percentage of total,Slovakia,1.6,1.9,2.1,2.6,2.4,2.1,1.7,1.4,6.2,8.0,8.2,8.2,8.7,10.7,9.3,9.3
+Annual,Containers and swap bodies,Percentage of total,Türkiye,7.9,11.4,22.3,21.9,23.8,26.6,33.5,36.0,34.3,33.9,33.5,41.1,38.9,41.4,47.0,50.8
+Annual,Containers and swap bodies,Percentage of total,United Kingdom,27.5,29.2,32.3,31.2,29.8,30.2,28.1,29.4,34.2,39.1,39.4,38.8,52.5,:,:,:
+Annual,Road vehicles (accompanied),Percentage of total,Austria,8.9,9.7,9.7,9.3,8.8,7.2,6.0,4.9,4.6,:,:,:,:,:,:,:
+Annual,Road vehicles (accompanied),Percentage of total,Belgium,0.0,0.0,0.0,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,Road vehicles (accompanied),Percentage of total,Bulgaria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0.0,0.0 n,0.0 n,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Switzerland,:,7.8,8.8,6.9,6.8,6.6,7.1,7.1,6.9,6.3,7.1,6.1,5.5,3.7,4.3,4.4
+Annual,Road vehicles (accompanied),Percentage of total,Czechia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Germany,0.2,0.3,0.2,0.3,0.2,0.1,0.1,0.1,0.3,0.2,0.2,0.2,0.1,0.1,0.1,0.1
+Annual,Road vehicles (accompanied),Percentage of total,Denmark,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
+Annual,Road vehicles (accompanied),Percentage of total,Estonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Greece,0.0,0.0,:,:,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Spain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Finland,1.7,1.7,2.2,1.7,1.0,0.5,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.0
+Annual,Road vehicles (accompanied),Percentage of total,France,:,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Croatia,0.1,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Hungary,3.9,4.1,4.0,4.1,5.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Ireland,0.0,0.0,0.0,0.0,0.0,:,:,:,:,:,:,:,:,:,:,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Italy,2.2,:,4.9,5.9,5.4,:,3.5,3.0,2.6,1.7,:,:,1.8,:,1.3,1.2
+Annual,Road vehicles (accompanied),Percentage of total,Lithuania,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Luxembourg,:,:,:,:,:,:,:,0.0,0.0,:,:,:,:,:,:,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Latvia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Montenegro,:,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,0.0,:,:
+Annual,Road vehicles (accompanied),Percentage of total,North Macedonia,:,:,:,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Netherlands,0.0,0.0,0.0,:,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Norway,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Poland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0 n,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Romania,0.0,0.0,0.0 n,0.0,0.0 n,0.0,0.0,0.0,0.0,0.0,0.0,0.0 n,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Sweden,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:
+Annual,Road vehicles (accompanied),Percentage of total,Slovenia,0.9,0.9,0.9,0.7,0.6,0.7,0.8,0.6,0.6,0.5,0.4,0.4,0.3,0.4,0.4,0.4
+Annual,Road vehicles (accompanied),Percentage of total,Slovakia,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,Türkiye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Road vehicles (accompanied),Percentage of total,United Kingdom,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,:,:
+Annual,Semi-trailers (unaccompanied),Percentage of total,Austria,0.9,1.3,1.7,2.6,2.7,2.7,5.6,5.4,6.4,:,:,:,:,:,:,:
+Annual,Semi-trailers (unaccompanied),Percentage of total,Belgium,0.4,0.4,0.6,0.5,0.5,:,:,:,:,:,:,:,:,:,:,:
+Annual,Semi-trailers (unaccompanied),Percentage of total,Bulgaria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,0.2,0.0,0.0,0.0 n,3.4,3.7,3.9
+Annual,Semi-trailers (unaccompanied),Percentage of total,Switzerland,:,4.3,4.9,5.8,6.7,7.1,6.2,6.8,7.5,8.0,7.5,8.5,10.2,9.5,11.9,12.3
+Annual,Semi-trailers (unaccompanied),Percentage of total,Czechia,0.0 n,0.0 n,0.0 n,0.0 n,0.4,0.7,1.0,1.0,1.0,1.1,1.5,2.2,1.8,2.0,1.5,1.1
+Annual,Semi-trailers (unaccompanied),Percentage of total,Germany,3.5,3.5,4.3,5.9,6.3,6.5,6.8,9.1,11.4,12.2,12.6,12.9,14.1,14.3,14.4,14.4
+Annual,Semi-trailers (unaccompanied),Percentage of total,Denmark,7.1,8.2,8.6,11.3,13.2,11.9,6.3,9.8,8.7,10.9,8.4,9.5,14.1,12.9,1.7,5.5
+Annual,Semi-trailers (unaccompanied),Percentage of total,Estonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Semi-trailers (unaccompanied),Percentage of total,Greece,0.0,0.0,:,:,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Semi-trailers (unaccompanied),Percentage of total,Spain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.3,:,0.6
+Annual,Semi-trailers (unaccompanied),Percentage of total,Finland,1.6,1.4,1.2,0.9,0.7,0.6,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Semi-trailers (unaccompanied),Percentage of total,France,:,:,4.0,4.8,2.8,2.6,2.8,3.4,4.6,5.4,5.6,1.4,2.0,4.1,0.8,4.8
+Annual,Semi-trailers (unaccompanied),Percentage of total,Croatia,0.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0
+Annual,Semi-trailers (unaccompanied),Percentage of total,Hungary,0.0,0.2,0.4,0.7,1.8,0.7,0.7,0.6,1.0,2.1,2.4,1.6,2.7,4.8,0.0 n,7.2
+Annual,Semi-trailers (unaccompanied),Percentage of total,Ireland,0.0,0.0,0.0,0.0,0.0,:,:,:,:,:,:,:,:,:,:,0.0
+Annual,Semi-trailers (unaccompanied),Percentage of total,Italy,3.0,:,6.1,5.7,9.3,10.8,5.0,9.4,9.6,8.1,7.7,8.3,10.3,10.1,0.0,11.1
+Annual,Semi-trailers (unaccompanied),Percentage of total,Lithuania,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0 n,0.1
+Annual,Semi-trailers (unaccompanied),Percentage of total,Luxembourg,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,26.9
+Annual,Semi-trailers (unaccompanied),Percentage of total,Latvia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.1,0.0
+Annual,Semi-trailers (unaccompanied),Percentage of total,Montenegro,:,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,0.0,:,:
+Annual,Semi-trailers (unaccompanied),Percentage of total,North Macedonia,:,:,:,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Semi-trailers (unaccompanied),Percentage of total,Netherlands,0.1,0.0 n,0.1,:,:,0.1,0.1,0.2,0.8,0.6,0.6,0.4,0.1,0.2,6.0,0.5
+Annual,Semi-trailers (unaccompanied),Percentage of total,Norway,32.1,16.1,16.4,16.8,20.0,22.1,19.5,19.9,24.7,22.9,22.5,23.8,23.2,25.2,12.4,32.4
+Annual,Semi-trailers (unaccompanied),Percentage of total,Poland,0.0,0.0,0.0,0.0,0.0 n,0.0 n,0.1,0.2,0.3,0.3,0.0 n,0.1,0.2,0.4,0.6,0.1
+Annual,Semi-trailers (unaccompanied),Percentage of total,Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0
+Annual,Semi-trailers (unaccompanied),Percentage of total,Romania,0.2,0.4,0.1,0.2,0.0 n,0.0 n,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Semi-trailers (unaccompanied),Percentage of total,Sweden,7.0,8.0,10.2,10.8,10.9,9.7,10.7,11.1,12.7,12.4,11.4,12.2,13.0,11.1,10.7,:
+Annual,Semi-trailers (unaccompanied),Percentage of total,Slovenia,0.7,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Semi-trailers (unaccompanied),Percentage of total,Slovakia,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,0.4,0.5,0.3,0.0,0.1,0.0,0.0
+Annual,Semi-trailers (unaccompanied),Percentage of total,Türkiye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Semi-trailers (unaccompanied),Percentage of total,United Kingdom,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,:,:
+Annual,Unknown,Percentage of total,Austria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,:,:,:,:,:,:
+Annual,Unknown,Percentage of total,Belgium,0.0,0.0,0.0,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,Unknown,Percentage of total,Bulgaria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Switzerland,:,0.1,0.2,0.2,0.1,0.0 n,0.2,0.4,0.3,0.0 n,0.0,0.0 n,0.0 n,0.0,0.0,0.0 n
+Annual,Unknown,Percentage of total,Czechia,0.0,0.0,0.0,0.0,0.0,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0
+Annual,Unknown,Percentage of total,Germany,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.0
+Annual,Unknown,Percentage of total,Denmark,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,27.8,0.0,0.0 n,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Estonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Greece,0.0,0.0,:,:,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Spain,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.1,1.3,0.0,0.4,0.4,0.0,4.9,5.7,2.1
+Annual,Unknown,Percentage of total,Finland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.0
+Annual,Unknown,Percentage of total,France,:,:,0.0,0.0,0.0,0.2,0.0,0.0 n,0.0,0.0,0.0,0.0,0.0,1.0,1.3,1.0
+Annual,Unknown,Percentage of total,Croatia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Hungary,0.0,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,0.0
+Annual,Unknown,Percentage of total,Ireland,0.0,0.0,0.0,0.0,0.0,:,:,:,:,:,:,:,:,:,:,0.0
+Annual,Unknown,Percentage of total,Italy,0.0,:,0.1,0.1,0.0 n,:,0.0 n,0.0 n,:,:,:,0.0,:,:,0.0,0.0
+Annual,Unknown,Percentage of total,Lithuania,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Luxembourg,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0
+Annual,Unknown,Percentage of total,Latvia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Montenegro,:,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,0.0,:,:
+Annual,Unknown,Percentage of total,North Macedonia,:,:,:,78.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Netherlands,0.0,0.0,0.0,:,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Norway,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Poland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Romania,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Sweden,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:
+Annual,Unknown,Percentage of total,Slovenia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Slovakia,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,Türkiye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Unknown,Percentage of total,United Kingdom,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,:,:

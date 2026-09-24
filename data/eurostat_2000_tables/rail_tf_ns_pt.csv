@@ -1,0 +1,103 @@
+Time frequency,Unit of measure,Rail network segment (2005),Train category\Time,2005.0
+Annual,Number,Linha do Minho (Porto São Bento - Valença Fronteira),Goods trains,10106.0
+Annual,Number,Linha do Minho (Porto São Bento - Valença Fronteira),Other trains,33532.0
+Annual,Number,Linha do Minho (Porto São Bento - Valença Fronteira),Passenger trains,89096.0
+Annual,Number,Concordância de São Gemil (Ermesinde - São Gemil),Goods trains,789.0
+Annual,Number,Concordância de São Gemil (Ermesinde - São Gemil),Other trains,528.0
+Annual,Number,Ramal de Braga (Agulha de Inserção na Linha do Minho do Ramal de Braga - Braga),Goods trains,4.0
+Annual,Number,Ramal de Braga (Agulha de Inserção na Linha do Minho do Ramal de Braga - Braga),Other trains,649.0
+Annual,Number,Ramal de Braga (Agulha de Inserção na Linha do Minho do Ramal de Braga - Braga),Passenger trains,16762.0
+Annual,Number,Linha de Leixões (Agulha de Inserção na Linha do Minho da Linha de Leixões - PK Extremo da Linha de Leixões),Goods trains,2658.0
+Annual,Number,Linha de Leixões (Agulha de Inserção na Linha do Minho da Linha de Leixões - PK Extremo da Linha de Leixões),Other trains,1876.0
+Annual,Number,Linha do Douro (Ermesinde - PK Extremo da Linha do Douro),Goods trains,1875.0
+Annual,Number,Linha do Douro (Ermesinde - PK Extremo da Linha do Douro),Other trains,5731.0
+Annual,Number,Linha do Douro (Ermesinde - PK Extremo da Linha do Douro),Passenger trains,34469.0
+Annual,Number,Linha do Norte (Lisboa Santa Apolónia - Porto Campanhã),Goods trains,42305.0
+Annual,Number,Linha do Norte (Lisboa Santa Apolónia - Porto Campanhã),Other trains,20240.0
+Annual,Number,Linha do Norte (Lisboa Santa Apolónia - Porto Campanhã),Passenger trains,148661.0
+Annual,Number,Linha de Guimarães (Agulha de Inserção na Linha do Minho da Linha de Guimarães - Guimarães),Goods trains,4.0
+Annual,Number,Linha de Guimarães (Agulha de Inserção na Linha do Minho da Linha de Guimarães - Guimarães),Other trains,656.0
+Annual,Number,Linha de Guimarães (Agulha de Inserção na Linha do Minho da Linha de Guimarães - Guimarães),Passenger trains,11525.0
+Annual,Number,Linha do Tâmega (Livração - Amarante),Other trains,6.0
+Annual,Number,Linha do Tâmega (Livração - Amarante),Passenger trains,39.0
+Annual,Number,Linha do Corgo (Régua - Vila Real),Other trains,111.0
+Annual,Number,Linha do Corgo (Régua - Vila Real),Passenger trains,263.0
+Annual,Number,Linha do Tua (Tua - Carvalhais),Other trains,73.0
+Annual,Number,Linha do Tua (Tua - Carvalhais),Passenger trains,179.0
+Annual,Number,Linha do Vouga ( - Aveiro),Other trains,878.0
+Annual,Number,Linha do Vouga ( - Aveiro),Passenger trains,7313.0
+Annual,Number,Linha da Beira Alta (Pampilhosa - Vilar Formoso Fronteira),Goods trains,3928.0
+Annual,Number,Linha da Beira Alta (Pampilhosa - Vilar Formoso Fronteira),Other trains,1286.0
+Annual,Number,Linha da Beira Alta (Pampilhosa - Vilar Formoso Fronteira),Passenger trains,7852.0
+Annual,Number,Ramal da Lousã (Coimbra B - Serpins),Goods trains,0.0
+Annual,Number,Ramal da Lousã (Coimbra B - Serpins),Other trains,1153.0
+Annual,Number,Ramal da Lousã (Coimbra B - Serpins),Passenger trains,45197.0
+Annual,Number,Ramal de Alfarelos (Agulha de inserção na Linha Oeste do Ramal de Alfarelos - Alfarelos),Goods trains,5149.0
+Annual,Number,Ramal de Alfarelos (Agulha de inserção na Linha Oeste do Ramal de Alfarelos - Alfarelos),Other trains,304.0
+Annual,Number,Ramal de Alfarelos (Agulha de inserção na Linha Oeste do Ramal de Alfarelos - Alfarelos),Passenger trains,11675.0
+Annual,Number,Linha do Oeste (Bifurcação de Meleças - Descendente - Figueira da Foz),Goods trains,7290.0
+Annual,Number,Linha do Oeste (Bifurcação de Meleças - Descendente - Figueira da Foz),Other trains,3577.0
+Annual,Number,Linha do Oeste (Bifurcação de Meleças - Descendente - Figueira da Foz),Passenger trains,60580.0
+Annual,Number,"Ramal de Tomar (PK 0,000 - Tomar)",Goods trains,454.0
+Annual,Number,"Ramal de Tomar (PK 0,000 - Tomar)",Other trains,331.0
+Annual,Number,"Ramal de Tomar (PK 0,000 - Tomar)",Passenger trains,10549.0
+Annual,Number,Linha da Beira Baixa (Entroncamento - Guarda),Goods trains,8042.0
+Annual,Number,Linha da Beira Baixa (Entroncamento - Guarda),Other trains,3240.0
+Annual,Number,Linha da Beira Baixa (Entroncamento - Guarda),Passenger trains,12506.0
+Annual,Number,Ramal de Cáceres (Torre das Vargens - Marvão-Beirã-Fronteira),Goods trains,1493.0
+Annual,Number,Ramal de Cáceres (Torre das Vargens - Marvão-Beirã-Fronteira),Other trains,238.0
+Annual,Number,Ramal de Cáceres (Torre das Vargens - Marvão-Beirã-Fronteira),Passenger trains,2172.0
+Annual,Number,Linha do Leste (Abrantes - Elvas-Fronteira),Goods trains,2021.0
+Annual,Number,Linha do Leste (Abrantes - Elvas-Fronteira),Other trains,397.0
+Annual,Number,Linha do Leste (Abrantes - Elvas-Fronteira),Passenger trains,2188.0
+Annual,Number,Linha de Sintra (Lisboa Rossio - PK Extremo da Linha de Sintra),Goods trains,1875.0
+Annual,Number,Linha de Sintra (Lisboa Rossio - PK Extremo da Linha de Sintra),Other trains,12727.0
+Annual,Number,Linha de Sintra (Lisboa Rossio - PK Extremo da Linha de Sintra),Passenger trains,111515.0
+Annual,Number,Linha de Cintura (Alcântara-Mar - Braço de Prata),Goods trains,3725.0
+Annual,Number,Linha de Cintura (Alcântara-Mar - Braço de Prata),Other trains,11269.0
+Annual,Number,Linha de Cintura (Alcântara-Mar - Braço de Prata),Passenger trains,178917.0
+Annual,Number,Ramal do Pego (Mouriscas-A - Central do Pego),Goods trains,2855.0
+Annual,Number,Ramal do Pego (Mouriscas-A - Central do Pego),Other trains,9.0
+Annual,Number,Linha de Cascais (Cais do Sodré - Cascais),Goods trains,9.0
+Annual,Number,Linha de Cascais (Cais do Sodré - Cascais),Other trains,4879.0
+Annual,Number,Linha de Cascais (Cais do Sodré - Cascais),Passenger trains,84847.0
+Annual,Number,Linha de Vendas Novas (Agulha de Inserção na Linha do Norte da Linha de Vendas Novas - Vendas Novas),Goods trains,7996.0
+Annual,Number,Linha de Vendas Novas (Agulha de Inserção na Linha do Norte da Linha de Vendas Novas - Vendas Novas),Other trains,442.0
+Annual,Number,Linha de Vendas Novas (Agulha de Inserção na Linha do Norte da Linha de Vendas Novas - Vendas Novas),Passenger trains,112.0
+Annual,Number,Linha do Alentejo (Barreiro - Funcheira),Goods trains,12740.0
+Annual,Number,Linha do Alentejo (Barreiro - Funcheira),Other trains,3602.0
+Annual,Number,Linha do Alentejo (Barreiro - Funcheira),Passenger trains,28614.0
+Annual,Number,Linha do Sul (Agulha junto à Ponte Santana - Tunes),Goods trains,14381.0
+Annual,Number,Linha do Sul (Agulha junto à Ponte Santana - Tunes),Other trains,16492.0
+Annual,Number,Linha do Sul (Agulha junto à Ponte Santana - Tunes),Passenger trains,68743.0
+Annual,Number,Linha de Sines (Ermidas - Sado - PK Extremo da Linha de Sines),Goods trains,5755.0
+Annual,Number,Linha de Sines (Ermidas - Sado - PK Extremo da Linha de Sines),Other trains,295.0
+Annual,Number,Linha de Sines (Ermidas - Sado - PK Extremo da Linha de Sines),Passenger trains,2.0
+Annual,Number,Linha de Évora (Casa Branca - PK Extremo da Linha de Évora),Goods trains,485.0
+Annual,Number,Linha de Évora (Casa Branca - PK Extremo da Linha de Évora),Other trains,96.0
+Annual,Number,Linha de Évora (Casa Branca - PK Extremo da Linha de Évora),Passenger trains,4241.0
+Annual,Number,Linha do Algarve (Lagos - PK Extremo da Linha do Algarve),Goods trains,1381.0
+Annual,Number,Linha do Algarve (Lagos - PK Extremo da Linha do Algarve),Other trains,1280.0
+Annual,Number,Linha do Algarve (Lagos - PK Extremo da Linha do Algarve),Passenger trains,20455.0
+Annual,Number,Concordância de Poceirão (Bifurcação do Poceirão - Descendente - Bifurcação de Águas de Moura - Sul),Goods trains,10708.0
+Annual,Number,Concordância de Poceirão (Bifurcação do Poceirão - Descendente - Bifurcação de Águas de Moura - Sul),Other trains,806.0
+Annual,Number,Concordância de Poceirão (Bifurcação do Poceirão - Descendente - Bifurcação de Águas de Moura - Sul),Passenger trains,3497.0
+Annual,Number,Concordância de Verride (Agulha 1 da Amieira - Bifurcação de Verride),Goods trains,4488.0
+Annual,Number,Concordância de Verride (Agulha 1 da Amieira - Bifurcação de Verride),Other trains,75.0
+Annual,Number,Concordância de Verride (Agulha 1 da Amieira - Bifurcação de Verride),Passenger trains,2.0
+Annual,Number,Concordância de Agualva (PK de Inicio Concordância Agualva - Bifurcação de Agualva),Goods trains,8626.0
+Annual,Number,Concordância de Agualva (PK de Inicio Concordância Agualva - Bifurcação de Agualva),Other trains,688.0
+Annual,Number,Concordância de Agualva (PK de Inicio Concordância Agualva - Bifurcação de Agualva),Passenger trains,4.0
+Annual,Number,Concordância de Sete Rios (Sete Rios - Benfica),Goods trains,1860.0
+Annual,Number,Concordância de Sete Rios (Sete Rios - Benfica),Other trains,962.0
+Annual,Number,Concordância de Sete Rios (Sete Rios - Benfica),Passenger trains,111513.0
+Annual,Number,Ramal Louriçal (Inicio Ramal Louriçal - Agulha Celbi/Soporcel),Goods trains,2821.0
+Annual,Number,Ramal Louriçal (Inicio Ramal Louriçal - Agulha Celbi/Soporcel),Other trains,11.0
+Annual,Number,Ramal da Figueira da Foz (Figueira da Foz - Pampilhosa),Goods trains,495.0
+Annual,Number,Ramal da Figueira da Foz (Figueira da Foz - Pampilhosa),Other trains,359.0
+Annual,Number,Ramal da Figueira da Foz (Figueira da Foz - Pampilhosa),Passenger trains,2190.0
+Annual,Number,Concordância Norte do Setil (Bifurcação Norte do Setil - Bifurcação do Setil - Vendas Novas),Goods trains,6088.0
+Annual,Number,Concordância Norte do Setil (Bifurcação Norte do Setil - Bifurcação do Setil - Vendas Novas),Other trains,174.0
+Annual,Number,Concordância Norte do Setil (Bifurcação Norte do Setil - Bifurcação do Setil - Vendas Novas),Passenger trains,111.0
+Annual,Number,Ramal de Neves Corvo (Ourique - PK Extremo Ramal Neves Corvo),Goods trains,1713.0
+Annual,Number,Ramal de Neves Corvo (Ourique - PK Extremo Ramal Neves Corvo),Other trains,403.0

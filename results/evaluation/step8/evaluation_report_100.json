@@ -1,0 +1,382 @@
+{
+  "n": 100,
+  "sampling_frame": [
+    "complementary",
+    "different_aspects",
+    "same_concept",
+    "subtype",
+    "synonym"
+  ],
+  "valid_relationships": 100,
+  "valid_relationship_rate": 1.0,
+  "gold_specific_relationships": 99,
+  "gold_generic_related": 1,
+  "gold_unrelated": 0,
+  "exact_relation_matches": 72,
+  "exact_relation_accuracy": 0.72,
+  "macro_f1": 0.7439,
+  "per_relation": {
+    "complementary": {
+      "support": 21,
+      "predicted_support": 20,
+      "precision": 0.85,
+      "recall": 0.8095,
+      "f1": 0.8293
+    },
+    "different_aspects": {
+      "support": 25,
+      "predicted_support": 25,
+      "precision": 0.68,
+      "recall": 0.68,
+      "f1": 0.68
+    },
+    "same_concept": {
+      "support": 34,
+      "predicted_support": 30,
+      "precision": 0.8,
+      "recall": 0.7059,
+      "f1": 0.75
+    },
+    "subtype": {
+      "support": 14,
+      "predicted_support": 21,
+      "precision": 0.4762,
+      "recall": 0.7143,
+      "f1": 0.5714
+    },
+    "synonym": {
+      "support": 5,
+      "predicted_support": 4,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1": 0.8889
+    }
+  },
+  "by_method": {
+    "automatic_learned_dimension": {
+      "n": 3,
+      "valid_relationship_rate": 1.0,
+      "exact_relation_accuracy": 0.6667
+    },
+    "automatic_same_concept_token_reorder": {
+      "n": 1,
+      "valid_relationship_rate": 1.0,
+      "exact_relation_accuracy": 0.0
+    },
+    "automatic_subtype": {
+      "n": 12,
+      "valid_relationship_rate": 1.0,
+      "exact_relation_accuracy": 0.5
+    },
+    "llm_classification": {
+      "n": 84,
+      "valid_relationship_rate": 1.0,
+      "exact_relation_accuracy": 0.7619
+    }
+  },
+  "by_predicted_relation": {
+    "complementary": {
+      "n": 20,
+      "valid_relationship_rate": 1.0,
+      "exact_relation_accuracy": 0.85
+    },
+    "different_aspects": {
+      "n": 25,
+      "valid_relationship_rate": 1.0,
+      "exact_relation_accuracy": 0.68
+    },
+    "same_concept": {
+      "n": 30,
+      "valid_relationship_rate": 1.0,
+      "exact_relation_accuracy": 0.8
+    },
+    "subtype": {
+      "n": 21,
+      "valid_relationship_rate": 1.0,
+      "exact_relation_accuracy": 0.4762
+    },
+    "synonym": {
+      "n": 4,
+      "valid_relationship_rate": 1.0,
+      "exact_relation_accuracy": 1.0
+    }
+  },
+  "confusion_matrix": {
+    "complementary": {
+      "complementary": 17,
+      "different_aspects": 4,
+      "same_concept": 0,
+      "subtype": 0,
+      "synonym": 0
+    },
+    "different_aspects": {
+      "complementary": 2,
+      "different_aspects": 17,
+      "same_concept": 4,
+      "subtype": 2,
+      "synonym": 0
+    },
+    "related": {
+      "complementary": 0,
+      "different_aspects": 1,
+      "same_concept": 0,
+      "subtype": 0,
+      "synonym": 0
+    },
+    "same_concept": {
+      "complementary": 0,
+      "different_aspects": 1,
+      "same_concept": 24,
+      "subtype": 9,
+      "synonym": 0
+    },
+    "subtype": {
+      "complementary": 1,
+      "different_aspects": 2,
+      "same_concept": 1,
+      "subtype": 10,
+      "synonym": 0
+    },
+    "synonym": {
+      "complementary": 0,
+      "different_aspects": 0,
+      "same_concept": 1,
+      "subtype": 0,
+      "synonym": 4
+    },
+    "unrelated": {
+      "complementary": 0,
+      "different_aspects": 0,
+      "same_concept": 0,
+      "subtype": 0,
+      "synonym": 0
+    }
+  },
+  "errors": [
+    {
+      "id": 9,
+      "measure1": "Electricity prices for household consumers - bi-annual data",
+      "measure2": "Electricity prices for non-household consumers - bi-annual data",
+      "gold_relation": "different_aspects",
+      "predicted_relation": "subtype",
+      "method": "automatic_subtype"
+    },
+    {
+      "id": 10,
+      "measure1": "Women who have experienced violence by a domestic perpetrator, by country of birth",
+      "measure2": "Women who have experienced violence by any perpetrator, by country of birth",
+      "gold_relation": "subtype",
+      "predicted_relation": "different_aspects",
+      "method": "llm_classification"
+    },
+    {
+      "id": 13,
+      "measure1": "Catches - Pacific",
+      "measure2": "Catches - east-central Pacific",
+      "gold_relation": "subtype",
+      "predicted_relation": "same_concept",
+      "method": "llm_classification"
+    },
+    {
+      "id": 16,
+      "measure1": "Persons having no issue when using a website or app of public authorities by level of disability (activity limitation)",
+      "measure2": "Persons using a website or app of public authorities by level of disability (activity limitation)",
+      "gold_relation": "subtype",
+      "predicted_relation": "complementary",
+      "method": "llm_classification"
+    },
+    {
+      "id": 21,
+      "measure1": "Exports of high technology products as a share of total exports, SITC Rev. 4 - %",
+      "measure2": "High-tech exports - Exports of high technology products as a share of total exports (from, SITC Rev. 4)",
+      "gold_relation": "same_concept",
+      "predicted_relation": "subtype",
+      "method": "automatic_subtype"
+    },
+    {
+      "id": 22,
+      "measure1": "House price index - Item weights",
+      "measure2": "House price index - country weights",
+      "gold_relation": "different_aspects",
+      "predicted_relation": "same_concept",
+      "method": "llm_classification"
+    },
+    {
+      "id": 24,
+      "measure1": "Infant mortality by age and sex",
+      "measure2": "Infant mortality rates",
+      "gold_relation": "different_aspects",
+      "predicted_relation": "same_concept",
+      "method": "llm_classification"
+    },
+    {
+      "id": 30,
+      "measure1": "Employment rate by sex, age groups, educational attainment level and household composition (%)",
+      "measure2": "Employment rates by sex, age and educational attainment level (%)",
+      "gold_relation": "same_concept",
+      "predicted_relation": "subtype",
+      "method": "llm_classification"
+    },
+    {
+      "id": 34,
+      "measure1": "Frequency of getting together with relatives or friends by level of disability (activity limitation), sex and age",
+      "measure2": "Persons getting together with family (relatives) or friends by sex, age, level of disability (activity limitation) and frequency",
+      "gold_relation": "same_concept",
+      "predicted_relation": "subtype",
+      "method": "automatic_subtype"
+    },
+    {
+      "id": 36,
+      "measure1": "Permanent crops: number of farms and areas by size of farm (UAA), size of permanent crop area and NUTS 2 regions",
+      "measure2": "Permanent crops: number of farms and areas by size of permanent crop area and NUTS 2 regions",
+      "gold_relation": "same_concept",
+      "predicted_relation": "subtype",
+      "method": "llm_classification"
+    },
+    {
+      "id": 38,
+      "measure1": "Persons in employment by frequency of adapting working time to fulfil work tasks, educational attainment level and professional status",
+      "measure2": "Persons in employment by working time flexibility, educational attainment level and professional status",
+      "gold_relation": "different_aspects",
+      "predicted_relation": "same_concept",
+      "method": "llm_classification"
+    },
+    {
+      "id": 42,
+      "measure1": "People at risk of poverty or social exclusion by age",
+      "measure2": "Persons at risk of poverty or social exclusion",
+      "gold_relation": "same_concept",
+      "predicted_relation": "different_aspects",
+      "method": "llm_classification"
+    },
+    {
+      "id": 48,
+      "measure1": "Pigs-sows: number of farms and heads by economic size of farm (SO in Euro) and size of breeding sow herd",
+      "measure2": "Pigs: number of farms and heads by economic size of farm (SO in Euro) and size of pig herd",
+      "gold_relation": "subtype",
+      "predicted_relation": "different_aspects",
+      "method": "llm_classification"
+    },
+    {
+      "id": 53,
+      "measure1": "Obstacles of innovative and non-innovative enterprises - as highly important and not relevant - by NACE Rev. 2 activity and size class",
+      "measure2": "Strategies of innovative and non-innovative enterprises - as highly important and not relevant - by NACE Rev. 2 activity and size class",
+      "gold_relation": "different_aspects",
+      "predicted_relation": "complementary",
+      "method": "llm_classification"
+    },
+    {
+      "id": 56,
+      "measure1": "Employment by sex, age and detailed economic activity ( NACE Rev. 1.1 two digit level) - 1 000",
+      "measure2": "Employment by sex, age and economic activity ( NACE Rev. 1.1) - 1 000",
+      "gold_relation": "same_concept",
+      "predicted_relation": "subtype",
+      "method": "llm_classification"
+    },
+    {
+      "id": 57,
+      "measure1": "Employment rates by sex, age and educational attainment level (%)",
+      "measure2": "Unemployment rates by sex, age and educational attainment level (%)",
+      "gold_relation": "complementary",
+      "predicted_relation": "different_aspects",
+      "method": "automatic_learned_dimension"
+    },
+    {
+      "id": 59,
+      "measure1": "Product and process innovative enterprises by NACE Rev. 2 activity and size class",
+      "measure2": "Product and process innovative enterprises which introduced innovation by type of innovation, innovation developer, NACE Rev.2 activity and size class",
+      "gold_relation": "same_concept",
+      "predicted_relation": "subtype",
+      "method": "llm_classification"
+    },
+    {
+      "id": 63,
+      "measure1": "Distribution of households by household type - EU-SILC survey",
+      "measure2": "Distribution of population by household types - EU-SILC survey",
+      "gold_relation": "different_aspects",
+      "predicted_relation": "subtype",
+      "method": "automatic_subtype"
+    },
+    {
+      "id": 71,
+      "measure1": "Gross fixed capital formation at current prices",
+      "measure2": "Gross fixed capital formation, current prices",
+      "gold_relation": "synonym",
+      "predicted_relation": "same_concept",
+      "method": "automatic_same_concept_token_reorder"
+    },
+    {
+      "id": 72,
+      "measure1": "Livestock: number of farms and heads of animals by economic size of farm (SO in Euro) and NUTS 2 regions",
+      "measure2": "Type of tenure: number of farms and areas by economic size of farm (SO in Euro) and NUTS 2 regions",
+      "gold_relation": "related",
+      "predicted_relation": "different_aspects",
+      "method": "llm_classification"
+    },
+    {
+      "id": 77,
+      "measure1": "Financial transactions – international data cooperation",
+      "measure2": "Financial transactions – international data cooperation - quarterly data",
+      "gold_relation": "same_concept",
+      "predicted_relation": "subtype",
+      "method": "automatic_subtype"
+    },
+    {
+      "id": 80,
+      "measure1": "Service producer prices - quarterly data",
+      "measure2": "Service producer prices index - quarterly data",
+      "gold_relation": "same_concept",
+      "predicted_relation": "subtype",
+      "method": "automatic_subtype"
+    },
+    {
+      "id": 81,
+      "measure1": "Population with the highest level of education obtained abroad by application for formal recognition of the education in the host country, sex, age, country of educational attainment level and country of birth",
+      "measure2": "Population with the highest level of education obtained abroad by reason for not applying for recognition of the education in the host country, sex, age, educational attainment level and country of educational attainment level",
+      "gold_relation": "complementary",
+      "predicted_relation": "different_aspects",
+      "method": "llm_classification"
+    },
+    {
+      "id": 85,
+      "measure1": "Causes of death by NUTS 2 regions - crude death rate",
+      "measure2": "Causes of death by NUTS 2 regions - standardised death rate, 3 year average",
+      "gold_relation": "different_aspects",
+      "predicted_relation": "same_concept",
+      "method": "llm_classification"
+    },
+    {
+      "id": 88,
+      "measure1": "Table grape vines - Area by age and density classes (area in ha)",
+      "measure2": "Table grape vines - Area by density classes (area in ha)",
+      "gold_relation": "same_concept",
+      "predicted_relation": "subtype",
+      "method": "llm_classification"
+    },
+    {
+      "id": 91,
+      "measure1": "At-risk-of-poverty rate after social transfers by sex",
+      "measure2": "Proportion of persons at risk of relative poverty, before social transfers by sex",
+      "gold_relation": "complementary",
+      "predicted_relation": "different_aspects",
+      "method": "llm_classification"
+    },
+    {
+      "id": 94,
+      "measure1": "Persons not participating in cultural or sport activities in the last 12 months by sex, age, level of disability (activity limitation), activity type and reasons",
+      "measure2": "Persons participating in cultural or sport activities by sex, age, level of disability (activity limitation), activity type and frequency",
+      "gold_relation": "complementary",
+      "predicted_relation": "different_aspects",
+      "method": "llm_classification"
+    },
+    {
+      "id": 99,
+      "measure1": "Enterprises needing guarantee in obtaining loan finance, by type of enterprise and NACE Rev. 2 activity",
+      "measure2": "Typical guarantors in obtaining loan finance, by type of enterprise and NACE Rev. 2",
+      "gold_relation": "different_aspects",
+      "predicted_relation": "complementary",
+      "method": "llm_classification"
+    }
+  ],
+  "note": "The evaluation sample contains predictions from the five specific semantic relation types. The generic 'related' prediction is excluded from sampling, while manual gold labels may still be 'related' or 'unrelated'."
+}

@@ -1,0 +1,91 @@
+Time frequency,Age class,Quantile,Geopolitical entity (reporting)\Time,1995.0,1996.0,1997.0,1998.0,1999.0,2000.0,2001.0
+Annual,Total,First quintile,Austria,15.0,13.0,14.0,14.0,14.0,13.0,13.0
+Annual,Total,First quintile,Belgium,9.0,10.0,9.0,9.0,9.0,9.0,9.0
+Annual,Total,First quintile,Germany,27.0,26.0,24.0,24.0,23.0,24.0,27.0
+Annual,Total,First quintile,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",18 e,17 e,17 e,17 e,16 e,16 e,17 e
+Annual,Total,First quintile,Greece,17.0,15.0,16.0,16.0,15.0,15.0,13.0
+Annual,Total,First quintile,Spain,16.0,14.0,15.0,14.0,13.0,16.0,15.0
+Annual,Total,First quintile,European Union - 15 countries (1995-2004),17 e,17 e,16 e,17 e,18 e,16 e,17 e
+Annual,Total,First quintile,Finland,:,15.0,11.0,13.0,12.0,12.0,13.0
+Annual,Total,First quintile,France,12.0,12.0,12.0,13.0,12.0,12.0,13.0
+Annual,Total,First quintile,Ireland,4.0,4.0,7.0,7.0,6.0,5.0,7.0
+Annual,Total,First quintile,Italy,16.0,16.0,14.0,15.0,13.0,14.0,14.0
+Annual,Total,First quintile,Luxembourg,12.0,15.0,:,:,:,:,:
+Annual,Total,First quintile,Netherlands,7.0,6.0,7.0,7.0,8.0,9.0,7.0
+Annual,Total,First quintile,Portugal,33.0,38.0,39.0,35.0,34.0,31.0,31.0
+Annual,Total,First quintile,United Kingdom,10.0,13 u,14.0,15.0,31.0,15.0,16.0
+Annual,Total,Fifth quintile,Austria,6.0,4.0,3.0,4.0,4.0,3.0,3.0
+Annual,Total,Fifth quintile,Belgium,2.0,3.0,2.0,2.0,3.0,1.0,3.0
+Annual,Total,Fifth quintile,Germany,15.0,16.0,14.0,15.0,15.0,14.0,16.0
+Annual,Total,Fifth quintile,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",8 e,8 e,8 e,8 e,8 e,7 e,8 e
+Annual,Total,Fifth quintile,Greece,3.0,4.0,3.0,3.0,3.0,3.0,2.0
+Annual,Total,Fifth quintile,Spain,6.0,5.0,5.0,4.0,4.0,4.0,3.0
+Annual,Total,Fifth quintile,European Union - 15 countries (1995-2004),7 e,7 e,7 e,7 e,8 e,7 e,7 e
+Annual,Total,Fifth quintile,Finland,:,6.0,4 u,3 u,4.0,5.0,3.0
+Annual,Total,Fifth quintile,France,5.0,4.0,5.0,5.0,4.0,4.0,5.0
+Annual,Total,Fifth quintile,Ireland,2.0,1.0,2.0,1.0,1.0,1.0,1.0
+Annual,Total,Fifth quintile,Italy,8.0,7.0,7.0,7.0,7.0,7.0,8.0
+Annual,Total,Fifth quintile,Luxembourg,1.0,1.0,:,:,:,:,:
+Annual,Total,Fifth quintile,Netherlands,3.0,3.0,2.0,2.0,3.0,3.0,3.0
+Annual,Total,Fifth quintile,Portugal,8.0,11.0,9.0,11.0,9.0,8.0,8.0
+Annual,Total,Fifth quintile,United Kingdom,2 u,2 u,5.0,5.0,10.0,5.0,5.0
+Annual,From 16 to 64 years,First quintile,Austria,8.0,7.0,7.0,7.0,6.0,6.0,7.0
+Annual,From 16 to 64 years,First quintile,Belgium,6.0,8.0,7.0,7.0,7.0,5.0,6.0
+Annual,From 16 to 64 years,First quintile,Germany,21.0,19.0,19.0,19.0,18.0,18.0,23.0
+Annual,From 16 to 64 years,First quintile,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",13 e,12 e,12 e,12 e,11 e,12 e,13 e
+Annual,From 16 to 64 years,First quintile,Greece,9.0,7.0,8.0,8.0,6.0,8.0,6.0
+Annual,From 16 to 64 years,First quintile,Spain,11.0,10.0,10.0,9.0,8.0,10.0,9.0
+Annual,From 16 to 64 years,First quintile,European Union - 15 countries (1995-2004),12 e,12 e,11 e,12 e,13 e,12 e,13 e
+Annual,From 16 to 64 years,First quintile,Finland,:,8.0,6 u,8.0,5.0,5.0,6.0
+Annual,From 16 to 64 years,First quintile,France,9.0,9.0,9.0,10.0,8.0,9.0,10.0
+Annual,From 16 to 64 years,First quintile,Ireland,3.0,3.0,5.0,5.0,5.0,4.0,5.0
+Annual,From 16 to 64 years,First quintile,Italy,10.0,8.0,7.0,8.0,7.0,9.0,7.0
+Annual,From 16 to 64 years,First quintile,Luxembourg,11.0,13.0,:,:,:,:,:
+Annual,From 16 to 64 years,First quintile,Netherlands,5.0,5.0,6.0,6.0,7.0,8.0,6.0
+Annual,From 16 to 64 years,First quintile,Portugal,22.0,25.0,26.0,22.0,20.0,18.0,19.0
+Annual,From 16 to 64 years,First quintile,United Kingdom,8 u,11 u,12.0,14.0,27.0,13.0,14.0
+Annual,From 16 to 64 years,Fifth quintile,Austria,5.0,3.0,2.0,3.0,2.0,2.0,1.0
+Annual,From 16 to 64 years,Fifth quintile,Belgium,2.0,2.0,1.0,1.0,2.0,1.0,2.0
+Annual,From 16 to 64 years,Fifth quintile,Germany,12.0,14.0,11.0,12.0,13.0,11.0,11.0
+Annual,From 16 to 64 years,Fifth quintile,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",6 e,6 e,5 e,5 e,6 e,5 e,5 e
+Annual,From 16 to 64 years,Fifth quintile,Greece,2.0,1.0,1.0,1.0,1.0,1.0,1.0
+Annual,From 16 to 64 years,Fifth quintile,Spain,2.0,3.0,2.0,2.0,2.0,2.0,2.0
+Annual,From 16 to 64 years,Fifth quintile,European Union - 15 countries (1995-2004),5 e,5 e,5 e,5 e,6 e,5 e,5 e
+Annual,From 16 to 64 years,Fifth quintile,Finland,:,4.0,3 u,3 u,4.0,4.0,2.0
+Annual,From 16 to 64 years,Fifth quintile,France,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+Annual,From 16 to 64 years,Fifth quintile,Ireland,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+Annual,From 16 to 64 years,Fifth quintile,Italy,4.0,3.0,4.0,4.0,4.0,4.0,4.0
+Annual,From 16 to 64 years,Fifth quintile,Luxembourg,1.0,1.0,:,:,:,:,:
+Annual,From 16 to 64 years,Fifth quintile,Netherlands,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Annual,From 16 to 64 years,Fifth quintile,Portugal,6.0,7.0,5.0,8.0,6.0,5.0,6.0
+Annual,From 16 to 64 years,Fifth quintile,United Kingdom,2 u,2 u,5.0,5.0,10.0,5.0,5.0
+Annual,65 years or over,First quintile,Austria,31.0,28.0,29.0,28.0,29.0,29.0,26.0
+Annual,65 years or over,First quintile,Belgium,14.0,15.0,13.0,14.0,14.0,15.0,13.0
+Annual,65 years or over,First quintile,Germany,47.0,48.0,39.0,43.0,39.0,38.0,37.0
+Annual,65 years or over,First quintile,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",38 e,37 e,33 e,35 e,33 e,32 e,32 e
+Annual,65 years or over,First quintile,Greece,31.0,30.0,29.0,30.0,30.0,27.0,25.0
+Annual,65 years or over,First quintile,Spain,40.0,35.0,38.0,38.0,34.0,33.0,33.0
+Annual,65 years or over,First quintile,European Union - 15 countries (1995-2004),33 e,33 e,30 e,31 e,34 e,30 e,29 e
+Annual,65 years or over,First quintile,Finland,:,30.0,23.0,24.0,25.0,23.0,25.0
+Annual,65 years or over,First quintile,France,22.0,21.0,21.0,22.0,24.0,20.0,20.0
+Annual,65 years or over,First quintile,Ireland,9.0,9.0,15.0,12.0,8.0,8.0,12.0
+Annual,65 years or over,First quintile,Italy,48.0,46.0,41.0,42.0,41.0,41.0,40.0
+Annual,65 years or over,First quintile,Luxembourg,17.0,28 u,:,:,:,:,:
+Annual,65 years or over,First quintile,Netherlands,12.0,13.0,12.0,11.0,13.0,19.0,16.0
+Annual,65 years or over,First quintile,Portugal,57.0,66.0,65.0,62.0,64.0,60.0,60.0
+Annual,65 years or over,First quintile,United Kingdom,13.0,16.0,16.0,18.0,40.0,18.0,20.0
+Annual,65 years or over,Fifth quintile,Austria,21.0,12.0,11.0,15.0,14.0,12.0,16.0
+Annual,65 years or over,Fifth quintile,Belgium,5.0,11.0,11.0,9.0,9.0,2.0,8.0
+Annual,65 years or over,Fifth quintile,Germany,32.0,30.0,29.0,30.0,28.0,30.0,38.0
+Annual,65 years or over,Fifth quintile,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",25 e,22 e,22 e,21 e,19 e,20 e,22 e
+Annual,65 years or over,Fifth quintile,Greece,13.0,16.0,13.0,17.0,13.0,12.0,9.0
+Annual,65 years or over,Fifth quintile,Spain,27.0,20.0,22.0,15.0,17.0,14.0,11.0
+Annual,65 years or over,Fifth quintile,European Union - 15 countries (1995-2004),21 e,19 e,19 e,18 e,18 e,17 e,19 e
+Annual,65 years or over,Fifth quintile,Finland,:,20 u,14 u,12 u,11 u,12.0,9.0
+Annual,65 years or over,Fifth quintile,France,14.0,12.0,14.0,13.0,9.0,13.0,14.0
+Annual,65 years or over,Fifth quintile,Ireland,10.0,2.0,6.0,5.0,4.0,6.0,2.0
+Annual,65 years or over,Fifth quintile,Italy,33.0,26.0,27.0,26.0,25.0,23.0,29.0
+Annual,65 years or over,Fifth quintile,Luxembourg,0 u,2 u,:,:,:,:,:
+Annual,65 years or over,Fifth quintile,Netherlands,7.0,5.0,5.0,6.0,6.0,6.0,6.0
+Annual,65 years or over,Fifth quintile,Portugal,33.0,42.0,38.0,32.0,30.0,32.0,30.0
+Annual,65 years or over,Fifth quintile,United Kingdom,4.0,3.0,6.0,5.0,15.0,8.0,6.0

@@ -1,0 +1,55 @@
+Time frequency,Unit of measure,Sex,Age class,Geopolitical entity (reporting)\Time,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0
+Annual,Rate,Females,From 15 to 24 years,Armenia,59.2 d,63.4 d,69.4 b,43.2 bd,47.2,48.0,44.9,40.7,41.5,44.9,37.2,46.0,45.0,39.0 bd,34.4,33.3,33.6,31.6
+Annual,Rate,Females,From 15 to 24 years,Azerbaijan,16.2,14.3,11.7,12.1,15.1,16.0,15.2,16.3,15.6,15.9,15.8,15.1,14.9,14.7,12.9,18.0,16.6,15.3
+Annual,Rate,Females,From 15 to 24 years,Belarus,:,:,:,:,:,:,:,:,:,:,:,8.5,7.2,8.4,7.3,10.1,:,:
+Annual,Rate,Females,From 15 to 24 years,Georgia,34.0,35.5,44.7,42.6,47.3,42.7,43.9,38.7,39.5,31.1,37.6,30.4,32.7,35.3,32.9,38.2 b,40.5,38.8
+Annual,Rate,Females,From 15 to 24 years,Moldova,18.3 e,15.9 e,13.8,12.4,15.0,15.0,15.8,13.4,12.7,10.0 bd,12.8,11.6,13.3,6.8,9.4 bd,12.3,9.6,12.6
+Annual,Rate,Females,From 15 to 24 years,Ukraine,14.4,15.3,12.5,13.6,15.1,16.7,18.7,16.1,16.3,22.4 d,21.9 d,21.5 d,17.0 d,19.3 d,15.3 d,18.5 d,20.3 d,:
+Annual,Rate,Females,From 15 to 74 years,Armenia,38.4 d,34.9 d,37.3 bd,19.8 bd,21.0 d,22.3 d,18.0 d,19.1 d,18.8 d,19.5,19.5,17.8,17.5,20.4 bd,19.3,17.2,15.2,13.8
+Annual,Rate,Females,From 15 to 74 years,Azerbaijan,7.3,6.3,5.5,5.5,6.6,6.9,6.4,6.1,5.9,5.8,5.9,6.0,5.9,5.8,5.8,8.4,7.0,6.5
+Annual,Rate,Females,From 15 to 74 years,Belarus,2.2 d,1.8 d,1.3 d,1.1 d,1.0 d,0.8 d,0.7 d,0.6 d,0.4 d,0.4 d,0.6 d,4.2,4.0,3.6,3.2,3.3,:,:
+Annual,Rate,Females,From 15 to 74 years,Georgia,13.9 d,13.3 d,16.5 d,17.6 d,16.9 d,15.5 d,15.3 d,16.1 d,14.6 d,12.3 d,12.4 d,10.9 d,12.7 d,11.2 d,10.1 d,16.2 bd,17.8 d,14.6 d
+Annual,Rate,Females,From 15 to 74 years,Moldova,6.0 e,5.7 e,4.0,3.4,4.9,5.7,5.6,4.3,4.1,2.9 bd,3.5,2.8,3.2,2.4,4.4 bd,3.3,2.5,2.6
+Annual,Rate,Females,From 15 to 74 years,Ukraine,6.8 d,6.6 d,6.0 d,6.1 d,7.3 d,6.8 d,6.8 d,6.4 d,6.2 d,7.5 d,8.1 d,7.7 d,7.7 d,7.4 d,7.9 d,9.1 d,10.1 d,:
+Annual,Rate,Females,From 25 to 74 years,Armenia,:,:,:,:,:,:,:,:,:,16.2,17.2,14.9,14.7,18.1 bd,17.6,15.8,13.7,12.5
+Annual,Rate,Females,From 25 to 74 years,Azerbaijan,5.2,4.5,4.3,4.4,5.2,5.5,5.2,4.7,4.6,4.5,4.6,4.8,4.7,4.7,4.9,7.3,5.8,5.4
+Annual,Rate,Females,From 25 to 74 years,Belarus,:,:,:,:,:,:,:,:,:,:,:,3.8,3.7,3.1,2.8,2.7,:,:
+Annual,Rate,Females,From 25 to 74 years,Georgia,12.3 d,11.4 d,14.0 d,15.3 d,14.0 d,13.0 d,12.5 d,14.1 d,12.5 d,10.9 d,10.6 d,9.6 d,11.0 d,9.4 d,8.6 d,14.4 bd,15.9 d,12.9 d
+Annual,Rate,Females,From 25 to 74 years,Moldova,4.7,4.6,2.9,2.4,3.8,4.7,4.5,3.4,3.4,2.4 bd,2.7,2.1,2.6,2.1,4.1 bd,2.8,2.2,2.2
+Annual,Rate,Females,From 25 to 74 years,Ukraine,5.8 d,5.4 d,5.1 d,5.0 d,6.3 d,5.7 d,5.4 d,5.4 d,5.2 d,6.1 d,6.9 d,6.6 d,7.1 d,6.6 d,7.3 d,8.5 d,9.5 d,:
+Annual,Rate,Males,From 15 to 24 years,Armenia,51.4 d,50.0 d,47.2 b,32.1 bd,36.1,31.9,35.0,31.5,31.8,30.7,28.6,29.8,33.1,29.0 bd,31.2,31.6,28.0,24.3
+Annual,Rate,Males,From 15 to 24 years,Azerbaijan,14.6,15.2,15.3,15.6,12.9,13.9,14.2,12.2,12.0,11.5,11.4,11.3,11.1,11.0,10.4,13.0,12.9,12.1
+Annual,Rate,Males,From 15 to 24 years,Belarus,:,:,:,:,:,:,:,:,:,:,:,12.7,11.2,12.7,12.9,13.8,:,:
+Annual,Rate,Males,From 15 to 24 years,Georgia,29.6,32.1,34.9,34.5,36.4,35.1,37.3,34.6,38.6,36.6,31.7,34.6,26.3,26.7,28.9,40.1 b,44.3,39.8
+Annual,Rate,Males,From 15 to 24 years,Moldova,19.1 e,18.0 e,14.9,10.2,15.8,20.0,14.2,12.8,11.9,8.9 bd,12.0,10.5,10.9,7.4,11.1 bd,9.9,9.0,9.4
+Annual,Rate,Males,From 15 to 24 years,Ukraine,15.2,13.2,12.4,13.1,19.8,17.8,18.6,18.1,18.2,23.7 d,22.7 d,24.0 d,20.3 d,16.9 d,15.5 d,19.9 d,18.0 d,:
+Annual,Rate,Males,From 15 to 74 years,Armenia,26.5 d,22.5 d,22.8 bd,14.9 bd,18.4 d,17.6 d,15.3 d,16.9 d,14.9 d,15.8,17.6,18.2,18.1,17.9 bd,17.5,19.1,15.7,13.2
+Annual,Rate,Males,From 15 to 74 years,Azerbaijan,7.2,6.9,7.1,6.1,4.9,4.4,4.4,4.3,4.0,4.0,4.1,4.2,4.1,4.1,4.3,6.1,5.1,4.8
+Annual,Rate,Males,From 15 to 74 years,Belarus,1.2 d,1.0 d,0.8 d,0.7 d,0.8 d,0.8 d,0.6 d,0.6 d,0.6 d,0.6 d,1.2 d,7.5,7.2,5.9,5.1,4.8,:,:
+Annual,Rate,Males,From 15 to 74 years,Georgia,16.2 d,17.2 d,18.1 d,18.1 d,19.5 d,19.1 d,19.1 d,18.2 d,19.0 d,16.6 d,15.6 d,16.6 d,15.0 d,13.9 d,12.8 d,20.2 bd,22.7 d,19.3 d
+Annual,Rate,Males,From 15 to 74 years,Moldova,8.7 e,8.9 e,6.3,4.6,7.8,9.1,7.7,6.8,6.0,4.5 bd,5.9,5.3,4.6,3.5,5.8 bd,4.3,3.9,3.6
+Annual,Rate,Males,From 15 to 74 years,Ukraine,7.5 d,7.0 d,6.7 d,6.6 d,10.3 d,9.3 d,8.8 d,8.5 d,8.0 d,10.8 d,10.1 d,10.8 d,11.1 d,10.0 d,8.5 d,9.8 d,9.5 d,:
+Annual,Rate,Males,From 25 to 74 years,Armenia,:,:,:,:,:,:,:,:,:,13.6,16.0,16.7,16.3,16.6 bd,15.9,17.8,14.6,12.1
+Annual,Rate,Males,From 25 to 74 years,Azerbaijan,5.5,5.1,5.5,4.4,3.6,2.9,3.0,3.2,2.9,2.9,3.0,3.2,3.1,3.1,3.5,5.2,4.1,3.8
+Annual,Rate,Males,From 25 to 74 years,Belarus,:,:,:,:,:,:,:,:,:,:,:,6.9,6.8,5.3,4.4,3.9,:,:
+Annual,Rate,Males,From 25 to 74 years,Georgia,14.5 d,15.3 d,16.0 d,15.9 d,17.3 d,16.8 d,16.4 d,15.8 d,16.1 d,13.9 d,13.6 d,14.6 d,13.7 d,12.5 d,11.1 d,18.0 bd,20.6 d,17.3 d
+Annual,Rate,Males,From 25 to 74 years,Moldova,7.3,7.6,5.1,3.8,6.7,7.5,6.9,6.1,5.3,4.0 bd,5.3,4.8,4.0,3.1,5.4 bd,3.9,3.5,3.2
+Annual,Rate,Males,From 25 to 74 years,Ukraine,6.2 d,5.9 d,5.6 d,5.4 d,8.7 d,8.0 d,7.3 d,7.2 d,6.8 d,9.3 d,8.7 d,9.5 d,10.2 d,9.5 d,7.9 d,9.0 d,8.9 d,:
+Annual,Rate,Total,From 15 to 24 years,Armenia,54.6 d,55.9 d,57.6 b,36.5 bd,40.9,38.9,39.2,35.4,36.1,37.2,32.5,36.6,38.4,33.5 bd,32.6,32.3,30.5,27.1
+Annual,Rate,Total,From 15 to 24 years,Azerbaijan,15.4,14.7,13.6,14.0,13.9,14.9,14.7,14.2,13.7,13.5,13.4,13.1,12.9,12.7,11.5,15.2,14.6,13.6
+Annual,Rate,Total,From 15 to 24 years,Belarus,:,:,:,:,:,:,:,:,:,:,:,10.7,9.3,10.7,10.2,12.0,:,:
+Annual,Rate,Total,From 15 to 24 years,Georgia,31.2,33.4,38.8,37.5,40.7,37.9,39.8,36.1,38.9,34.8,33.8,33.2,28.9,29.9,30.4,39.4 b,42.9,39.4
+Annual,Rate,Total,From 15 to 24 years,Moldova,18.7 e,17.1 e,14.4,11.2,15.4,17.8,14.9,13.1,12.2,9.3 bd,12.3,11.0,11.9,7.1,10.4 bd,10.9,9.2,10.7
+Annual,Rate,Total,From 15 to 24 years,Ukraine,14.9,14.1,12.5,13.3,17.8,17.4,18.6,17.3,17.4,23.1 d,22.4 d,23.0 d,18.9 d,17.9 d,15.4 d,19.3 d,19.1 d,:
+Annual,Rate,Total,From 15 to 74 years,Armenia,31.8 d,28.1 d,30.0 bd,17.2 bd,19.6 d,19.8 d,16.6 d,17.9 d,16.9 d,17.6,18.5,18.0,17.8,19.0 bd,18.3,18.2,15.5,13.5
+Annual,Rate,Total,From 15 to 74 years,Azerbaijan,7.3,6.6,6.3,5.9,5.7,5.6,5.4,5.2,5.0,4.9,5.0,5.0,5.0,4.9,5.0,7.2,6.0,5.6
+Annual,Rate,Total,From 15 to 74 years,Belarus,1.7 d,1.4 d,1.1 d,0.9 d,0.9 d,0.8 d,0.7 d,0.6 d,0.5 d,0.5 d,0.9 d,5.8,5.6,4.8,4.2,4.0,:,:
+Annual,Rate,Total,From 15 to 74 years,Georgia,15.1 d,15.4 d,17.4 d,17.9 d,18.3 d,17.4 d,17.3 d,17.2 d,16.9 d,14.6 d,14.1 d,14.0 d,13.9 d,12.7 d,11.6 d,18.5 bd,20.6 d,17.3 d
+Annual,Rate,Total,From 15 to 74 years,Moldova,7.3 e,7.4 e,5.1,4.0,6.4,7.4,6.7,5.6,5.1,3.8 bd,4.7,4.0,3.9,2.9,5.1 bd,3.8,3.2,3.1
+Annual,Rate,Total,From 15 to 74 years,Ukraine,7.2 d,6.8 d,6.4 d,6.4 d,8.8 d,8.1 d,7.9 d,7.5 d,7.2 d,9.3 d,9.1 d,9.3 d,9.5 d,8.8 d,8.2 d,9.5 d,9.8 d,:
+Annual,Rate,Total,From 25 to 74 years,Armenia,26.8 d,22.3 d,23.1 bd,13.3 bd,15.4 d,15.9 d,15.4 d,14.8 d,13.6 d,14.9,16.6,15.8,15.6,17.3 bd,16.7,16.9,14.2,12.3
+Annual,Rate,Total,From 25 to 74 years,Azerbaijan,5.3,4.8,4.9,4.4,4.4,4.2,4.1,3.9,3.8,3.7,3.8,3.9,3.9,3.9,4.1,6.2,4.9,4.6
+Annual,Rate,Total,From 25 to 74 years,Belarus,:,:,:,:,:,:,:,:,:,:,:,5.3,5.2,4.2,3.6,3.3,:,:
+Annual,Rate,Total,From 25 to 74 years,Georgia,13.5 d,13.5 d,15.1 d,15.6 d,15.8 d,15.0 d,14.6 d,15.0 d,14.4 d,12.5 d,12.2 d,12.3 d,12.4 d,11.0 d,9.9 d,16.5 bd,18.6 d,15.4 d
+Annual,Rate,Total,From 25 to 74 years,Moldova,5.9 e,6.1 e,4.0,3.1,5.2,6.1,5.6,4.7,4.4,3.2 bd,4.0,3.5,3.3,2.6,4.7 bd,3.4,2.9,2.7
+Annual,Rate,Total,From 25 to 74 years,Ukraine,6.0 d,5.6 d,5.4 d,5.2 d,7.5 d,6.8 d,6.4 d,6.3 d,6.0 d,7.8 d,7.8 d,8.1 d,8.7 d,8.1 d,7.6 d,8.8 d,9.2 d,:

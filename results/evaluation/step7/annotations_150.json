@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "measure": "Employees having a good relationship with their supervisor by sex and age",
+    "gold_domain": "labour",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 2,
+    "measure": "Direct investment liabilities (stocks) - annual data, % of GDP",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 3,
+    "measure": "Distribution of households by age of the reference person - experimental statistics",
+    "gold_domain": "population",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 4,
+    "measure": "Unit value of imports",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 5,
+    "measure": "Employment and economic activity branches",
+    "gold_domain": "labour",
+    "gold_secondary_domain": "economy"
+  },
+  {
+    "id": 6,
+    "measure": "Vaccination against influenza of population aged 65 and over",
+    "gold_domain": "health",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 7,
+    "measure": "Individuals who have never used a computer",
+    "gold_domain": "science_technology",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 8,
+    "measure": "Water use balance",
+    "gold_domain": "environment",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 9,
+    "measure": "Deaths of residents related to dementias including Alzheimer",
+    "gold_domain": "health",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 10,
+    "measure": "Frequency of alcohol consumption by sex, age and educational attainment level",
+    "gold_domain": "health",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 11,
+    "measure": "General government expenditure by function",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 12,
+    "measure": "Beneficiaries of temporary protection by citizenship - per thousand persons",
+    "gold_domain": "population",
+    "gold_secondary_domain": "social"
+  },
+  {
+    "id": 13,
+    "measure": "Bribery by legal status and sex of the person involved",
+    "gold_domain": "crime",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 14,
+    "measure": "Train traffic on the rail network - Norway",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 15,
+    "measure": "Gender employment gap by degree of urbanisation",
+    "gold_domain": "labour",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 16,
+    "measure": "Agricultural holdings by crops",
+    "gold_domain": "agriculture",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 17,
+    "measure": "At-risk-of-poverty rate for pensioners - EU-SILC survey",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 18,
+    "measure": "Producer price indices, animals and animal products",
+    "gold_domain": "agriculture",
+    "gold_secondary_domain": "economy"
+  },
+  {
+    "id": 19,
+    "measure": "Day-to-day rates for euro area countries - quarterly data",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 20,
+    "measure": "Economic activity",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 21,
+    "measure": "Body mass index (BMI) by sex, age and income quintile",
+    "gold_domain": "health",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 22,
+    "measure": "Persons working as creative and performing artists, authors, journalists and linguists",
+    "gold_domain": "labour",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 23,
+    "measure": "Employed ICT specialists by age",
+    "gold_domain": "labour",
+    "gold_secondary_domain": "science_technology"
+  },
+  {
+    "id": 24,
+    "measure": "Employed persons having more than one job by sex",
+    "gold_domain": "labour",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 25,
+    "measure": "Material deprivation for the 'Housing' dimension, by age, sex and by number of item of deprivation - EU-SILC survey",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 26,
+    "measure": "Greenhouse gases emissions from production activities",
+    "gold_domain": "environment",
+    "gold_secondary_domain": "industry"
+  },
+  {
+    "id": 27,
+    "measure": "Generation of plastic packaging waste per capita",
+    "gold_domain": "environment",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 28,
+    "measure": "Prison capacity and number of persons held",
+    "gold_domain": "crime",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 29,
+    "measure": "Activity rates 15-64 years old by sex",
+    "gold_domain": "labour",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 30,
+    "measure": "Protective functions of forests",
+    "gold_domain": "environment",
+    "gold_secondary_domain": "agriculture"
+  },
+  {
+    "id": 31,
+    "measure": "Private sector debt: debt securities, by sectors, consolidated - % of GDP",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 32,
+    "measure": "Goods transport by inland waterways",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 33,
+    "measure": "Joint Index",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 34,
+    "measure": "Healthy life years by sex",
+    "gold_domain": "health",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 35,
+    "measure": "Income in real terms ( SILC=100)",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 36,
+    "measure": "Employment rate, by citizenship",
+    "gold_domain": "labour",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 37,
+    "measure": "Labour input in construction",
+    "gold_domain": "construction",
+    "gold_secondary_domain": "labour"
+  },
+  {
+    "id": 38,
+    "measure": "Share of people living in under-occupied dwellings by degree of urbanisation - total population - EU-SILC survey",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 39,
+    "measure": "Distribution of digital platform workers (at least one hour in the last month) by price setting - experimental statistics",
+    "gold_domain": "labour",
+    "gold_secondary_domain": "science_technology"
+  },
+  {
+    "id": 40,
+    "measure": "Persons at risk of poverty or social exclusion by tenure status - EU strategy",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 41,
+    "measure": "Power of self-propelled vessels by load capacity",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 42,
+    "measure": "Gross domestic product (GDP) at current market prices by NUTS 3 regions",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 43,
+    "measure": "Severe housing deprivation rate by tenure status",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 44,
+    "measure": "Death due to transport accidents, by sex",
+    "gold_domain": "health",
+    "gold_secondary_domain": "transport"
+  },
+  {
+    "id": 45,
+    "measure": "Exports of goods - other manufactured products",
+    "gold_domain": "economy",
+    "gold_secondary_domain": "industry"
+  },
+  {
+    "id": 46,
+    "measure": "Time spent in total work (paid and unpaid work as main or secondary activity) by sex and by form of work",
+    "gold_domain": "labour",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 47,
+    "measure": "Children (aged 0 to 17) having neither a bath, nor a shower in their dwelling - EU-SILC survey",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 48,
+    "measure": "Self-reported unmet need for medical care by sex",
+    "gold_domain": "health",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 49,
+    "measure": "Persons eligible to vote in the European Parliament elections by category of voters - dedicated data collection",
+    "gold_domain": "population",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 50,
+    "measure": "Goods transported",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 51,
+    "measure": "Population structure by sex",
+    "gold_domain": "population",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 52,
+    "measure": "Tax rate on low wage earners - Low wage trap",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 53,
+    "measure": "Enterprises employing IVT participants by size class - % of all enterprises",
+    "gold_domain": "education",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 54,
+    "measure": "Inability to keep home adequately warm by NUTS regions",
+    "gold_domain": "social",
+    "gold_secondary_domain": "energy"
+  },
+  {
+    "id": 55,
+    "measure": "Unit value of exports",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 56,
+    "measure": "Population having neither a bath, nor a shower, nor indoor flushing toilet in their household by poverty status",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 57,
+    "measure": "Production of milk powder",
+    "gold_domain": "agriculture",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 58,
+    "measure": "Hours spent in CVT courses by NACE Rev. 2 activity - hours per 1000 hours worked in enterprises providing CVT courses",
+    "gold_domain": "education",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 59,
+    "measure": "Passenger railway vehicles by category of vehicle",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 60,
+    "measure": "Mean number of deprivation items among the children deprived (children aged less than 16 years)",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 61,
+    "measure": "Relative incidence rate of accidental injuries at work by severity, frequency of shift work and age (EU mean rate = 100 for each severity)",
+    "gold_domain": "health",
+    "gold_secondary_domain": "labour"
+  },
+  {
+    "id": 62,
+    "measure": "HICP - all items",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 63,
+    "measure": "Erosion",
+    "gold_domain": "environment",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 64,
+    "measure": "Life satisfaction by sex, age, educational attainment and domain",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 65,
+    "measure": "Low-wage earners as a proportion of all employees (excluding apprentices) by age",
+    "gold_domain": "labour",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 66,
+    "measure": "Employment rate of non-EU nationals, age group 20-64",
+    "gold_domain": "labour",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 67,
+    "measure": "Number of work-related health problems by diagnosis group, sex and number of complaints per victim",
+    "gold_domain": "health",
+    "gold_secondary_domain": "labour"
+  },
+  {
+    "id": 68,
+    "measure": "Labour productivity per hour worked - annual data",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 69,
+    "measure": "Imports - electricity - monthly data",
+    "gold_domain": "energy",
+    "gold_secondary_domain": "economy"
+  },
+  {
+    "id": 70,
+    "measure": "Central government bond yields - monthly data",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 71,
+    "measure": "Individuals who have basic or above basic overall digital skills by sex",
+    "gold_domain": "science_technology",
+    "gold_secondary_domain": "education"
+  },
+  {
+    "id": 72,
+    "measure": "Pupils from age 3 to the starting age of compulsory education at primary level by sex - % of the population of the corresponding age",
+    "gold_domain": "education",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 73,
+    "measure": "Out-of-pocket expenditure on healthcare",
+    "gold_domain": "health",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 74,
+    "measure": "Diversity index of energy supply",
+    "gold_domain": "energy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 75,
+    "measure": "Imports of goods and services in % of GDP",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 76,
+    "measure": "Individuals - internet activities",
+    "gold_domain": "science_technology",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 77,
+    "measure": "Implicit tax rate on energy",
+    "gold_domain": "energy",
+    "gold_secondary_domain": "economy"
+  },
+  {
+    "id": 78,
+    "measure": "Grapes by production",
+    "gold_domain": "agriculture",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 79,
+    "measure": "Health impacts of air pollution",
+    "gold_domain": "health",
+    "gold_secondary_domain": "environment"
+  },
+  {
+    "id": 80,
+    "measure": "Persistent at-risk-of-poverty rate by sex and age - EU-SILC and ECHP surveys",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 81,
+    "measure": "Persons having experienced housing difficulties in their life by sex and current risk of poverty or social exclusion situation",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 82,
+    "measure": "Inland waterway transport enterprises by number of vessels",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 83,
+    "measure": "Train traffic on the rail network - Czech Republic",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 84,
+    "measure": "Persons employed in aviation and airport enterprises by sex",
+    "gold_domain": "transport",
+    "gold_secondary_domain": "labour"
+  },
+  {
+    "id": 85,
+    "measure": "BERD by concentration of personnel (ranking)",
+    "gold_domain": "science_technology",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 86,
+    "measure": "Deaths by age and sex",
+    "gold_domain": "population",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 87,
+    "measure": "HICP - energy",
+    "gold_domain": "economy",
+    "gold_secondary_domain": "energy"
+  },
+  {
+    "id": 88,
+    "measure": "Children (aged less than 18) at risk of poverty or social exclusion - EU2030 target",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 89,
+    "measure": "Euro/ECU exchange rates - annual data",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 90,
+    "measure": "New mopeds and motorcycles by type of motor energy",
+    "gold_domain": "transport",
+    "gold_secondary_domain": "energy"
+  },
+  {
+    "id": 91,
+    "measure": "Percentage distribution of types of assistance needed by not employed disabled people by sex",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 92,
+    "measure": "Ammonia emissions from agriculture",
+    "gold_domain": "environment",
+    "gold_secondary_domain": "agriculture"
+  },
+  {
+    "id": 93,
+    "measure": "Practising dentists",
+    "gold_domain": "health",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 94,
+    "measure": "Number of pigs",
+    "gold_domain": "agriculture",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 95,
+    "measure": "Daily smokers of cigarettes by sex, age and educational attainment level",
+    "gold_domain": "health",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 96,
+    "measure": "Population living in households considering that they suffer from noise, by poverty status",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 97,
+    "measure": "Overcrowding rate by tenure status - EU-SILC survey",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 98,
+    "measure": "Passengers (excluding cruise passengers) transported from/to the main ports",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 99,
+    "measure": "Distribution of households by household type - ECHP survey",
+    "gold_domain": "population",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 100,
+    "measure": "Length of railway tracks by electrification of tracks",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 101,
+    "measure": "At-risk-of poverty rate by tenure status - EU-SILC survey",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 102,
+    "measure": "Dispersion around the at-risk-of-poverty threshold - EU-SILC survey",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 103,
+    "measure": "Population connected to Wastewater Treatment",
+    "gold_domain": "environment",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 104,
+    "measure": "Recognised cases of occupational cancers - experimental statistics",
+    "gold_domain": "health",
+    "gold_secondary_domain": "labour"
+  },
+  {
+    "id": 105,
+    "measure": "Financial aid to students",
+    "gold_domain": "education",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 106,
+    "measure": "Gross weight of goods in Ro-ro units transported in short sea shipping from/to the top 5 EU ports for goods in Ro-ro units",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 107,
+    "measure": "Gross fixed capital formation, volumes",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 108,
+    "measure": "Young people neither in employment nor in education and training (15-29 years) - % of the total population in the same age group",
+    "gold_domain": "labour",
+    "gold_secondary_domain": "education"
+  },
+  {
+    "id": 109,
+    "measure": "Households maintaining the same standard of living using savings by duration and risk of poverty threshold",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 110,
+    "measure": "Graduates at doctoral level, in science, math., computing, engineering, manufacturing, construction, by sex - per 1000 of population aged 25-34",
+    "gold_domain": "education",
+    "gold_secondary_domain": "science_technology"
+  },
+  {
+    "id": 111,
+    "measure": "Overcrowding rate by age, sex and poverty status - total population - EU-SILC survey",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 112,
+    "measure": "Unemployment by sex - age group 15-24",
+    "gold_domain": "labour",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 113,
+    "measure": "Hours spent in CVT courses by NACE Rev. 1.1 activity - hours per participant",
+    "gold_domain": "education",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 114,
+    "measure": "Number and length of district networks by type of network and efficiency of network",
+    "gold_domain": "energy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 115,
+    "measure": "Unitisation in inland waterways freight transport - tonne-kilometre for gross-gross weight of goods",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 116,
+    "measure": "The real gross disposable income of households per capita (index = )",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 117,
+    "measure": "Households with access to secure tenure by simplified degree of urbanisation",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 118,
+    "measure": "Severe material deprivation rate by age and sex",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 119,
+    "measure": "Weights of producer prices of agricultural products - survey",
+    "gold_domain": "agriculture",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 120,
+    "measure": "Number of branches in non-EEA countries",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 121,
+    "measure": "Correction coefficients in the European Union (Countries) - index ( = 100)",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 122,
+    "measure": "Unemployment rate",
+    "gold_domain": "labour",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 123,
+    "measure": "Average number of rooms per person by NUTS region",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 124,
+    "measure": "Persons reporting basic activity difficulty by sex, age, level of difficulty and income quintile",
+    "gold_domain": "health",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 125,
+    "measure": "Persons rating their life satisfaction as high, medium or low by sex, age, educational attainment and domain",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 126,
+    "measure": "Median saving rate by activity status of the reference person - experimental statistics",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 127,
+    "measure": "Production of poultry meat in slaughterhouses",
+    "gold_domain": "agriculture",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 128,
+    "measure": "Length of pipelines operated",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 129,
+    "measure": "HICP - inflation rate",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 130,
+    "measure": "Land use footprints",
+    "gold_domain": "environment",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 131,
+    "measure": "Valid permits by reasons - % of total valid permits",
+    "gold_domain": "population",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 132,
+    "measure": "Participation in formal education by degree of urbanisation",
+    "gold_domain": "education",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 133,
+    "measure": "Typical dwelling sizes by type of dwelling in each surveyed city",
+    "gold_domain": "construction",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 134,
+    "measure": "Job mismatches and their labour market effects among school-leavers in Europe",
+    "gold_domain": "labour",
+    "gold_secondary_domain": "education"
+  },
+  {
+    "id": 135,
+    "measure": "Unitisation in maritime freight transport - tonnes for gross weight of goods",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 136,
+    "measure": "HICP - all items excluding energy and unprocessed food",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 137,
+    "measure": "Imports of goods - chemicals and related products",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 138,
+    "measure": "Railway accidents by type of accident - annual data",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 139,
+    "measure": "Rail equipment: number and capacity of railways vehicles",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 140,
+    "measure": "Women who have experienced sexual violence during childhood, by type of perpetrator",
+    "gold_domain": "crime",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 141,
+    "measure": "Material and social deprivation rate by tenure status",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 142,
+    "measure": "Commercial aircraft fleet by age of aircraft and country of registration",
+    "gold_domain": "transport",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 143,
+    "measure": "Domestic producer prices - total industry (excluding construction)",
+    "gold_domain": "industry",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 144,
+    "measure": "Financial account - annual data",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 145,
+    "measure": "Out-of-school rate in population of upper secondary school age, by sex",
+    "gold_domain": "education",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 146,
+    "measure": "Gross value added - NACE Rev. 2: TOTAL - volumes",
+    "gold_domain": "economy",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 147,
+    "measure": "Housing cost overburden rate",
+    "gold_domain": "social",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 148,
+    "measure": "Agricultural holdings by age of holder",
+    "gold_domain": "agriculture",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 149,
+    "measure": "Food waste",
+    "gold_domain": "environment",
+    "gold_secondary_domain": ""
+  },
+  {
+    "id": 150,
+    "measure": "Urban wastewater treatment",
+    "gold_domain": "environment",
+    "gold_secondary_domain": ""
+  }
+]

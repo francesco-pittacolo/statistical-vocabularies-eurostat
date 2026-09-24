@@ -1,0 +1,223 @@
+Time frequency,Degree of urbanisation,Unit of measure,Geopolitical entity (reporting)\Time,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0,2023.0
+Annual,Cities,Percentage,Albania,:,:,:,15.8,11.9,9.6,9.4,10.4,:,:
+Annual,Cities,Percentage,Austria,:,11.4,12.5,12.7,11.6,12.8,10.8,12.5,9.6,10.9
+Annual,Cities,Percentage,Belgium,:,21.9,22.6,22.0,20.0,20.1,17.7,19.1,18.0,16.8
+Annual,Cities,Percentage,Bulgaria,:,5.5,6.3,4.8,4.3,5.3,3.9,4.8,5.1,4.2
+Annual,Cities,Percentage,Switzerland,5.9,6.7,7.5,8.1,9.1,7.7,6.9,7.9,6.3,6.1
+Annual,Cities,Percentage,Cyprus,:,9.3,9.5,8.7,7.8,6.4,5.9,5.5,4.8,4.8
+Annual,Cities,Percentage,Czechia,:,7.4,7.0,6.8,4.8,5.2,5.1,7.0,5.6,5.9
+Annual,Cities,Percentage,Germany,:,13.9,13.4,12.0,11.0,10.1,11.9,13.6,13.3,13.1
+Annual,Cities,Percentage,Denmark,:,16.7,13.8,13.2,12.8,12.0,12.2,11.8,11.6,11.7
+Annual,Cities,Percentage,Euro area - 19 countries  (2015-2022),:,12.7,12.3,11.4,10.5,10.3,11.3,12.0,:,:
+Annual,Cities,Percentage,Euro area – 20 countries (from 2023),13.2,12.7,12.3,11.4,10.5,10.2,11.2,12.0,10.6,10.3
+Annual,Cities,Percentage,Estonia,:,4.8,4.1,4.3,4.6,4.5,4.5,5.0,5.1,5.0
+Annual,Cities,Percentage,Greece,:,16.7,16.6,15.0,14.7,13.0,11.9,11.7,10.1,9.2
+Annual,Cities,Percentage,Spain,:,14.4,14.0,12.2,10.3,10.2,9.0,11.5,8.2,8.6
+Annual,Cities,Percentage,European Union - 27 countries (from 2020),:,11.6,11.2,10.3,9.4,9.2,10.0,10.7,9.5,9.2
+Annual,Cities,Percentage,Finland,:,12.8,14.2,13.5,12.5,11.2,10.3,10.3,11.9 b,10.5
+Annual,Cities,Percentage,France,:,10.0,8.6,9.2,8.8,9.3,12.4,12.4,11.5 b,10.4
+Annual,Cities,Percentage,Croatia,11.0,8.5,9.6,9.3,8.1,7.2,7.5,5.9,4.5,3.8
+Annual,Cities,Percentage,Hungary,:,7.3,5.3,4.8,5.0,4.9,4.6,4.5,4.2,3.8
+Annual,Cities,Percentage,Ireland,:,18.2,14.4,14.4,10.7,11.9 b,10.9,11.2,7.5,9.5
+Annual,Cities,Percentage,Iceland,:,5.3,4.1,3.7,4.7,3.9,:,:,:,:
+Annual,Cities,Percentage,Italy,:,11.6,13.6,12.4,12.2,10.6,13.8,13.6,11.1,10.2
+Annual,Cities,Percentage,Lithuania,:,6.0,5.0,4.9,4.9,3.9,4.0,4.2,4.9,4.4
+Annual,Cities,Percentage,Luxembourg,:,7.0,4.8,6.4,8.3,6.4,7.4,6.1,3.7,3.6
+Annual,Cities,Percentage,Latvia,:,6.4,5.5,5.5,5.9,6.1,6.5,5.7,6.0,5.2
+Annual,Cities,Percentage,North Macedonia,:,:,22.2,17.7,15.9,13.0,12.4,:,:,:
+Annual,Cities,Percentage,Malta,:,9.7,7.1,6.8,5.5,5.0,5.8,6.5,5.1,3.0
+Annual,Cities,Percentage,Netherlands,:,13.9,12.1,11.4,10.7,11.2,11.6,10.3,10.3,9.8
+Annual,Cities,Percentage,Norway,:,7.2,9.8,10.5,10.0,8.3,9.2,11.3 b,10.6,8.9
+Annual,Cities,Percentage,Poland,:,6.6,6.2,5.2,4.6,3.9,3.7,4.0,3.7,3.3
+Annual,Cities,Percentage,Portugal,:,10.5,8.9,8.1,6.7,6.5,4.3,4.8,4.8,5.9
+Annual,Cities,Percentage,Romania,:,4.8,4.1,2.4,2.9,2.0,1.5,1.5,1.4,1.1
+Annual,Cities,Percentage,Serbia,:,16.4,16.9,17.3,13.5,12.1,10.9,11.0,9.7,:
+Annual,Cities,Percentage,Sweden,:,9.0,9.2,8.0,7.0,7.1,7.5,8.9,7.6,8.3
+Annual,Cities,Percentage,Slovenia,:,6.3,6.2,5.1,4.3,5.9,5.2,4.8,5.3,5.4
+Annual,Cities,Percentage,Slovakia,:,2.7,1.8,1.5,1.8,2.6,1.6,3.0,1.8,2.7
+Annual,Cities,Percentage,United Kingdom,:,13.4,12.0,11.3,9.3,:,:,:,:,:
+Annual,Cities,Thousand persons,Albania,:,:,:,123.0,93.0,76.0,79.0,92.0,:,:
+Annual,Cities,Thousand persons,Austria,:,214.0,241.0,255.0,243.0,265.0,226.0,266.0,206.0,239.0
+Annual,Cities,Thousand persons,Belgium,:,570.0,566.0,535.0,504.0,534.0,485.0,529.0,495.0,468.0
+Annual,Cities,Thousand persons,Bulgaria,:,132.0,148.0,112.0,105.0,127.0,92.0,110.0,115.0,89.0
+Annual,Cities,Thousand persons,Switzerland,101.0,116.0,137.0,159.0,183.0,145.0,135.0,157.0,123.0,124.0
+Annual,Cities,Thousand persons,Cyprus,:,32.0,33.0,31.0,28.0,24.0,25.0,24.0,21.0,22.0
+Annual,Cities,Thousand persons,Czechia,:,172.0,164.0,160.0,114.0,124.0,124.0,174.0,134.0,144.0
+Annual,Cities,Thousand persons,Germany,:,2959.0,2899.0,2660.0,2437.0,2251.0,2906.0,3318.0,3290.0,3350.0
+Annual,Cities,Thousand persons,Denmark,:,249.0,196.0,190.0,187.0,204.0,203.0,199.0,193.0,189.0
+Annual,Cities,Thousand persons,Euro area - 19 countries  (2015-2022),:,1927.0,1893.0,1786.0,1642.0,1477.0,1823.0,2001.0,:,:
+Annual,Cities,Thousand persons,Euro area – 20 countries (from 2023),13537.0,12624.0,12536.0,11787.0,10929.0,10089.0,11589.0,2014.0,11175.0,11034.0
+Annual,Cities,Thousand persons,Estonia,:,21.0,18.0,19.0,27.0,28.0,27.0,22.0,20.0,22.0
+Annual,Cities,Thousand persons,Greece,:,507.0,516.0,456.0,457.0,371.0,333.0,349.0,308.0,293.0
+Annual,Cities,Thousand persons,Spain,:,2663.0,2595.0,2258.0,1869.0,1832.0,1670.0,2320.0,1628.0,1726.0
+Annual,Cities,Thousand persons,European Union - 27 countries (from 2020),:,1600.0,1577.0,1480.0,1360.0,1209.0,1492.0,1662.0,12367.0,12171.0
+Annual,Cities,Thousand persons,Finland,:,197.0,224.0,211.0,204.0,180.0,165.0,169.0,195 b,174.0
+Annual,Cities,Thousand persons,France,:,2039.0,1786.0,1980.0,1950.0,1549.0,2306.0,2263.0,2140 b,1971.0
+Annual,Cities,Thousand persons,Croatia,82.0,62.0,75.0,73.0,68.0,61.0,63.0,52.0,38.0,32.0
+Annual,Cities,Thousand persons,Hungary,:,159.0,114.0,109.0,115.0,113.0,104.0,102.0,100.0,92.0
+Annual,Cities,Thousand persons,Ireland,:,237.0,198.0,212.0,161.0,174 b,150.0,163.0,113.0,140.0
+Annual,Cities,Thousand persons,Iceland,:,9.0,7.0,7.0,9.0,7.0,:,:,:,:
+Annual,Cities,Thousand persons,Italy,:,1766.0,2101.0,1885.0,1851.0,1638.0,2101.0,2081.0,1674.0,1547.0
+Annual,Cities,Thousand persons,Lithuania,:,57.0,47.0,46.0,46.0,37.0,37.0,39.0,45.0,42.0
+Annual,Cities,Thousand persons,Luxembourg,:,4.0,4.0,5.0,6.0,6.0,7.0,6.0,4.0,4.0
+Annual,Cities,Thousand persons,Latvia,:,40.0,34.0,34.0,36.0,38.0,40.0,34.0,34.0,26.0
+Annual,Cities,Thousand persons,North Macedonia,:,:,100.0,88.0,85.0,72.0,72.0,:,:,:
+Annual,Cities,Thousand persons,Malta,:,29.0,22.0,21.0,18.0,17.0,20.0,12.0,9.0,6.0
+Annual,Cities,Thousand persons,Netherlands,:,818.0,837.0,805.0,766.0,806.0,836.0,740.0,753.0,735.0
+Annual,Cities,Thousand persons,Norway,:,78.0,105.0,119.0,117.0,99.0,118.0,146 b,138.0,119.0
+Annual,Cities,Thousand persons,Poland,:,608.0,574.0,502.0,440.0,378.0,347.0,386.0,341.0,304.0
+Annual,Cities,Thousand persons,Portugal,:,364.0,306.0,272.0,230.0,224.0,151.0,172.0,170.0,216.0
+Annual,Cities,Thousand persons,Romania,:,231.0,182.0,100.0,120.0,83.0,62.0,64.0,61.0,48.0
+Annual,Cities,Thousand persons,Serbia,:,302.0,302.0,299.0,238.0,213.0,188.0,195.0,163.0,:
+Annual,Cities,Thousand persons,Sweden,:,232.0,240.0,242.0,213.0,226.0,236.0,285.0,248.0,271.0
+Annual,Cities,Thousand persons,Slovenia,:,17.0,18.0,14.0,12.0,17.0,15.0,14.0,15.0,15.0
+Annual,Cities,Thousand persons,Slovakia,:,26.0,16.0,13.0,15.0,23.0,14.0,27.0,17.0,23.0
+Annual,Cities,Thousand persons,United Kingdom,:,3812.0,3598.0,3457.0,2869.0,:,:,:,:,:
+Annual,Towns and suburbs,Percentage,Albania,:,:,:,13.0,14.8,13.3,13.1,12.6,:,:
+Annual,Towns and suburbs,Percentage,Austria,:,5.0,5.1,5.2,4.9,4.4,4.6,5.6,4.8,3.7
+Annual,Towns and suburbs,Percentage,Belgium,:,11.9,11.9,11.1,9.2,9.0,9.8,7.9,7.6,7.0
+Annual,Towns and suburbs,Percentage,Bulgaria,:,7.6,8.1,10.2,7.5,7.8,9.6,7.8,8.9,7.4
+Annual,Towns and suburbs,Percentage,Switzerland,4.7,5.2,4.8,4.8,5.2,6.1,5.6,5.2,5.9,4.4
+Annual,Towns and suburbs,Percentage,Cyprus,:,11.9,10.9,8.3,7.7,5.7,3.9,4.3,2.4,4.0
+Annual,Towns and suburbs,Percentage,Czechia,:,8.7,7.9,5.9,4.8,4.6,4.8,5.7,5.3,5.3
+Annual,Towns and suburbs,Percentage,Germany,:,7.5,7.8,7.1,6.6,6.7,6.7,7.6,8.3,8.9
+Annual,Towns and suburbs,Percentage,Denmark,:,7.2,9.9,8.8,9.0,6.9,7.9,8.3,6.5,8.0
+Annual,Towns and suburbs,Percentage,Euro area - 19 countries  (2015-2022),:,10.0,10.1,9.1,8.4,8.1,8.2,9.2,:,:
+Annual,Towns and suburbs,Percentage,Euro area – 20 countries (from 2023),10.2,10.1,10.1,9.1,8.4,8.0,8.2,9.3,8.9,8.5
+Annual,Towns and suburbs,Percentage,Estonia,:,5.8,5.0,4.5,4.4,3.8,2.6,5.5,5.9,6.1
+Annual,Towns and suburbs,Percentage,Greece,:,15.8,16.2,15.0,13.0,12.2,11.5,11.6,9.5,7.8
+Annual,Towns and suburbs,Percentage,Spain,:,16.6,14.6,12.0,10.5,11.0,10.3,12.1,9.0,8.0
+Annual,Towns and suburbs,Percentage,European Union - 27 countries (from 2020),:,9.5,9.6,8.6,7.9,7.5,7.6,8.5,8.3,7.9
+Annual,Towns and suburbs,Percentage,Finland,:,11.8,11.1,10.5,11.1,6.2,6.7,8.1,9.9 b,8.6
+Annual,Towns and suburbs,Percentage,France,:,9.4,10.6,9.4,8.5,7.8,11.2,13.8,13.1 b,11.5
+Annual,Towns and suburbs,Percentage,Croatia,11.8,11.4,8.8,9.5,7.4,5.4,5.1,7.3,6.2,4.3
+Annual,Towns and suburbs,Percentage,Hungary,:,9.1,9.7,6.5,5.3,4.2,4.2,4.8,6.3,4.9
+Annual,Towns and suburbs,Percentage,Ireland,:,19.6,22.4,19.8,18.0,14.4 b,11.7,10.6,8.1,9.8
+Annual,Towns and suburbs,Percentage,Iceland,:,6.4,6.0,5.9,3.8,6.2,:,:,:,:
+Annual,Towns and suburbs,Percentage,Italy,:,11.0,11.2,10.1,9.8,8.8,8.2,9.0,9.0,8.5
+Annual,Towns and suburbs,Percentage,Lithuania,:,12.3,9.5,4.8,4.1,5.9,8.3,11.7,8.2,8.8
+Annual,Towns and suburbs,Percentage,Luxembourg,:,5.5,7.4,8.0,9.2,7.8,7.3,6.2,3.5,4.1
+Annual,Towns and suburbs,Percentage,Latvia,:,7.0,6.7,7.5,8.3,6.4,7.4,5.1,5.4,6.7
+Annual,Towns and suburbs,Percentage,North Macedonia,:,:,14.7,16.4,16.5,13.7,16.8,:,:,:
+Annual,Towns and suburbs,Percentage,Malta,:,5.0,4.6,4.8,3.5,3.8,2.3,4.5,2.9,4.3
+Annual,Towns and suburbs,Percentage,Netherlands,:,6.5,5.9,7.1,5.6,6.5,5.4,6.5,5.8,5.7
+Annual,Towns and suburbs,Percentage,Norway,:,7.6,6.5,6.9,8.1,7.3,9.1,9.0 b,8.8,8.7
+Annual,Towns and suburbs,Percentage,Poland,:,6.7,6.3,5.4,5.8,4.7,3.6,4.1,4.2,3.9
+Annual,Towns and suburbs,Percentage,Portugal,:,8.1,7.3,6.5,6.4,5.3,5.5,6.4,6.6,6.3
+Annual,Towns and suburbs,Percentage,Romania,:,6.0,7.8,6.9,5.7,4.4,4.8,3.7,5.6,6.0
+Annual,Towns and suburbs,Percentage,Serbia,:,20.3,20.3,18.0,14.4,14.7,14.1,13.9,11.2,:
+Annual,Towns and suburbs,Percentage,Sweden,:,7.4,6.9,7.5,8.9,7.9,8.1,9.1,9.0,7.7
+Annual,Towns and suburbs,Percentage,Slovenia,:,6.4,6.4,4.7,4.3,4.0,4.0,4.1,4.5,4.3
+Annual,Towns and suburbs,Percentage,Slovakia,:,7.1,6.9,5.8,6.0,6.3,4.5,5.2,4.3,4.6
+Annual,Towns and suburbs,Percentage,United Kingdom,:,9.8,9.8,8.3,7.6,:,:,:,:,:
+Annual,Towns and suburbs,Thousand persons,Albania,:,:,:,86.0,98.0,88.0,86.0,77.0,:,:
+Annual,Towns and suburbs,Thousand persons,Austria,:,93.0,95.0,99.0,96.0,84.0,90.0,106.0,92.0,72.0
+Annual,Towns and suburbs,Thousand persons,Belgium,:,532.0,543.0,510.0,421.0,423.0,460.0,377.0,365.0,339.0
+Annual,Towns and suburbs,Thousand persons,Bulgaria,:,99.0,97.0,128.0,91.0,95.0,117.0,97.0,113.0,85.0
+Annual,Towns and suburbs,Thousand persons,Switzerland,146.0,166.0,155.0,162.0,175.0,207.0,190.0,180.0,209.0,159.0
+Annual,Towns and suburbs,Thousand persons,Cyprus,:,19.0,18.0,19.0,18.0,13.0,7.0,7.0,4.0,6.0
+Annual,Towns and suburbs,Thousand persons,Czechia,:,225.0,202.0,159.0,127.0,120.0,125.0,148.0,133.0,139.0
+Annual,Towns and suburbs,Thousand persons,Germany,:,1912.0,1970.0,1764.0,1619.0,1690.0,1669.0,1930.0,2072.0,2242.0
+Annual,Towns and suburbs,Thousand persons,Denmark,:,63.0,149.0,130.0,132.0,86.0,102.0,111.0,87.0,111.0
+Annual,Towns and suburbs,Thousand persons,Euro area - 19 countries  (2015-2022),:,1469.0,1382.0,1224.0,1139.0,1209.0,1193.0,1389.0,:,:
+Annual,Towns and suburbs,Thousand persons,Euro area – 20 countries (from 2023),8327.0,8646.0,8320.0,7458.0,6834.0,7164.0,7214.0,1395.0,8240.0,7897.0
+Annual,Towns and suburbs,Thousand persons,Estonia,:,8.0,7.0,7.0,4.0,3.0,3.0,10.0,10.0,12.0
+Annual,Towns and suburbs,Thousand persons,Greece,:,347.0,360.0,367.0,322.0,308.0,293.0,286.0,231.0,183.0
+Annual,Towns and suburbs,Thousand persons,Spain,:,1396.0,1255.0,999.0,923.0,1010.0,905.0,1424.0,1086.0,987.0
+Annual,Towns and suburbs,Thousand persons,European Union - 27 countries (from 2020),:,1238.0,1154.0,1011.0,945.0,1007.0,987.0,1161.0,9540.0,9060.0
+Annual,Towns and suburbs,Thousand persons,Finland,:,155.0,143.0,137.0,140.0,73.0,77.0,97.0,119 b,103.0
+Annual,Towns and suburbs,Thousand persons,France,:,826.0,950.0,790.0,698.0,937.0,1388.0,1721.0,1810 b,1593.0
+Annual,Towns and suburbs,Thousand persons,Croatia,104.0,101.0,82.0,94.0,69.0,51.0,48.0,65.0,52.0,36.0
+Annual,Towns and suburbs,Thousand persons,Hungary,:,146.0,160.0,170.0,133.0,103.0,110.0,129.0,158.0,121.0
+Annual,Towns and suburbs,Thousand persons,Ireland,:,194.0,224.0,198.0,177.0,140 b,128.0,117.0,97.0,115.0
+Annual,Towns and suburbs,Thousand persons,Iceland,:,3.0,3.0,3.0,2.0,3.0,:,:,:,:
+Annual,Towns and suburbs,Thousand persons,Italy,:,2383.0,2074.0,1869.0,1811.0,1848.0,1630.0,1801.0,1771.0,1676.0
+Annual,Towns and suburbs,Thousand persons,Lithuania,:,2.0,5.0,2.0,2.0,3.0,23.0,33.0,24.0,28.0
+Annual,Towns and suburbs,Thousand persons,Luxembourg,:,9.0,13.0,15.0,18.0,16.0,17.0,15.0,8.0,11.0
+Annual,Towns and suburbs,Thousand persons,Latvia,:,21.0,19.0,21.0,23.0,17.0,20.0,16.0,17.0,20.0
+Annual,Towns and suburbs,Thousand persons,North Macedonia,:,:,120.0,129.0,124.0,102.0,117.0,:,:,:
+Annual,Towns and suburbs,Thousand persons,Malta,:,2.0,1.0,2.0,1.0,1.0,1.0,9.0,6.0,9.0
+Annual,Towns and suburbs,Thousand persons,Netherlands,:,323.0,255.0,299.0,227.0,277.0,229.0,272.0,236.0,236.0
+Annual,Towns and suburbs,Thousand persons,Norway,:,116.0,99.0,100.0,123.0,111.0,150.0,153 b,154.0,152.0
+Annual,Towns and suburbs,Thousand persons,Poland,:,471.0,455.0,386.0,397.0,311.0,246.0,323.0,323.0,253.0
+Annual,Towns and suburbs,Thousand persons,Portugal,:,188.0,171.0,156.0,149.0,125.0,133.0,149.0,159.0,150.0
+Annual,Towns and suburbs,Thousand persons,Romania,:,218.0,290.0,252.0,214.0,174.0,189.0,146.0,213.0,222.0
+Annual,Towns and suburbs,Thousand persons,Serbia,:,290.0,299.0,264.0,210.0,212.0,200.0,188.0,158.0,:
+Annual,Towns and suburbs,Thousand persons,Sweden,:,188.0,173.0,213.0,259.0,232.0,246.0,277.0,272.0,232.0
+Annual,Towns and suburbs,Thousand persons,Slovenia,:,31.0,31.0,24.0,22.0,21.0,21.0,22.0,24.0,24.0
+Annual,Towns and suburbs,Thousand persons,Slovakia,:,104.0,103.0,88.0,94.0,94.0,65.0,73.0,55.0,59.0
+Annual,Towns and suburbs,Thousand persons,United Kingdom,:,1342.0,1218.0,1132.0,1074.0,:,:,:,:,:
+Annual,Rural areas,Percentage,Albania,:,:,:,11.5,12.5,12.7,11.8,12.0,:,:
+Annual,Rural areas,Percentage,Austria,:,3.4,4.1,4.3,3.1,2.8,3.2,4.1,2.8,2.5
+Annual,Rural areas,Percentage,Belgium,:,12.3,12.6,13.6,13.3,11.6,9.7,10.7,11.8,10.0
+Annual,Rural areas,Percentage,Bulgaria,:,23.3,21.8,21.5,17.3,16.4,14.5,14.4,13.6,11.2
+Annual,Rural areas,Percentage,Switzerland,2.9,3.3,3.3,4.0,3.6,2.3,3.2,3.0,3.4,4.2
+Annual,Rural areas,Percentage,Cyprus,:,10.9,10.4,9.6,10.0,8.7,5.6,9.3,4.0,3.7
+Annual,Rural areas,Percentage,Czechia,:,4.6,5.4,4.6,4.1,3.5,3.5,3.8,3.0,4.3
+Annual,Rural areas,Percentage,Germany,:,6.1,6.3,6.4,5.8,5.2,4.5,5.3,5.7,5.5
+Annual,Rural areas,Percentage,Denmark,:,10.4,9.6,9.5,8.2,8.5,6.7,8.5,7.7,9.4
+Annual,Rural areas,Percentage,Euro area - 19 countries  (2015-2022),:,9.2,9.3,8.4,7.9,7.3,7.1,7.4,:,:
+Annual,Rural areas,Percentage,Euro area – 20 countries (from 2023),10.5 e,9.3,9.4,8.5,8.0,7.3,7.1,7.5,6.7,6.4
+Annual,Rural areas,Percentage,Estonia,:,7.9,7.2,7.0,7.0,7.5,6.2,5.1,6.4,6.9
+Annual,Rural areas,Percentage,Greece,:,13.3,14.1,12.6,12.8,12.8,11.8,13.3,8.4,7.3
+Annual,Rural areas,Percentage,Spain,:,16.4,17.1,14.6,12.2,12.2,11.7,11.2,9.8,8.2
+Annual,Rural areas,Percentage,European Union - 27 countries (from 2020),:,9.0,9.0,8.2,7.9,7.1,6.8,6.9,6.3,6.3
+Annual,Rural areas,Percentage,Finland,:,9.5,10.2,9.6,9.1,5.5,6.9,6.5,7.4 b,5.7
+Annual,Rural areas,Percentage,France,:,5.5,5.2,4.5,5.0,4.0,5.2,6.4,5.1 b,5.8
+Annual,Rural areas,Percentage,Croatia,13.8,14.9,13.5,12.3,11.8,9.5,9.0,9.1,7.9,7.9
+Annual,Rural areas,Percentage,Hungary,:,9.6,8.1,7.5,6.3,5.6,6.0,7.0,8.2,6.1
+Annual,Rural areas,Percentage,Ireland,:,18.9,17.9,15.5,12.5,12.9 b,11.6,14.7,12.7,8.2
+Annual,Rural areas,Percentage,Iceland,:,3.2,3.1,3.5,2.2,3.8,:,:,:,:
+Annual,Rural areas,Percentage,Italy,:,10.8,11.4,9.8,10.2,10.2,8.6,9.9,9.1,7.6
+Annual,Rural areas,Percentage,Lithuania,:,11.4,14.4,13.2,13.0,10.6,10.0,10.8,11.7,11.7
+Annual,Rural areas,Percentage,Luxembourg,:,4.9,6.3,5.3,6.4,6.1,6.8,4.1,3.2,3.7
+Annual,Rural areas,Percentage,Latvia,:,9.5,8.8,9.3,8.3,9.4,8.5,8.8,10.1,9.0
+Annual,Rural areas,Percentage,North Macedonia,:,:,13.8,16.7,15.9,13.6,14.8,:,:,:
+Annual,Rural areas,Percentage,Malta,:,: u,: u,: u,: u,: u,: u,0.8,1.6,1.9
+Annual,Rural areas,Percentage,Netherlands,:,6.9,6.1,4.9,4.6,3.6,3.1,5.4,5.5,5.7
+Annual,Rural areas,Percentage,Norway,:,7.4,5.7,6.6,6.8,7.6,8.4,8.0 b,8.4,8.4
+Annual,Rural areas,Percentage,Poland,:,7.2,7.1,6.6,6.7,6.0,5.1,4.4,3.6,4.5
+Annual,Rural areas,Percentage,Portugal,:,12.0,9.3,8.6,8.0,6.6,5.6,4.9,6.0,7.2
+Annual,Rural areas,Percentage,Romania,:,7.4,7.2,6.3,8.1,6.3,6.7,4.7,5.3,7.7
+Annual,Rural areas,Percentage,Serbia,:,23.7,24.8,24.8,23.6,21.0,20.2,19.0,16.1,:
+Annual,Rural areas,Percentage,Sweden,:,6.8,6.5,9.1,8.7,9.8,7.0,7.9,7.8,7.9
+Annual,Rural areas,Percentage,Slovenia,:,5.3,5.7,5.6,4.5,4.0,3.3,2.7,2.6,2.8
+Annual,Rural areas,Percentage,Slovakia,:,9.5,8.6,6.8,6.1,8.0,5.5,5.5,4.4,5.4
+Annual,Rural areas,Percentage,United Kingdom,:,8.0,7.2,5.2,5.5,:,:,:,:,:
+Annual,Rural areas,Thousand persons,Albania,:,:,:,107.0,113.0,114.0,98.0,99.0,:,:
+Annual,Rural areas,Thousand persons,Austria,:,82.0,102.0,102.0,71.0,67.0,74.0,98.0,65.0,59.0
+Annual,Rural areas,Thousand persons,Belgium,:,193.0,196.0,211.0,214.0,159.0,131.0,145.0,159.0,130.0
+Annual,Rural areas,Thousand persons,Bulgaria,:,376.0,349.0,331.0,266.0,250.0,215.0,214.0,200.0,150.0
+Annual,Rural areas,Thousand persons,Switzerland,46.0,51.0,50.0,49.0,42.0,26.0,38.0,35.0,38.0,47.0
+Annual,Rural areas,Thousand persons,Cyprus,:,22.0,20.0,12.0,12.0,11.0,7.0,12.0,6.0,5.0
+Annual,Rural areas,Thousand persons,Czechia,:,135.0,161.0,129.0,118.0,103.0,103.0,110.0,87.0,123.0
+Annual,Rural areas,Thousand persons,Germany,:,859.0,922.0,945.0,852.0,751.0,543.0,656.0,703.0,684.0
+Annual,Rural areas,Thousand persons,Denmark,:,198.0,133.0,132.0,118.0,121.0,96.0,117.0,104.0,133.0
+Annual,Rural areas,Thousand persons,Euro area - 19 countries  (2015-2022),:,770.0,833.0,756.0,716.0,605.0,589.0,589.0,:,:
+Annual,Rural areas,Thousand persons,Euro area – 20 countries (from 2023),6867 e,6194.0,6432.0,5736.0,5340.0,4664.0,4347.0,585.0,3866.0,3645.0
+Annual,Rural areas,Thousand persons,Estonia,:,31.0,29.0,28.0,22.0,22.0,18.0,18.0,20.0,24.0
+Annual,Rural areas,Thousand persons,Greece,:,333.0,330.0,276.0,260.0,292.0,271.0,290.0,172.0,138.0
+Annual,Rural areas,Thousand persons,Spain,:,1553.0,1559.0,1337.0,1101.0,1121.0,1093.0,497.0,446.0,379.0
+Annual,Rural areas,Thousand persons,European Union - 27 countries (from 2020),:,698.0,738.0,674.0,648.0,548.0,523.0,498.0,5264.0,5283.0
+Annual,Rural areas,Thousand persons,Finland,:,111.0,115.0,106.0,96.0,57.0,72.0,64.0,72 b,55.0
+Annual,Rural areas,Thousand persons,France,:,846.0,791.0,676.0,716.0,590.0,786.0,980.0,804 b,908.0
+Annual,Rural areas,Thousand persons,Croatia,202.0,208.0,173.0,146.0,134.0,104.0,92.0,92.0,78.0,76.0
+Annual,Rural areas,Thousand persons,Hungary,:,341.0,288.0,186.0,155.0,140.0,145.0,167.0,193.0,146.0
+Annual,Rural areas,Thousand persons,Ireland,:,306.0,286.0,237.0,199.0,213 b,185.0,239.0,199.0,132.0
+Annual,Rural areas,Thousand persons,Iceland,:,1.0,1.0,2.0,1.0,2.0,:,:,:,:
+Annual,Rural areas,Thousand persons,Italy,:,879.0,1227.0,1060.0,1102.0,765.0,666.0,760.0,703.0,569.0
+Annual,Rural areas,Thousand persons,Lithuania,:,145.0,173.0,154.0,148.0,122.0,94.0,102.0,109.0,106.0
+Annual,Rural areas,Thousand persons,Luxembourg,:,10.0,14.0,11.0,12.0,10.0,11.0,7.0,5.0,6.0
+Annual,Rural areas,Thousand persons,Latvia,:,53.0,48.0,50.0,45.0,50.0,46.0,42.0,45.0,48.0
+Annual,Rural areas,Thousand persons,North Macedonia,:,:,67.0,78.0,73.0,60.0,66.0,:,:,:
+Annual,Rural areas,Thousand persons,Malta,:,: u,: u,: u,: u,: u,: u,0.0,0.0,0.0
+Annual,Rural areas,Thousand persons,Netherlands,:,127.0,77.0,61.0,62.0,45.0,42.0,73.0,76.0,78.0
+Annual,Rural areas,Thousand persons,Norway,:,92.0,69.0,79.0,82.0,93.0,94.0,89 b,93.0,93.0
+Annual,Rural areas,Thousand persons,Poland,:,928.0,898.0,803.0,785.0,706.0,599.0,475.0,386.0,529.0
+Annual,Rural areas,Thousand persons,Portugal,:,236.0,180.0,166.0,154.0,122.0,96.0,84.0,98.0,120.0
+Annual,Rural areas,Thousand persons,Romania,:,478.0,478.0,435.0,546.0,399.0,416.0,282.0,324.0,448.0
+Annual,Rural areas,Thousand persons,Serbia,:,457.0,474.0,477.0,442.0,397.0,382.0,362.0,305.0,:
+Annual,Rural areas,Thousand persons,Sweden,:,137.0,131.0,123.0,117.0,131.0,95.0,104.0,104.0,109.0
+Annual,Rural areas,Thousand persons,Slovenia,:,39.0,42.0,40.0,31.0,27.0,23.0,18.0,18.0,20.0
+Annual,Rural areas,Thousand persons,Slovakia,:,162.0,148.0,119.0,110.0,148.0,103.0,105.0,89.0,113.0
+Annual,Rural areas,Thousand persons,United Kingdom,:,532.0,480.0,303.0,310.0,:,:,:,:,:

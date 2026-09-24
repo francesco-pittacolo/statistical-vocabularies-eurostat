@@ -1,0 +1,23 @@
+Classify this statistical measure into exactly one domain.
+
+Allowed domains:
+{domain_list}
+
+Measure:
+{measure}
+
+Rules:
+1. Select exactly one domain from the allowed list.
+2. Use the semantic meaning of the measure.
+3. Do not invent a new domain.
+4. Do not classify based only on one isolated word.
+5. Prefer the most specific meaningful domain.
+6. Return a confidence between 0 and 1.
+7. Return ONLY valid JSON.
+
+Return:
+{
+    "domain": "selected domain",
+    "confidence": 0.0,
+    "explanation": "short explanation"
+}

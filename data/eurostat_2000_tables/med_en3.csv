@@ -1,0 +1,23 @@
+Time frequency,Indicator used in Euro_Med,Geopolitical entity (reporting)\Time,2000.0,2001.0,2002.0,2003.0,2004.0,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0
+Annual,Frequency of ozone peaks (Number),Egypt,:,:,2.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,Frequency of ozone peaks (Number),Israel,:,:,4.0,9.0,3.0,3.0,2.0,2.0,3.0,2.0,6.0,:,:,:
+Annual,Total number of gasoline fueled vehicles (number),Algeria,2059370.0,2066345.0,2089283.0,2085664.0,2131391.0,2163379.0,2245371.0,2369112.0,2572596.0,2677120.0,:,2892585.0,:,:
+Annual,Total number of gasoline fueled vehicles (number),Israel,1586.0,1637.0,1656.0,1665.0,1701.0,1760.0,1814.0,1909.0,2003.0,2064.0,2162.0,2268.0,2337.0,2414.0
+Annual,Total number of gasoline fueled vehicles (number),Morocco,818389.0,841487.0,873538.0,904948.0,939115.0,978204.0,1029137.0,:,1160927.0,1246739.0,1323054.0,:,:,:
+Annual,Total number of gasoline fueled vehicles (number),Palestine*,55279.0,44500.0,26294.0,:,:,:,:,:,:,:,110775.0,77261.0,126687.0,:
+Annual,Total number of gasoline fueled vehicles (number),Tunisia,:,:,446872.0,467726.0,494081.0,519762.0,544931.0,574316.0,:,:,:,:,:,:
+Annual,Total number of diesel powered engines (number),Algeria,760522.0,776937.0,792894.0,845044.0,877598.0,947412.0,1053895.0,1179490.0,1301248.0,1378735.0,:,1533889.0,:,:
+Annual,Total number of diesel powered engines (number),Israel,245.0,278.0,304.0,317.0,336.0,348.0,361.0,375.0,387.0,387.0,395.0,405.0,412.0,422.0
+Annual,Total number of diesel powered engines (number),Morocco,808492.0,877825.0,912671.0,948034.0,989383.0,1034898.0,1093354.0,1166702.0,1248456.0,1349335.0,1436597.0,:,:,:
+Annual,Total number of diesel powered engines (number),Palestine*,19369.0,20191.0,16181.0,:,:,:,:,:,:,:,70848.0,60731.0,88589.0,:
+Annual,Total number of diesel powered engines (number),Tunisia,:,:,493278.0,517367.0,546886.0,573557.0,605050.0,636831.0,:,:,:,:,:,:
+Annual,Total number of other vehicles (number),Israel,0.0,0.0,0.0,0.0,0.0,1.0,3.0,5.0,6.0,7.0,8.0,10.0,12.0,14.0
+Annual,Total number of other vehicles (number),Morocco,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:
+Annual,Total number of other vehicles (number),Palestine*,206.0,19.0,17.0,:,:,:,:,:,:,:,5.0,0.0,1731.0,:
+Annual,Total number of other vehicles (number),Tunisia,:,:,313.0,311.0,347.0,1733.0,2711.0,3107.0,:,:,:,:,:,:
+Annual,Total number of vehicles (number),Algeria,2819892.0,2843282.0,2882177.0,2930708.0,3008989.0,3110791.0,3299266.0,3548602.0,3873844.0,4055855.0,4314607.0,4426474.0,4812555.0,:
+Annual,Total number of vehicles (number),Israel,1832.0,1915.0,1960.0,1982.0,2038.0,2108.0,2178.0,2288.0,2396.0,2458.0,2566.0,2683.0,2761.0,2851.0
+Annual,Total number of vehicles (number),Lebanon,1576789.0,1617304.0,1658460.0,1699939.0,1752902.0,:,:,:,:,:,:,:,:,:
+Annual,Total number of vehicles (number),Morocco,1626881.0,1719312.0,1786209.0,1852982.0,1928498.0,2013102.0,2122491.0,:,2409383.0,2596074.0,2759651.0,2920308.0,3088261.0,:
+Annual,Total number of vehicles (number),Palestine*,74854.0,64710.0,42492.0,:,:,:,:,:,:,:,181628.0,137992.0,217007.0,:
+Annual,Total number of vehicles (number),Tunisia,:,:,940463.0,985404.0,1041314.0,1095052.0,1152692.0,1214254.0,:,:,:,:,:,:

@@ -1,0 +1,359 @@
+Time frequency,Unit of measure,Rail network segment (2005),Train category\Time,2005.0
+Annual,Number,Wien Westbf - Wien Hutteldorf,Goods trains,125.0
+Annual,Number,Wien Westbf - Wien Hutteldorf,Passenger trains,37048.0
+Annual,Number,Wien Hutteldorf - Tullnerbach -Pr.,Goods trains,16375.0
+Annual,Number,Wien Hutteldorf - Tullnerbach -Pr.,Passenger trains,32303.0
+Annual,Number,Tullnerbach-Pr. - St. Polten Hbf,Goods trains,16000.0
+Annual,Number,Tullnerbach-Pr. - St. Polten Hbf,Passenger trains,27010.0
+Annual,Number,St. Polten Hbf - Pochlarn,Goods trains,18250.0
+Annual,Number,St. Polten Hbf - Pochlarn,Passenger trains,25915.0
+Annual,Number,Pochlarn - Amstetten,Goods trains,18625.0
+Annual,Number,Pochlarn - Amstetten,Passenger trains,24638.0
+Annual,Number,Amstetten - St. Valentin,Goods trains,19000.0
+Annual,Number,Amstetten - St. Valentin,Passenger trains,20258.0
+Annual,Number,St. Valentin - Linz Hbf,Goods trains,22000.0
+Annual,Number,St. Valentin - Linz Hbf,Passenger trains,22630.0
+Annual,Number,Linz Hbf - Wels,Goods trains,24250.0
+Annual,Number,Linz Hbf - Wels,Passenger trains,26463.0
+Annual,Number,Wels Hbf - Attnang Puchheim,Goods trains,14125.0
+Annual,Number,Wels Hbf - Attnang Puchheim,Passenger trains,19710.0
+Annual,Number,Attnang Puchheim - Steindorf B.Straßwalchen,Goods trains,14375.0
+Annual,Number,Attnang Puchheim - Steindorf B.Straßwalchen,Passenger trains,18980.0
+Annual,Number,Steindorf B.Straßwalchen - Salzburg Hbf,Goods trains,12500.0
+Annual,Number,Steindorf B.Straßwalchen - Salzburg Hbf,Passenger trains,24455.0
+Annual,Number,Salzburg Hbf - Freilassing,Goods trains,10375.0
+Annual,Number,Salzburg Hbf - Freilassing,Passenger trains,25550.0
+Annual,Number,Salzburg Hbf - Golling-Abtenau,Goods trains,16250.0
+Annual,Number,Salzburg Hbf - Golling-Abtenau,Passenger trains,20075.0
+Annual,Number,Golling-Abtenau - Bischofshofen,Goods trains,12375.0
+Annual,Number,Golling-Abtenau - Bischofshofen,Passenger trains,16060.0
+Annual,Number,Bischofshofen - Schwarzach-St.Veit,Goods trains,11875.0
+Annual,Number,Bischofshofen - Schwarzach-St.Veit,Passenger trains,16425.0
+Annual,Number,Schwarzach-St.Veit - Bockstein,Goods trains,8625.0
+Annual,Number,Schwarzach-St.Veit - Bockstein,Passenger trains,5110.0
+Annual,Number,Bockstein - Mallnitz-Obervellach,Goods trains,8375.0
+Annual,Number,Bockstein - Mallnitz-Obervellach,Passenger trains,10403.0
+Annual,Number,Mallnitz-Obervellach - Villach Hbf,Goods trains,8375.0
+Annual,Number,Mallnitz-Obervellach - Villach Hbf,Passenger trains,5293.0
+Annual,Number,Villach Hbf - Villach Westbf,Goods trains,9625.0
+Annual,Number,Villach Hbf - Villach Westbf,Passenger trains,10585.0
+Annual,Number,Villach Westbf - Villach Sud Gvbf Auen,Goods trains,20125.0
+Annual,Number,Villach Westbf - Villach Sud Gvbf Auen,Passenger trains,10768.0
+Annual,Number,Villach Sud Gvbf Auen - Rosenbach,Goods trains,4125.0
+Annual,Number,Villach Sud Gvbf Auen - Rosenbach,Passenger trains,4928.0
+Annual,Number,Wels Hbf - Passau Hbf,Goods trains,14250.0
+Annual,Number,Wels Hbf - Passau Hbf,Passenger trains,9125.0
+Annual,Number,Schwarzach-St.Veit - Worgl,Goods trains,5500.0
+Annual,Number,Schwarzach-St.Veit - Worgl,Passenger trains,9855.0
+Annual,Number,Kufstein - Worgl,Goods trains,11375.0
+Annual,Number,Kufstein - Worgl,Passenger trains,15513.0
+Annual,Number,Worgl - Innsbruck Hbf,Goods trains,18125.0
+Annual,Number,Worgl - Innsbruck Hbf,Passenger trains,19528.0
+Annual,Number,Innsbruck Hbf - Brennero/Brenner,Goods trains,11250.0
+Annual,Number,Innsbruck Hbf - Brennero/Brenner,Passenger trains,9673.0
+Annual,Number,Innsbruck Hbf - Otztal,Goods trains,5250.0
+Annual,Number,Innsbruck Hbf - Otztal,Passenger trains,21900.0
+Annual,Number,Otztal - Landeck,Goods trains,4500.0
+Annual,Number,Otztal - Landeck,Passenger trains,10038.0
+Annual,Number,Landeck - St. Anton Am Arlberg,Goods trains,5875.0
+Annual,Number,Landeck - St. Anton Am Arlberg,Passenger trains,6023.0
+Annual,Number,St. Anton Am Arlberg - Bludenz,Goods trains,6000.0
+Annual,Number,St. Anton Am Arlberg - Bludenz,Passenger trains,6023.0
+Annual,Number,Bludenz - Feldkirch,Goods trains,6625.0
+Annual,Number,Bludenz - Feldkirch,Passenger trains,17885.0
+Annual,Number,Feldkirch - Wolfurt,Goods trains,4000.0
+Annual,Number,Feldkirch - Wolfurt,Passenger trains,17338.0
+Annual,Number,Wolfurt - Abzw Lauterach Sud,Goods trains,2000.0
+Annual,Number,Wolfurt - Abzw Lauterach Sud,Passenger trains,17520.0
+Annual,Number,Abzw Lauterach Sud - Abzw Lauterach Nord,Goods trains,500.0
+Annual,Number,Abzw Lauterach Sud - Abzw Lauterach Nord,Passenger trains,17520.0
+Annual,Number,Abzw Lauterach Nord - Bregenz,Goods trains,500.0
+Annual,Number,Abzw Lauterach Nord - Bregenz,Passenger trains,23725.0
+Annual,Number,Bregenz - Staatsgrenze N. Lochau - Horbranz,Goods trains,500.0
+Annual,Number,Bregenz - Staatsgrenze N. Lochau - Horbranz,Passenger trains,12228.0
+Annual,Number,Selzthal - St. Michael,Goods trains,9875.0
+Annual,Number,Selzthal - St. Michael,Passenger trains,5110.0
+Annual,Number,St.Valentin - Abzw Weyer 1 Kastenreith Hst,Goods trains,3125.0
+Annual,Number,St.Valentin - Abzw Weyer 1 Kastenreith Hst,Passenger trains,6570.0
+Annual,Number,Abzw Weyer 1 Kastenreith Hst - Hieflau,Goods trains,3125.0
+Annual,Number,Abzw Weyer 1 Kastenreith Hst - Hieflau,Passenger trains,2008.0
+Annual,Number,Hieflau - Selzthal,Goods trains,4125.0
+Annual,Number,Hieflau - Selzthal,Passenger trains,1643.0
+Annual,Number,Selzthal - Bischofshofen,Goods trains,3000.0
+Annual,Number,Selzthal - Bischofshofen,Passenger trains,6935.0
+Annual,Number,Wien Sudbf - Wien Meidling,Passenger trains,28653.0
+Annual,Number,Wien Meidling - Modling,Goods trains,7250.0
+Annual,Number,Wien Meidling - Modling,Passenger trains,58583.0
+Annual,Number,Modling - Wiener Neustadt,Goods trains,7375.0
+Annual,Number,Modling - Wiener Neustadt,Passenger trains,40698.0
+Annual,Number,Wiener Neustadt - Payerbach-Reichenau,Goods trains,15625.0
+Annual,Number,Wiener Neustadt - Payerbach-Reichenau,Passenger trains,18615.0
+Annual,Number,Graz Hbf - Spielfeld-Stra?,Goods trains,8375.0
+Annual,Number,Graz Hbf - Spielfeld-Stra?,Passenger trains,8395.0
+Annual,Number,Graz Hbf - Szentgotthard,Goods trains,2250.0
+Annual,Number,Graz Hbf - Szentgotthard,Passenger trains,6753.0
+Annual,Number,Bruck A.D. Mur - St. Michael West,Goods trains,20875.0
+Annual,Number,Bruck A.D. Mur - St. Michael West,Passenger trains,13870.0
+Annual,Number,St. Michael West - Unzmarkt,Goods trains,10375.0
+Annual,Number,St. Michael West - Unzmarkt,Passenger trains,10403.0
+Annual,Number,Unzmarkt - Klagenfurt Hbf,Goods trains,8625.0
+Annual,Number,Unzmarkt - Klagenfurt Hbf,Passenger trains,9490.0
+Annual,Number,Klagenfurt Hbf - Villach Hbf,Goods trains,8625.0
+Annual,Number,Klagenfurt Hbf - Villach Hbf,Passenger trains,13870.0
+Annual,Number,Villach Hbf - Arnoldstein,Goods trains,11250.0
+Annual,Number,Villach Hbf - Arnoldstein,Passenger trains,10768.0
+Annual,Number,Arnoldstein - Tarvisio Boscoverde,Goods trains,7250.0
+Annual,Number,Arnoldstein - Tarvisio Boscoverde,Passenger trains,1460.0
+Annual,Number,Linz Hbf - Pregarten,Goods trains,3375.0
+Annual,Number,Linz Hbf - Pregarten,Passenger trains,8030.0
+Annual,Number,Pregarten - Summerau,Goods trains,3375.0
+Annual,Number,Pregarten - Summerau,Passenger trains,4745.0
+Annual,Number,Wien Sudbf Ost - Kledering,Goods trains,26250.0
+Annual,Number,Wien Sudbf Ost - Kledering,Passenger trains,22448.0
+Annual,Number,Kledering - Gramatneusiedl,Goods trains,18125.0
+Annual,Number,Kledering - Gramatneusiedl,Passenger trains,24638.0
+Annual,Number,Gramatneusiedl - Bruck A.D.Leitha,Goods trains,9250.0
+Annual,Number,Gramatneusiedl - Bruck A.D.Leitha,Passenger trains,24638.0
+Annual,Number,Bruck A.D.Leitha - Abzw Bruck A.D. Leitha  1,Goods trains,8625.0
+Annual,Number,Bruck A.D.Leitha - Abzw Bruck A.D. Leitha  1,Passenger trains,18615.0
+Annual,Number,Abzw Bruck A.D. Leitha  1 - Parndorf,Goods trains,8375.0
+Annual,Number,Abzw Bruck A.D. Leitha  1 - Parndorf,Passenger trains,12045.0
+Annual,Number,Parndorf - Hegyeshalom,Goods trains,5250.0
+Annual,Number,Parndorf - Hegyeshalom,Passenger trains,7665.0
+Annual,Number,Parndorf - Kittsee,Goods trains,2500.0
+Annual,Number,Parndorf - Kittsee,Passenger trains,6205.0
+Annual,Number,Wien Meidling - Inzersdorf Ort,Goods trains,11125.0
+Annual,Number,Wien Meidling - Inzersdorf Ort,Passenger trains,13688.0
+Annual,Number,Inzersdorf Ort - Wampersdorf,Goods trains,1750.0
+Annual,Number,Inzersdorf Ort - Wampersdorf,Passenger trains,9490.0
+Annual,Number,Wampersdorf - Ebenfurth,Goods trains,10375.0
+Annual,Number,Wampersdorf - Ebenfurth,Passenger trains,9673.0
+Annual,Number,Ebenfurth - Wiener Neustadt,Goods trains,8000.0
+Annual,Number,Ebenfurth - Wiener Neustadt,Passenger trains,6753.0
+Annual,Number,Klein Schwechat - Flughafen Wien-Schwechat,Goods trains,750.0
+Annual,Number,Klein Schwechat - Flughafen Wien-Schwechat,Passenger trains,27923.0
+Annual,Number,Flughafen Wien-Schwechat - Wolfsthal,Goods trains,375.0
+Annual,Number,Flughafen Wien-Schwechat - Wolfsthal,Passenger trains,8030.0
+Annual,Number,Wiener Neustadt - Loipersbach-Schattendorf,Goods trains,625.0
+Annual,Number,Wiener Neustadt - Loipersbach-Schattendorf,Passenger trains,9490.0
+Annual,Number,Wien Nord - Floridsdorf,Goods trains,2375.0
+Annual,Number,Wien Nord - Floridsdorf,Passenger trains,88330.0
+Annual,Number,Floridsdorf - Leopoldau,Goods trains,2500.0
+Annual,Number,Floridsdorf - Leopoldau,Passenger trains,43070.0
+Annual,Number,Leopoldau - Ganserndorf,Goods trains,10125.0
+Annual,Number,Leopoldau - Ganserndorf,Passenger trains,25185.0
+Annual,Number,Ganserndorf - Bernhardsthal Frachtenbahnhof,Goods trains,8250.0
+Annual,Number,Ganserndorf - Bernhardsthal Frachtenbahnhof,Passenger trains,9125.0
+Annual,Number,Wien Franz Josephsbahnhof - Tulln,Goods trains,3750.0
+Annual,Number,Wien Franz Josephsbahnhof - Tulln,Passenger trains,24273.0
+Annual,Number,Tulln - Absdorf-Hippersdorf,Goods trains,2125.0
+Annual,Number,Tulln - Absdorf-Hippersdorf,Passenger trains,13140.0
+Annual,Number,Absdorf-Hippersdorf - Sigmundsherberg,Goods trains,1500.0
+Annual,Number,Absdorf-Hippersdorf - Sigmundsherberg,Passenger trains,6935.0
+Annual,Number,Sigmundsherberg - Gmund In Niederosterreich,Goods trains,750.0
+Annual,Number,Sigmundsherberg - Gmund In Niederosterreich,Passenger trains,4928.0
+Annual,Number,Wiener Neustadt - Aspang,Goods trains,1375.0
+Annual,Number,Wiener Neustadt - Aspang,Passenger trains,9855.0
+Annual,Number,Aspang - Friedberg,Goods trains,875.0
+Annual,Number,Aspang - Friedberg,Passenger trains,4928.0
+Annual,Number,Friedberg - Fehring,Goods trains,875.0
+Annual,Number,Friedberg - Fehring,Passenger trains,3285.0
+Annual,Number,Stadlau - Hausfeldstra?E,Goods trains,1750.0
+Annual,Number,Stadlau - Hausfeldstra?E,Passenger trains,22630.0
+Annual,Number,Hausfeldstra?E - Marchegg,Goods trains,1875.0
+Annual,Number,Hausfeldstra?E - Marchegg,Passenger trains,7300.0
+Annual,Number,Wien Meidling - Rennweg,Goods trains,2000.0
+Annual,Number,Wien Meidling - Rennweg,Passenger trains,72270.0
+Annual,Number,Rennweg - Wien Nord,Goods trains,1875.0
+Annual,Number,Rennweg - Wien Nord,Passenger trains,100193.0
+Annual,Number,Bruck A.D. Mur - Graz Hbf,Goods trains,11750.0
+Annual,Number,Bruck A.D. Mur - Graz Hbf,Passenger trains,17703.0
+Annual,Number,Payerbach-Reichenau - Bruck A.D.Mur,Goods trains,14500.0
+Annual,Number,Payerbach-Reichenau - Bruck A.D.Mur,Passenger trains,14053.0
+Annual,Number,Linz Hbf - Kirchdorf A. D. Krems,Goods trains,6375.0
+Annual,Number,Linz Hbf - Kirchdorf A. D. Krems,Passenger trains,9855.0
+Annual,Number,Kirchdorf A. D. Krems - Selzthal,Goods trains,5875.0
+Annual,Number,Kirchdorf A. D. Krems - Selzthal,Passenger trains,5840.0
+Annual,Number,Ebenfurth - Sopron,Goods trains,4125.0
+Annual,Number,Ebenfurth - Sopron,Passenger trains,9490.0
+Annual,Number,Wien Sudbahnhof Ost - Stadlau,Goods trains,21500.0
+Annual,Number,Wien Sudbahnhof Ost - Stadlau,Passenger trains,29930.0
+Annual,Number,Wien Hutteldorf - Wien Westbf,Goods trains,125.0
+Annual,Number,Wien Hutteldorf - Wien Westbf,Passenger trains,37047.0
+Annual,Number,Tullnerbach -Pr. - Wien Hutteldorf,Goods trains,16375.0
+Annual,Number,Tullnerbach -Pr. - Wien Hutteldorf,Passenger trains,32302.0
+Annual,Number,St. Polten Hbf - Tullnerbach-Pr.,Goods trains,16000.0
+Annual,Number,St. Polten Hbf - Tullnerbach-Pr.,Passenger trains,27010.0
+Annual,Number,Pochlarn - St. Polten Hbf,Goods trains,18250.0
+Annual,Number,Pochlarn - St. Polten Hbf,Passenger trains,25915.0
+Annual,Number,Amstetten - Pochlarn,Goods trains,18625.0
+Annual,Number,Amstetten - Pochlarn,Passenger trains,24637.0
+Annual,Number,St. Valentin - Amstetten,Goods trains,19000.0
+Annual,Number,St. Valentin - Amstetten,Passenger trains,20257.0
+Annual,Number,Linz Hbf - St. Valentin,Goods trains,22000.0
+Annual,Number,Linz Hbf - St. Valentin,Passenger trains,22630.0
+Annual,Number,Wels - Linz Hbf,Goods trains,24250.0
+Annual,Number,Wels - Linz Hbf,Passenger trains,26462.0
+Annual,Number,Attnang Puchheim - Wels Hbf,Goods trains,14125.0
+Annual,Number,Attnang Puchheim - Wels Hbf,Passenger trains,19710.0
+Annual,Number,Steindorf B.Stra?W. - Attnang Puchheim,Goods trains,14375.0
+Annual,Number,Steindorf B.Stra?W. - Attnang Puchheim,Passenger trains,18980.0
+Annual,Number,Salzburg Hbf - Steindorf B.Stra?W.,Goods trains,12500.0
+Annual,Number,Salzburg Hbf - Steindorf B.Stra?W.,Passenger trains,24455.0
+Annual,Number,Freilassing - Salzburg Hbf,Goods trains,10375.0
+Annual,Number,Freilassing - Salzburg Hbf,Passenger trains,25550.0
+Annual,Number,Golling-Abtenau - Salzburg Hbf,Goods trains,16250.0
+Annual,Number,Golling-Abtenau - Salzburg Hbf,Passenger trains,20075.0
+Annual,Number,Bischofshofen - Golling-Abtenau,Goods trains,12375.0
+Annual,Number,Bischofshofen - Golling-Abtenau,Passenger trains,16060.0
+Annual,Number,Schwarzach-St.Veit - Bischofshofen,Goods trains,11875.0
+Annual,Number,Schwarzach-St.Veit - Bischofshofen,Passenger trains,16425.0
+Annual,Number,Bockstein - Schwarzach-St.Veit,Goods trains,8625.0
+Annual,Number,Bockstein - Schwarzach-St.Veit,Passenger trains,5110.0
+Annual,Number,Mallnitz-Obervellach - Bockstein,Goods trains,8375.0
+Annual,Number,Mallnitz-Obervellach - Bockstein,Passenger trains,10402.0
+Annual,Number,Villach Hbf - Mallnitz-Obervellach,Goods trains,8375.0
+Annual,Number,Villach Hbf - Mallnitz-Obervellach,Passenger trains,5292.0
+Annual,Number,Villach Westbf - Villach Hbf,Goods trains,9625.0
+Annual,Number,Villach Westbf - Villach Hbf,Passenger trains,10585.0
+Annual,Number,Villach Sud Gvbf Auen - Villach Westbf,Goods trains,20125.0
+Annual,Number,Villach Sud Gvbf Auen - Villach Westbf,Passenger trains,10767.0
+Annual,Number,Rosenbach - Villach Sud Gvbf Auen,Goods trains,4125.0
+Annual,Number,Rosenbach - Villach Sud Gvbf Auen,Passenger trains,4927.0
+Annual,Number,Passau Hbf - Wels Hbf,Goods trains,14250.0
+Annual,Number,Passau Hbf - Wels Hbf,Passenger trains,9125.0
+Annual,Number,Worgl - Schwarzach-St.Veit,Goods trains,5500.0
+Annual,Number,Worgl - Schwarzach-St.Veit,Passenger trains,9855.0
+Annual,Number,Worgl - Kufstein,Goods trains,11375.0
+Annual,Number,Worgl - Kufstein,Passenger trains,15512.0
+Annual,Number,Innsbruck Hbf - Worgl,Goods trains,18125.0
+Annual,Number,Innsbruck Hbf - Worgl,Passenger trains,19527.0
+Annual,Number,Brennero/Brenner - Innsbruck Hbf,Goods trains,11250.0
+Annual,Number,Brennero/Brenner - Innsbruck Hbf,Passenger trains,9672.0
+Annual,Number,Otztal - Innsbruck Hbf,Goods trains,5250.0
+Annual,Number,Otztal - Innsbruck Hbf,Passenger trains,21900.0
+Annual,Number,Landeck - Otztal,Goods trains,4500.0
+Annual,Number,Landeck - Otztal,Passenger trains,10037.0
+Annual,Number,St. Anton Am Arlberg - Landeck,Goods trains,5875.0
+Annual,Number,St. Anton Am Arlberg - Landeck,Passenger trains,6022.0
+Annual,Number,Bludenz - St. Anton Am Arlberg,Goods trains,6000.0
+Annual,Number,Bludenz - St. Anton Am Arlberg,Passenger trains,6022.0
+Annual,Number,Feldkirch - Bludenz,Goods trains,6625.0
+Annual,Number,Feldkirch - Bludenz,Passenger trains,17885.0
+Annual,Number,Wolfurt - Feldkirch,Goods trains,4000.0
+Annual,Number,Wolfurt - Feldkirch,Passenger trains,17337.0
+Annual,Number,Abzw Lauterach Sud - Wolfurt,Goods trains,2000.0
+Annual,Number,Abzw Lauterach Sud - Wolfurt,Passenger trains,17520.0
+Annual,Number,Abzw Lauterach Nord - Abzw Lauterach Sud,Goods trains,500.0
+Annual,Number,Abzw Lauterach Nord - Abzw Lauterach Sud,Passenger trains,17520.0
+Annual,Number,Bregenz - Abzw Lauterach Nord,Goods trains,500.0
+Annual,Number,Bregenz - Abzw Lauterach Nord,Passenger trains,23725.0
+Annual,Number,Staatsgrenze N. Lochau - Horbranz - Bregenz,Goods trains,500.0
+Annual,Number,Staatsgrenze N. Lochau - Horbranz - Bregenz,Passenger trains,12227.0
+Annual,Number,St. Michael - Selzthal,Goods trains,9875.0
+Annual,Number,St. Michael - Selzthal,Passenger trains,5110.0
+Annual,Number,Abzw Weyer 1 Kastenreith Hst - St.Valentin,Goods trains,3125.0
+Annual,Number,Abzw Weyer 1 Kastenreith Hst - St.Valentin,Passenger trains,6570.0
+Annual,Number,Hieflau - Abzw Weyer 1 Kastenreith Hst,Goods trains,3125.0
+Annual,Number,Hieflau - Abzw Weyer 1 Kastenreith Hst,Passenger trains,2007.0
+Annual,Number,Selzthal - Hieflau,Goods trains,4125.0
+Annual,Number,Selzthal - Hieflau,Passenger trains,1642.0
+Annual,Number,Bischofshofen - Selzthal,Goods trains,3000.0
+Annual,Number,Bischofshofen - Selzthal,Passenger trains,6935.0
+Annual,Number,Wien Meidling - Wien Sudbf,Passenger trains,28652.0
+Annual,Number,Modling - Wien Meidling,Goods trains,7250.0
+Annual,Number,Modling - Wien Meidling,Passenger trains,58582.0
+Annual,Number,Wiener Neustadt - Modling,Goods trains,7375.0
+Annual,Number,Wiener Neustadt - Modling,Passenger trains,40697.0
+Annual,Number,Payerbach-Reichenau - Wiener Neustadt,Goods trains,15625.0
+Annual,Number,Payerbach-Reichenau - Wiener Neustadt,Passenger trains,18615.0
+Annual,Number,Spielfeld-Stra? - Graz Hbf,Goods trains,8375.0
+Annual,Number,Spielfeld-Stra? - Graz Hbf,Passenger trains,8395.0
+Annual,Number,Szentgotthard - Graz Hbf,Goods trains,2250.0
+Annual,Number,Szentgotthard - Graz Hbf,Passenger trains,6752.0
+Annual,Number,St. Michael West - Bruck A.D. Mur,Goods trains,20875.0
+Annual,Number,St. Michael West - Bruck A.D. Mur,Passenger trains,13870.0
+Annual,Number,Unzmarkt - St. Michael West,Goods trains,10375.0
+Annual,Number,Unzmarkt - St. Michael West,Passenger trains,10402.0
+Annual,Number,Klagenfurt Hbf - Unzmarkt,Goods trains,8625.0
+Annual,Number,Klagenfurt Hbf - Unzmarkt,Passenger trains,9490.0
+Annual,Number,Villach Hbf - Klagenfurt Hbf,Goods trains,8625.0
+Annual,Number,Villach Hbf - Klagenfurt Hbf,Passenger trains,13870.0
+Annual,Number,Arnoldstein - Villach Hbf,Goods trains,11250.0
+Annual,Number,Arnoldstein - Villach Hbf,Passenger trains,10767.0
+Annual,Number,Tarvisio Boscoverde - Arnoldstein,Goods trains,7250.0
+Annual,Number,Tarvisio Boscoverde - Arnoldstein,Passenger trains,1460.0
+Annual,Number,Pregarten - Linz Hbf,Goods trains,3375.0
+Annual,Number,Pregarten - Linz Hbf,Passenger trains,8030.0
+Annual,Number,Summerau - Pregarten,Goods trains,3375.0
+Annual,Number,Summerau - Pregarten,Passenger trains,4745.0
+Annual,Number,Kledering - Wien Sudbf Ost,Goods trains,26250.0
+Annual,Number,Kledering - Wien Sudbf Ost,Passenger trains,22447.0
+Annual,Number,Gramatneusiedl - Kledering,Goods trains,18125.0
+Annual,Number,Gramatneusiedl - Kledering,Passenger trains,24637.0
+Annual,Number,Bruck A.D.Leitha - Gramatneusiedl,Goods trains,9250.0
+Annual,Number,Bruck A.D.Leitha - Gramatneusiedl,Passenger trains,24637.0
+Annual,Number,Abzw Bruck A.D. Leitha  1 - Bruck A.D.Leitha,Goods trains,8625.0
+Annual,Number,Abzw Bruck A.D. Leitha  1 - Bruck A.D.Leitha,Passenger trains,18615.0
+Annual,Number,Parndorf - Abzw Bruck A.D. Leitha  1,Goods trains,8375.0
+Annual,Number,Parndorf - Abzw Bruck A.D. Leitha  1,Passenger trains,12045.0
+Annual,Number,Hegyeshalom - Parndorf,Goods trains,5250.0
+Annual,Number,Hegyeshalom - Parndorf,Passenger trains,7665.0
+Annual,Number,Kittsee - Parndorf,Goods trains,2500.0
+Annual,Number,Kittsee - Parndorf,Passenger trains,6205.0
+Annual,Number,Inzersdorf Ort - Wien Meidling,Goods trains,11125.0
+Annual,Number,Inzersdorf Ort - Wien Meidling,Passenger trains,13687.0
+Annual,Number,Wampersdorf - Inzersdorf Ort,Goods trains,1750.0
+Annual,Number,Wampersdorf - Inzersdorf Ort,Passenger trains,9490.0
+Annual,Number,Ebenfurth - Wampersdorf,Goods trains,10375.0
+Annual,Number,Ebenfurth - Wampersdorf,Passenger trains,9672.0
+Annual,Number,Wiener Neustadt - Ebenfurth,Goods trains,8000.0
+Annual,Number,Wiener Neustadt - Ebenfurth,Passenger trains,6752.0
+Annual,Number,Flughafen Wien-Schwechat - Klein Schwechat,Goods trains,750.0
+Annual,Number,Flughafen Wien-Schwechat - Klein Schwechat,Passenger trains,27922.0
+Annual,Number,Wolfsthal - Flughafen Wien-Schwechat,Goods trains,375.0
+Annual,Number,Wolfsthal - Flughafen Wien-Schwechat,Passenger trains,8030.0
+Annual,Number,Loipersbach-Schattendorf - Wiener Neustadt,Goods trains,625.0
+Annual,Number,Loipersbach-Schattendorf - Wiener Neustadt,Passenger trains,9490.0
+Annual,Number,Floridsdorf - Wien Nord,Goods trains,2375.0
+Annual,Number,Floridsdorf - Wien Nord,Passenger trains,88330.0
+Annual,Number,Leopoldau - Floridsdorf,Goods trains,2500.0
+Annual,Number,Leopoldau - Floridsdorf,Passenger trains,43070.0
+Annual,Number,Ganserndorf - Leopoldau,Goods trains,10125.0
+Annual,Number,Ganserndorf - Leopoldau,Passenger trains,25185.0
+Annual,Number,Bernhardsthal Frachtenbahnhof - Ganserndorf,Goods trains,8250.0
+Annual,Number,Bernhardsthal Frachtenbahnhof - Ganserndorf,Passenger trains,9125.0
+Annual,Number,Tulln - Wien Franz Josephsbahnhof,Goods trains,3750.0
+Annual,Number,Tulln - Wien Franz Josephsbahnhof,Passenger trains,24272.0
+Annual,Number,Absdorf-Hippersdorf - Tulln,Goods trains,2125.0
+Annual,Number,Absdorf-Hippersdorf - Tulln,Passenger trains,13140.0
+Annual,Number,Sigmundsherberg - Absdorf-Hippersdorf,Goods trains,1500.0
+Annual,Number,Sigmundsherberg - Absdorf-Hippersdorf,Passenger trains,6935.0
+Annual,Number,Gmund In Niederosterreich - Sigmundsherberg,Goods trains,750.0
+Annual,Number,Gmund In Niederosterreich - Sigmundsherberg,Passenger trains,4927.0
+Annual,Number,Aspang - Wiener Neustadt,Goods trains,1375.0
+Annual,Number,Aspang - Wiener Neustadt,Passenger trains,9855.0
+Annual,Number,Friedberg - Aspang,Goods trains,875.0
+Annual,Number,Friedberg - Aspang,Passenger trains,4927.0
+Annual,Number,Fehring - Friedberg,Goods trains,875.0
+Annual,Number,Fehring - Friedberg,Passenger trains,3285.0
+Annual,Number,Hausfeldstra?E - Stadlau,Goods trains,1750.0
+Annual,Number,Hausfeldstra?E - Stadlau,Passenger trains,22630.0
+Annual,Number,Marchegg - Hausfeldstra?E,Goods trains,1875.0
+Annual,Number,Marchegg - Hausfeldstra?E,Passenger trains,7300.0
+Annual,Number,Rennweg - Wien Meidling,Goods trains,2000.0
+Annual,Number,Rennweg - Wien Meidling,Passenger trains,72270.0
+Annual,Number,Wien Nord - Rennweg,Goods trains,1875.0
+Annual,Number,Wien Nord - Rennweg,Passenger trains,100192.0
+Annual,Number,Graz Hbf - Bruck A.D. Mur,Goods trains,11750.0
+Annual,Number,Graz Hbf - Bruck A.D. Mur,Passenger trains,17702.0
+Annual,Number,Bruck A.D.Mur - Payerbach-Reichenau,Goods trains,14500.0
+Annual,Number,Bruck A.D.Mur - Payerbach-Reichenau,Passenger trains,14052.0
+Annual,Number,Kirchdorf A. D. Krems - Linz Hbf,Goods trains,6375.0
+Annual,Number,Kirchdorf A. D. Krems - Linz Hbf,Passenger trains,9855.0
+Annual,Number,Selzthal - Kirchdorf A. D. Krems,Goods trains,5875.0
+Annual,Number,Selzthal - Kirchdorf A. D. Krems,Passenger trains,5840.0
+Annual,Number,Sopron - Ebenfurth,Goods trains,4125.0
+Annual,Number,Sopron - Ebenfurth,Passenger trains,9490.0
+Annual,Number,Stadlau - Wien Sudbahnhof Ost,Goods trains,21500.0
+Annual,Number,Stadlau - Wien Sudbahnhof Ost,Passenger trains,29930.0

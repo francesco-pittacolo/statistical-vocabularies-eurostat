@@ -1,0 +1,402 @@
+{
+  "1": {
+    "term": "Gross value added - NACE Rev. 2: G-I - current prices",
+    "predicted_category": "M"
+  },
+  "2": {
+    "term": "V44140",
+    "predicted_category": "A"
+  },
+  "3": {
+    "term": "Lagos",
+    "predicted_category": "A"
+  },
+  "4": {
+    "term": "RIJEKA/KRK airport",
+    "predicted_category": "A"
+  },
+  "5": {
+    "term": "Wheat and spelt by area, production and humidity",
+    "predicted_category": "M"
+  },
+  "6": {
+    "term": "High speed trains",
+    "predicted_category": "A"
+  },
+  "7": {
+    "term": "Olives for table use",
+    "predicted_category": "A"
+  },
+  "8": {
+    "term": "Proportion of school-leavers employed in the service sector having completed education level ISCED3-4 when leaving education for the first time",
+    "predicted_category": "A"
+  },
+  "9": {
+    "term": "ALEXANDROUPOLIS - ALEXANDROUPOLIS PORT",
+    "predicted_category": "A"
+  },
+  "10": {
+    "term": "Import dependency on third countries by fuel type",
+    "predicted_category": "M"
+  },
+  "11": {
+    "term": "Live goats",
+    "predicted_category": "A"
+  },
+  "12": {
+    "term": "House sales - value and index (2015=100), annual data",
+    "predicted_category": "M"
+  },
+  "13": {
+    "term": "During paid hours",
+    "predicted_category": "A"
+  },
+  "14": {
+    "term": "Filiasi - TÃ¢rgu Jiu",
+    "predicted_category": "A"
+  },
+  "15": {
+    "term": "Once (one time)",
+    "predicted_category": "U"
+  },
+  "16": {
+    "term": "Women who have experienced violence by any perpetrator, by level of disability (activity limitation)",
+    "predicted_category": "M"
+  },
+  "17": {
+    "term": "Value Added in Foreign Controlled Enterprises",
+    "predicted_category": "M"
+  },
+  "18": {
+    "term": "Number of plants",
+    "predicted_category": "A"
+  },
+  "19": {
+    "term": "Persons involved in trafficking in human beings by legal status and sex",
+    "predicted_category": "M"
+  },
+  "20": {
+    "term": "FRVES_MNT",
+    "predicted_category": "A"
+  },
+  "21": {
+    "term": "New Delhi",
+    "predicted_category": "A"
+  },
+  "22": {
+    "term": "Young people neither in employment nor in education and training by sex (NEET)",
+    "predicted_category": "M"
+  },
+  "23": {
+    "term": "Kokemaki - Lielahti",
+    "predicted_category": "A"
+  },
+  "24": {
+    "term": "Fish (%)",
+    "predicted_category": "A"
+  },
+  "25": {
+    "term": "Annual",
+    "predicted_category": "U"
+  },
+  "26": {
+    "term": "Linha Do Minho(Porto São Bento->Valença Fronteira)",
+    "predicted_category": "A"
+  },
+  "27": {
+    "term": "Bacau - Pa?Cani",
+    "predicted_category": "A"
+  },
+  "28": {
+    "term": "Petseri - Valga",
+    "predicted_category": "A"
+  },
+  "29": {
+    "term": "Kybartai-State Border - Kazlu Ruda",
+    "predicted_category": "A"
+  },
+  "30": {
+    "term": "Households - level of internet access",
+    "predicted_category": "M"
+  },
+  "31": {
+    "term": "Last internet use: in the last 12 months",
+    "predicted_category": "A"
+  },
+  "32": {
+    "term": "Hegyeshalom - Bra-Raj",
+    "predicted_category": "A"
+  },
+  "33": {
+    "term": "Human resources in science and technology (HRST)",
+    "predicted_category": "M"
+  },
+  "34": {
+    "term": "Cargo ship",
+    "predicted_category": "A"
+  },
+  "35": {
+    "term": "Construction, services of the business economy except financial and insurance activities",
+    "predicted_category": "A"
+  },
+  "36": {
+    "term": "Enterprise births - number",
+    "predicted_category": "A"
+  },
+  "37": {
+    "term": "Odense - Ringsted",
+    "predicted_category": "A"
+  },
+  "38": {
+    "term": "Aviation and airport enterprises",
+    "predicted_category": "M"
+  },
+  "39": {
+    "term": "Ischia",
+    "predicted_category": "A"
+  },
+  "40": {
+    "term": "Third country nationals returned following an order to leave - annual data (rounded)",
+    "predicted_category": "M"
+  },
+  "41": {
+    "term": "Fires in rolling stock",
+    "predicted_category": "A"
+  },
+  "42": {
+    "term": "Bregenz - Staatsgrenze N. Lochau - Hörbranz",
+    "predicted_category": "A"
+  },
+  "43": {
+    "term": "Viral hepatitis and sequelae of viral hepatitis",
+    "predicted_category": "A"
+  },
+  "44": {
+    "term": "Arrears on non-housing bills by risk of poverty threshold",
+    "predicted_category": "M"
+  },
+  "45": {
+    "term": "Nature of the trademark",
+    "predicted_category": "N"
+  },
+  "46": {
+    "term": "Mean age at first marriage - males",
+    "predicted_category": "A"
+  },
+  "47": {
+    "term": "Part-time employment by job mismatch (%)",
+    "predicted_category": "A"
+  },
+  "48": {
+    "term": "Health, pharmaceuticals, education, cultural, sport - services - final consumption",
+    "predicted_category": "A"
+  },
+  "49": {
+    "term": "Kreplje Cepisce -  Sezana",
+    "predicted_category": "A"
+  },
+  "50": {
+    "term": "Maturity: 4 years",
+    "predicted_category": "A"
+  },
+  "51": {
+    "term": "Mineral and solidified wastes (subtotal)",
+    "predicted_category": "A"
+  },
+  "52": {
+    "term": "Arnhem - Nijmegen",
+    "predicted_category": "A"
+  },
+  "53": {
+    "term": "Zimnitza - Karnobat",
+    "predicted_category": "A"
+  },
+  "54": {
+    "term": "Latvian lats",
+    "predicted_category": "A"
+  },
+  "55": {
+    "term": "Proportion of persons living in jobless households, male, 18-64 (%)",
+    "predicted_category": "A"
+  },
+  "56": {
+    "term": "Community designs (CD) by metropolitan regions",
+    "predicted_category": "M"
+  },
+  "57": {
+    "term": "Kontiomäki - Iisalmi",
+    "predicted_category": "A"
+  },
+  "58": {
+    "term": "Koper - Presnica Cepisce",
+    "predicted_category": "A"
+  },
+  "59": {
+    "term": "Ouest (FR) (NUTS 2013)",
+    "predicted_category": "A"
+  },
+  "60": {
+    "term": "Catches in all fishing regions",
+    "predicted_category": "M"
+  },
+  "61": {
+    "term": "Enterprise deaths - number",
+    "predicted_category": "A"
+  },
+  "62": {
+    "term": "Seedless red table grape vines",
+    "predicted_category": "A"
+  },
+  "63": {
+    "term": "Parkano - Lielahti",
+    "predicted_category": "A"
+  },
+  "64": {
+    "term": "Hours spent in CVT courses by size class - hours per 1000 hours worked in all enterprises",
+    "predicted_category": "M"
+  },
+  "65": {
+    "term": "From 12 to 17 years",
+    "predicted_category": "A"
+  },
+  "66": {
+    "term": "Rostijne - Boma",
+    "predicted_category": "A"
+  },
+  "67": {
+    "term": "Kozarovce - Hronska Dubrava",
+    "predicted_category": "A"
+  },
+  "68": {
+    "term": "Common farmland bird index",
+    "predicted_category": "M"
+  },
+  "69": {
+    "term": "Death due to drugs dependence, by sex",
+    "predicted_category": "M"
+  },
+  "70": {
+    "term": "Salmo salar (Atlantic salmon)",
+    "predicted_category": "A"
+  },
+  "71": {
+    "term": "Erd - Szekesfehervar",
+    "predicted_category": "A"
+  },
+  "72": {
+    "term": "Correction coefficients outside the European Union (Duty stations) - index (Brussels = 100)",
+    "predicted_category": "M"
+  },
+  "73": {
+    "term": "Nomenclature of land cover and land use (Corine Land Cover 2018)",
+    "predicted_category": "N"
+  },
+  "74": {
+    "term": "Imports of goods - other manufactured products",
+    "predicted_category": "M"
+  },
+  "75": {
+    "term": "Paneriai - Vaidotai",
+    "predicted_category": "A"
+  },
+  "76": {
+    "term": "Part of multinational enterprise group",
+    "predicted_category": "A"
+  },
+  "77": {
+    "term": "Irrigation in agriculture",
+    "predicted_category": "A"
+  },
+  "78": {
+    "term": "Japanese yen",
+    "predicted_category": "A"
+  },
+  "79": {
+    "term": "Ammonia emissions from agriculture - % of total emissions",
+    "predicted_category": "M"
+  },
+  "80": {
+    "term": "Sentence passed",
+    "predicted_category": "A"
+  },
+  "81": {
+    "term": "Country of residence",
+    "predicted_category": "N"
+  },
+  "82": {
+    "term": "Upgraded high speed railway lines",
+    "predicted_category": "A"
+  },
+  "83": {
+    "term": "Osijek - Strizivojna Vrpolje",
+    "predicted_category": "A"
+  },
+  "84": {
+    "term": "Second sextile",
+    "predicted_category": "A"
+  },
+  "85": {
+    "term": "Government sector",
+    "predicted_category": "A"
+  },
+  "86": {
+    "term": "Bucuresti - Giurgiu",
+    "predicted_category": "A"
+  },
+  "87": {
+    "term": "Children (aged less than 18) at risk of poverty or social exclusion - EU2030 target",
+    "predicted_category": "M"
+  },
+  "88": {
+    "term": "Bifurcação De Verride - Agulha 1 Da Amieira",
+    "predicted_category": "A"
+  },
+  "89": {
+    "term": "Index, 1991=100",
+    "predicted_category": "U"
+  },
+  "90": {
+    "term": "Tampere",
+    "predicted_category": "A"
+  },
+  "91": {
+    "term": "Production of chemicals",
+    "predicted_category": "A"
+  },
+  "92": {
+    "term": "Piped water in the housing unit",
+    "predicted_category": "A"
+  },
+  "93": {
+    "term": "Vilnius - Paneriai",
+    "predicted_category": "A"
+  },
+  "94": {
+    "term": "Index of the number of serious accidents at work per 100 thousand persons in employment (1998=100)",
+    "predicted_category": "A"
+  },
+  "95": {
+    "term": "Country weights for EA19 (euro area 2015-2022)",
+    "predicted_category": "A"
+  },
+  "96": {
+    "term": "Arable land",
+    "predicted_category": "A"
+  },
+  "97": {
+    "term": "Haydarpasa - Gebze",
+    "predicted_category": "A"
+  },
+  "98": {
+    "term": "Business function",
+    "predicted_category": "N"
+  },
+  "99": {
+    "term": "Young people neither in employment nor in education and training (15-29 years) - % of the total population in the same age group",
+    "predicted_category": "M"
+  },
+  "100": {
+    "term": "Last 5 years",
+    "predicted_category": "A"
+  }
+}

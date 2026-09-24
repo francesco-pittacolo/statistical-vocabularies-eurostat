@@ -1,0 +1,325 @@
+Time frequency,Sex,Age class,n_child,agechild,isced11,unit,geo\TIME_PERIOD,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0,2023.0
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,AT,77.2,75.6,77.0,75.7,77.4,79.5,78.8,75.7 b,77.3,79.5
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,BA,:,:,:,:,:,:,:,42.8 b,44.1,48.3
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,BE,74.7,73.4,72.8,74.0 b,74.8,75.1,73.3,78.0 b,76.0,76.3
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,BG,59.8,58.0,58.1,59.0,59.6,65.2 b,63.1,65.4 b,68.6,74.2
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,CY,69.5,68.1,68.2,69.3,69.1,71.7,71.8,70.0 b,76.3,79.1
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,CZ,40.7,39.7,40.1,38.2,44.8,37.6,36.5,38.7 b,41.0,40.1
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,DE,67.7,67.7,68.9,68.8,68.8,69.9,68.6 b,71.6 b,72.2,74.7
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,DK,71.6,70.6,74.1 b,70.5 b,72.5,75.0,68.0,73.8 b,78.1,76.3 b
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,EA20,67.3,66.7,67.2,67.1,68.2,68.9,68.1,70.5 b,72.1,73.4
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,EE,54.4,55.5,49.5,55.1,58.6,52.9,51.0,61.0 b,75.3,72.2
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,EL,52.7,56.0,54.7,54.3,58.3,60.3,57.5,59.5 b,64.4,61.3
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,ES,65.1,65.0,68.8,67.7,69.3,68.6,67.5,69.5 bd,66.9 d,71.1 d
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,EU27_2020,65.7,65.6,66.0,65.9,66.8,67.6,66.4,69.9 b,71.5,72.8
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,FI,59.6,58.8,57.6,61.2,60.2,64.0,66.5,69.4 b,73.3,73.7
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,FR,75.9 b,70.7,69.6,69.8,72.3,71.5,73.6,74.6 bd,77.3 d,76.3 d
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,HR,67.0,70.6,69.9,69.7,70.7,70.7,67.3,70.8 b,74.6,80.3
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,HU,39.8,42.6,43.5,42.6,40.3 b,43.5,38.5,77.5 b,80.2,78.9
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,IE,67.8,72.1,71.2,72.0 b,72.7,73.7,71.2,73.2 b,80.2,78.8
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,IT,59.7,58.9,58.4,57.4,56.8 b,59.6,57.2,58.9 b,61.4,62.3
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,LT,73.4,74.9,77.2,78.2,78.6,76.4,74.9,75.7 b,81.0,79.3
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,LU,81.2,74.6 b,74.2,79.9,78.2,77.9,79.4,81.6 b,90.7,86.9
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,LV,64.1,69.8,72.4,66.4,76.9,73.2,73.4,68.2 b,68.7,79.8
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,ME,55.9,54.1,56.6,57.2,55.3,55.9,40.5,:,:,:
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,MK,42.8,44.2,48.5,49.8,48.6,54.3,57.2,:,:,:
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,MT,69.2,65.3,63.6,64.6,67.8,68.9,76.0,77.9 b,78.1,65.3
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,NL,73.0,78.0,76.4,78.7,79.7,79.1,78.1,81.3 b,85.8,84.8
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,NO,:,:,:,:,:,:,:,75.2 b,84.9,84.2
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,PL,64.8,68.4,67.6,66.6,67.8,69.3 b,68.2,73.5 b,75.2,77.0
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,PT,76.1,79.6,80.6,83.8,85.1,84.6,81.8,78.9 b,82.4,86.5
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,RO,65.8,63.8,63.1,68.6,64.7,66.8,66.2,61.2 b,60.0,63.7
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,RS,53.2 b,55.8,57.6,59.4,58.8,59.0,57.7,66.6 b,65.9,72.3
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,SE,76.6,78.7,85.2,78.5,78.9 b,83.0,81.3,83.9 b,84.0,82.0
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,SI,68.9,75.6,75.7,78.3,81.1,84.3,79.3,81.9 b,85.0,83.5
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,SK,36.5,37.4,39.2,40.4,41.6,41.4,42.8,75.7 b,73.9,73.0
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,TR,32.2 b,33.2,35.2,36.1,35.8,35.7,34.6,35.9 b,39.5,37.2
+Annual,Females,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,UK,69.2,71.3,72.9,76.7,72.9,76.0,:,:,:,:
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,AT,69.4,71.8,72.6,71.9,72.0,74.0,77.5,72.5 b,77.0,76.7
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,BA,:,:,:,:,:,:,:,43.4 b,46.8,46.7
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,BE,74.0,73.4,75.1,72.1 b,76.9,74.8,78.7,75.6 b,78.9,77.9
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,BG,54.2,55.0,59.5,58.4,52.1,55.9 b,60.4,61.9 b,66.5,64.9
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,CY,74.7,74.5,70.9,65.8,72.4,74.2,71.3,75.7 b,77.9,76.3
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,CZ,48.2,46.3,47.7,49.4,48.9,49.0,44.2,46.0 b,44.7,49.1
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,DE,62.1,63.5,62.7,64.0,66.4,67.6,67.8 b,69.0 b,68.8,70.2
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,DK,81.8,82.0,82.3 b,80.1 b,82.8,80.5,80.2,80.0 b,82.7,80.8 b
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,EA20,63.0,64.2,63.4,64.8,66.3,67.0,66.9,68.6 b,69.6,70.2
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,EE,53.4,55.7,55.6,58.5,57.0,59.1,55.7,65.6 b,74.9,76.3
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,EL,50.1,52.4,52.4,56.5,55.6,54.1,57.3,58.9 b,59.7,53.9
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,ES,58.3,61.2,59.4,64.6,64.8,65.6,65.2,67.1 bd,67.9 d,67.8 d
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,EU27_2020,62.8,63.6,63.1,64.6,65.7,66.2,65.8,67.7 b,69.2,70.0
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,FI,66.1,66.3,65.6,71.6,72.0,71.4,68.8,71.7 b,72.7,74.1
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,FR,69.7 b,69.3,67.8,68.6,70.4,72.2,71.6,73.8 bd,74.8 d,75.1 d
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,HR,72.4,73.7,73.8,75.8,78.1,80.1,78.0,77.2 b,74.4,79.3
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,HU,44.0,39.8,39.6,45.0,47.4 b,46.5,42.8,68.6 b,74.3,74.3
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,IE,64.8,64.9,67.1,68.8 b,70.4,68.5,66.9,71.1 b,71.4,74.4
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,IT,52.5,53.1,51.6,52.5,53.7 b,52.1,50.8,50.4 b,52.8,54.0
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,LT,71.9,75.6,77.3,75.7,77.2,83.0,79.2,73.5 b,78.9,76.6
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,LU,79.7,77.5 b,78.3,81.6,77.1,76.1,77.2,76.1 b,85.5,81.6
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,LV,64.8,66.5,70.4,73.7,72.5,74.6,68.4,73.8 b,73.4,79.0
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,ME,54.5,56.5,58.4,50.1,55.3,51.7,43.6,:,:,:
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,MK,42.5,41.8,47.7,47.2,51.8,59.5,56.3,:,:,:
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,MT,54.8,52.9,63.2,64.6,65.3,60.5,56.3,60.0 b,71.8,69.7
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,NL,78.1,78.7,79.9,77.5,77.7,80.1,85.4,84.9 b,83.6,85.3
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,NO,:,:,:,:,:,:,:,84.7 b,85.2,88.2
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,PL,63.5,64.5,64.5,63.9,63.5,63.3 b,65.1,69.0 b,73.1,73.8
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,PT,75.0,79.3,78.3,80.3,82.3,82.9,83.1,88.8 b,85.7,80.8
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,RO,60.9,61.4,58.6,62.8,64.9,62.6,59.2,51.9 b,55.1,56.5
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,RS,56.1 b,56.4,59.3,61.9,67.4,67.3,65.6,60.3 b,66.6,68.7
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,SE,82.5,81.9,80.9,85.9,86.2 b,86.0,80.3,80.2 b,85.4,89.7
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,SI,79.9,78.7,79.6,84.3,84.2,85.0,81.2,83.8 b,84.2,87.2
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,SK,40.6,42.1,44.3,43.7,43.1,45.2,39.5,66.1 b,72.5,72.1
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,TR,25.9 b,25.8,26.3,28.2,29.0,28.9,26.4,28.4 b,31.1,31.0
+Annual,Females,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,UK,64.2,66.0,68.6,69.1,70.4,71.3,:,:,:,:
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,AT,57.5,54.8,57.4,55.9,50.9,54.7,54.9,53.6 b,56.0,62.2
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,BA,:,:,:,:,:,:,:,28.8 b,29.0,32.3
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,BE,51.1,50.9,50.5,48.8 b,54.8,55.2,51.9,54.3 b,50.5,53.1
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,BG,29.3 u,31.1 u,27.0 u,32.0 u,28.1 u,41.4 b,28.3 u,46.2 bu,39.2 u,33.1 u
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,CY,59.7,62.8,66.6,69.6,62.5,63.1,55.3,67.2 b,69.2,65.3
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,CZ,34.6,34.0,45.6,38.4,44.7,42.7,43.5,38.2 b,41.1,42.0
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,DE,42.3,43.6,43.0,43.7,44.2,44.0,43.2 b,48.3 b,49.0,49.3
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,DK,75.7,80.9,82.5 b,78.2 b,80.3,78.2,78.5,72.6 b,78.2,79.0 b
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,EA20,45.6,45.4,46.1,48.2,47.8,48.9,47.9,51.9 b,50.6,53.5
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,EE,49.4,48.5,43.8,52.0,45.7,47.2,44.4,54.7 b,66.6,62.0
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,EL,44.3,46.6,46.4,42.7,42.3,53.0,51.5,56.9 b,56.4,45.1
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,ES,42.0,42.9,41.2,46.9,44.9,43.3,42.6,53.2 bd,44.0 d,49.1 d
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,EU27_2020,46.4,46.4,46.8,48.6,48.5,49.4,48.5,52.5 b,51.7,53.7
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,FI,51.8,51.8,56.4,55.7,54.9,58.2,60.1,62.3 b,61.8,61.7
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,FR,45.7 b,42.3,44.0,47.6,47.2,48.4,46.9,49.5 bd,49.6 d,56.5 d
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,HR,55.4,54.1,55.8,58.8,61.2,63.2,69.7,62.7 b,71.3,65.0
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,HU,22.6,24.4,28.6,30.5,33.2 b,30.7,29.9,52.6 b,52.0,55.5
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,IE,50.9,53.8,55.1,56.6 b,55.3,55.4,57.2,61.5 b,58.4,61.4
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,IT,34.4,36.3,38.4,39.2,38.0 b,39.5,35.7,35.5 b,35.0,35.1
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,LT,54.9,55.0,57.9,56.3,62.2,63.1,72.1,73.6 b,68.6,65.4
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,LU,57.6,56.2 b,57.4,62.1,53.8,63.2,60.0,67.9 b,69.4,61.9 u
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,LV,51.0,59.4,57.7,60.9,63.1,68.0,51.1,64.2 b,74.7,65.0
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,ME,41.9,41.7,43.1,40.6,40.1,40.4,45.3,:,:,:
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,MK,21.4,23.3,26.4,22.5,26.5,31.0,34.7,:,:,:
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,MT,41.2,43.5,39.4,36.4,48.6,47.4,44.5,61.1 b,55.8 u,84.9
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,NL,63.5,63.8,64.0,66.9,65.2,69.2,72.1,71.1 b,70.7,71.8
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,NO,:,:,:,:,:,:,:,77.5 b,82.6,82.4
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,PL,49.4,50.8,46.7,49.2,50.4,50.2 b,49.9,59.7 b,59.4,64.8
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,PT,61.2,64.9,62.0,69.5,64.5,70.4,69.9,77.9 b,63.6,70.1
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,RO,44.9,47.0,43.3,46.5,46.1,45.1,45.9,32.6 b,35.0,27.5
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,RS,46.0 b,47.3,52.0,53.4,48.4,52.2,53.5,54.7 b,57.5,59.7
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,SE,76.7,72.7,79.1,75.0,71.5 b,77.2,72.3,78.8 b,73.7,79.2
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,SI,69.4,76.4,75.0,75.3,73.6,68.4,77.7,81.4 b,82.1 u,76.9 u
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,SK,28.1,28.3,32.2,36.4,31.2,28.2,32.3,54.0 b,48.1,51.8
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,TR,23.6 b,23.4,24.1,25.5,24.7,23.5,21.7,23.6 b,25.3,25.5
+Annual,Females,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,UK,42.5,41.6,45.5,46.2,52.1,51.5,:,:,:,:
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,AT,92.4,91.6,92.1,93.8,93.1,95.0,91.3,92.6 b,94.8,93.8
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,BA,:,:,:,:,:,:,:,89.8 b,90.7,91.6
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,BE,87.4,86.6,88.0,90.1 b,91.3,91.8,92.0,92.2 b,91.5,91.7
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,BG,83.9,84.0,83.4,86.9,90.3,89.8 b,89.4,88.7 b,93.4,89.5
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,CY,80.5,85.6,89.7,91.6,91.4,92.0,91.9,91.9 b,95.2,89.7
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,CZ,94.6,94.4,96.0,96.8,96.9,96.3,97.1,97.0 b,96.7,96.9
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,DE,91.7,92.1,92.4,92.5,93.6,93.5,92.3 b,91.8 b,93.8,94.1
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,DK,91.2,90.1,91.1 b,91.9 b,88.9,91.0,87.0,91.1 b,87.9,89.3 b
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,EA20,86.9,88.2,89.2,90.2,90.8,90.7,89.9,89.9 b,91.6,92.5
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,EE,90.1,92.4,92.7,93.7,94.6,94.7,93.3,93.5 b,89.1,92.6
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,EL,82.5,86.9,86.4,86.7,91.3,91.0,89.4,86.3 b,91.9,96.0
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,ES,77.8,83.0,85.4,87.5,88.1,89.5,85.3,84.7 bd,87.0 d,89.1 d
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,EU27_2020,87.7,88.9,89.9,90.9,91.5,91.6,90.9,90.9 b,92.1,92.7
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,FI,87.9,89.6,88.9,87.4,90.8,91.5,92.1,88.9 b,93.2,89.6
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,FR,87.9 b,87.0,88.8,89.8,88.8,87.3,90.4,89.7 bd,89.8 d,90.9 d
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,HR,85.3,84.9,87.6,85.0,87.0,94.2,93.0,90.4 b,90.3,97.4
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,HU,91.3,91.6,91.9,93.3,93.7 b,95.1,94.4,95.3 b,94.9,95.2
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,IE,85.8,87.2,89.1,90.8 b,90.6,92.5,87.4,90.3 b,91.1,94.7
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,IT,86.3,87.2,87.2,88.5,88.5 b,87.8,87.3,88.5 b,91.4,92.2
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,LT,90.3,88.2,89.1,90.7,94.3,92.4,92.8,93.3 b,94.6,94.3
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,LU,93.1,91.0 b,89.0,89.3,90.1,90.3,92.4,92.9 b,94.5,92.7
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,LV,85.7,89.4,91.4,88.2,90.7,93.7,93.2,86.6 b,87.1,94.3
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,ME,69.2,72.3,80.0,72.9,81.0,82.4,76.6,:,:,:
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,MK,74.4,71.7,73.2,77.8,75.8,76.6,79.1,:,:,:
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,MT,96.7,96.2,96.2,90.4,93.6,97.4,94.1,98.7 b,96.0,96.7
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,NL,92.3,93.6,94.6,93.8,95.2,94.5,94.0,95.7 b,95.8,96.3
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,NO,:,:,:,:,:,:,:,93.4 b,95.2,92.6
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,PL,90.3,91.8,92.6,93.0,94.0,94.7 b,94.9,95.3 b,94.2,94.7
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,PT,88.0,91.3,90.9,94.1,95.3,95.3,91.0,92.0 b,93.0,92.1
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,RO,87.3,89.2,89.6,92.5,92.4,92.7,91.3,91.3 b,91.1,90.3
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,RS,76.1 b,78.1,82.0,83.5,85.0,85.5,85.4,87.9 b,89.4,90.8
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,SE,93.6,92.3,95.1,93.1,94.4 b,98.0,93.8,94.3 b,97.2,92.5
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,SI,92.9,94.1,92.7,92.8,96.7,97.2,96.8,94.2 b,97.0,96.1
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,SK,88.8,88.6,90.6,94.0,94.5,92.8,90.7,93.2 b,94.1,94.5
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,TR,91.0 b,90.9,90.1,90.9,90.6,88.0,86.4,89.9 b,91.4,92.0
+Annual,Males,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,UK,91.4,92.9,93.8,95.1,94.7,94.9,:,:,:,:
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,AT,91.5,92.3,92.0,93.8,93.6,93.0,92.5,92.8 b,95.1,94.0
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,BA,:,:,:,:,:,:,:,87.9 b,87.4,91.4
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,BE,90.0,89.2,91.2,90.5 b,91.8,91.9,91.9,91.1 b,91.2,92.4
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,BG,79.6,80.4,86.4,84.8,88.9,88.2 b,89.0,85.1 b,88.4,91.4
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,CY,87.0,87.3,88.2,88.8,94.3,94.6,93.9,95.8 b,96.0,95.8
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,CZ,95.0,93.8,95.1,98.0,97.0,96.3,96.7,96.8 b,97.2,95.9
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,DE,93.0,93.0,92.5,92.9,93.2,93.9,92.3 b,92.3 b,92.6,93.1
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,DK,92.9,95.5,95.2 b,93.8 b,93.9,93.9,93.5,92.7 b,93.1,91.3 b
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,EA20,87.8,89.0,89.7,90.4,91.2,91.4,91.1,90.6 b,91.9,92.2
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,EE,90.7,93.4,92.2,92.1,94.4,93.7,92.0,92.2 b,94.3,91.7
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,EL,82.8,86.9,89.3,89.8,91.8,92.2,91.5,89.9 b,90.9,92.5
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,ES,80.5,81.6,84.1,86.8,89.1,89.8,88.3,87.2 bd,89.4 d,88.7 d
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,EU27_2020,88.5,89.8,90.4,91.1,92.0,92.4,92.1,91.4 b,92.5,92.8
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,FI,90.9,90.4,91.2,93.1,92.1,91.2,92.5,90.1 b,93.2,89.4
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,FR,87.8 b,89.9,90.3,89.6,90.9,89.2,91.5,90.4 bd,92.2 d,92.2 d
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,HR,85.3,89.0,89.7,90.2,92.3,92.7,95.3,95.6 b,90.6,94.6
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,HU,88.2,90.6,91.3,91.0,91.4 b,93.9,93.0,93.9 b,94.5,95.5
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,IE,85.9,87.6,89.9,89.4 b,90.8,92.1,90.3,89.4 b,90.8,93.7
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,IT,86.7,87.0,87.8,88.8,88.7 b,89.4,88.4,87.4 b,90.7,91.2
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,LT,86.8,88.3,88.2,88.9,92.6,92.0,88.7,92.3 b,91.9,91.6
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,LU,95.9,91.8 b,93.8,92.5,93.3,89.8,92.8,92.7 b,93.6,95.2
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,LV,87.6,89.8,89.7,91.2,87.5,87.5,91.2,91.2 b,83.4,88.0
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,ME,80.9,82.4,77.7,80.2,83.2,75.4,69.8,:,:,:
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,MK,75.2,69.3,70.8,74.3,79.8,85.9,83.0,:,:,:
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,MT,95.6,96.0,97.0,98.5,96.0,96.6,98.1,90.1 b,99.5,99.9
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,NL,94.1,95.2,93.7,95.3,93.9,95.5,95.6,96.7 b,96.8,96.2
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,NO,:,:,:,:,:,:,:,93.0 b,95.8,93.3
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,PL,91.8,93.2,94.1,94.2,95.0,96.3 b,96.4,96.3 b,96.6,95.6
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,PT,89.3,90.5,91.0,91.7,92.8,95.0,93.6,92.4 b,91.0,92.1
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,RO,85.6,88.7,86.5,87.7,89.6,91.8,91.0,86.7 b,87.6,90.0
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,RS,81.5 b,81.2,82.9,85.0,87.8,90.3,89.0,89.9 b,87.6,89.8
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,SE,93.2,95.3,94.2,95.8,96.1 b,97.1,95.9,95.1 b,94.2,95.9
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,SI,93.4,96.3,96.0,97.7,97.4,97.6,97.3,95.8 b,96.4,96.1
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,SK,89.9,93.0,91.9,91.9,94.0,92.7,91.6,92.5 b,93.7,93.2
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,TR,90.2 b,90.5,89.7,90.2,90.0,87.2,85.4,88.1 b,90.1,90.3
+Annual,Males,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,UK,93.0,92.8,93.4,93.1,94.2,96.0,:,:,:,:
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,AT,87.9,83.3,84.0,84.7,87.5,89.8,87.7,87.3 b,88.4,89.6
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,BA,:,:,:,:,:,:,:,84.3 b,85.2,87.2
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,BE,82.2,79.9,79.8,84.4 b,81.6,81.4,79.6,84.3 b,84.6,75.6
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,BG,65.7,46.1 u,44.8,63.7,63.9,74.2 b,64.4,79.7 b,68.6,68.9 u
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,CY,87.7,86.8,87.6,86.6,89.0,92.6,89.5,89.2 b,96.6,95.9
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,CZ,90.7,88.1,91.8,90.5,94.2,92.5,94.5,95.0 b,91.7,92.7
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,DE,87.2,86.9,83.3,82.7,81.9,84.3,80.3 b,85.5 b,85.5,86.9
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,DK,92.4,96.1,90.2 b,90.9 b,94.2,93.8,94.7,87.6 b,87.0,90.6 b
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,EA20,82.9,81.8,81.7,83.0,82.6,84.5,83.4,84.9 b,85.9,86.3
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,EE,89.8,85.1,89.9,91.1,90.6,89.4,88.6,86.5 b,94.6,92.5
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,EL,83.7,82.0,85.5,84.4,86.0,87.0,87.0,90.1 b,90.5,83.2
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,ES,68.3,72.1,71.8,75.8,81.2,79.8,76.9,78.0 bd,76.9 d,81.9 d
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,EU27_2020,83.3,82.6,82.3,84.0,84.3,85.8,85.2,85.6 b,86.6,86.2
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,FI,91.1,90.0,87.6,91.5,90.1,92.2,88.8,91.2 b,90.1,92.3
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,FR,84.4 b,80.7,81.1,82.3,78.7,82.8,84.1,83.4 bd,87.7 d,87.9 d
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,HR,77.0,77.5,80.6,84.5,86.9,87.7,90.5,91.7 b,96.0,89.0
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,HU,78.3,80.5,82.9,87.2,88.7 b,88.9,86.1,88.4 b,89.3,88.8
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,IE,81.9,83.5,85.5,86.1 b,86.9,84.9,87.6,90.2 b,87.3,90.6
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,IT,81.0,81.4,81.0,81.6,82.7 b,85.2,83.4,82.9 b,84.2,84.1
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,LT,75.0,79.8,81.8,87.2,85.1,85.3,85.9,90.7 b,88.0,86.5
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,LU,86.2,83.8 b,87.0,90.3,90.0,85.6,87.7,90.5 b,88.8,91.8 u
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,LV,90.2,91.0,87.1,92.4,83.1,93.7,90.6,89.8 b,95.2,87.7
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,ME,68.8,73.4,76.3,77.5,72.6,77.0,73.7,:,:,:
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,MK,60.5,60.3,67.8,67.8,73.4,76.6,77.8,:,:,:
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,MT,94.8,96.4,94.5,98.0,96.9,98.1,84.2,92.9 b,82.4 u,81.6
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,NL,91.1,89.0,92.6,91.6,92.9,93.9,95.1,95.2 b,94.4,94.4
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,NO,:,:,:,:,:,:,:,90.5 b,94.5,94.3
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,PL,88.0,88.7,87.2,89.6,91.3,93.0 b,95.4,92.7 b,92.2,94.4
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,PT,79.4,83.8,84.1,87.3,90.2,85.9,88.1,84.9 b,84.5,84.2
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,RO,72.7,79.7,75.7,81.5,84.2,79.7,79.6,72.6 b,76.1,70.5
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,RS,74.5 b,74.6,77.1,77.8,75.4,78.9,81.1,81.9 b,85.7,83.1
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,SE,90.5,90.0,92.0,89.5,93.2 b,90.6,91.6,91.1 b,97.2,90.0
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,SI,90.6,87.0,90.1,92.3,94.6,94.0,97.5,94.0 b,95.7 u,95.7 u
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,SK,71.2,75.1,80.9,81.0,80.9,81.4,82.0,81.3 b,81.3,84.4
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,TR,81.9 b,82.8,82.2,83.9,84.0,80.1,77.1,82.4 b,83.7,85.6
+Annual,Males,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,UK,84.2,85.8,88.4,87.9,88.4,90.9,:,:,:,:
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,AT,84.1,83.0,84.0,84.0,84.6,86.6,84.7,83.7 b,85.5,86.1
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,BA,:,:,:,:,:,:,:,65.6 b,66.5,69.6
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,BE,80.7,79.5,79.9,81.4 b,82.3,83.1,81.9,84.4 b,83.0,83.3
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,BG,70.5,69.7,69.6,71.4,73.0,76.1 b,75.2,76.0 b,79.4,80.9
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,CY,74.5,76.4,78.2,79.8,79.9,81.1,81.1,80.3 b,85.1,84.2
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,CZ,65.9,64.2,65.6,65.3,69.3,65.3,64.7,66.0 b,66.9,67.3
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,DE,78.6,78.7,79.6,79.7,80.2,80.7,79.6 b,80.9 b,82.2,83.6
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,DK,80.5,79.4,81.9 b,80.2 b,80.0,82.4,76.5,81.7 b,82.6,82.3 b
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,EA20,76.4,76.7,77.3,77.8,78.6,79.0,78.2,79.4 b,81.1,82.3
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,EE,69.8,71.4,68.5,72.5,75.2,73.1,70.7,75.9 b,81.8,81.1
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,EL,66.9,70.9,69.8,69.8,74.3,75.1,72.6,72.3 b,77.8,78.2
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,ES,71.1,73.4,76.6,77.0,78.1,78.4,75.8,76.6 bd,76.1 d,79.6 d
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,EU27_2020,76.0,76.4,77.1,77.5,78.2,78.8,77.8,79.6 b,81.1,82.1
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,FI,73.2,73.3,72.5,73.6,74.9,77.1,78.9,78.5 b,82.7,81.3
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,FR,81.4 b,78.2,78.3,79.0,79.8,78.8,81.3,81.5 bd,83.1 d,82.9 d
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,HR,75.9,77.6,78.4,76.9,78.5,81.6,79.3,80.3 b,82.0,88.5
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,HU,63.6,65.2,65.8,66.0,65.4 b,67.5,64.8,86.0 b,87.2,86.7
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,IE,76.0,79.0,79.3,80.4 b,80.8,82.2,78.6,80.6 b,85.2,86.0
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,IT,72.2,72.2,71.9,72.0,71.5 b,72.7,71.1,72.7 b,75.2,76.2
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,LT,80.8,80.8,82.4,83.6,85.6,83.6,83.1,83.8 b,87.0,86.0
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,LU,86.8,82.3 b,81.0,84.4,83.7,83.8,85.7,86.9 b,92.4,89.6
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,LV,73.7,79.0,80.9,76.7,83.1,82.7,82.2,76.4 b,76.6,86.4
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,ME,62.6,62.8,67.7,64.5,67.7,68.8,56.9,:,:,:
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,MK,57.9,57.5,60.7,63.5,61.9,65.3,67.8,:,:,:
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,MT,82.1,80.2,79.6,77.1,80.0,82.3,85.2,87.8 b,86.8,80.4
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,NL,81.9,85.2,84.7,85.8,87.0,86.3,85.4,88.0 b,90.6,90.2
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,NO,:,:,:,:,:,:,:,83.7 b,89.6,88.0
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,PL,76.9,79.5,79.5,79.2,80.1,81.4 b,80.8,83.5 b,83.8,85.1
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,PT,81.6,85.0,85.3,88.6,89.8,89.5,85.9,84.7 b,87.2,89.0
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,RO,76.0,76.0,75.9,80.1,78.0,79.4,78.3,75.8 b,75.3,76.6
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,RS,64.0 b,66.4,69.1,70.8,71.2,71.7,70.8,76.7 b,77.0,80.9
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,SE,84.2,84.8,89.8,85.3,85.9 b,90.0,87.4,89.0 b,90.5,87.0
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,SI,80.1,84.3,83.9,85.3,88.6,90.5,87.6,87.8 b,90.8,89.6
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,SK,59.7,60.9,62.5,64.3,65.0,64.8,64.5,84.0 b,83.3,83.1
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,TR,61.4 b,61.7,62.4,63.1,62.8,61.4,60.0,62.4 b,65.0,64.1
+Annual,Total,From 20 to 49 years,1.0,Y_LT6,TOTAL,RT,UK,79.2,81.3,82.4,85.1,83.0,85.0,:,:,:,:
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,AT,80.0,81.5,81.8,82.3,82.2,83.0,84.7,82.2 b,85.6,84.9
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,BA,:,:,:,:,:,:,:,65.4 b,66.8,68.8
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,BE,81.6,81.0,82.7,80.8 b,83.9,83.0,84.8,82.9 b,84.7,84.7
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,BG,65.9,66.8,71.9,70.6,69.3,70.6 b,73.7,72.5 b,76.3,76.8
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,CY,80.6,80.6,79.1,76.8,82.9,84.0,82.2,85.4 b,86.5,85.6
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,CZ,71.0,69.4,70.2,73.1,72.0,71.4,69.8,70.5 b,69.0,71.6
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,DE,76.5,77.3,76.7,77.6,79.0,80.0,79.4 b,80.0 b,80.0,81.0
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,DK,87.1,88.4,88.3 b,86.6 b,88.0,86.9,86.4,86.0 b,87.7,85.8 b
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,EA20,74.8,76.0,75.9,76.9,78.1,78.6,78.4,79.0 b,80.2,80.5
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,EE,71.0,73.3,72.9,74.6,74.5,75.6,73.1,78.3 b,84.0,83.5
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,EL,66.0,69.1,70.3,72.9,73.3,72.8,73.9,73.9 b,74.7,72.6
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,ES,69.0,71.1,71.3,75.2,76.4,77.2,76.3,76.6 bd,78.3 d,77.6 d
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,EU27_2020,75.1,76.1,76.1,77.2,78.2,78.7,78.4,78.9 b,80.3,80.8
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,FI,78.2,78.1,78.1,82.0,81.8,81.1,80.3,80.6 b,82.5,81.3
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,FR,78.2 b,79.0,78.4,78.5,79.9,80.2,81.0,81.5 bd,82.9 d,83.1 d
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,HR,78.7,81.2,81.6,82.9,85.2,86.4,86.2,86.0 b,82.2,86.7
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,HU,65.0,64.1,64.2,66.9,68.4 b,69.2,66.9,80.9 b,84.0,84.5
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,IE,74.9,75.6,77.8,78.4 b,79.8,79.6,77.8,79.9 b,80.7,82.8
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,IT,68.9,69.4,68.9,69.9,70.5 b,69.9,68.7,68.0 b,70.9,71.5
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,LT,78.6,81.5,82.1,81.7,84.1,87.1,83.5,82.0 b,84.9,83.4
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,LU,87.2,84.5 b,85.8,86.8,85.0,82.8,84.8,84.2 b,89.5,88.2
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,LV,75.7,77.2,79.3,81.5,79.5,80.8,78.5,81.5 b,77.8,83.0
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,ME,67.6,69.4,67.8,65.3,69.3,62.8,55.6,:,:,:
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,MK,58.9,55.7,59.3,60.7,65.6,72.4,69.4,:,:,:
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,MT,74.6,73.9,79.9,81.7,80.5,78.7,77.2,73.5 b,85.1,82.5
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,NL,85.7,86.7,86.4,85.9,85.3,87.3,90.3,90.6 b,89.9,90.4
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,NO,:,:,:,:,:,:,:,88.7 b,90.3,90.6
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,PL,77.2,78.5,78.9,78.7,78.9,79.5 b,80.6,82.1 b,84.3,84.2
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,PT,81.6,84.7,84.3,85.7,87.2,88.7,88.0,90.5 b,88.2,86.1
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,RO,73.0,74.7,72.3,75.1,77.0,77.0,75.0,68.9 b,71.0,73.0
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,RS,68.5 b,68.7,70.8,73.2,77.4,78.5,76.9,74.3 b,76.7,78.9
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,SE,87.6,88.4,87.3,90.7,90.7 b,91.2,87.5,87.5 b,89.7,92.8
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,SI,86.3,87.2,87.6,91.0,90.8,91.3,89.1,89.7 b,90.2,91.5
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,SK,63.9,66.2,67.0,66.1,66.7,67.7,64.2,78.8 b,82.7,82.3
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,TR,57.8 b,57.9,57.8,59.0,59.2,57.6,55.5,57.6 b,59.9,59.8
+Annual,Total,From 20 to 49 years,2.0,Y_LT6,TOTAL,RT,UK,77.8,78.4,80.2,80.4,81.6,83.0,:,:,:,:
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,AT,71.7,68.2,70.0,69.7,68.3,71.4,70.1,69.7 b,71.3,75.1
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,BA,:,:,:,:,:,:,:,56.3 b,56.9,59.4
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,BE,65.4,64.3,63.9,65.2 b,67.3,67.3,64.7,68.0 b,66.9,63.6
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,BG,46.1,38.1,35.5,47.3,45.1,56.5 b,44.8,61.4 b,52.2,48.3
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,CY,73.1,74.3,76.7,77.5,75.3,77.4,71.9,77.6 b,82.0,79.6
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,CZ,60.4,58.9,66.8,62.1,66.9,65.8,67.4,65.1 b,64.9,65.8
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,DE,63.2,63.7,61.5,61.7,61.7,62.8,60.6 b,65.6 b,65.8,66.7
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,DK,83.6,87.9,86.2 b,84.2 b,86.9,85.8,86.2,80.0 b,82.4,84.4 b
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,EA20,62.9,62.3,62.5,64.2,63.8,65.4,64.3,67.2 b,66.8,68.5
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,EE,68.5,65.8,65.3,70.4,67.1,68.3,65.2,69.7 b,79.7,76.3
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,EL,63.0,63.2,65.1,63.1,63.3,69.4,68.5,72.9 b,72.6,63.5
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,ES,54.1,57.0,55.8,60.4,61.6,60.4,58.6,64.6 bd,59.5 d,64.7 d
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,EU27_2020,63.6,63.3,63.2,65.0,65.1,66.4,65.6,68.0 b,67.9,68.7
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,FI,70.9,70.5,71.6,73.0,71.6,74.8,74.1,76.1 b,74.9,76.2
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,FR,63.5 b,59.7,60.4,63.1,61.3,64.0,63.5,64.8 bd,66.3 d,69.9 d
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,HR,65.7,65.7,68.6,71.3,73.3,74.8,79.7,77.0 b,83.6,76.4
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,HU,49.5,51.2,54.0,57.2,59.3 b,58.2,56.4,69.7 b,69.8,71.4
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,IE,65.5,67.8,69.1,70.3 b,70.0,68.9,71.0,74.8 b,71.8,75.1
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,IT,56.3,57.4,58.5,59.2,59.0 b,61.0,58.3,57.6 b,57.8,57.8
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,LT,64.4,66.1,68.5,69.3,72.0,72.9,78.5,81.6 b,76.8,75.1
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,LU,71.9,69.6 b,70.9,75.3,71.4,74.2,72.3,78.2 b,78.3,75.8
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,LV,68.6,73.8,71.3,75.2,71.2,79.2,67.0,75.6 b,83.7,74.4
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,ME,55.0,56.3,58.8,58.8,56.2,57.8,58.8,:,:,:
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,MK,41.0,41.7,47.0,44.9,49.4,53.5,55.7,:,:,:
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,MT,64.2,66.4,62.5,63.3,69.6,70.7,63.4,75.4 b,64.9,84.0
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,NL,76.6,75.5,77.4,78.4,77.8,80.6,82.8,82.6 b,81.9,82.2
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,NO,:,:,:,:,:,:,:,83.6 b,88.1,88.0
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,PL,67.5,68.3,65.5,68.4,69.8,71.1 b,71.9,75.7 b,74.8,78.8
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,PT,69.6,73.6,72.1,77.4,76.1,77.5,78.2,81.2 b,72.8,76.3
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,RO,58.5,63.2,58.8,63.2,64.4,62.2,62.5,51.9 b,55.0,49.0
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,RS,59.9 b,60.1,64.1,65.3,61.4,65.1,66.8,67.7 b,70.9,71.0
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,SE,83.5,80.9,85.0,81.8,81.7 b,83.6,81.6,84.7 b,85.0,84.5
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,SI,79.6,81.4,82.3,83.5,83.7,80.7,87.4,87.6 b,88.9,86.0
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,SK,48.2,50.5,54.9,57.4,54.6,53.0,55.1,67.5 b,64.4,67.4
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,TR,52.2 b,52.6,52.7,54.4,53.6,51.2,48.6,52.2 b,53.7,54.7
+Annual,Total,From 20 to 49 years,GE3,Y_LT6,TOTAL,RT,UK,61.1,61.4,65.0,64.7,68.4,69.1,:,:,:,:

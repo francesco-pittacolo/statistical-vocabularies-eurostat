@@ -1,0 +1,80 @@
+Time frequency,Unit of measure,Type of signalling,Geopolitical entity (reporting)\Time,2019.0,2020.0,2021.0,2022.0,2023.0
+Annual,Kilometre,Signal directly from train (level 3),Austria,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Belgium,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Bulgaria,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Switzerland,:,0.0,0.0,:,0.0
+Annual,Kilometre,Signal directly from train (level 3),Czechia,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Germany,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Denmark,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Estonia,0.0,0.0,0.0,:,0.0
+Annual,Kilometre,Signal directly from train (level 3),Greece,0.0,0.0,0.0,:,0.0
+Annual,Kilometre,Signal directly from train (level 3),Spain,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Finland,0.0,0.0,0.0,:,0.0
+Annual,Kilometre,Signal directly from train (level 3),France,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Croatia,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Hungary,:,:,:,:,0.0
+Annual,Kilometre,Signal directly from train (level 3),Italy,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Lithuania,0.0,0.0,0.0,:,0.0
+Annual,Kilometre,Signal directly from train (level 3),Luxembourg,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Latvia,0.0,0.0,0.0,:,0.0
+Annual,Kilometre,Signal directly from train (level 3),Netherlands,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Norway,0.0,0.0,0.0,:,0.0
+Annual,Kilometre,Signal directly from train (level 3),Poland,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Portugal,0.0,0.0,0.0,:,0.0
+Annual,Kilometre,Signal directly from train (level 3),Romania,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Sweden,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Slovenia,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),Slovakia,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Signal directly from train (level 3),United Kingdom,0.0,0.0,:,:,:
+Annual,Kilometre,Radio-signal (level 2),Austria,344.2,339.4,338.7,338.7,434.8
+Annual,Kilometre,Radio-signal (level 2),Belgium,0.0,0.0,178.6,229.7,283.3
+Annual,Kilometre,Radio-signal (level 2),Bulgaria,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Radio-signal (level 2),Switzerland,:,325.2,325.2,:,441.1
+Annual,Kilometre,Radio-signal (level 2),Czechia,246.1,579.3,588.7,890.1,1027.9
+Annual,Kilometre,Radio-signal (level 2),Germany,200.9,420.5,420.5,721.0,534.6
+Annual,Kilometre,Radio-signal (level 2),Denmark,0.0,0.0,0.0,316.1,316.1
+Annual,Kilometre,Radio-signal (level 2),Estonia,0.0,0.0,0.0,:,:
+Annual,Kilometre,Radio-signal (level 2),Greece,0.0,0.0,0.0,:,:
+Annual,Kilometre,Radio-signal (level 2),Spain,521.5,521.5,521.5,927.8,1478.1
+Annual,Kilometre,Radio-signal (level 2),Finland,0.0,0.0,0.0,:,:
+Annual,Kilometre,Radio-signal (level 2),France,857.1,958.6,958.6,958.6,958.6
+Annual,Kilometre,Radio-signal (level 2),Croatia,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Radio-signal (level 2),Hungary,:,:,:,:,109.8
+Annual,Kilometre,Radio-signal (level 2),Italy,681.2,753.5,755.8,782.3,917.3
+Annual,Kilometre,Radio-signal (level 2),Lithuania,0.0,0.0,0.0,:,:
+Annual,Kilometre,Radio-signal (level 2),Luxembourg,0.0,:,:,0.0,0.0
+Annual,Kilometre,Radio-signal (level 2),Latvia,0.0,0.0,0.0,:,:
+Annual,Kilometre,Radio-signal (level 2),Netherlands,318.4,318.4,320.4,320.4,320.4
+Annual,Kilometre,Radio-signal (level 2),Poland,145.1,675.4,675.4,603.0,603.0
+Annual,Kilometre,Radio-signal (level 2),Portugal,0.0,0.0,0.0,:,:
+Annual,Kilometre,Radio-signal (level 2),Romania,81.1,79.6,79.6,81.1,81.1
+Annual,Kilometre,Radio-signal (level 2),Sweden,0.0,455.8,455.8,455.8,462.0
+Annual,Kilometre,Radio-signal (level 2),Slovenia,:,0.0,0.0,0.0,0.0
+Annual,Kilometre,Radio-signal (level 2),Slovakia,0.0,34.5,34.5,34.5,34.5
+Annual,Kilometre,Radio-signal (level 2),United Kingdom,216.4,242.3,:,:,:
+Annual,Kilometre,Track-based (level 1),Austria,129.8,129.8,129.8,133.6,133.6
+Annual,Kilometre,Track-based (level 1),Belgium,723.1,887.4,1378.3,1613.1,1826.0
+Annual,Kilometre,Track-based (level 1),Bulgaria,208.6,208.6,208.6,218.4,218.4
+Annual,Kilometre,Track-based (level 1),Switzerland,:,2950.4,2950.4,:,3203.3
+Annual,Kilometre,Track-based (level 1),Czechia,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Track-based (level 1),Germany,22.6,23.5,23.5,31.8,31.6
+Annual,Kilometre,Track-based (level 1),Denmark,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Track-based (level 1),Estonia,0.0,0.0,0.0,:,:
+Annual,Kilometre,Track-based (level 1),Greece,0.0,0.0,0.0,:,:
+Annual,Kilometre,Track-based (level 1),Spain,1399.3,1438.8,1438.8,1674.4,2105.4
+Annual,Kilometre,Track-based (level 1),Finland,0.0,0.0,0.0,:,:
+Annual,Kilometre,Track-based (level 1),France,153.8,150.4,150.4,153.4,150.6
+Annual,Kilometre,Track-based (level 1),Croatia,79.2,79.2,79.2,79.2,79.2
+Annual,Kilometre,Track-based (level 1),Hungary,:,:,:,:,14.3
+Annual,Kilometre,Track-based (level 1),Italy,0.0,0.0,0.0,134.9,160.0
+Annual,Kilometre,Track-based (level 1),Lithuania,0.0,0.0,0.0,:,:
+Annual,Kilometre,Track-based (level 1),Luxembourg,285.1,:,:,275.9,258.0
+Annual,Kilometre,Track-based (level 1),Latvia,0.0,0.0,0.0,:,:
+Annual,Kilometre,Track-based (level 1),Netherlands,61.9,67.1,66.5,66.5,66.5
+Annual,Kilometre,Track-based (level 1),Poland,246.8,247.6,247.6,247.6,247.6
+Annual,Kilometre,Track-based (level 1),Portugal,0.0,0.0,0.0,:,:
+Annual,Kilometre,Track-based (level 1),Romania,142.1,140.7,140.7,263.1,258.3
+Annual,Kilometre,Track-based (level 1),Sweden,0.0,0.0,0.0,0.0,0.0
+Annual,Kilometre,Track-based (level 1),Slovenia,416.5,416.5,416.5,428.6,428.6
+Annual,Kilometre,Track-based (level 1),Slovakia,0.0,182.1,182.1,182.1,182.1
+Annual,Kilometre,Track-based (level 1),United Kingdom,0.0,0.0,:,:,:

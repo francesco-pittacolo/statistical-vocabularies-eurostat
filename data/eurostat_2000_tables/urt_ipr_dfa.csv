@@ -1,0 +1,211 @@
+Time frequency,Unit of measure,Territorial typology,Geopolitical entity (reporting)\Time,2003.0,2004.0,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0
+Annual,Number,Border regions,Austria,:,:,:,:,:,:,:,:,:,:,:,1999.0,:,:
+Annual,Number,Border regions,Cyprus,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Border regions,Czechia,:,:,:,397.0,565.0,:,364.0,:,481.0,:,430.0,517.0,615.0,:
+Annual,Number,Border regions,Denmark,625.0,610.0,560.0,578.0,730.0,712.0,600.0,527.0,704.0,684.0,778.0,653.0,877.0,617 p
+Annual,Number,Border regions,Estonia,:,:,:,:,:,:,:,:,:,:,:,:,:,49 p
+Annual,Number,Border regions,Finland,:,:,:,:,:,:,:,:,:,:,:,:,:,24 p
+Annual,Number,Border regions,Ireland,58.0,201.0,:,:,:,98.0,177.0,134.0,:,38.0,:,36.0,:,:
+Annual,Number,Border regions,Iceland,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Border regions,Italy,:,3924.0,4790.0,:,:,4497.0,4352.0,:,3453.0,:,:,:,:,:
+Annual,Number,Border regions,Liechtenstein,63.0,224.0,228.0,129.0,142.0,267.0,120.0,135.0,86.0,87.0,204.0,65.0,101.0,44 p
+Annual,Number,Border regions,Luxembourg,59.0,64.0,162.0,162.0,509.0,345.0,212.0,194.0,330.0,536.0,735.0,561.0,707.0,324 p
+Annual,Number,Border regions,Latvia,:,:,:,:,:,:,:,15.0,29.0,:,:,:,27.0,:
+Annual,Number,Border regions,Malta,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Border regions,Netherlands,:,:,:,:,:,:,1184.0,:,:,:,:,:,:,:
+Annual,Number,Border regions,Poland,:,:,:,:,:,:,:,:,:,:,:,773.0,:,:
+Annual,Number,Border regions,Slovenia,:,:,:,:,:,:,:,:,:,:,132.0,140.0,:,:
+Annual,Number,Border regions,Slovakia,:,:,:,121.0,:,:,163.0,91.0,168.0,130.0,200.0,205.0,121.0,:
+Annual,Number,Border regions,United Kingdom,:,:,44.0,:,40.0,41.0,40.0,:,60.0,110.0,:,102.0,:,:
+Annual,Number,Coastal regions,Austria,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Coastal regions,Belgium,:,:,:,:,484.0,:,:,:,:,:,:,:,:,:
+Annual,Number,Coastal regions,Bulgaria,:,:,:,:,:,:,:,:,:,:,:,:,403.0,64 p
+Annual,Number,Coastal regions,Switzerland,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Coastal regions,Cyprus,22.0,2.0,10.0,43.0,24.0,9.0,13.0,39.0,46.0,31.0,56.0,45.0,29.0,102 p
+Annual,Number,Coastal regions,Czechia,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Coastal regions,Denmark,:,:,:,:,:,:,:,995.0,1243.0,:,:,:,1545.0,1220 p
+Annual,Number,Coastal regions,Estonia,:,:,:,:,:,:,:,:,:,:,:,:,:,67 p
+Annual,Number,Coastal regions,Hungary,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Coastal regions,Ireland,:,:,212.0,:,554.0,177.0,285.0,258.0,:,129.0,192.0,222.0,281.0,172 p
+Annual,Number,Coastal regions,Liechtenstein,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Coastal regions,Lithuania,:,:,:,:,:,:,4.0,:,:,:,3.0,1.0,2.0,1 p
+Annual,Number,Coastal regions,Luxembourg,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Coastal regions,Latvia,:,:,:,:,45.0,:,39.0,13.0,32.0,29.0,17.0,:,57.0,21 p
+Annual,Number,Coastal regions,Malta,:,:,:,:,:,:,:,:,6.0,:,205.0,:,333.0,130 p
+Annual,Number,Coastal regions,Poland,:,:,:,:,58.0,:,152.0,166.0,263.0,333.0,225.0,202.0,219.0,254 p
+Annual,Number,Coastal regions,Sweden,750.0,:,915.0,968.0,1185.0,1231.0,1130.0,1093.0,1020.0,1184.0,1507.0,:,:,:
+Annual,Number,Coastal regions,Slovenia,:,:,:,:,24.0,:,:,:,:,7.0,15.0,15.0,12.0,:
+Annual,Number,Coastal regions,Slovakia,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Intermediate regions,Austria,226.0,305.0,286.0,387.0,370.0,507.0,674.0,602.0,673.0,:,766.0,:,572.0,411 p
+Annual,Number,Intermediate regions,Switzerland,:,:,:,:,:,:,:,:,:,:,:,:,:,508 p
+Annual,Number,Intermediate regions,Cyprus,22.0,2.0,10.0,43.0,24.0,9.0,13.0,39.0,46.0,31.0,56.0,45.0,29.0,102 p
+Annual,Number,Intermediate regions,Czechia,:,:,:,335.0,486.0,483.0,263.0,253.0,365.0,:,318.0,385.0,367.0,165 p
+Annual,Number,Intermediate regions,Denmark,762.0,658.0,723.0,742.0,937.0,814.0,651.0,529.0,659.0,793.0,610.0,661.0,662.0,594 p
+Annual,Number,Intermediate regions,Estonia,:,:,:,:,:,9.0,:,:,:,:,1.0,:,:,2 p
+Annual,Number,Intermediate regions,Finland,:,66.0,106.0,:,:,153.0,:,118.0,174.0,:,193.0,:,227.0,123 p
+Annual,Number,Intermediate regions,Ireland,20.0,172.0,51.0,91.0,422.0,58.0,162.0,88.0,76.0,21.0,41.0,8.0,116.0,22 p
+Annual,Number,Intermediate regions,Iceland,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Intermediate regions,Liechtenstein,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Intermediate regions,Luxembourg,59.0,64.0,162.0,162.0,509.0,345.0,212.0,194.0,330.0,536.0,735.0,561.0,707.0,324 p
+Annual,Number,Intermediate regions,Latvia,:,:,:,:,:,:,:,2.0,8.0,5.0,3.0,:,6.0,:
+Annual,Number,Intermediate regions,Malta,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Intermediate regions,Netherlands,:,:,:,:,:,:,371.0,:,:,:,:,:,:,:
+Annual,Number,Intermediate regions,Poland,:,:,:,:,:,:,:,:,1100.0,1305.0,1270.0,1194.0,1666.0,1242 p
+Annual,Number,Intermediate regions,Sweden,411.0,334.0,531.0,583.0,607.0,624.0,623.0,547.0,619.0,607.0,687.0,784.0,586.0,489 p
+Annual,Number,Intermediate regions,Slovenia,:,20.0,20.0,26.0,46.0,61.0,53.0,70.0,102.0,64.0,72.0,63.0,97.0,67 p
+Annual,Number,Intermediate regions,Slovakia,:,:,:,43.0,:,40.0,47.0,21.0,78.0,66.0,118.0,114.0,75.0,:
+Annual,Number,Intermediate regions,United Kingdom,:,:,:,:,1054.0,:,662.0,:,:,:,:,:,:,:
+Annual,Number,Island regions,Austria,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Belgium,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Bulgaria,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Switzerland,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Cyprus,22.0,2.0,10.0,43.0,24.0,9.0,13.0,39.0,46.0,31.0,56.0,45.0,29.0,102 p
+Annual,Number,Island regions,Czechia,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Germany,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Denmark,:,:,:,:,:,:,:,2.0,1.0,:,:,:,1.0,2 p
+Annual,Number,Island regions,Estonia,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Finland,:,6.0,:,:,:,:,13.0,:,:,:,:,:,:,:
+Annual,Number,Island regions,Croatia,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Hungary,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Ireland,:,:,:,:,:,180.0,289.0,266.0,:,131.0,:,228.0,:,:
+Annual,Number,Island regions,Iceland,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Liechtenstein,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Lithuania,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Luxembourg,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Latvia,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Malta,:,:,:,:,:,:,:,:,6.0,:,205.0,:,333.0,130 p
+Annual,Number,Island regions,Netherlands,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Norway,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Poland,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Romania,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Sweden,3.0,:,9.0,3.0,3.0,4.0,10.0,1.0,1.0,4.0,4.0,:,:,:
+Annual,Number,Island regions,Slovenia,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Island regions,Slovakia,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Mountain regions,Austria,:,:,:,:,:,:,1533.0,:,1500.0,:,1456.0,:,:,:
+Annual,Number,Mountain regions,Belgium,:,3.0,5.0,4.0,5.0,2.0,1.0,5.0,6.0,4.0,4.0,8.0,12.0,21 p
+Annual,Number,Mountain regions,Cyprus,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Mountain regions,Czechia,:,:,:,250.0,434.0,397.0,202.0,156.0,267.0,:,220.0,269.0,240.0,109 p
+Annual,Number,Mountain regions,Denmark,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Mountain regions,Estonia,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Mountain regions,Finland,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Mountain regions,Hungary,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Mountain regions,Ireland,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Mountain regions,Liechtenstein,63.0,224.0,228.0,129.0,142.0,267.0,120.0,135.0,86.0,87.0,204.0,65.0,101.0,44 p
+Annual,Number,Mountain regions,Lithuania,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Mountain regions,Luxembourg,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Mountain regions,Latvia,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Mountain regions,Malta,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Mountain regions,Netherlands,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Mountain regions,Poland,:,:,80.0,120.0,201.0,168.0,190.0,273.0,379.0,243.0,313.0,339.0,450.0,241 p
+Annual,Number,Mountain regions,Sweden,16.0,6.0,12.0,9.0,20.0,17.0,14.0,13.0,3.0,4.0,5.0,11.0,23.0,20 p
+Annual,Number,Mountain regions,Slovenia,:,:,:,:,:,:,:,:,:,:,127.0,134.0,:,:
+Annual,Number,Mountain regions,Slovakia,:,:,:,45.0,:,31.0,58.0,46.0,109.0,84.0,127.0,124.0,100.0,:
+Annual,Number,Non-border regions,Austria,:,:,:,:,178.0,142.0,258.0,173.0,132.0,:,114.0,:,:,:
+Annual,Number,Non-border regions,Belgium,108.0,:,321.0,272.0,302.0,338.0,335.0,506.0,793.0,497.0,265.0,247.0,230.0,126 p
+Annual,Number,Non-border regions,Switzerland,426.0,:,:,:,:,274.0,:,334.0,603.0,:,:,293.0,293.0,237 p
+Annual,Number,Non-border regions,Cyprus,22.0,2.0,10.0,43.0,24.0,9.0,13.0,39.0,46.0,31.0,56.0,45.0,29.0,102 p
+Annual,Number,Non-border regions,Czechia,2.0,21.0,25.0,88.0,92.0,79.0,77.0,156.0,170.0,184.0,150.0,180.0,143.0,153 p
+Annual,Number,Non-border regions,Denmark,:,:,:,:,:,:,:,468.0,539.0,:,:,:,668.0,603 p
+Annual,Number,Non-border regions,Estonia,:,:,:,23.0,24.0,:,:,39.0,:,84.0,132.0,47.0,77.0,49 p
+Annual,Number,Non-border regions,Croatia,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Non-border regions,Hungary,:,51.0,:,:,:,79.0,50.0,93.0,64.0,:,65.0,61.0,:,:
+Annual,Number,Non-border regions,Ireland,:,:,146.0,:,107.0,82.0,112.0,132.0,:,93.0,114.0,192.0,138.0,129 p
+Annual,Number,Non-border regions,Liechtenstein,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Non-border regions,Lithuania,:,:,1.0,:,7.0,2.0,1.0,8.0,1.0,5.0,7.0,7.0,7.0,13 p
+Annual,Number,Non-border regions,Luxembourg,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Non-border regions,Latvia,:,4.0,12.0,19.0,37.0,46.0,35.0,9.0,19.0,14.0,15.0,46.0,39.0,6 p
+Annual,Number,Non-border regions,Malta,:,:,:,:,:,:,:,:,6.0,:,205.0,:,333.0,130 p
+Annual,Number,Non-border regions,Netherlands,:,946.0,783.0,930.0,:,1157.0,977.0,649.0,835.0,754.0,854.0,:,782.0,744 p
+Annual,Number,Non-border regions,Poland,:,:,:,:,:,:,:,:,1560.0,:,1790.0,:,:,2438 p
+Annual,Number,Non-border regions,Sweden,579.0,:,598.0,621.0,659.0,766.0,621.0,717.0,826.0,805.0,1101.0,:,:,:
+Annual,Number,Non-border regions,Slovenia,:,:,4.0,:,4.0,1.0,3.0,:,:,:,1.0,13.0,1.0,5 p
+Annual,Number,Non-border regions,Slovakia,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Non-coastal regions,Cyprus,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Non-coastal regions,Czechia,:,:,:,485.0,657.0,:,441.0,:,651.0,:,580.0,697.0,758.0,:
+Annual,Number,Non-coastal regions,Denmark,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Non-coastal regions,Estonia,:,4.0,:,:,:,:,4.0,14.0,16.0,19.0,5.0,18.0,8.0,31 p
+Annual,Number,Non-coastal regions,Finland,:,:,:,:,:,:,:,:,:,:,:,:,:,104 p
+Annual,Number,Non-coastal regions,Ireland,1.0,1.0,:,:,:,3.0,4.0,8.0,:,2.0,:,6.0,:,:
+Annual,Number,Non-coastal regions,Iceland,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Non-coastal regions,Luxembourg,59.0,64.0,162.0,162.0,509.0,345.0,212.0,194.0,330.0,536.0,735.0,561.0,707.0,324 p
+Annual,Number,Non-coastal regions,Latvia,:,:,:,:,:,:,:,11.0,16.0,:,:,:,9.0,:
+Annual,Number,Non-coastal regions,Malta,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Non-coastal regions,Netherlands,:,:,:,:,:,:,1156.0,1346.0,:,:,1225.0,1322.0,1071.0,1216 p
+Annual,Number,Non-coastal regions,Sweden,188.0,156.0,229.0,279.0,235.0,331.0,214.0,214.0,346.0,257.0,358.0,364.0,357.0,297 p
+Annual,Number,Non-coastal regions,Slovenia,:,:,:,:,:,:,:,:,:,:,118.0,138.0,:,:
+Annual,Number,Non-coastal regions,Slovakia,:,:,:,121.0,:,:,163.0,91.0,168.0,130.0,200.0,205.0,121.0,:
+Annual,Number,Non-coastal regions,United Kingdom,:,:,903.0,:,823.0,:,689.0,:,1016.0,1171.0,1186.0,:,:,:
+Annual,Number,Non-island regions,Cyprus,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Non-island regions,Czechia,:,:,:,485.0,657.0,:,441.0,:,651.0,:,580.0,697.0,758.0,:
+Annual,Number,Non-island regions,Denmark,1171.0,1125.0,1350.0,1168.0,1430.0,1456.0,1163.0,993.0,1242.0,1446.0,1367.0,1387.0,1544.0,1218 p
+Annual,Number,Non-island regions,Estonia,:,:,:,:,:,:,:,:,:,:,:,:,:,98 p
+Annual,Number,Non-island regions,Finland,:,:,:,:,:,:,:,:,:,:,:,:,:,536 p
+Annual,Number,Non-island regions,Ireland,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Non-island regions,Liechtenstein,63.0,224.0,228.0,129.0,142.0,267.0,120.0,135.0,86.0,87.0,204.0,65.0,101.0,44 p
+Annual,Number,Non-island regions,Luxembourg,59.0,64.0,162.0,162.0,509.0,345.0,212.0,194.0,330.0,536.0,735.0,561.0,707.0,324 p
+Annual,Number,Non-island regions,Latvia,:,:,:,:,:,:,:,24.0,48.0,:,:,:,66.0,:
+Annual,Number,Non-island regions,Malta,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Non-island regions,Netherlands,:,:,:,:,:,:,2161.0,:,:,:,:,:,:,:
+Annual,Number,Non-island regions,Sweden,935.0,838.0,1135.0,1244.0,1417.0,1558.0,1334.0,1306.0,1365.0,1437.0,1861.0,1584.0,1491.0,1355 p
+Annual,Number,Non-island regions,Slovenia,:,:,:,:,:,:,:,:,:,:,133.0,153.0,:,:
+Annual,Number,Non-island regions,Slovakia,:,:,:,121.0,:,:,163.0,91.0,168.0,130.0,200.0,205.0,121.0,:
+Annual,Number,Non-mountain regions,Austria,:,:,528.0,488.0,570.0,:,:,544.0,:,:,:,744.0,:,:
+Annual,Number,Non-mountain regions,Switzerland,83.0,138.0,54.0,36.0,51.0,49.0,99.0,96.0,72.0,43.0,86.0,99.0,94.0,89 p
+Annual,Number,Non-mountain regions,Cyprus,22.0,2.0,10.0,43.0,24.0,9.0,13.0,39.0,46.0,31.0,56.0,45.0,29.0,102 p
+Annual,Number,Non-mountain regions,Czechia,:,:,:,235.0,223.0,:,239.0,:,384.0,:,360.0,428.0,518.0,:
+Annual,Number,Non-mountain regions,Denmark,:,:,:,:,:,:,:,995.0,1243.0,:,:,:,1545.0,1220 p
+Annual,Number,Non-mountain regions,Estonia,:,:,:,:,:,:,:,:,:,:,:,:,:,98 p
+Annual,Number,Non-mountain regions,Ireland,:,:,:,:,:,180.0,289.0,266.0,:,131.0,:,228.0,:,:
+Annual,Number,Non-mountain regions,Iceland,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Non-mountain regions,Liechtenstein,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Non-mountain regions,Luxembourg,59.0,64.0,162.0,162.0,509.0,345.0,212.0,194.0,330.0,536.0,735.0,561.0,707.0,324 p
+Annual,Number,Non-mountain regions,Latvia,:,:,:,:,:,:,:,24.0,48.0,:,:,:,66.0,:
+Annual,Number,Non-mountain regions,Malta,:,:,:,:,:,:,:,:,6.0,:,205.0,:,333.0,130 p
+Annual,Number,Non-mountain regions,Netherlands,:,:,:,:,:,:,2161.0,:,:,:,:,:,:,:
+Annual,Number,Non-mountain regions,Sweden,922.0,:,1132.0,1238.0,1400.0,1545.0,1330.0,1294.0,1363.0,1437.0,1860.0,:,:,:
+Annual,Number,Non-mountain regions,Slovenia,:,:,:,:,:,:,:,7.0,26.0,:,6.0,19.0,:,13 p
+Annual,Number,Non-mountain regions,Slovakia,:,:,:,76.0,72.0,:,105.0,45.0,59.0,46.0,73.0,81.0,21.0,41 p
+Annual,Number,Predominantly rural regions,Austria,:,:,:,:,:,:,:,:,:,:,:,1294.0,:,:
+Annual,Number,Predominantly rural regions,Switzerland,:,:,52.0,28.0,12.0,15.0,:,12.0,18.0,:,11.0,29.0,21.0,53 p
+Annual,Number,Predominantly rural regions,Cyprus,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Predominantly rural regions,Czechia,:,:,:,51.0,59.0,:,71.0,:,77.0,:,56.0,62.0,183.0,:
+Annual,Number,Predominantly rural regions,Denmark,:,:,:,:,:,:,:,190.0,229.0,:,:,:,275.0,246 p
+Annual,Number,Predominantly rural regions,Estonia,:,:,:,:,:,:,:,16.0,:,29.0,:,:,24.0,57 p
+Annual,Number,Predominantly rural regions,Ireland,:,:,:,:,:,49.0,89.0,103.0,:,52.0,:,64.0,:,:
+Annual,Number,Predominantly rural regions,Iceland,2.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Number,Predominantly rural regions,Liechtenstein,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Predominantly rural regions,Lithuania,:,:,:,:,:,:,:,:,:,:,:,:,14.0,:
+Annual,Number,Predominantly rural regions,Luxembourg,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Predominantly rural regions,Latvia,:,:,:,:,:,:,:,10.0,10.0,:,:,:,6.0,:
+Annual,Number,Predominantly rural regions,Malta,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Predominantly rural regions,Netherlands,:,1.0,8.0,4.0,1.0,2.0,21.0,:,5.0,:,:,2.0,2.0,1 p
+Annual,Number,Predominantly rural regions,Sweden,87.0,:,80.0,75.0,73.0,105.0,69.0,98.0,59.0,38.0,91.0,:,:,:
+Annual,Number,Predominantly rural regions,Slovenia,:,:,:,:,:,:,:,:,:,:,61.0,90.0,:,:
+Annual,Number,Predominantly rural regions,Slovakia,:,:,:,8.0,8.0,:,60.0,41.0,41.0,39.0,33.0,55.0,31.0,34 p
+Annual,Number,Predominantly urban regions,Austria,258.0,237.0,390.0,264.0,456.0,367.0,311.0,387.0,355.0,447.0,560.0,469.0,423.0,323 p
+Annual,Number,Predominantly urban regions,Belgium,376.0,:,1010.0,720.0,:,:,697.0,918.0,:,761.0,:,639.0,524.0,475 p
+Annual,Number,Predominantly urban regions,Bulgaria,:,7.0,:,6.0,51.0,34.0,34.0,51.0,29.0,55.0,141.0,137.0,266.0,200 p
+Annual,Number,Predominantly urban regions,Switzerland,575.0,739.0,992.0,992.0,935.0,992.0,775.0,1000.0,1254.0,:,1878.0,1759.0,:,:
+Annual,Number,Predominantly urban regions,Cyprus,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Predominantly urban regions,Czechia,4.0,23.0,52.0,99.0,112.0,97.0,107.0,232.0,209.0,242.0,206.0,250.0,208.0,190 p
+Annual,Number,Predominantly urban regions,Denmark,223.0,205.0,176.0,228.0,271.0,251.0,267.0,276.0,355.0,283.0,557.0,413.0,608.0,380 p
+Annual,Number,Predominantly urban regions,Estonia,:,12.0,4.0,19.0,23.0,18.0,31.0,38.0,77.0,79.0,129.0,45.0,71.0,39 p
+Annual,Number,Predominantly urban regions,Greece,:,:,:,:,:,:,:,:,:,:,:,:,191.0,:
+Annual,Number,Predominantly urban regions,Spain,:,:,3792.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,Number,Predominantly urban regions,Finland,206.0,395.0,331.0,330.0,436.0,542.0,470.0,418.0,354.0,442.0,565.0,486.0,419.0,298 p
+Annual,Number,Predominantly urban regions,Hungary,4.0,33.0,44.0,29.0,86.0,63.0,41.0,88.0,49.0,50.0,63.0,51.0,48.0,58 p
+Annual,Number,Predominantly urban regions,Ireland,102.0,83.0,111.0,65.0,60.0,73.0,38.0,75.0,52.0,58.0,60.0,156.0,122.0,78 p
+Annual,Number,Predominantly urban regions,Iceland,:,5.0,13.0,3.0,6.0,16.0,2.0,15.0,7.0,20.0,9.0,8.0,1.0,1 p
+Annual,Number,Predominantly urban regions,Liechtenstein,63.0,224.0,228.0,129.0,142.0,267.0,120.0,135.0,86.0,87.0,204.0,65.0,101.0,44 p
+Annual,Number,Predominantly urban regions,Lithuania,:,7.0,21.0,12.0,1.0,38.0,10.0,13.0,35.0,35.0,31.0,57.0,38.0,82 p
+Annual,Number,Predominantly urban regions,Luxembourg,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Predominantly urban regions,Latvia,:,10.0,45.0,43.0,44.0,53.0,38.0,12.0,30.0,25.0,16.0,52.0,54.0,8 p
+Annual,Number,Predominantly urban regions,Malta,:,:,:,:,:,:,:,:,6.0,:,205.0,:,333.0,130 p
+Annual,Number,Predominantly urban regions,Netherlands,1086.0,1528.0,1574.0,1635.0,:,2073.0,1769.0,1553.0,1822.0,1887.0,1798.0,1628.0,1534.0,1557 p
+Annual,Number,Predominantly urban regions,Norway,:,138.0,96.0,94.0,124.0,61.0,120.0,72.0,70.0,51.0,56.0,49.0,:,:
+Annual,Number,Predominantly urban regions,Poland,:,:,:,:,:,:,774.0,697.0,734.0,916.0,907.0,1327.0,1307.0,1130 p
+Annual,Number,Predominantly urban regions,Portugal,233.0,205.0,229.0,220.0,201.0,283.0,394.0,267.0,:,:,:,291.0,228.0,260 p
+Annual,Number,Predominantly urban regions,Romania,:,:,:,:,:,:,:,:,:,46.0,:,:,:,:
+Annual,Number,Predominantly urban regions,Sweden,440.0,426.0,533.0,589.0,740.0,833.0,652.0,662.0,688.0,796.0,1087.0,737.0,832.0,804 p
+Annual,Number,Predominantly urban regions,Slovenia,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m,: m
+Annual,Number,Predominantly urban regions,Slovakia,:,25.0,39.0,70.0,66.0,85.0,56.0,29.0,49.0,25.0,49.0,36.0,15.0,10 p

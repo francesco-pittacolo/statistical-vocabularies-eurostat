@@ -1,0 +1,69 @@
+{
+  "configuration": {
+    "top_k_neighbors": 5,
+    "min_embedding_similarity": 0.55,
+    "semantic_candidate_threshold": 0.64,
+    "lexical_k_neighbors": 5,
+    "min_tfidf_similarity": 0.18,
+    "cross_domain_min_similarity": 0.84,
+    "use_domain_information": true,
+    "domain_filter_mode": "hard_for_embedding_soft_for_tfidf",
+    "cross_domain_soft_threshold": 0.76,
+    "cross_domain_score_penalty": 0.02,
+    "llm_confidence_threshold": 0.7,
+    "generic_related_automatic": false
+  },
+  "counts": {
+    "measures": 6348,
+    "all_candidates": 27335,
+    "embedding_semantic_candidates": 12367,
+    "retrieval_only_candidates": 14968,
+    "embedding_retrieved": 17481,
+    "tfidf_retrieved": 20104,
+    "retrieved_by_both": 10250,
+    "resolved_automatically": 904,
+    "sent_to_llm": 7447,
+    "candidate_only_after_rules": 18984,
+    "llm_results_available": 7397,
+    "final_relationships": 8301,
+    "unresolved": 4078
+  },
+  "relation_counts": {
+    "complementary": 53,
+    "different_aspects": 2936,
+    "related": 114,
+    "same_concept": 4259,
+    "subtype": 935,
+    "synonym": 4
+  },
+  "method_counts": {
+    "llm_classification": 7397,
+    "automatic_structural_aspect": 3,
+    "automatic_learned_dimension": 318,
+    "automatic_same_concept_normalized_text_identity": 26,
+    "automatic_same_concept_token_reorder": 191,
+    "automatic_subtype": 366
+  },
+  "unresolved_reason_counts": {
+    "no_safe_rule": 4028,
+    "llm_guard_rejected": 50
+  },
+  "rule_counts": {
+    "automatic_same_concept_normalized_text_identity": 26,
+    "automatic_same_concept_token_reorder": 191,
+    "automatic_subtype": 366,
+    "automatic_learned_dimension": 318,
+    "automatic_structural_aspect": 3
+  },
+  "llm_stats": {
+    "calls": 0,
+    "cached_pairs": 7397,
+    "new_pairs": 0,
+    "guard_rejected": 50,
+    "below_confidence": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "daily_limit_reached": false
+  }
+}

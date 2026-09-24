@@ -1,0 +1,49 @@
+Time frequency,Unit of measure,Sex,International Standard Classification of Education (ISCED 2011),Geopolitical entity (reporting)\Time,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0,2023.0
+Annual,Rate,Females,Primary education,Algeria,93.9,95.7,96.1,:,:,:,:,:,98.4 e,98.5 e,98.4 e,98.5 e,98.3 e,98.4 e,98.3 e,98.5 e,98.4 e,98.4 e,98.6 e
+Annual,Rate,Females,Primary education,Egypt,87.5 d,91.5 d,86.2 d,89.2 d,89.3 d,94.7 d,93.5 d,94.3 d,91.7 d,92.2 d,92.2 d,95.4 d,96.1 d,98.7 d,:,:,:,:,:
+Annual,Rate,Females,Primary education,Israel,93.4,93.2,93.6,93.5,98.5,95.6,95.4,96.1,95.4,94.9,95.2,95.0,94.6,94.6,95.5,94.2,94.4,94.5,:
+Annual,Rate,Females,Primary education,Jordan,97.6,95.2,:,:,:,:,:,:,:,:,:,87.6,86.1,87.1,:,:,:,:,:
+Annual,Rate,Females,Primary education,Lebanon,98.3,98.4,99.4,:,97.8,97.0,98.5,93.0,93.8,:,:,:,:,87.7 e,:,:,:,:,:
+Annual,Rate,Females,Primary education,Morocco,84.9,85.9,87.2,88.0,89.1,92.7,95.3,96.0,97.8,91.9,91.9,95.9,96.7,98.4,99.6,99.9,103.7,107.8,:
+Annual,Rate,Females,Primary education,Palestine*,76.8,74.1,75.5,90.2,90.6,91.3,94.5,95.9,97.1,95.9,97.7,99.4,99.5,99.1,99.0,98.1,96.8,95.0,100.2
+Annual,Rate,Females,Primary education,Tunisia,97.1,97.4,97.4,:,97.9,97.4,:,:,:,:,:,:,:,99.3 d,99.2 d,99.1 d,99.3 d,99.2 d,99.2 d
+Annual,Rate,Females,Lower secondary education,Algeria,70.2,75.4,78.2,:,:,:,:,:,94.0,94.0,94.1,94.4,94.8,94.8,95.0,95.6,96.0,95.9,96.0
+Annual,Rate,Females,Lower secondary education,Egypt,62.2 d,70.5 d,71.6 d,68.6 d,63.3 d,79.3 bd,83.7 d,87.2 d,84.6 d,87.1 d,87.1 d,85.3 d,84.2 d,85.1 d,87.6,92.9,:,:,:
+Annual,Rate,Females,Lower secondary education,Israel,68.7,67.3,65.9,65.3,94.1 b,92.4,92.1,92.2,92.5,92.1,91.3,92.3,91.5,92.0,91.9,90.8,91.8,91.8,:
+Annual,Rate,Females,Lower secondary education,Jordan,83.3,87.3,:,:,:,:,:,:,:,:,:,80.4,77.5,78.4,:,:,:,:,:
+Annual,Rate,Females,Lower secondary education,Lebanon,65.4,80.5,70.6,:,77.2,74.8,75.0,72.5,75.1,:,:,:,:,71.5 e,:,:,:,:,:
+Annual,Rate,Females,Lower secondary education,Morocco,33.3,36.6,40.2,43.0,42.2,47.2,50.3,53.5,57.4,59.8,53.7,57.7,60.5,62.7,65.9,69.1,74.1,78.2,:
+Annual,Rate,Females,Lower secondary education,Palestine*,92.6,90.9,89.6,93.6,91.0,89.4,89.3,89.3,90.1,89.4,92.9,94.4,95.6,99.1,98.7,99.3,99.0,100.0,97.5
+Annual,Rate,Females,Lower secondary education,Tunisia,92.2,93.1,97.7,:,87.6,85.8,:,:,:,:,:,:,:,97.1 d,97.1 d,97.0 d,97.1 d,97.0 d,97.0 d
+Annual,Rate,Males,Primary education,Algeria,96.3,97.3,97.5,:,:,:,:,:,98.1 e,98.2 e,98.3 e,98.3 e,98.2 e,98.2 e,98.2 e,98.3 e,98.2 e,98.3 e,98.3 e
+Annual,Rate,Males,Primary education,Egypt,86.7 d,89.6 d,86.7 d,88.1 d,90.0 d,96.1 d,94.6 d,92.4 d,89.6 d,90.0 d,90.0 d,93.2 d,92.6 d,95.2 d,98.4,:,:,:,:
+Annual,Rate,Males,Primary education,Israel,92.9,92.6,92.9,92.8,97.6,94.8,94.6,95.3,94.7,94.2,94.5,94.1,93.7,93.7,94.4,93.2,93.5,93.4,:
+Annual,Rate,Males,Primary education,Jordan,95.9,96.6,:,:,:,:,:,:,:,:,:,85.3,85.2,86.0,:,:,:,:,:
+Annual,Rate,Males,Primary education,Lebanon,93.8,91.8,97.2,:,93.0,92.4,93.0,89.2,89.3,:,:,:,:,86.7 e,:,:,:,:,:
+Annual,Rate,Males,Primary education,Morocco,90.2,91.3,91.9,92.1,91.9,95.0,97.2,97.3,99.0,94.3,93.2,96.8,97.9,99.1,99.9,99.8,103.7,107.6,:
+Annual,Rate,Males,Primary education,Palestine*,76.9,73.9,75.7,90.5,92.2,91.9,95.4,94.7,97.6,95.6,96.7,98.6,99.5,98.5,98.7,98.0,96.2,94.7,99.7
+Annual,Rate,Males,Primary education,Tunisia,97.0,97.3,97.3,:,98.4,97.8,:,:,:,:,:,:,:,99.1 d,99.1 d,99.1 d,99.1 d,99.0 d,99.1 d
+Annual,Rate,Males,Lower secondary education,Algeria,65.4,71.1,74.9,:,:,:,:,:,93.6,93.6,93.7,94.2,94.3,94.7,95.0,95.5,95.4,95.1,95.4
+Annual,Rate,Males,Lower secondary education,Egypt,59.4 d,67.1 d,69.3 d,64.1 d,60.2 d,76.4 bd,79.8 d,80.4 d,77.4 d,80.8 d,80.8 d,79.9 d,78.2 d,79.9 d,82.9,88.7,:,:,:
+Annual,Rate,Males,Lower secondary education,Israel,67.3,66.0,64.7,63.6,91.0 b,89.3,90.0,89.4,89.8,90.0,89.4,89.9,89.1,89.5,89.7,88.8,89.9,89.6,:
+Annual,Rate,Males,Lower secondary education,Jordan,80.9,83.5,:,:,:,:,:,:,:,:,:,68.5,64.2,65.1,:,:,:,:,:
+Annual,Rate,Males,Lower secondary education,Lebanon,55.9,68.7,64.9,:,61.7,60.4,60.1,58.7,61.3,:,:,:,:,64.3 e,:,:,:,:,:
+Annual,Rate,Males,Lower secondary education,Morocco,34.8,37.4,40.9,44.0,43.3,48.7,51.8,55.4,58.7,59.3,50.9,54.4,56.8,58.8,61.8,64.5,70.1,73.3,:
+Annual,Rate,Males,Lower secondary education,Palestine*,90.1,88.5,88.3,90.3,87.6,84.3,85.3,85.3,86.4,85.5,89.1,90.8,92.1,96.6,96.0,96.4,96.1,96.5,94.2
+Annual,Rate,Males,Lower secondary education,Tunisia,79.7,80.6,86.2,:,83.0,81.3,:,:,:,:,:,:,:,93.8 d,94.0 d,93.9 d,94.0 d,93.8 d,93.9 d
+Annual,Rate,Total,Primary education,Algeria,95.1,96.5,96.8,:,:,:,:,:,98.1 e,98.3 e,98.3 e,98.4 e,98.3 e,98.4 e,98.2 e,98.3 e,98.3 e,98.3 e,98.5 e
+Annual,Rate,Total,Primary education,Egypt,87.1 d,90.5 d,86.4 d,88.6 d,89.7 d,95.4 d,94.1 d,93.3 d,90.6 d,91.1 d,91.1 d,94.2 d,94.3 d,97.0 d,:,:,:,:,:
+Annual,Rate,Total,Primary education,Israel,93.1,92.9,93.2,93.1,98.1,95.2,95.0,95.7,95.1,94.5,94.8,94.5,94.6,94.1,94.9,93.7,93.9,94.0,:
+Annual,Rate,Total,Primary education,Jordan,96.7,94.6,:,:,:,:,:,:,:,:,:,86.4,85.7,86.6,:,:,:,:,:
+Annual,Rate,Total,Primary education,Lebanon,95.9,94.9,98.3,:,95.3,94.6,96.0,91.0,91.5,:,:,:,:,87.2 e,:,:,:,:,:
+Annual,Rate,Total,Primary education,Morocco,87.6,88.7,89.6,90.1,90.5,93.9,96.3,96.6,98.4,93.9,92.6,96.4,97.3,98.8,99.7,99.9,103.7,107.7,:
+Annual,Rate,Total,Primary education,Palestine*,76.9,74.0,75.6,90.3,91.4,91.6,95.0,95.3,97.4,95.7,97.2,99.0,99.5,98.8,98.9,98.1,96.5,95.0,100.0
+Annual,Rate,Total,Primary education,Tunisia,97.1,97.3,97.4,:,98.1,97.6,:,:,:,:,:,:,:,99.2 d,99.2 d,99.1 d,99.2 d,99.1 d,99.1 d
+Annual,Rate,Total,Lower secondary education,Algeria,67.7,73.2,76.5,:,:,:,:,:,93.6,93.6,93.8,94.3,94.7,94.7,95.0,95.5,95.6,95.5,95.9
+Annual,Rate,Total,Lower secondary education,Egypt,60.7 d,68.7 d,70.4 d,66.3 d,61.7 d,77.8 bd,81.7 d,83.7 d,80.9 d,83.1 d,83.8 d,82.5 d,81.1 d,82.5 d,85.3,90.7,:,:,:
+Annual,Rate,Total,Lower secondary education,Israel,68.0,66.6,65.3,64.4,92.5 b,90.8,90.8,90.8,91.1,91.0,90.4,91.0,90.2,90.7,90.8,89.7,90.9,90.7,:
+Annual,Rate,Total,Lower secondary education,Jordan,82.1,85.4,:,:,:,:,:,:,:,:,:,74.6,70.6,71.8,:,:,:,:,:
+Annual,Rate,Total,Lower secondary education,Lebanon,60.5,74.4,69.1,:,69.0,67.1,67.1,65.1,65.9,:,:,:,:,67.8 e,:,:,:,:,:
+Annual,Rate,Total,Lower secondary education,Morocco,34.0,37.0,40.6,43.5,42.7,48.0,51.1,54.5,58.1,59.6,:,:,:,60.7,63.8,66.8,72.0,75.7,:
+Annual,Rate,Total,Lower secondary education,Palestine*,91.3,89.7,88.9,91.9,89.2,86.8,87.3,87.3,88.2,87.4,90.9,92.6,93.8,97.8,97.3,97.8,97.5,98.2,95.8
+Annual,Rate,Total,Lower secondary education,Tunisia,85.6,86.5,91.5,:,85.3,83.6,:,:,:,:,:,:,:,95.4 d,95.5 d,95.4 d,95.5 d,95.4 d,95.4 d

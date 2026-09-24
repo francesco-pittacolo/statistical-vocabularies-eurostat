@@ -1,0 +1,31 @@
+Time frequency,Unit of measure,Crops,Geopolitical entity (reporting)\Time,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0
+Annual,Thousand hectares,Arable land,Armenia,494.3,452.9,452.1,450.4,449.4,448.5,449.2,448.4,448.2,447.5,446.7,446.4,446.0,445.6,444.8,444.0,443.4,442.7
+Annual,Thousand hectares,Arable land,Azerbaijan,1843.2,1841.3,1854.0,1860.2,1874.0,1884.1,1885.7,1896.8,1925.3,1926.5,1937.7,1998.9,2094.5,2097.9,2096.0,2084.4,2089.0,2091.9
+Annual,Thousand hectares,Arable land,Belarus,5542.3,5539.4,5519.3,5516.4,5516.5,5510.5,5506.4,5521.6,5559.7,5662.1,5677.4,5683.8,5727.3,5712.3,5713.1,5660.0,:,:
+Annual,Thousand hectares,Arable land,Georgia,:,:,:,:,:,:,:,:,:,365.7 d,:,:,:,:,:,:,:,:
+Annual,Thousand hectares,Arable land,Moldova,:,:,:,1821.7,1820.5,1416.7,:,:,:,:,1817.4,1822.9,1827.3,1832.3,1838.5,1841.9,1852.2,1857.5
+Annual,Thousand hectares,Arable land,Ukraine,32480.2 d,32451.9 d,32446.2 d,32433.7 d,32473.4 d,32478.4 d,32476.5 d,32498.5 d,32518.4 d,32525.5 d,32531.1 d,32541.3 d,32543.4 d,32544.2 d,32698.4 d,32757.3 d,32757.3 d,32757.3 d
+Annual,Thousand hectares,Other areas on the farms,Georgia,:,:,:,:,:,:,:,:,:,10.7,:,:,:,:,:,:,:,:
+Annual,Thousand hectares,Other areas on the farms,Moldova,:,:,:,:,:,48.9,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Thousand hectares,Other areas on the farms,Ukraine,1220.3 d,1220.4 d,1217.6 d,1218.7 d,1219.0 d,1217.3 d,1215.8 d,1219.3 d,1219.7 d,1218.7 d,1219.8 d,1218.5 d,1218.2 d,1215.4 d,1213.7 d,1212.7 d,1212.7 d,1212.7 d
+Annual,Thousand hectares,Permanent grassland,Azerbaijan,2693.9,2693.6,2677.8,2669.0,2656.2,2655.3,2655.8,2640.6,2614.2,2609.7,2595.1,2532.9,2436.2,2426.6,2423.4,2423.0,2417.5,2415.0
+Annual,Thousand hectares,Permanent grassland,Belarus,3289.2,3297.6,3275.9,3279.7,3263.1,3240.6,3223.7,3154.0,3032.6,2844.0,2783.6,2737.6,2653.1,2629.6,2567.5,2520.8,:,:
+Annual,Thousand hectares,Permanent grassland,Georgia,:,:,:,:,:,:,:,:,:,304.0,:,:,:,:,:,:,:,:
+Annual,Thousand hectares,Permanent grassland,Moldova,:,:,:,:,:,324.3,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Thousand hectares,Permanent grassland,Ukraine,7968.3 d,7950.5 d,7938.8 d,7933.4 d,7918.0 d,7899.5 d,7892.8 d,7886.0 d,7870.1 d,7855.6 d,7848.3 d,7840.5 d,7833.8 d,7820.9 d,7577.0 d,7534.2 d,7534.2 d,7534.2 d
+Annual,Thousand hectares,Kitchen gardens,Moldova,816.0,791.0,773.0,753.0,753.0,:,734.0,737.0,737.0,744.0,745.0,744.0,740.0,740.0,694.0,:,:,:
+Annual,Thousand hectares,Permanent crops,Armenia,49.8,51.1,53.9,53.5,53.5,55.1,53.4,56.7,57.7,57.3,57.6,57.6,58.1,59.1,59.9,60.4,61.2,61.2
+Annual,Thousand hectares,Permanent crops,Azerbaijan,221.5,221.1,224.7,227.5,227.1,227.4,227.2,230.9,230.3,233.5,237.0,241.1,246.8,255.0,260.3,272.7,274.1,273.6
+Annual,Thousand hectares,Permanent crops,Belarus,118.1,121.4,120.8,120.8,120.3,122.1,121.7,119.9,118.9,117.8,113.2,111.3,113.8,110.8,106.5,100.0,:,:
+Annual,Thousand hectares,Permanent crops,Georgia,:,:,:,:,:,:,:,:,:,109.6 d,:,:,:,:,:,:,:,:
+Annual,Thousand hectares,Permanent crops,Moldova,:,:,44.3,45.4,45.1,199.1,44.7,44.7,44.7,52.3,51.9,49.5,50.5,50.7,51.7,51.1,50.5,50.3
+Annual,Thousand hectares,Permanent crops,Ukraine,907.3 d,900.5 d,898.7 d,899.0 d,899.9 d,897.7 d,896.5 d,895.9 d,894.3 d,893.5 d,892.9 d,892.4 d,897.1 d,894.8 d,863.0 d,852.6 d,852.6 d,852.6 d
+Annual,Thousand hectares,Utilised agricultural area,Armenia,1391.4,2129.6,2122.1,2121.2,2120.3,2100.9,2077.0,2052.4,2051.0,2049.4,2045.7,2045.5,2043.8,2044.5,2044.2,2043.5,2042.5,2042.1
+Annual,Thousand hectares,Utilised agricultural area,Azerbaijan,4758.6,4756.0,4756.5,4756.7,4757.2,4766.8,4768.7,4768.3,4769.8,4769.7,4769.8,4772.9,4777.5,4779.5,4779.7,4780.1,4780.6,4780.5
+Annual,Thousand hectares,Utilised agricultural area,Belarus,9011.5,8984.9,8968.0,8944.7,8926.9,8897.5,8874.0,8817.3,8726.4,8632.3,8581.9,8540.2,8501.6,8460.1,8390.6,8283.9,:,:
+Annual,Thousand hectares,Utilised agricultural area,Georgia,:,:,:,:,:,:,:,:,:,778.9,:,:,:,:,:,:,:,:
+Annual,Thousand hectares,Utilised agricultural area,Moldova,1951.8,1952.6,1974.1,1978.9,1984.6,1940.1,2008.7,2008.9,2014.5,2024.2,2026.5,2028.3,2039.8,2041.6,2073.0,2092.0,2129.6,:
+Annual,Thousand hectares,Utilised agricultural area,Ukraine,41355.8 d,41302.9 d,41283.7 d,41266.1 d,41291.3 d,41275.6 d,41265.8 d,41280.4 d,41282.8 d,41274.6 d,41272.3 d,41274.2 d,41274.3 d,41259.9 d,41138.4 d,41144.2 d,41144.2 d,41144.2 d
+Annual,Thousand hectares,Wooded areas,Georgia,:,:,:,:,:,:,:,:,:,9.0,:,:,:,:,:,:,:,:
+Annual,Thousand hectares,Wooded areas,Moldova,335.6,336.5,336.9,336.6,336.6,374.5,374.8,375.3,372.8,377.5,378.1,378.1,378.2,379.5,380.7,381.8,383.0,:
+Annual,Thousand hectares,Wooded areas,Ukraine,432.7 d,419.3 d,392.2 d,383.9 d,334.5 d,320.8 d,310.2 d,277.2 d,253.5 d,251.2 d,239.4 d,233.7 d,230.6 d,229.3 d,190.5 d,166.7 d,166.7 d,166.7 d

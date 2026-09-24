@@ -1,0 +1,1024 @@
+{
+  "0": {
+    "measure1": "Carrying capacity of merchant ships of 1000 grt and over by vessel type",
+    "measure2": "Maritime equipment - carrying capacity of ships of 300 grt and over",
+    "predicted_relation": "subtype",
+    "method": "llm_classification",
+    "confidence": 0.75,
+    "evidence": {}
+  },
+  "1": {
+    "measure1": "Privacy and protection of personal data ( onwards)",
+    "measure2": "Privacy and protection of personal information",
+    "predicted_relation": "synonym",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "2": {
+    "measure1": "Mean annual earnings by size class of the enterprise, sex, occupation",
+    "measure2": "Mean hourly earnings by size class of the enterprise, sex, occupation",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "3": {
+    "measure1": "Mean monthly hours paid by economic activity, sex, age",
+    "measure2": "Mean monthly hours paid by economic activity, sex, educational attainment level",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.95,
+    "evidence": {}
+  },
+  "4": {
+    "measure1": "Final consumption expenditure of households and NPISH, current prices",
+    "measure2": "Government final consumption expenditure, current prices",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "5": {
+    "measure1": "Employed persons by professional status, sex, educational attainment level and degree of urbanisation",
+    "measure2": "Employed persons by professional status, sex, educational attainment level and economic activity",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "6": {
+    "measure1": "Production in services - monthly data",
+    "measure2": "Production in services - quarterly data",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "7": {
+    "measure1": "Capital account - quarterly data",
+    "measure2": "Financial account - quarterly data",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "8": {
+    "measure1": "Employed persons by age groups and Nace Rev. 2 activity",
+    "measure2": "Employed persons by educational attainment level and Nace Rev. 2 activity",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "9": {
+    "measure1": "Electricity prices for household consumers - bi-annual data",
+    "measure2": "Electricity prices for non-household consumers - bi-annual data",
+    "predicted_relation": "subtype",
+    "method": "automatic_subtype",
+    "confidence": 0.9413,
+    "evidence": {
+      "contained_measure": "Electricity prices for household consumers - bi-annual data",
+      "expanded_measure": "Electricity prices for non-household consumers - bi-annual data",
+      "common_tokens": [
+        "annual",
+        "bi",
+        "consumer",
+        "data",
+        "electricity",
+        "household",
+        "price"
+      ],
+      "added_tokens": [
+        "non"
+      ],
+      "token_containment": 1.0,
+      "structural_similarity": 0.875
+    }
+  },
+  "10": {
+    "measure1": "Women who have experienced violence by a domestic perpetrator, by country of birth",
+    "measure2": "Women who have experienced violence by any perpetrator, by country of birth",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "11": {
+    "measure1": "Current account, main components, credit - quarterly data, million units of national currency",
+    "measure2": "Current account, main components, net balance - quarterly data, million units of national currency",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "12": {
+    "measure1": "Selling prices of animal products (absolute prices) - monthly - old code - data",
+    "measure2": "Selling prices of crop products (absolute prices) - monthly - old codes - data",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "13": {
+    "measure1": "Catches - Pacific",
+    "measure2": "Catches - east-central Pacific",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "14": {
+    "measure1": "Persons reporting exposure to risk factors that can adversely affect mental well-being by sex, age and size of enterprise",
+    "measure2": "Persons reporting exposure to risk factors that can adversely affect physical health by sex, age and size of enterprise",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "15": {
+    "measure1": "Persons reporting an accident at work by sex and atypical working time",
+    "measure2": "Persons reporting an accident at work by sex, age and professional status",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "16": {
+    "measure1": "Persons having no issue when using a website or app of public authorities by level of disability (activity limitation)",
+    "measure2": "Persons using a website or app of public authorities by level of disability (activity limitation)",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "17": {
+    "measure1": "Employed persons by age groups and NACE Rev. 2 activity",
+    "measure2": "Employed persons by full-time/part-time activity and NACE Rev. 2 activity",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "18": {
+    "measure1": "Persons not reading books in the last 12 months by sex, age, educational attainment and reasons",
+    "measure2": "Persons reading books in the last 12 months by sex and educational attainment level",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.85,
+    "evidence": {}
+  },
+  "19": {
+    "measure1": "Employed persons by working time spent on using digital devices and on another specific task (interacting with people from outside the enterprise or organisation)",
+    "measure2": "Employed persons by working time spent on using digital devices and on another specific task (interacting with people from the same enterprise or organisation)",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.85,
+    "evidence": {}
+  },
+  "20": {
+    "measure1": "Supplementary indicators to unemployment by sex and age",
+    "measure2": "Unemployment by sex and age – annual data",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "21": {
+    "measure1": "Exports of high technology products as a share of total exports, SITC Rev. 4 - %",
+    "measure2": "High-tech exports - Exports of high technology products as a share of total exports (from, SITC Rev. 4)",
+    "predicted_relation": "subtype",
+    "method": "automatic_subtype",
+    "confidence": 0.9402,
+    "evidence": {
+      "contained_measure": "Exports of high technology products as a share of total exports, SITC Rev. 4 - %",
+      "expanded_measure": "High-tech exports - Exports of high technology products as a share of total exports (from, SITC Rev. 4)",
+      "common_tokens": [
+        "export",
+        "high",
+        "product",
+        "rev",
+        "share",
+        "sitc",
+        "technology",
+        "total"
+      ],
+      "added_tokens": [
+        "tech"
+      ],
+      "token_containment": 1.0,
+      "structural_similarity": 0.8888888888888888
+    }
+  },
+  "22": {
+    "measure1": "House price index - Item weights",
+    "measure2": "House price index - country weights",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "23": {
+    "measure1": "Dispersion around the at-risk-of-poverty threshold for elderly people - EU-SILC survey",
+    "measure2": "Relative median poverty risk gap of elderly people - EU-SILC survey",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.8,
+    "evidence": {}
+  },
+  "24": {
+    "measure1": "Infant mortality by age and sex",
+    "measure2": "Infant mortality rates",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.95,
+    "evidence": {}
+  },
+  "25": {
+    "measure1": "Patent applications to the EPO by priority year and other typologies",
+    "measure2": "Patent applications to the EPO by priority year by international patent classification (IPC) sections and classes",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "26": {
+    "measure1": "People living in households with very low work intensity by educational attainment level (population aged 18 to 64 years)",
+    "measure2": "People living in households with very low work intensity by group of country of birth (population aged 18 to 64 years)",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.95,
+    "evidence": {}
+  },
+  "27": {
+    "measure1": "Employment rates by sex, age, educational attainment level and citizenship",
+    "measure2": "Unemployment rates by sex, age, migration status, citizenship and educational attainment level",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "28": {
+    "measure1": "Level of disability (activity limitation) by sex, age and citizenship",
+    "measure2": "Level of disability (activity limitation) by sex, age and country of birth",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.95,
+    "evidence": {}
+  },
+  "29": {
+    "measure1": "Long-term unemployment by sex - quarterly data",
+    "measure2": "Long-term unemployment rates by sex",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.93,
+    "evidence": {}
+  },
+  "30": {
+    "measure1": "Employment rate by sex, age groups, educational attainment level and household composition (%)",
+    "measure2": "Employment rates by sex, age and educational attainment level (%)",
+    "predicted_relation": "subtype",
+    "method": "llm_classification",
+    "confidence": 0.95,
+    "evidence": {}
+  },
+  "31": {
+    "measure1": "Incoming responses to '' requests for information by submitting country (PARTNER), legal provision, duration of response, sex and type of applicant",
+    "measure2": "Outgoing '' requests for information by receiving country (PARTNER), legal provision, sex and type of applicant",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "32": {
+    "measure1": "Gross value added - NACE Rev. 2: M_N - volumes",
+    "measure2": "Gross value added - NACE Rev. 2: TOTAL - volumes",
+    "predicted_relation": "subtype",
+    "method": "automatic_subtype",
+    "confidence": 0.9358,
+    "evidence": {
+      "contained_measure": "Gross value added - NACE Rev. 2: M_N - volumes",
+      "expanded_measure": "Gross value added - NACE Rev. 2: TOTAL - volumes",
+      "common_tokens": [
+        "added",
+        "gross",
+        "nace",
+        "rev",
+        "value",
+        "volume"
+      ],
+      "added_tokens": [
+        "total"
+      ],
+      "token_containment": 1.0,
+      "structural_similarity": 0.8571428571428571
+    }
+  },
+  "33": {
+    "measure1": "New semi-trailers and their load capacity",
+    "measure2": "Semi-trailers by load capacity",
+    "predicted_relation": "subtype",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "34": {
+    "measure1": "Frequency of getting together with relatives or friends by level of disability (activity limitation), sex and age",
+    "measure2": "Persons getting together with family (relatives) or friends by sex, age, level of disability (activity limitation) and frequency",
+    "predicted_relation": "subtype",
+    "method": "automatic_subtype",
+    "confidence": 0.9374,
+    "evidence": {
+      "contained_measure": "Frequency of getting together with relatives or friends by level of disability (activity limitation), sex and age",
+      "expanded_measure": "Persons getting together with family (relatives) or friends by sex, age, level of disability (activity limitation) and frequency",
+      "common_tokens": [
+        "activity",
+        "age",
+        "disability",
+        "frequency",
+        "friend",
+        "getting",
+        "level",
+        "limitation",
+        "relative",
+        "sex",
+        "together"
+      ],
+      "added_tokens": [
+        "family",
+        "person"
+      ],
+      "token_containment": 1.0,
+      "structural_similarity": 0.8461538461538461
+    }
+  },
+  "35": {
+    "measure1": "Hours spent in CVT courses by NACE Rev. 2 activity - hours per person employed in enterprises providing CVT courses",
+    "measure2": "Hours spent in CVT courses by type of course and NACE Rev. 2 activity - % of total hours spent in CVT courses",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.85,
+    "evidence": {}
+  },
+  "36": {
+    "measure1": "Permanent crops: number of farms and areas by size of farm (UAA), size of permanent crop area and NUTS 2 regions",
+    "measure2": "Permanent crops: number of farms and areas by size of permanent crop area and NUTS 2 regions",
+    "predicted_relation": "subtype",
+    "method": "llm_classification",
+    "confidence": 0.92,
+    "evidence": {}
+  },
+  "37": {
+    "measure1": "Final consumption expenditure of households by consumption purpose (COICOP 3 digit)",
+    "measure2": "Structure of consumption expenditure by type of household and COICOP consumption purpose",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "38": {
+    "measure1": "Persons in employment by frequency of adapting working time to fulfil work tasks, educational attainment level and professional status",
+    "measure2": "Persons in employment by working time flexibility, educational attainment level and professional status",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "39": {
+    "measure1": "Distribution of digital platform workers (at least one hour in the last month) by share of platform income in their earnings - experimental statistics",
+    "measure2": "Distribution of digital platform workers (at least one hour in the last month) by working hours setting - experimental statistics",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "40": {
+    "measure1": "Decisions granting temporary protection to unaccompanied minors by citizenship, age and sex - annual aggregated data",
+    "measure2": "Decisions granting temporary protection to unaccompanied minors by citizenship, age and sex - monthly data",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "41": {
+    "measure1": "Incoming '' requests for information by submitting country (PARTNER), legal provision, sex and type of applicant",
+    "measure2": "Outgoing '' requests for information by receiving country (PARTNER), legal provision, sex and type of applicant",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.85,
+    "evidence": {}
+  },
+  "42": {
+    "measure1": "People at risk of poverty or social exclusion by age",
+    "measure2": "Persons at risk of poverty or social exclusion",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "43": {
+    "measure1": "Degree mobile graduates from abroad by education level, sex and country of origin",
+    "measure2": "Degree mobile graduates from abroad by education level, sex and field of education",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.95,
+    "evidence": {}
+  },
+  "44": {
+    "measure1": "Employment rates by sex, age and NUTS 2 regions (%)",
+    "measure2": "Youth employment rate by sex, age and NUTS 2 regions",
+    "predicted_relation": "subtype",
+    "method": "automatic_subtype",
+    "confidence": 0.9346,
+    "evidence": {
+      "contained_measure": "Employment rates by sex, age and NUTS 2 regions (%)",
+      "expanded_measure": "Youth employment rate by sex, age and NUTS 2 regions",
+      "common_tokens": [
+        "age",
+        "employment",
+        "nuts",
+        "rate",
+        "region",
+        "sex"
+      ],
+      "added_tokens": [
+        "youth"
+      ],
+      "token_containment": 1.0,
+      "structural_similarity": 0.8571428571428571
+    }
+  },
+  "45": {
+    "measure1": "Annual earnings by quantiles and contractual working time (enterprises with 10 employed persons or more) - NACE Rev. 2, B-S excluding O",
+    "measure2": "Monthly earnings by quantiles and contractual working time (enterprises with 10 employed persons or more) - NACE Rev. 1.1, C-O excluding L",
+    "predicted_relation": "different_aspects",
+    "method": "automatic_learned_dimension",
+    "confidence": 0.9186,
+    "evidence": {
+      "dimension_a": "annual",
+      "dimension_b": "monthly",
+      "support": 88,
+      "unique_contexts": 61,
+      "context_similarity": 0.1266199916130281,
+      "term_similarity": 0.5705235004425049
+    }
+  },
+  "46": {
+    "measure1": "Passengers (excluding cruise passengers) transported from/to the main ports - quarterly data",
+    "measure2": "Passengers (excluding cruise passengers) transported from/to the main ports by direction and transport coverage - quarterly data",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "47": {
+    "measure1": "Organisational and marketing innovation",
+    "measure2": "Organisational and marketing innovations",
+    "predicted_relation": "synonym",
+    "method": "llm_classification",
+    "confidence": 0.97,
+    "evidence": {}
+  },
+  "48": {
+    "measure1": "Pigs-sows: number of farms and heads by economic size of farm (SO in Euro) and size of breeding sow herd",
+    "measure2": "Pigs: number of farms and heads by economic size of farm (SO in Euro) and size of pig herd",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "49": {
+    "measure1": "Persons reporting a work-related health problem by sex, age and full-time/part-time employment",
+    "measure2": "Persons reporting a work-related health problem by sex, age and professional status",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "50": {
+    "measure1": "Current account, main components, net balance - annual data, million units of national currency",
+    "measure2": "Financial account by components, net balance - annual data, million units of national currency",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "51": {
+    "measure1": "Death due to accidents, by sex",
+    "measure2": "Death due to transport accidents, by sex",
+    "predicted_relation": "subtype",
+    "method": "automatic_subtype",
+    "confidence": 0.9303,
+    "evidence": {
+      "contained_measure": "Death due to accidents, by sex",
+      "expanded_measure": "Death due to transport accidents, by sex",
+      "common_tokens": [
+        "accident",
+        "death",
+        "due",
+        "sex"
+      ],
+      "added_tokens": [
+        "transport"
+      ],
+      "token_containment": 1.0,
+      "structural_similarity": 0.8
+    }
+  },
+  "52": {
+    "measure1": "Emigration by age and sex",
+    "measure2": "Emigration by age group, sex and country of birth",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "53": {
+    "measure1": "Obstacles of innovative and non-innovative enterprises - as highly important and not relevant - by NACE Rev. 2 activity and size class",
+    "measure2": "Strategies of innovative and non-innovative enterprises - as highly important and not relevant - by NACE Rev. 2 activity and size class",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.85,
+    "evidence": {}
+  },
+  "54": {
+    "measure1": "Volume of freight transport relative to GDP",
+    "measure2": "Volume of passenger transport relative to GDP",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "55": {
+    "measure1": "Outgoing '' requests by receiving country (PARTNER), type of request, legal provision, sex and type of applicant",
+    "measure2": "Outgoing responses to '' requests for information by receiving country (PARTNER), legal provision, duration of response, sex and type of applicant",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "56": {
+    "measure1": "Employment by sex, age and detailed economic activity ( NACE Rev. 1.1 two digit level) - 1 000",
+    "measure2": "Employment by sex, age and economic activity ( NACE Rev. 1.1) - 1 000",
+    "predicted_relation": "subtype",
+    "method": "llm_classification",
+    "confidence": 0.85,
+    "evidence": {}
+  },
+  "57": {
+    "measure1": "Employment rates by sex, age and educational attainment level (%)",
+    "measure2": "Unemployment rates by sex, age and educational attainment level (%)",
+    "predicted_relation": "different_aspects",
+    "method": "automatic_learned_dimension",
+    "confidence": 0.9101,
+    "evidence": {
+      "dimension_a": "employment",
+      "dimension_b": "unemployment",
+      "support": 20,
+      "unique_contexts": 16,
+      "context_similarity": 0.3433216395249962,
+      "term_similarity": 0.729265570640564
+    }
+  },
+  "58": {
+    "measure1": "Balance of payments, capital account, quarterly data",
+    "measure2": "Balance of payments, current and capital account, quarterly data",
+    "predicted_relation": "subtype",
+    "method": "automatic_subtype",
+    "confidence": 0.9407,
+    "evidence": {
+      "contained_measure": "Balance of payments, capital account, quarterly data",
+      "expanded_measure": "Balance of payments, current and capital account, quarterly data",
+      "common_tokens": [
+        "account",
+        "balance",
+        "capital",
+        "data",
+        "payment",
+        "quarterly"
+      ],
+      "added_tokens": [
+        "current"
+      ],
+      "token_containment": 1.0,
+      "structural_similarity": 0.8571428571428571
+    }
+  },
+  "59": {
+    "measure1": "Product and process innovative enterprises by NACE Rev. 2 activity and size class",
+    "measure2": "Product and process innovative enterprises which introduced innovation by type of innovation, innovation developer, NACE Rev.2 activity and size class",
+    "predicted_relation": "subtype",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "60": {
+    "measure1": "Youth unemployment by sex, age and educational attainment level",
+    "measure2": "Youth unemployment rate by sex",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.91,
+    "evidence": {}
+  },
+  "61": {
+    "measure1": "Employed persons by professional status, sex, educational attainment level and occupation",
+    "measure2": "Employed persons by professional status, sex, educational attainment level and preferred working time",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.95,
+    "evidence": {}
+  },
+  "62": {
+    "measure1": "Final consumption expenditure of households by consumption purpose (COICOP 3 digit)",
+    "measure2": "Mean consumption expenditure per household by COICOP consumption purpose",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "63": {
+    "measure1": "Distribution of households by household type - EU-SILC survey",
+    "measure2": "Distribution of population by household types - EU-SILC survey",
+    "predicted_relation": "subtype",
+    "method": "automatic_subtype",
+    "confidence": 0.937,
+    "evidence": {
+      "contained_measure": "Distribution of households by household type - EU-SILC survey",
+      "expanded_measure": "Distribution of population by household types - EU-SILC survey",
+      "common_tokens": [
+        "distribution",
+        "eu",
+        "household",
+        "silc",
+        "survey",
+        "type"
+      ],
+      "added_tokens": [
+        "population"
+      ],
+      "token_containment": 1.0,
+      "structural_similarity": 0.8571428571428571
+    }
+  },
+  "64": {
+    "measure1": "Private sector credit flow: loans by sectors, consolidated - million units of national currency",
+    "measure2": "Private sector credit flow: loans by sectors, non-consolidated - % of GDP",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "65": {
+    "measure1": "Incoming '' requests for information by submitting country (PARTNER), legal provision, sex and type of applicant",
+    "measure2": "Incoming responses to '' requests for information by submitting country (PARTNER), legal provision, duration of response, sex and type of applicant",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "66": {
+    "measure1": "Current account - monthly data",
+    "measure2": "Financial account - monthly data",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.8,
+    "evidence": {}
+  },
+  "67": {
+    "measure1": "Employment and activity by sex and age - annual data",
+    "measure2": "Unemployment by sex and age - annual data",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "68": {
+    "measure1": "Current account, main components, credit - quarterly data, % of GDP",
+    "measure2": "Current account, main components, debit - annual data, % of GDP",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.88,
+    "evidence": {}
+  },
+  "69": {
+    "measure1": "Table grape vines - Area by age classes (area in ha)",
+    "measure2": "Table grape vines - Area by density classes (area in ha)",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "70": {
+    "measure1": "Train traffic on the rail network",
+    "measure2": "Train traffic on the rail network - Switzerland",
+    "predicted_relation": "subtype",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "71": {
+    "measure1": "Gross fixed capital formation at current prices",
+    "measure2": "Gross fixed capital formation, current prices",
+    "predicted_relation": "same_concept",
+    "method": "automatic_same_concept_token_reorder",
+    "confidence": 0.995,
+    "evidence": {
+      "reason": "token_reorder"
+    }
+  },
+  "72": {
+    "measure1": "Livestock: number of farms and heads of animals by economic size of farm (SO in Euro) and NUTS 2 regions",
+    "measure2": "Type of tenure: number of farms and areas by economic size of farm (SO in Euro) and NUTS 2 regions",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "73": {
+    "measure1": "Persons having experienced housing difficulties in their life by sex and current risk of poverty or social exclusion situation",
+    "measure2": "Persons having experienced housing difficulties in their life by sex and group of current country of citizenship",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.95,
+    "evidence": {}
+  },
+  "74": {
+    "measure1": "Population by educational attainment level, sex and age (%) - main indicators",
+    "measure2": "Population by educational attainment level, sex, age and citizenship (%)",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.95,
+    "evidence": {}
+  },
+  "75": {
+    "measure1": "Package trips by duration, purpose and main destination",
+    "measure2": "Trips by duration, purpose and main destination",
+    "predicted_relation": "subtype",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "76": {
+    "measure1": "Number of employees by economic activity, collective pay agreement, sex",
+    "measure2": "Number of employees by sex, economic activity and employment contract",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.96,
+    "evidence": {}
+  },
+  "77": {
+    "measure1": "Financial transactions – international data cooperation",
+    "measure2": "Financial transactions – international data cooperation - quarterly data",
+    "predicted_relation": "subtype",
+    "method": "automatic_subtype",
+    "confidence": 0.933,
+    "evidence": {
+      "contained_measure": "Financial transactions – international data cooperation",
+      "expanded_measure": "Financial transactions – international data cooperation - quarterly data",
+      "common_tokens": [
+        "cooperation",
+        "data",
+        "financial",
+        "international",
+        "transaction"
+      ],
+      "added_tokens": [
+        "quarterly"
+      ],
+      "token_containment": 1.0,
+      "structural_similarity": 0.8333333333333334
+    }
+  },
+  "78": {
+    "measure1": "Overall perceived social support by level of disability (activity limitation), sex and age",
+    "measure2": "Overall perceived social support by sex, age and educational attainment level",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.95,
+    "evidence": {}
+  },
+  "79": {
+    "measure1": "Employment by sex, age and economic activity ( NACE Rev. 2) - 1 000",
+    "measure2": "Self-employment by sex, age and economic activity ( NACE Rev. 2) - 1 000",
+    "predicted_relation": "subtype",
+    "method": "automatic_subtype",
+    "confidence": 0.938,
+    "evidence": {
+      "contained_measure": "Employment by sex, age and economic activity ( NACE Rev. 2) - 1 000",
+      "expanded_measure": "Self-employment by sex, age and economic activity ( NACE Rev. 2) - 1 000",
+      "common_tokens": [
+        "000",
+        "activity",
+        "age",
+        "economic",
+        "employment",
+        "nace",
+        "rev",
+        "sex"
+      ],
+      "added_tokens": [
+        "self"
+      ],
+      "token_containment": 1.0,
+      "structural_similarity": 0.8888888888888888
+    }
+  },
+  "80": {
+    "measure1": "Service producer prices - quarterly data",
+    "measure2": "Service producer prices index - quarterly data",
+    "predicted_relation": "subtype",
+    "method": "automatic_subtype",
+    "confidence": 0.9358,
+    "evidence": {
+      "contained_measure": "Service producer prices - quarterly data",
+      "expanded_measure": "Service producer prices index - quarterly data",
+      "common_tokens": [
+        "data",
+        "price",
+        "producer",
+        "quarterly",
+        "service"
+      ],
+      "added_tokens": [
+        "index"
+      ],
+      "token_containment": 1.0,
+      "structural_similarity": 0.8333333333333334
+    }
+  },
+  "81": {
+    "measure1": "Population with the highest level of education obtained abroad by application for formal recognition of the education in the host country, sex, age, country of educational attainment level and country of birth",
+    "measure2": "Population with the highest level of education obtained abroad by reason for not applying for recognition of the education in the host country, sex, age, educational attainment level and country of educational attainment level",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.85,
+    "evidence": {}
+  },
+  "82": {
+    "measure1": "Emigration by age group, sex, group of citizenship and group of country of next residence - ad hoc data collection",
+    "measure2": "Immigration by age group, sex, group of citizenship and group of country of previous residence - ad hoc data collection",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "83": {
+    "measure1": "Accidents at work by sex, age, severity, NACE Rev. 2 activity and specific physical activity",
+    "measure2": "Incidence rate of accidents at work by specific physical activity, NACE Rev. 1.1 activity, sex, age and severity",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "84": {
+    "measure1": "Persons not participating in cultural or sport activities in the last 12 months by sex, age, level of disability (activity limitation), activity type and reasons",
+    "measure2": "Persons participating in cultural or sport activities in the last 12 months by sex, age, educational attainment, activity type and frequency",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.85,
+    "evidence": {}
+  },
+  "85": {
+    "measure1": "Causes of death by NUTS 2 regions - crude death rate",
+    "measure2": "Causes of death by NUTS 2 regions - standardised death rate, 3 year average",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.85,
+    "evidence": {}
+  },
+  "86": {
+    "measure1": "Public funding for innovation activities",
+    "measure2": "Public funding of innovation",
+    "predicted_relation": "synonym",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "87": {
+    "measure1": "Self-reported consultations of a medical professional by level of disability (activity limitation), sex and age",
+    "measure2": "Self-reported consultations of a medical professional by sex, age and educational attainment level",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "88": {
+    "measure1": "Table grape vines - Area by age and density classes (area in ha)",
+    "measure2": "Table grape vines - Area by density classes (area in ha)",
+    "predicted_relation": "subtype",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "89": {
+    "measure1": "Passenger railway vehicles by category of vehicle",
+    "measure2": "Passenger railway vehicles, by type of vehicle",
+    "predicted_relation": "synonym",
+    "method": "llm_classification",
+    "confidence": 0.8,
+    "evidence": {}
+  },
+  "90": {
+    "measure1": "Expenditure for selected health care functions by health care financing schemes",
+    "measure2": "Expenditure for selected health care providers by health care financing schemes",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.94,
+    "evidence": {}
+  },
+  "91": {
+    "measure1": "At-risk-of-poverty rate after social transfers by sex",
+    "measure2": "Proportion of persons at risk of relative poverty, before social transfers by sex",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "92": {
+    "measure1": "Mean hourly earnings by economic activity, sex, occupation",
+    "measure2": "Mean hourly earnings by sex, age and economic activity",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.95,
+    "evidence": {}
+  },
+  "93": {
+    "measure1": "Final energy consumption in road transport by type of fuel",
+    "measure2": "Final energy consumption in transport by type of fuel",
+    "predicted_relation": "subtype",
+    "method": "automatic_subtype",
+    "confidence": 0.9354,
+    "evidence": {
+      "contained_measure": "Final energy consumption in transport by type of fuel",
+      "expanded_measure": "Final energy consumption in road transport by type of fuel",
+      "common_tokens": [
+        "consumption",
+        "energy",
+        "final",
+        "fuel",
+        "transport",
+        "type"
+      ],
+      "added_tokens": [
+        "road"
+      ],
+      "token_containment": 1.0,
+      "structural_similarity": 0.8571428571428571
+    }
+  },
+  "94": {
+    "measure1": "Persons not participating in cultural or sport activities in the last 12 months by sex, age, level of disability (activity limitation), activity type and reasons",
+    "measure2": "Persons participating in cultural or sport activities by sex, age, level of disability (activity limitation), activity type and frequency",
+    "predicted_relation": "different_aspects",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "95": {
+    "measure1": "Current account, main components, credit - quarterly data, million units of national currency",
+    "measure2": "Current account, main components, debit - quarterly data, million units of national currency",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "96": {
+    "measure1": "Distribution of graduates at education level and programme orientation by sex and field of education",
+    "measure2": "Distribution of students at education level and programme orientation by sex and field of education",
+    "predicted_relation": "different_aspects",
+    "method": "automatic_learned_dimension",
+    "confidence": 0.8915,
+    "evidence": {
+      "dimension_a": "graduate",
+      "dimension_b": "student",
+      "support": 3,
+      "unique_contexts": 3,
+      "context_similarity": 0.45,
+      "term_similarity": 0.5669888257980347
+    }
+  },
+  "97": {
+    "measure1": "Employment rate of EU/EFTA citizens who usually reside in another EU/EFTA country by citizenship, age and educational attainment level",
+    "measure2": "Employment rate of EU/EFTA citizens who usually reside in another EU/EFTA country by citizenship, age and sex",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.9,
+    "evidence": {}
+  },
+  "98": {
+    "measure1": "Job vacancy statistics by NACE Rev. 2 activity, occupation and NUTS 2 regions - quarterly data",
+    "measure2": "Job vacancy statistics by occupation, NUTS 2 regions and NACE Rev. 2 activity - annual data",
+    "predicted_relation": "same_concept",
+    "method": "llm_classification",
+    "confidence": 0.95,
+    "evidence": {}
+  },
+  "99": {
+    "measure1": "Enterprises needing guarantee in obtaining loan finance, by type of enterprise and NACE Rev. 2 activity",
+    "measure2": "Typical guarantors in obtaining loan finance, by type of enterprise and NACE Rev. 2",
+    "predicted_relation": "complementary",
+    "method": "llm_classification",
+    "confidence": 0.8,
+    "evidence": {}
+  }
+}

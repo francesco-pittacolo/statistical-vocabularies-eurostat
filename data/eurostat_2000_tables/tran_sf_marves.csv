@@ -1,0 +1,307 @@
+Time frequency,Unit of measure,Type of vessel,Type of victim,Sea basins,Country of registration\Time,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0,2023.0
+Annual,Person,Cargo ship,Injured,Atlantic Ocean,European Union - 27 countries (from 2020),17.0,12.0,16.0,18.0,20.0,23.0,17.0,22.0,30.0,16.0,19.0,13.0,12.0
+Annual,Person,Cargo ship,Injured,Atlantic Ocean,Others,4.0,20.0,17.0,9.0,14.0,17.0,10.0,5.0,10.0,6.0,5.0,2.0,3.0
+Annual,Person,Cargo ship,Injured,Atlantic Ocean,Unknown,:,:,:,:,0.0,:,:,1.0,:,0.0,:,:,:
+Annual,Person,Cargo ship,Injured,Baltic Sea,European Union - 27 countries (from 2020),5.0,10.0,12.0,13.0,15.0,9.0,3.0,8.0,12.0,9.0,7.0,10.0,3.0
+Annual,Person,Cargo ship,Injured,Baltic Sea,Others,2.0,8.0,2.0,1.0,2.0,0.0,1.0,3.0,3.0,2.0,0.0,3.0,0.0
+Annual,Person,Cargo ship,Injured,Baltic Sea,Unknown,:,:,:,:,:,:,:,:,:,:,0.0,:,:
+Annual,Person,Cargo ship,Injured,Black Sea,European Union - 27 countries (from 2020),1.0,0.0,2.0,0.0,0.0,:,0.0,3.0,1.0,0.0,:,1.0,1.0
+Annual,Person,Cargo ship,Injured,Black Sea,Others,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+Annual,Person,Cargo ship,Injured,English Channel,European Union - 27 countries (from 2020),1.0,2.0,2.0,3.0,1.0,3.0,3.0,4.0,3.0,3.0,0.0,0.0,1.0
+Annual,Person,Cargo ship,Injured,English Channel,Others,4.0,5.0,2.0,1.0,3.0,3.0,2.0,0.0,3.0,3.0,1.0,0.0,1.0
+Annual,Person,Cargo ship,Injured,Mediterranean Sea,European Union - 27 countries (from 2020),10.0,15.0,11.0,13.0,12.0,22.0,17.0,22.0,18.0,15.0,13.0,12.0,16.0
+Annual,Person,Cargo ship,Injured,Mediterranean Sea,Others,4.0,12.0,6.0,10.0,11.0,4.0,6.0,5.0,13.0,3.0,4.0,8.0,10.0
+Annual,Person,Cargo ship,Injured,Mediterranean Sea,Unknown,:,:,:,:,:,0.0,:,0.0,:,0.0,:,:,:
+Annual,Person,Cargo ship,Injured,North Sea,European Union - 27 countries (from 2020),14.0,22.0,13.0,12.0,18.0,12.0,8.0,12.0,26.0,9.0,18.0,5.0,12.0
+Annual,Person,Cargo ship,Injured,North Sea,Others,24.0,28.0,14.0,10.0,19.0,8.0,6.0,8.0,12.0,10.0,3.0,3.0,31.0
+Annual,Person,Cargo ship,Injured,North Sea,Unknown,:,:,0.0,:,:,:,:,0.0,:,0.0,:,:,:
+Annual,Person,Cargo ship,Injured,Other sea basins,European Union - 27 countries (from 2020),22.0,29.0,20.0,17.0,19.0,40.0,36.0,43.0,18.0,23.0,26.0,34.0,31.0
+Annual,Person,Cargo ship,Injured,Other sea basins,Others,8.0,13.0,15.0,20.0,16.0,5.0,11.0,7.0,9.0,2.0,1.0,0.0,0.0
+Annual,Person,Cargo ship,Injured,Other sea basins,Unknown,:,0.0,0.0,:,0.0,:,0.0,0.0,:,:,:,:,:
+Annual,Person,Cargo ship,Injured,Unknown,European Union - 27 countries (from 2020),10.0,41.0,15.0,10.0,4.0,3.0,4.0,0.0,2.0,3.0,4.0,4.0,3.0
+Annual,Person,Cargo ship,Injured,Unknown,Others,1.0,1.0,16.0,9.0,5.0,9.0,10.0,15.0,23.0,16.0,10.0,3.0,3.0
+Annual,Person,Cargo ship,Injured,Unknown,Unknown,:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Cargo ship,Killed,Atlantic Ocean,European Union - 27 countries (from 2020),4.0,5.0,3.0,1.0,1.0,2.0,0.0,2.0,2.0,1.0,3.0,2.0,1.0
+Annual,Person,Cargo ship,Killed,Atlantic Ocean,Others,2.0,0.0,1.0,5.0,33.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0
+Annual,Person,Cargo ship,Killed,Atlantic Ocean,Unknown,:,:,:,:,0.0,:,:,0.0,:,0.0,:,:,:
+Annual,Person,Cargo ship,Killed,Baltic Sea,European Union - 27 countries (from 2020),1.0,2.0,1.0,3.0,1.0,3.0,0.0,1.0,1.0,0.0,2.0,0.0,0.0
+Annual,Person,Cargo ship,Killed,Baltic Sea,Others,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0
+Annual,Person,Cargo ship,Killed,Baltic Sea,Unknown,:,:,:,:,:,:,:,:,:,:,0.0,:,:
+Annual,Person,Cargo ship,Killed,Black Sea,European Union - 27 countries (from 2020),0.0,0.0,0.0,0.0,0.0,:,0.0,1.0,0.0,0.0,:,0.0,0.0
+Annual,Person,Cargo ship,Killed,Black Sea,Others,0.0,0.0,0.0,0.0,1.0,:,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Cargo ship,Killed,English Channel,European Union - 27 countries (from 2020),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Cargo ship,Killed,English Channel,Others,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Annual,Person,Cargo ship,Killed,Mediterranean Sea,European Union - 27 countries (from 2020),9.0,2.0,10.0,0.0,3.0,0.0,4.0,5.0,3.0,7.0,4.0,1.0,2.0
+Annual,Person,Cargo ship,Killed,Mediterranean Sea,Others,0.0,0.0,13.0,9.0,1.0,1.0,2.0,0.0,3.0,1.0,1.0,0.0,0.0
+Annual,Person,Cargo ship,Killed,Mediterranean Sea,Unknown,:,:,:,:,:,0.0,:,0.0,:,0.0,:,:,:
+Annual,Person,Cargo ship,Killed,North Sea,European Union - 27 countries (from 2020),0.0,14.0,1.0,1.0,11.0,2.0,0.0,2.0,2.0,0.0,2.0,1.0,1.0
+Annual,Person,Cargo ship,Killed,North Sea,Others,1.0,19.0,1.0,0.0,1.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0,7.0
+Annual,Person,Cargo ship,Killed,North Sea,Unknown,:,:,0.0,:,:,:,:,0.0,:,0.0,:,:,:
+Annual,Person,Cargo ship,Killed,Other sea basins,European Union - 27 countries (from 2020),4.0,1.0,2.0,2.0,3.0,35.0,2.0,4.0,8.0,8.0,4.0,1.0,1.0
+Annual,Person,Cargo ship,Killed,Other sea basins,Others,7.0,1.0,2.0,8.0,3.0,2.0,0.0,1.0,3.0,1.0,1.0,1.0,0.0
+Annual,Person,Cargo ship,Killed,Other sea basins,Unknown,:,0.0,0.0,:,0.0,:,0.0,0.0,:,:,:,:,:
+Annual,Person,Cargo ship,Killed,Unknown,European Union - 27 countries (from 2020),0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Cargo ship,Killed,Unknown,Others,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Cargo ship,Killed,Unknown,Unknown,:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Inland waterway vessel,Injured,Atlantic Ocean,European Union - 27 countries (from 2020),:,0.0,0.0,:,:,0.0,:,1.0,0.0,:,0.0,0.0,1.0
+Annual,Person,Inland waterway vessel,Injured,Atlantic Ocean,Others,1.0,13.0,4.0,6.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,:,:
+Annual,Person,Inland waterway vessel,Injured,Atlantic Ocean,Unknown,:,:,:,:,0.0,:,:,:,0.0,:,:,0.0,0.0
+Annual,Person,Inland waterway vessel,Injured,Baltic Sea,European Union - 27 countries (from 2020),0.0,1.0,:,3.0,0.0,1.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0
+Annual,Person,Inland waterway vessel,Injured,Baltic Sea,Others,0.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Person,Inland waterway vessel,Injured,Baltic Sea,Unknown,:,:,:,:,:,:,:,:,:,0.0,:,:,:
+Annual,Person,Inland waterway vessel,Injured,Black Sea,European Union - 27 countries (from 2020),0.0,0.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,Person,Inland waterway vessel,Injured,English Channel,European Union - 27 countries (from 2020),:,:,:,:,:,:,:,0.0,:,:,:,:,1.0
+Annual,Person,Inland waterway vessel,Injured,English Channel,Others,0.0,2.0,0.0,3.0,2.0,0.0,0.0,0.0,1.0,:,:,:,:
+Annual,Person,Inland waterway vessel,Injured,Mediterranean Sea,European Union - 27 countries (from 2020),:,:,0.0,:,:,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Annual,Person,Inland waterway vessel,Injured,Mediterranean Sea,Unknown,:,:,:,:,0.0,:,:,:,:,:,:,2.0,:
+Annual,Person,Inland waterway vessel,Injured,North Sea,European Union - 27 countries (from 2020),0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0
+Annual,Person,Inland waterway vessel,Injured,North Sea,Others,1.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,9.0,0.0,0.0,:,:
+Annual,Person,Inland waterway vessel,Injured,North Sea,Unknown,0.0,:,:,0.0,:,:,:,:,0.0,:,0.0,:,:
+Annual,Person,Inland waterway vessel,Injured,Other sea basins,Others,1.0,1.0,2.0,0.0,0.0,0.0,2.0,0.0,:,0.0,1.0,:,1.0
+Annual,Person,Inland waterway vessel,Injured,Other sea basins,Unknown,0.0,:,:,:,:,0.0,:,:,:,:,:,:,:
+Annual,Person,Inland waterway vessel,Injured,Unknown,European Union - 27 countries (from 2020),:,0.0,:,2.0,1.0,0.0,0.0,0.0,:,1.0,0.0,0.0,0.0
+Annual,Person,Inland waterway vessel,Injured,Unknown,Others,:,:,:,0.0,1.0,0.0,2.0,:,0.0,:,:,:,:
+Annual,Person,Inland waterway vessel,Injured,Unknown,Unknown,:,:,:,:,:,:,:,:,:,0.0,:,0.0,:
+Annual,Person,Inland waterway vessel,Killed,Atlantic Ocean,European Union - 27 countries (from 2020),:,0.0,0.0,:,:,0.0,:,0.0,0.0,:,0.0,0.0,0.0
+Annual,Person,Inland waterway vessel,Killed,Atlantic Ocean,Others,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,:
+Annual,Person,Inland waterway vessel,Killed,Atlantic Ocean,Unknown,:,:,:,:,0.0,:,:,:,0.0,:,:,0.0,0.0
+Annual,Person,Inland waterway vessel,Killed,Baltic Sea,European Union - 27 countries (from 2020),0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Annual,Person,Inland waterway vessel,Killed,Baltic Sea,Others,0.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,Person,Inland waterway vessel,Killed,Baltic Sea,Unknown,:,:,:,:,:,:,:,:,:,0.0,:,:,:
+Annual,Person,Inland waterway vessel,Killed,Black Sea,European Union - 27 countries (from 2020),0.0,0.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,Person,Inland waterway vessel,Killed,English Channel,European Union - 27 countries (from 2020),:,:,:,:,:,:,:,0.0,:,:,:,:,0.0
+Annual,Person,Inland waterway vessel,Killed,English Channel,Others,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,:,:,:
+Annual,Person,Inland waterway vessel,Killed,Mediterranean Sea,European Union - 27 countries (from 2020),:,:,0.0,:,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Inland waterway vessel,Killed,Mediterranean Sea,Unknown,:,:,:,:,0.0,:,:,:,:,:,:,0.0,:
+Annual,Person,Inland waterway vessel,Killed,North Sea,European Union - 27 countries (from 2020),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Inland waterway vessel,Killed,North Sea,Others,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,:
+Annual,Person,Inland waterway vessel,Killed,North Sea,Unknown,0.0,:,:,2.0,:,:,:,:,0.0,:,0.0,:,:
+Annual,Person,Inland waterway vessel,Killed,Other sea basins,Others,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,:,0.0
+Annual,Person,Inland waterway vessel,Killed,Other sea basins,Unknown,3.0,:,:,:,:,0.0,:,:,:,:,:,:,:
+Annual,Person,Inland waterway vessel,Killed,Unknown,European Union - 27 countries (from 2020),:,0.0,:,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0
+Annual,Person,Inland waterway vessel,Killed,Unknown,Others,:,:,:,0.0,0.0,0.0,0.0,:,0.0,:,:,:,:
+Annual,Person,Inland waterway vessel,Killed,Unknown,Unknown,:,:,:,:,:,:,:,:,:,0.0,:,0.0,:
+Annual,Person,Fishing vessel,Injured,Atlantic Ocean,European Union - 27 countries (from 2020),1.0,9.0,24.0,99.0,9.0,58.0,70.0,57.0,46.0,54.0,43.0,32.0,30.0
+Annual,Person,Fishing vessel,Injured,Atlantic Ocean,Others,12.0,26.0,20.0,35.0,23.0,19.0,31.0,30.0,22.0,22.0,9.0,11.0,5.0
+Annual,Person,Fishing vessel,Injured,Atlantic Ocean,Unknown,:,:,:,:,:,:,:,:,0.0,0.0,1.0,:,:
+Annual,Person,Fishing vessel,Injured,Baltic Sea,European Union - 27 countries (from 2020),0.0,3.0,6.0,6.0,4.0,5.0,0.0,1.0,3.0,0.0,1.0,3.0,2.0
+Annual,Person,Fishing vessel,Injured,Baltic Sea,Others,:,:,:,0.0,:,0.0,:,:,1.0,:,2.0,0.0,0.0
+Annual,Person,Fishing vessel,Injured,Baltic Sea,Unknown,:,:,:,:,:,:,:,:,:,:,:,0.0,:
+Annual,Person,Fishing vessel,Injured,English Channel,European Union - 27 countries (from 2020),1.0,1.0,14.0,27.0,0.0,15.0,23.0,15.0,14.0,11.0,15.0,11.0,12.0
+Annual,Person,Fishing vessel,Injured,English Channel,Others,2.0,4.0,1.0,0.0,1.0,2.0,5.0,4.0,0.0,2.0,:,:,0.0
+Annual,Person,Fishing vessel,Injured,English Channel,Unknown,:,:,0.0,:,:,:,:,0.0,0.0,0.0,:,0.0,:
+Annual,Person,Fishing vessel,Injured,Mediterranean Sea,European Union - 27 countries (from 2020),0.0,5.0,17.0,26.0,20.0,12.0,20.0,19.0,29.0,11.0,4.0,5.0,16.0
+Annual,Person,Fishing vessel,Injured,Mediterranean Sea,Others,4.0,:,:,0.0,0.0,0.0,0.0,0.0,:,0.0,1.0,:,:
+Annual,Person,Fishing vessel,Injured,Mediterranean Sea,Unknown,:,:,:,:,:,:,:,0.0,0.0,5.0,:,:,:
+Annual,Person,Fishing vessel,Injured,North Sea,European Union - 27 countries (from 2020),4.0,4.0,9.0,11.0,6.0,6.0,9.0,11.0,13.0,8.0,11.0,2.0,9.0
+Annual,Person,Fishing vessel,Injured,North Sea,Others,9.0,11.0,13.0,8.0,8.0,6.0,5.0,10.0,7.0,7.0,0.0,1.0,2.0
+Annual,Person,Fishing vessel,Injured,North Sea,Unknown,:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Fishing vessel,Injured,Other sea basins,European Union - 27 countries (from 2020),0.0,1.0,7.0,7.0,2.0,2.0,5.0,6.0,3.0,6.0,5.0,0.0,4.0
+Annual,Person,Fishing vessel,Injured,Other sea basins,Others,9.0,16.0,24.0,32.0,48.0,36.0,26.0,22.0,23.0,23.0,11.0,9.0,51.0
+Annual,Person,Fishing vessel,Injured,Other sea basins,Unknown,0.0,:,0.0,:,:,0.0,0.0,0.0,:,0.0,0.0,:,:
+Annual,Person,Fishing vessel,Injured,Unknown,European Union - 27 countries (from 2020),4.0,14.0,7.0,6.0,6.0,4.0,1.0,1.0,0.0,:,0.0,0.0,0.0
+Annual,Person,Fishing vessel,Injured,Unknown,Others,:,:,45.0,9.0,13.0,22.0,30.0,23.0,39.0,55.0,60.0,45.0,13.0
+Annual,Person,Fishing vessel,Killed,Atlantic Ocean,European Union - 27 countries (from 2020),1.0,12.0,8.0,22.0,12.0,9.0,5.0,8.0,4.0,2.0,2.0,0.0,0.0
+Annual,Person,Fishing vessel,Killed,Atlantic Ocean,Others,0.0,2.0,1.0,0.0,1.0,2.0,3.0,2.0,0.0,0.0,0.0,3.0,0.0
+Annual,Person,Fishing vessel,Killed,Atlantic Ocean,Unknown,:,:,:,:,:,:,:,:,0.0,0.0,0.0,:,:
+Annual,Person,Fishing vessel,Killed,Baltic Sea,European Union - 27 countries (from 2020),0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Annual,Person,Fishing vessel,Killed,Baltic Sea,Others,:,:,:,0.0,:,0.0,:,:,0.0,:,0.0,0.0,0.0
+Annual,Person,Fishing vessel,Killed,Baltic Sea,Unknown,:,:,:,:,:,:,:,:,:,:,:,0.0,:
+Annual,Person,Fishing vessel,Killed,English Channel,European Union - 27 countries (from 2020),1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Annual,Person,Fishing vessel,Killed,English Channel,Others,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,:,:,0.0
+Annual,Person,Fishing vessel,Killed,English Channel,Unknown,:,:,0.0,:,:,:,:,0.0,0.0,0.0,:,0.0,:
+Annual,Person,Fishing vessel,Killed,Mediterranean Sea,European Union - 27 countries (from 2020),0.0,0.0,3.0,3.0,8.0,1.0,5.0,0.0,1.0,1.0,0.0,2.0,1.0
+Annual,Person,Fishing vessel,Killed,Mediterranean Sea,Others,0.0,:,:,0.0,0.0,0.0,0.0,1.0,:,5.0,2.0,:,:
+Annual,Person,Fishing vessel,Killed,Mediterranean Sea,Unknown,:,:,:,:,:,:,:,0.0,0.0,0.0,:,:,:
+Annual,Person,Fishing vessel,Killed,North Sea,European Union - 27 countries (from 2020),0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0
+Annual,Person,Fishing vessel,Killed,North Sea,Others,1.0,1.0,0.0,3.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Fishing vessel,Killed,North Sea,Unknown,:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Fishing vessel,Killed,Other sea basins,European Union - 27 countries (from 2020),0.0,2.0,0.0,4.0,0.0,1.0,0.0,2.0,1.0,1.0,0.0,2.0,0.0
+Annual,Person,Fishing vessel,Killed,Other sea basins,Others,0.0,2.0,0.0,9.0,2.0,33.0,1.0,0.0,0.0,2.0,2.0,0.0,1.0
+Annual,Person,Fishing vessel,Killed,Other sea basins,Unknown,0.0,:,0.0,:,:,1.0,0.0,0.0,:,0.0,0.0,:,:
+Annual,Person,Fishing vessel,Killed,Unknown,European Union - 27 countries (from 2020),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0
+Annual,Person,Fishing vessel,Killed,Unknown,Others,:,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Navy ship,Injured,Atlantic Ocean,European Union - 27 countries (from 2020),:,0.0,0.0,:,:,:,:,:,:,:,:,:,2.0
+Annual,Person,Navy ship,Injured,Atlantic Ocean,Others,0.0,0.0,:,:,:,:,:,0.0,:,:,:,0.0,:
+Annual,Person,Navy ship,Injured,Baltic Sea,European Union - 27 countries (from 2020),:,0.0,:,0.0,0.0,:,:,:,:,0.0,:,:,0.0
+Annual,Person,Navy ship,Injured,Baltic Sea,Others,:,:,:,:,:,:,:,:,:,0.0,:,:,:
+Annual,Person,Navy ship,Injured,Baltic Sea,Unknown,:,:,:,:,:,:,:,:,:,:,0.0,:,:
+Annual,Person,Navy ship,Injured,English Channel,Others,:,0.0,0.0,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Navy ship,Injured,Mediterranean Sea,European Union - 27 countries (from 2020),:,:,:,:,0.0,:,0.0,:,:,2.0,:,:,1.0
+Annual,Person,Navy ship,Injured,Mediterranean Sea,Others,:,:,:,:,:,0.0,:,0.0,:,:,:,:,:
+Annual,Person,Navy ship,Injured,Mediterranean Sea,Unknown,:,:,:,:,:,:,:,:,:,:,1.0,:,:
+Annual,Person,Navy ship,Injured,North Sea,Others,:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Navy ship,Injured,Other sea basins,Others,:,:,:,0.0,0.0,:,:,0.0,:,:,:,:,:
+Annual,Person,Navy ship,Injured,Other sea basins,Unknown,:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Navy ship,Injured,Unknown,European Union - 27 countries (from 2020),:,:,:,:,0.0,:,:,:,:,:,:,:,:
+Annual,Person,Navy ship,Killed,Atlantic Ocean,European Union - 27 countries (from 2020),:,0.0,0.0,:,:,:,:,:,:,:,:,:,0.0
+Annual,Person,Navy ship,Killed,Atlantic Ocean,Others,0.0,0.0,:,:,:,:,:,0.0,:,:,:,0.0,:
+Annual,Person,Navy ship,Killed,Baltic Sea,European Union - 27 countries (from 2020),:,0.0,:,0.0,0.0,:,:,:,:,0.0,:,:,0.0
+Annual,Person,Navy ship,Killed,Baltic Sea,Others,:,:,:,:,:,:,:,:,:,0.0,:,:,:
+Annual,Person,Navy ship,Killed,Baltic Sea,Unknown,:,:,:,:,:,:,:,:,:,:,0.0,:,:
+Annual,Person,Navy ship,Killed,English Channel,Others,:,0.0,0.0,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Navy ship,Killed,Mediterranean Sea,European Union - 27 countries (from 2020),:,:,:,:,0.0,:,0.0,:,:,0.0,:,:,0.0
+Annual,Person,Navy ship,Killed,Mediterranean Sea,Others,:,:,:,:,:,0.0,:,0.0,:,:,:,:,:
+Annual,Person,Navy ship,Killed,Mediterranean Sea,Unknown,:,:,:,:,:,:,:,:,:,:,0.0,:,:
+Annual,Person,Navy ship,Killed,North Sea,Others,:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Navy ship,Killed,Other sea basins,Others,:,:,:,0.0,0.0,:,:,0.0,:,:,:,:,:
+Annual,Person,Navy ship,Killed,Other sea basins,Unknown,:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Navy ship,Killed,Unknown,European Union - 27 countries (from 2020),:,:,:,:,0.0,:,:,:,:,:,:,:,:
+Annual,Person,Passenger ship,Injured,Atlantic Ocean,European Union - 27 countries (from 2020),7.0,4.0,3.0,15.0,18.0,21.0,45.0,10.0,2.0,7.0,1.0,11.0,49.0
+Annual,Person,Passenger ship,Injured,Atlantic Ocean,Others,49.0,11.0,14.0,11.0,30.0,21.0,10.0,12.0,28.0,5.0,1.0,0.0,2.0
+Annual,Person,Passenger ship,Injured,Baltic Sea,European Union - 27 countries (from 2020),22.0,43.0,36.0,21.0,16.0,5.0,21.0,26.0,15.0,8.0,12.0,15.0,9.0
+Annual,Person,Passenger ship,Injured,Baltic Sea,Others,2.0,3.0,0.0,6.0,4.0,0.0,2.0,1.0,0.0,:,0.0,:,2.0
+Annual,Person,Passenger ship,Injured,Baltic Sea,Unknown,:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Passenger ship,Injured,Black Sea,European Union - 27 countries (from 2020),:,:,:,0.0,:,0.0,:,:,:,:,:,:,:
+Annual,Person,Passenger ship,Injured,Black Sea,Others,:,:,:,:,:,:,:,:,:,:,:,:,0.0
+Annual,Person,Passenger ship,Injured,English Channel,European Union - 27 countries (from 2020),1.0,19.0,3.0,22.0,1.0,7.0,7.0,4.0,3.0,3.0,5.0,7.0,4.0
+Annual,Person,Passenger ship,Injured,English Channel,Others,26.0,37.0,24.0,25.0,10.0,12.0,15.0,13.0,7.0,1.0,:,:,:
+Annual,Person,Passenger ship,Injured,Mediterranean Sea,European Union - 27 countries (from 2020),15.0,35.0,34.0,70.0,58.0,25.0,76.0,33.0,48.0,15.0,19.0,45.0,46.0
+Annual,Person,Passenger ship,Injured,Mediterranean Sea,Others,8.0,1.0,1.0,0.0,5.0,2.0,3.0,3.0,2.0,0.0,1.0,0.0,2.0
+Annual,Person,Passenger ship,Injured,Mediterranean Sea,Unknown,:,:,:,0.0,:,:,:,:,:,:,:,:,:
+Annual,Person,Passenger ship,Injured,North Sea,European Union - 27 countries (from 2020),1.0,20.0,7.0,51.0,12.0,2.0,2.0,6.0,0.0,5.0,0.0,1.0,4.0
+Annual,Person,Passenger ship,Injured,North Sea,Others,12.0,16.0,13.0,10.0,7.0,11.0,6.0,14.0,8.0,4.0,0.0,0.0,0.0
+Annual,Person,Passenger ship,Injured,Other sea basins,European Union - 27 countries (from 2020),20.0,15.0,4.0,3.0,6.0,15.0,0.0,9.0,10.0,1.0,4.0,1.0,2.0
+Annual,Person,Passenger ship,Injured,Other sea basins,Others,45.0,74.0,77.0,67.0,72.0,78.0,66.0,97.0,98.0,25.0,7.0,12.0,6.0
+Annual,Person,Passenger ship,Injured,Unknown,European Union - 27 countries (from 2020),5.0,20.0,9.0,1.0,1.0,3.0,1.0,1.0,0.0,:,1.0,1.0,1.0
+Annual,Person,Passenger ship,Injured,Unknown,Others,:,1.0,32.0,9.0,7.0,12.0,16.0,22.0,19.0,13.0,16.0,23.0,16.0
+Annual,Person,Passenger ship,Killed,Atlantic Ocean,European Union - 27 countries (from 2020),0.0,1.0,0.0,2.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0
+Annual,Person,Passenger ship,Killed,Atlantic Ocean,Others,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Passenger ship,Killed,Baltic Sea,European Union - 27 countries (from 2020),0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Annual,Person,Passenger ship,Killed,Baltic Sea,Others,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.0,:,0.0
+Annual,Person,Passenger ship,Killed,Baltic Sea,Unknown,:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Passenger ship,Killed,Black Sea,European Union - 27 countries (from 2020),:,:,:,0.0,:,0.0,:,:,:,:,:,:,:
+Annual,Person,Passenger ship,Killed,Black Sea,Others,:,:,:,:,:,:,:,:,:,:,:,:,0.0
+Annual,Person,Passenger ship,Killed,English Channel,European Union - 27 countries (from 2020),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Passenger ship,Killed,English Channel,Others,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,:,:
+Annual,Person,Passenger ship,Killed,Mediterranean Sea,European Union - 27 countries (from 2020),0.0,33.0,3.0,11.0,1.0,4.0,0.0,1.0,1.0,0.0,1.0,11.0,1.0
+Annual,Person,Passenger ship,Killed,Mediterranean Sea,Others,8.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Passenger ship,Killed,Mediterranean Sea,Unknown,:,:,:,0.0,:,:,:,:,:,:,:,:,:
+Annual,Person,Passenger ship,Killed,North Sea,European Union - 27 countries (from 2020),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Passenger ship,Killed,North Sea,Others,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Passenger ship,Killed,Other sea basins,European Union - 27 countries (from 2020),0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Passenger ship,Killed,Other sea basins,Others,3.0,0.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Annual,Person,Passenger ship,Killed,Unknown,European Union - 27 countries (from 2020),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0
+Annual,Person,Passenger ship,Killed,Unknown,Others,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Other vessel,Injured,North Sea,European Union - 27 countries (from 2020),:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Other vessel,Injured,North Sea,Others,:,:,:,:,:,:,:,:,:,:,:,2.0,:
+Annual,Person,Other vessel,Killed,North Sea,European Union - 27 countries (from 2020),:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Other vessel,Killed,North Sea,Others,:,:,:,:,:,:,:,:,:,:,:,0.0,:
+Annual,Person,Recreational craft,Injured,Atlantic Ocean,European Union - 27 countries (from 2020),0.0,:,0.0,0.0,0.0,0.0,2.0,16.0,7.0,0.0,1.0,6.0,0.0
+Annual,Person,Recreational craft,Injured,Atlantic Ocean,Others,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,3.0,0.0,:,0.0,:
+Annual,Person,Recreational craft,Injured,Atlantic Ocean,Unknown,:,:,:,0.0,:,:,:,0.0,0.0,:,:,0.0,:
+Annual,Person,Recreational craft,Injured,Baltic Sea,European Union - 27 countries (from 2020),1.0,0.0,0.0,4.0,0.0,2.0,12.0,1.0,0.0,0.0,1.0,2.0,3.0
+Annual,Person,Recreational craft,Injured,Baltic Sea,Others,0.0,:,0.0,0.0,:,0.0,0.0,0.0,0.0,:,0.0,:,0.0
+Annual,Person,Recreational craft,Injured,Baltic Sea,Unknown,:,0.0,:,0.0,:,0.0,0.0,:,:,0.0,:,1.0,:
+Annual,Person,Recreational craft,Injured,Black Sea,European Union - 27 countries (from 2020),:,0.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,Person,Recreational craft,Injured,English Channel,European Union - 27 countries (from 2020),:,:,0.0,:,:,:,:,0.0,:,:,1.0,1.0,1.0
+Annual,Person,Recreational craft,Injured,English Channel,Others,1.0,2.0,6.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,:,:,:
+Annual,Person,Recreational craft,Injured,English Channel,Unknown,:,:,:,0.0,0.0,0.0,:,0.0,0.0,:,:,:,:
+Annual,Person,Recreational craft,Injured,Mediterranean Sea,European Union - 27 countries (from 2020),0.0,0.0,7.0,6.0,1.0,10.0,1.0,3.0,3.0,0.0,0.0,0.0,3.0
+Annual,Person,Recreational craft,Injured,Mediterranean Sea,Others,0.0,0.0,0.0,2.0,0.0,:,0.0,0.0,0.0,:,0.0,:,0.0
+Annual,Person,Recreational craft,Injured,Mediterranean Sea,Unknown,:,:,0.0,:,:,0.0,:,:,0.0,0.0,:,:,0.0
+Annual,Person,Recreational craft,Injured,North Sea,European Union - 27 countries (from 2020),2.0,0.0,3.0,7.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0
+Annual,Person,Recreational craft,Injured,North Sea,Others,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,:,:,2.0
+Annual,Person,Recreational craft,Injured,North Sea,Unknown,0.0,0.0,0.0,:,0.0,:,0.0,0.0,0.0,0.0,0.0,:,:
+Annual,Person,Recreational craft,Injured,Other sea basins,European Union - 27 countries (from 2020),:,:,0.0,0.0,:,:,:,:,:,:,:,0.0,:
+Annual,Person,Recreational craft,Injured,Other sea basins,Others,0.0,1.0,3.0,7.0,0.0,0.0,0.0,0.0,0.0,:,:,:,:
+Annual,Person,Recreational craft,Injured,Other sea basins,Unknown,:,0.0,:,:,:,0.0,:,:,0.0,:,:,:,:
+Annual,Person,Recreational craft,Injured,Unknown,European Union - 27 countries (from 2020),:,0.0,1.0,:,0.0,:,0.0,:,:,:,0.0,0.0,:
+Annual,Person,Recreational craft,Injured,Unknown,Others,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:
+Annual,Person,Recreational craft,Killed,Atlantic Ocean,European Union - 27 countries (from 2020),0.0,:,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0
+Annual,Person,Recreational craft,Killed,Atlantic Ocean,Others,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.0,:
+Annual,Person,Recreational craft,Killed,Atlantic Ocean,Unknown,:,:,:,0.0,:,:,:,0.0,0.0,:,:,0.0,:
+Annual,Person,Recreational craft,Killed,Baltic Sea,European Union - 27 countries (from 2020),0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Annual,Person,Recreational craft,Killed,Baltic Sea,Others,0.0,:,0.0,0.0,:,0.0,0.0,0.0,0.0,:,0.0,:,0.0
+Annual,Person,Recreational craft,Killed,Baltic Sea,Unknown,:,0.0,:,0.0,:,0.0,0.0,:,:,0.0,:,0.0,:
+Annual,Person,Recreational craft,Killed,Black Sea,European Union - 27 countries (from 2020),:,0.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,Person,Recreational craft,Killed,English Channel,European Union - 27 countries (from 2020),:,:,0.0,:,:,:,:,0.0,:,:,0.0,0.0,0.0
+Annual,Person,Recreational craft,Killed,English Channel,Others,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,:,:,:
+Annual,Person,Recreational craft,Killed,English Channel,Unknown,:,:,:,0.0,0.0,0.0,:,0.0,0.0,:,:,:,:
+Annual,Person,Recreational craft,Killed,Mediterranean Sea,European Union - 27 countries (from 2020),1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+Annual,Person,Recreational craft,Killed,Mediterranean Sea,Others,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,:,0.0,:,0.0
+Annual,Person,Recreational craft,Killed,Mediterranean Sea,Unknown,:,:,0.0,:,:,0.0,:,:,0.0,0.0,:,:,0.0
+Annual,Person,Recreational craft,Killed,North Sea,European Union - 27 countries (from 2020),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Recreational craft,Killed,North Sea,Others,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0
+Annual,Person,Recreational craft,Killed,North Sea,Unknown,0.0,0.0,0.0,:,0.0,:,0.0,0.0,0.0,0.0,0.0,:,:
+Annual,Person,Recreational craft,Killed,Other sea basins,European Union - 27 countries (from 2020),:,:,0.0,0.0,:,:,:,:,:,:,:,0.0,:
+Annual,Person,Recreational craft,Killed,Other sea basins,Others,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,:,:,:,:
+Annual,Person,Recreational craft,Killed,Other sea basins,Unknown,:,0.0,:,:,:,0.0,:,:,0.0,:,:,:,:
+Annual,Person,Recreational craft,Killed,Unknown,European Union - 27 countries (from 2020),:,0.0,0.0,:,0.0,:,0.0,:,:,:,0.0,0.0,:
+Annual,Person,Recreational craft,Killed,Unknown,Others,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:
+Annual,Person,Service ship,Injured,Atlantic Ocean,European Union - 27 countries (from 2020),2.0,2.0,8.0,8.0,1.0,7.0,3.0,8.0,6.0,3.0,5.0,5.0,5.0
+Annual,Person,Service ship,Injured,Atlantic Ocean,Others,3.0,15.0,12.0,9.0,12.0,11.0,4.0,5.0,8.0,3.0,0.0,6.0,0.0
+Annual,Person,Service ship,Injured,Atlantic Ocean,Unknown,:,1.0,:,:,:,:,:,:,:,:,:,0.0,:
+Annual,Person,Service ship,Injured,Baltic Sea,European Union - 27 countries (from 2020),1.0,9.0,6.0,4.0,6.0,3.0,1.0,4.0,1.0,1.0,6.0,3.0,5.0
+Annual,Person,Service ship,Injured,Baltic Sea,Others,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+Annual,Person,Service ship,Injured,Black Sea,European Union - 27 countries (from 2020),:,:,:,0.0,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Service ship,Injured,English Channel,European Union - 27 countries (from 2020),0.0,0.0,1.0,2.0,:,1.0,2.0,0.0,1.0,1.0,1.0,0.0,5.0
+Annual,Person,Service ship,Injured,English Channel,Others,6.0,9.0,5.0,3.0,6.0,2.0,3.0,2.0,6.0,1.0,0.0,2.0,1.0
+Annual,Person,Service ship,Injured,Mediterranean Sea,European Union - 27 countries (from 2020),1.0,3.0,13.0,9.0,2.0,2.0,5.0,10.0,9.0,7.0,2.0,9.0,6.0
+Annual,Person,Service ship,Injured,Mediterranean Sea,Others,0.0,0.0,:,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,:,0.0
+Annual,Person,Service ship,Injured,North Sea,European Union - 27 countries (from 2020),8.0,8.0,6.0,10.0,9.0,5.0,8.0,8.0,2.0,11.0,10.0,15.0,8.0
+Annual,Person,Service ship,Injured,North Sea,Others,16.0,38.0,34.0,12.0,23.0,18.0,12.0,11.0,10.0,8.0,2.0,1.0,2.0
+Annual,Person,Service ship,Injured,North Sea,Unknown,:,0.0,:,:,:,:,:,:,0.0,:,:,:,:
+Annual,Person,Service ship,Injured,Other sea basins,European Union - 27 countries (from 2020),2.0,3.0,16.0,13.0,2.0,5.0,4.0,3.0,3.0,5.0,5.0,9.0,10.0
+Annual,Person,Service ship,Injured,Other sea basins,Others,4.0,12.0,14.0,11.0,15.0,7.0,12.0,9.0,4.0,6.0,0.0,0.0,14.0
+Annual,Person,Service ship,Injured,Other sea basins,Unknown,0.0,:,:,:,0.0,:,:,:,:,:,:,:,5.0
+Annual,Person,Service ship,Injured,Unknown,European Union - 27 countries (from 2020),3.0,24.0,8.0,7.0,3.0,2.0,0.0,1.0,:,1.0,0.0,0.0,0.0
+Annual,Person,Service ship,Injured,Unknown,Others,0.0,0.0,26.0,9.0,5.0,7.0,7.0,16.0,18.0,9.0,7.0,10.0,7.0
+Annual,Person,Service ship,Killed,Atlantic Ocean,European Union - 27 countries (from 2020),4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0
+Annual,Person,Service ship,Killed,Atlantic Ocean,Others,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Service ship,Killed,Atlantic Ocean,Unknown,:,0.0,:,:,:,:,:,:,:,:,:,0.0,:
+Annual,Person,Service ship,Killed,Baltic Sea,European Union - 27 countries (from 2020),1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0
+Annual,Person,Service ship,Killed,Baltic Sea,Others,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Annual,Person,Service ship,Killed,Black Sea,European Union - 27 countries (from 2020),:,:,:,0.0,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Service ship,Killed,English Channel,European Union - 27 countries (from 2020),0.0,0.0,0.0,1.0,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Service ship,Killed,English Channel,Others,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Service ship,Killed,Mediterranean Sea,European Union - 27 countries (from 2020),0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0
+Annual,Person,Service ship,Killed,Mediterranean Sea,Others,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.0
+Annual,Person,Service ship,Killed,North Sea,European Union - 27 countries (from 2020),0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+Annual,Person,Service ship,Killed,North Sea,Others,0.0,2.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+Annual,Person,Service ship,Killed,North Sea,Unknown,:,0.0,:,:,:,:,:,:,0.0,:,:,:,:
+Annual,Person,Service ship,Killed,Other sea basins,European Union - 27 countries (from 2020),1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Annual,Person,Service ship,Killed,Other sea basins,Others,0.0,0.0,0.0,0.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0
+Annual,Person,Service ship,Killed,Other sea basins,Unknown,0.0,:,:,:,0.0,:,:,:,:,:,:,:,0.0
+Annual,Person,Service ship,Killed,Unknown,European Union - 27 countries (from 2020),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0
+Annual,Person,Service ship,Killed,Unknown,Others,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Unknown,Injured,Atlantic Ocean,European Union - 27 countries (from 2020),0.0,:,0.0,:,:,0.0,:,0.0,:,0.0,0.0,0.0,:
+Annual,Person,Unknown,Injured,Atlantic Ocean,Others,3.0,1.0,1.0,:,:,:,1.0,:,:,0.0,0.0,:,:
+Annual,Person,Unknown,Injured,Atlantic Ocean,Unknown,:,:,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Annual,Person,Unknown,Injured,Baltic Sea,European Union - 27 countries (from 2020),:,:,:,:,:,:,:,0.0,0.0,0.0,0.0,0.0,1.0
+Annual,Person,Unknown,Injured,Baltic Sea,Unknown,:,:,:,:,:,:,:,:,:,1.0,:,0.0,0.0
+Annual,Person,Unknown,Injured,English Channel,European Union - 27 countries (from 2020),:,:,:,:,:,:,:,:,:,:,0.0,:,:
+Annual,Person,Unknown,Injured,English Channel,Others,4.0,1.0,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Unknown,Injured,English Channel,Unknown,:,0.0,:,:,:,:,:,0.0,0.0,0.0,:,:,:
+Annual,Person,Unknown,Injured,Mediterranean Sea,European Union - 27 countries (from 2020),:,:,:,:,:,:,:,0.0,0.0,5.0,0.0,1.0,3.0
+Annual,Person,Unknown,Injured,Mediterranean Sea,Others,:,:,:,:,:,:,:,:,:,0.0,:,:,0.0
+Annual,Person,Unknown,Injured,Mediterranean Sea,Unknown,:,0.0,0.0,:,:,:,:,0.0,:,0.0,0.0,:,0.0
+Annual,Person,Unknown,Injured,North Sea,European Union - 27 countries (from 2020),:,:,:,:,:,:,1.0,:,0.0,:,:,:,0.0
+Annual,Person,Unknown,Injured,North Sea,Others,3.0,0.0,:,:,:,:,:,0.0,:,:,:,0.0,0.0
+Annual,Person,Unknown,Injured,North Sea,Unknown,0.0,:,0.0,:,:,:,:,1.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Unknown,Injured,Other sea basins,European Union - 27 countries (from 2020),:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Unknown,Injured,Other sea basins,Others,0.0,0.0,:,0.0,:,0.0,:,0.0,0.0,0.0,0.0,0.0,1.0
+Annual,Person,Unknown,Injured,Other sea basins,Unknown,:,0.0,0.0,:,:,:,:,0.0,0.0,0.0,4.0,0.0,0.0
+Annual,Person,Unknown,Injured,Unknown,European Union - 27 countries (from 2020),1.0,:,:,:,:,:,:,:,:,:,0.0,:,:
+Annual,Person,Unknown,Injured,Unknown,Others,:,:,1.0,:,:,:,:,1.0,1.0,:,1.0,1.0,:
+Annual,Person,Unknown,Injured,Unknown,Unknown,:,:,:,0.0,:,:,:,:,:,:,:,:,:
+Annual,Person,Unknown,Killed,Atlantic Ocean,European Union - 27 countries (from 2020),0.0,:,0.0,:,:,0.0,:,0.0,:,0.0,0.0,0.0,:
+Annual,Person,Unknown,Killed,Atlantic Ocean,Others,0.0,0.0,2.0,:,:,:,3.0,:,:,3.0,0.0,:,:
+Annual,Person,Unknown,Killed,Atlantic Ocean,Unknown,:,:,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Annual,Person,Unknown,Killed,Baltic Sea,European Union - 27 countries (from 2020),:,:,:,:,:,:,:,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Unknown,Killed,Baltic Sea,Unknown,:,:,:,:,:,:,:,:,:,0.0,:,0.0,0.0
+Annual,Person,Unknown,Killed,English Channel,European Union - 27 countries (from 2020),:,:,:,:,:,:,:,:,:,:,0.0,:,:
+Annual,Person,Unknown,Killed,English Channel,Others,0.0,0.0,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Unknown,Killed,English Channel,Unknown,:,0.0,:,:,:,:,:,0.0,0.0,0.0,:,:,:
+Annual,Person,Unknown,Killed,Mediterranean Sea,European Union - 27 countries (from 2020),:,:,:,:,:,:,:,0.0,0.0,0.0,0.0,0.0,1.0
+Annual,Person,Unknown,Killed,Mediterranean Sea,Others,:,:,:,:,:,:,:,:,:,0.0,:,:,0.0
+Annual,Person,Unknown,Killed,Mediterranean Sea,Unknown,:,1.0,0.0,:,:,:,:,0.0,:,0.0,0.0,:,0.0
+Annual,Person,Unknown,Killed,North Sea,European Union - 27 countries (from 2020),:,:,:,:,:,:,0.0,:,0.0,:,:,:,0.0
+Annual,Person,Unknown,Killed,North Sea,Others,1.0,0.0,:,:,:,:,:,0.0,:,:,:,0.0,0.0
+Annual,Person,Unknown,Killed,North Sea,Unknown,0.0,:,0.0,:,:,:,:,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Unknown,Killed,Other sea basins,European Union - 27 countries (from 2020),:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,Person,Unknown,Killed,Other sea basins,Others,0.0,0.0,:,0.0,:,0.0,:,0.0,0.0,0.0,1.0,0.0,0.0
+Annual,Person,Unknown,Killed,Other sea basins,Unknown,:,0.0,0.0,:,:,:,:,0.0,6.0,0.0,0.0,0.0,0.0
+Annual,Person,Unknown,Killed,Unknown,European Union - 27 countries (from 2020),0.0,:,:,:,:,:,:,:,:,:,0.0,:,:
+Annual,Person,Unknown,Killed,Unknown,Others,:,:,0.0,:,:,:,:,0.0,0.0,:,0.0,0.0,:
+Annual,Person,Unknown,Killed,Unknown,Unknown,:,:,:,0.0,:,:,:,:,:,:,:,:,:

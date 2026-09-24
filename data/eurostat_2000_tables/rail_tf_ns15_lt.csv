@@ -1,0 +1,113 @@
+Time frequency,Unit of measure,Rail network Segment (2015),Train category\Time,2015.0
+Annual,Number,Draugyste/Klaipeda - Siauliai,Goods trains,3650.0
+Annual,Number,Draugyste/Klaipeda - Siauliai,Passenger trains,1825.0
+Annual,Number,Siauliai - Radviliskis,Goods trains,5475.0
+Annual,Number,Siauliai - Radviliskis,Passenger trains,4745.0
+Annual,Number,Radviliskis - Gaiziunai,Goods trains,6935.0
+Annual,Number,Radviliskis - Gaiziunai,Passenger trains,1825.0
+Annual,Number,Gaiziunai - Kaisiadorys,Goods trains,5475.0
+Annual,Number,Gaiziunai - Kaisiadorys,Passenger trains,1825.0
+Annual,Number,Kaisiadorys - Lentvaris,Goods trains,8760.0
+Annual,Number,Kaisiadorys - Lentvaris,Passenger trains,8760.0
+Annual,Number,Lentvaris - Vaidotai,Goods trains,6570.0
+Annual,Number,Lentvaris - Vaidotai,Passenger trains,0.0
+Annual,Number,Lentvaris - Paneriai,Goods trains,2190.0
+Annual,Number,Lentvaris - Paneriai,Passenger trains,13505.0
+Annual,Number,Paneriai - Vilnius,Goods trains,3650.0
+Annual,Number,Paneriai - Vilnius,Passenger trains,13505.0
+Annual,Number,Vilnius - N.Vilnia,Goods trains,3285.0
+Annual,Number,Vilnius - N.Vilnia,Passenger trains,12410.0
+Annual,Number,N.Vilnia - Kyviskes,Goods trains,2920.0
+Annual,Number,N.Vilnia - Kyviskes,Passenger trains,4380.0
+Annual,Number,Kyviskes - Kena-State Border,Goods trains,5110.0
+Annual,Number,Kyviskes - Kena-State Border,Passenger trains,3650.0
+Annual,Number,Paneriai - Vaidotai,Goods trains,4015.0
+Annual,Number,Paneriai - Vaidotai,Passenger trains,0.0
+Annual,Number,Vaidotai - Kyviskes,Goods trains,2190.0
+Annual,Number,Vaidotai - Kyviskes,Passenger trains,0.0
+Annual,Number,Kaisiadorys - Palemonas,Goods trains,3285.0
+Annual,Number,Kaisiadorys - Palemonas,Passenger trains,7300.0
+Annual,Number,Palemonas - Kaunas,Goods trains,1825.0
+Annual,Number,Palemonas - Kaunas,Passenger trains,6570.0
+Annual,Number,Kaunas - Jiesia,Goods trains,1095.0
+Annual,Number,Kaunas - Jiesia,Passenger trains,2555.0
+Annual,Number,Jiesia - Rokai-Palemonas,Goods trains,2920.0
+Annual,Number,Jiesia - Rokai-Palemonas,Passenger trains,730.0
+Annual,Number,Jiesia - Kazlu Ruda,Goods trains,3650.0
+Annual,Number,Jiesia - Kazlu Ruda,Passenger trains,3285.0
+Annual,Number,Kazlu Ruda - Kybartai-State Border,Goods trains,2920.0
+Annual,Number,Kazlu Ruda - Kybartai-State Border,Passenger trains,1825.0
+Annual,Number,State Border-Joniskis - Siauliai,Goods trains,1095.0
+Annual,Number,State Border-Joniskis - Siauliai,Passenger trains,0.0
+Annual,Number,Gaiziunai - Palemonas,Goods trains,730.0
+Annual,Number,Gaiziunai - Palemonas,Passenger trains,0.0
+Annual,Number,Kazlu Ruda - Sestokai,Goods trains,365.0
+Annual,Number,Kazlu Ruda - Sestokai,Passenger trains,0.0
+Annual,Number,Sestokai - Mockava,Goods trains,365.0
+Annual,Number,Sestokai - Mockava,Passenger trains,0.0
+Annual,Number,Mockava - State Border,Goods trains,365.0
+Annual,Number,Mockava - State Border,Passenger trains,0.0
+Annual,Number,Radviliskis - Pagegiai-State Border.,Goods trains,730.0
+Annual,Number,Radviliskis - Pagegiai-State Border.,Passenger trains,0.0
+Annual,Number,Radviliskis - Panevezys,Goods trains,1460.0
+Annual,Number,Radviliskis - Panevezys,Passenger trains,1095.0
+Annual,Number,Panevezys - Rokiskis,Goods trains,1095.0
+Annual,Number,Panevezys - Rokiskis,Passenger trains,365.0
+Annual,Number,Rokiskis - Obeliai-State Border,Goods trains,365.0
+Annual,Number,Rokiskis - Obeliai-State Border,Passenger trains,0.0
+Annual,Number,Siauliai - Draugyste/Klaipeda,Goods trains,6570.0
+Annual,Number,Siauliai - Draugyste/Klaipeda,Passenger trains,1825.0
+Annual,Number,Radviliskis - Siauliai,Goods trains,8395.0
+Annual,Number,Radviliskis - Siauliai,Passenger trains,4745.0
+Annual,Number,Gaiziunai - Radviliskis,Goods trains,6935.0
+Annual,Number,Gaiziunai - Radviliskis,Passenger trains,1825.0
+Annual,Number,Kaisiadorys - Gaiziunai,Goods trains,5475.0
+Annual,Number,Kaisiadorys - Gaiziunai,Passenger trains,1825.0
+Annual,Number,Lentvaris - Kaisiadorys,Goods trains,8760.0
+Annual,Number,Lentvaris - Kaisiadorys,Passenger trains,8760.0
+Annual,Number,Vaidotai - Lentvaris,Goods trains,7665.0
+Annual,Number,Vaidotai - Lentvaris,Passenger trains,0.0
+Annual,Number,Paneriai - Lentvaris,Goods trains,1095.0
+Annual,Number,Paneriai - Lentvaris,Passenger trains,13505.0
+Annual,Number,Vilnius - Paneriai,Goods trains,3285.0
+Annual,Number,Vilnius - Paneriai,Passenger trains,13505.0
+Annual,Number,N.Vilnia - Vilnius,Goods trains,2920.0
+Annual,Number,N.Vilnia - Vilnius,Passenger trains,12410.0
+Annual,Number,Kyviskes - N.Vilnia,Goods trains,2555.0
+Annual,Number,Kyviskes - N.Vilnia,Passenger trains,4380.0
+Annual,Number,Kena-State Border - Kyviskes,Goods trains,5110.0
+Annual,Number,Kena-State Border - Kyviskes,Passenger trains,3650.0
+Annual,Number,Vaidotai - Paneriai,Goods trains,2555.0
+Annual,Number,Vaidotai - Paneriai,Passenger trains,0.0
+Annual,Number,Kyviskes - Vaidotai,Goods trains,2555.0
+Annual,Number,Kyviskes - Vaidotai,Passenger trains,0.0
+Annual,Number,Palemonas - Kaisiadorys,Goods trains,2920.0
+Annual,Number,Palemonas - Kaisiadorys,Passenger trains,7300.0
+Annual,Number,Kaunas - Palemonas,Goods trains,730.0
+Annual,Number,Kaunas - Palemonas,Passenger trains,6570.0
+Annual,Number,Jiesia - Kaunas,Goods trains,365.0
+Annual,Number,Jiesia - Kaunas,Passenger trains,2555.0
+Annual,Number,Rokai-Palemonas - Jiesia,Goods trains,3285.0
+Annual,Number,Rokai-Palemonas - Jiesia,Passenger trains,730.0
+Annual,Number,Kazlu Ruda - Jiesia,Goods trains,3285.0
+Annual,Number,Kazlu Ruda - Jiesia,Passenger trains,3285.0
+Annual,Number,Kybartai-State Border - Kazlu Ruda,Goods trains,2920.0
+Annual,Number,Kybartai-State Border - Kazlu Ruda,Passenger trains,2190.0
+Annual,Number,Siauliai - State Border-Joniskis,Goods trains,1095.0
+Annual,Number,Siauliai - State Border-Joniskis,Passenger trains,0.0
+Annual,Number,Palemonas - Gaiziunai,Goods trains,730.0
+Annual,Number,Palemonas - Gaiziunai,Passenger trains,0.0
+Annual,Number,Sestokai - Kazlu Ruda,Goods trains,365.0
+Annual,Number,Sestokai - Kazlu Ruda,Passenger trains,0.0
+Annual,Number,Mockava - Sestokai,Goods trains,365.0
+Annual,Number,Mockava - Sestokai,Passenger trains,0.0
+Annual,Number,State Border - Mockava,Goods trains,365.0
+Annual,Number,State Border - Mockava,Passenger trains,0.0
+Annual,Number,Pagegiai-State Border. - Radviliskis,Goods trains,4015.0
+Annual,Number,Pagegiai-State Border. - Radviliskis,Passenger trains,0.0
+Annual,Number,Panevezys - Radviliskis,Goods trains,1095.0
+Annual,Number,Panevezys - Radviliskis,Passenger trains,1095.0
+Annual,Number,Rokiskis - Panevezys,Goods trains,730.0
+Annual,Number,Rokiskis - Panevezys,Passenger trains,365.0
+Annual,Number,Obeliai-State Border - Rokiskis,Goods trains,365.0
+Annual,Number,Obeliai-State Border - Rokiskis,Passenger trains,0.0

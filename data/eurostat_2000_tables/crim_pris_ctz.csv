@@ -1,0 +1,243 @@
+Time frequency,Country of citizenship,Unit of measure,Geopolitical entity (reporting)\Time,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0
+Annual,Foreign country,Number,Albania,36.0,38.0,54.0,69.0,68.0,84.0,99.0,89.0,89.0,101.0,90.0,113.0,109.0,114.0,123.0
+Annual,Foreign country,Number,Austria,3349.0,3974.0,3904.0,4055.0,4180.0,4373.0,4449.0,4702.0,4686.0,4831.0,5029.0,4794.0,4298.0,4156.0,4644.0
+Annual,Foreign country,Number,Bosnia and Herzegovina,:,:,24.0,67.0,:,54.0,46.0,57.0,49.0,32.0,51.0,78.0,174.0,100.0,120.0
+Annual,Foreign country,Number,Belgium,4124.0,4276.0,4430.0,4854.0,4902.0,5271.0,:,4812.0,:,4627.0,4555.0,4771.0,4593.0,4706.0,4730.0
+Annual,Foreign country,Number,Bulgaria,187.0,165.0,146.0,175.0,180.0,253.0,232.0,242.0,215.0,186.0,161.0,137.0,154.0,159.0,134.0
+Annual,Foreign country,Number,Switzerland,3581.0,3831.0,4030.0,3911.0,4390.0,4857.0,4673.0,4514.0,4599.0,4615.0,4679.0,4478.0,4340.0,4230.0,4396.0
+Annual,Foreign country,Number,Cyprus,377.0,321.0,374.0,356.0,404.0,306.0,239.0,214.0,237.0,151.0,276.0,372.0,260.0,417.0,531.0
+Annual,Foreign country,Number,Czechia,1449.0,579.0,1600.0,1730.0,1715.0,1523.0,1549.0,1670.0,1807.0,1814.0,1768.0,1794.0,1534.0,1396.0,1459.0
+Annual,Foreign country,Number,Denmark,792.0,811.0,853.0,838.0,979.0,1098.0,1002.0,865.0,954.0,968.0,1039.0,1137.0,1171.0,1074.0,1145.0
+Annual,Foreign country,Number,Estonia,165.0,1399.0,1349.0,1302.0,1248.0,1192.0,1226.0,1096.0,1060.0,996.0,916.0,837.0,799.0,725.0,686.0
+Annual,Foreign country,Number,Greece,6176.0,6307.0,7210.0,7887.0,7875.0,7623.0,6882.0,5289.0,5195.0,5291.0,5822.0,6314.0,6799.0,6499.0,6022.0
+Annual,Foreign country,Number,Spain,26201.0,27162.0,26315.0,24502.0,22893.0,21116.0,19697.0,17870.0,17130.0,16549.0,16536.0,16470.0,15918.0,16272.0,16758.0
+Annual,Foreign country,Number,Finland,333.0,356.0,374.0,436.0,478.0,458.0,483.0,489.0,531.0,555.0,503.0,502.0,474.0,421.0,461.0
+Annual,Foreign country,Number,France,11869.0,11552.0,11597.0,12549.0,13043.0,13843.0,13814.0,14071.0,14964.0,15418.0,16151.0,16414.0,15357.0,17447.0,18068.0
+Annual,Foreign country,Number,Croatia,293.0,280.0,242.0,289.0,285.0,275.0,231.0,197.0,197.0,225.0,313.0,481.0,381.0,467.0,423.0
+Annual,Foreign country,Number,Hungary,538.0,577.0,604.0,585.0,621.0,653.0,700.0,906.0,878.0,861.0,753.0,805.0,998.0,1879.0,2893.0
+Annual,Foreign country,Number,Ireland,443.0,500.0,397.0,386.0,398.0,420.0,371.0,342.0,:,:,520.0,615.0,592.0,575.0,651.0
+Annual,Foreign country,Number,Iceland,29.0,31.0,27.0,28.0,37.0,25.0,22.0,29.0,26.0,31.0,31.0,32.0,34.0,32.0,39.0
+Annual,Foreign country,Number,Italy,22001.0,24498.0,24985.0,24649.0,23956.0,22344.0,17856.0,17799.0,19149.0,20307.0,20774.0,20352.0,17741.0,17429.0,18138.0
+Annual,Foreign country,Number,Liechtenstein,65.0,135.0,61.0,52.0,49.0,51.0,41.0,42.0,62.0,61.0,54.0,36.0,38.0,:,53.0
+Annual,Foreign country,Number,Lithuania,90.0,118.0,100.0,128.0,113.0,149.0,159.0,128.0,111.0,114.0,125.0,128.0,102.0,167.0,166.0
+Annual,Foreign country,Number,Luxembourg,556.0,484.0,463.0,448.0,466.0,454.0,465.0,516.0,543.0,493.0,491.0,439.0,407.0,447.0,549.0
+Annual,Foreign country,Number,Latvia,82.0,85.0,93.0,83.0,76.0,68.0,87.0,106.0,142.0,94.0,84.0,65.0,45.0,58.0,79.0
+Annual,Foreign country,Number,Montenegro,48.0,85.0,115.0,82.0,202.0,234.0,374.0,171.0,284.0,187.0,174.0,192.0,132.0,153.0,144.0
+Annual,Foreign country,Number,North Macedonia,:,50.0,:,:,:,:,:,:,303.0,133.0,:,:,:,:,:
+Annual,Foreign country,Number,Malta,154.0,215.0,286.0,:,:,:,:,:,237.0,249.0,257.0,390.0,528.0,311.0,264.0
+Annual,Foreign country,Number,Netherlands,2820.0,2854.0,2853.0,2707.0,2539.0,2409.0,2170.0,1893.0,1832.0,2057.0,2185.0,2295.0,2301.0,2279.0,2456.0
+Annual,Foreign country,Number,Norway,:,:,:,:,1197.0,1212.0,1276.0,1361.0,1327.0,1328.0,1196.0,1063.0,992.0,900.0,875.0
+Annual,Foreign country,Number,Poland,545.0,595.0,572.0,556.0,567.0,521.0,543.0,521.0,665.0,844.0,1041.0,1310.0,1268.0,1741.0,1829.0
+Annual,Foreign country,Number,Portugal,2190.0,2263.0,2390.0,2548.0,2602.0,2647.0,2492.0,2502.0,2307.0,2164.0,1968.0,1985.0,1769.0,1672.0,1914.0
+Annual,Foreign country,Number,Romania,191.0,202.0,207.0,208.0,174.0,195.0,253.0,269.0,302.0,286.0,253.0,235.0,226.0,225.0,248.0
+Annual,Foreign country,Number,Serbia,163.0,192.0,317.0,189.0,209.0,352.0,302.0,353.0,358.0,350.0,317.0,348.0,386.0,423.0,394.0
+Annual,Foreign country,Number,Sweden,:,:,:,:,1984.0,1853.0,1324.0,1325.0,1274.0,1240.0,1319.0,1414.0,1466.0,1429.0,1486.0
+Annual,Foreign country,Number,Slovenia,136.0,137.0,149.0,133.0,162.0,145.0,150.0,131.0,118.0,:,189.0,281.0,416.0,359.0,404.0
+Annual,Foreign country,Number,Slovakia,146.0,168.0,197.0,194.0,206.0,188.0,177.0,181.0,211.0,219.0,209.0,256.0,219.0,261.0,407.0
+Annual,Foreign country,Number,Türkiye,:,1861.0,2116.0,2245.0,2193.0,2465.0,2943.0,3807.0,4441.0,6488.0,8578.0,10002.0,10299.0,12045.0,15028.0
+Annual,Foreign country,Number,England and Wales,10107.0,9968.0,10222.0,9898.0,9767.0,8925.0,9089.0,8843.0,8436.0,8425.0,8259.0,:,:,:,:
+Annual,Foreign country,Number,Scotland (NUTS 2021),268.0,310.0,272.0,273.0,288.0,268.0,288.0,295.0,:,:,:,:,:,:,:
+Annual,Foreign country,Number,Northern Ireland (UK) (NUTS 2021),127.0,131.0,101.0,142.0,118.0,144.0,133.0,122.0,198.0,125.0,141.0,:,:,:,:
+Annual,Foreign country,Number,Kosovo*,:,:,:,61.0,95.0,125.0,127.0,89.0,90.0,115.0,82.0,101.0,102.0,:,:
+Annual,Foreign country,Per hundred thousand inhabitants,Albania,1.14,1.19,:,2.44,:,:,3.42,3.08,3.08,3.51,3.14,3.95,3.83,4.03,4.4
+Annual,Foreign country,Per hundred thousand inhabitants,Austria,40.31,47.68,46.75,48.42,49.71,51.74,52.3,54.83,53.92,55.07,57.0,54.12,48.29,46.53,51.72
+Annual,Foreign country,Per hundred thousand inhabitants,Bosnia and Herzegovina,:,:,0.62,1.74,:,:,:,:,:,:,:,:,:,:,:
+Annual,Foreign country,Per hundred thousand inhabitants,Belgium,38.66,39.77,40.87,44.12,44.18,47.22,:,42.82,:,40.76,39.96,41.65,39.86,40.73,40.71
+Annual,Foreign country,Per hundred thousand inhabitants,Bulgaria,2.49,2.21,1.97,2.37,2.46,3.47,3.2,3.36,3.01,2.62,2.28,1.96,2.22,2.3,1.96
+Annual,Foreign country,Per hundred thousand inhabitants,Switzerland,47.16,49.74,51.76,49.69,55.19,60.42,57.41,54.8,55.23,54.81,55.15,52.41,50.43,48.79,50.3
+Annual,Foreign country,Per hundred thousand inhabitants,Cyprus,48.56,40.28,45.66,42.39,46.87,35.34,27.86,25.27,27.94,17.66,31.94,42.47,29.28,46.54,58.69
+Annual,Foreign country,Per hundred thousand inhabitants,Czechia,14.01,5.55,15.29,16.5,16.32,14.48,14.73,15.85,17.12,17.15,16.66,16.85,14.34,13.04,13.87
+Annual,Foreign country,Per hundred thousand inhabitants,Denmark,14.46,14.71,15.41,15.07,17.54,19.6,17.81,15.28,16.72,16.84,17.97,19.58,20.11,18.39,19.49
+Annual,Foreign country,Per hundred thousand inhabitants,Estonia,12.33,104.74,101.18,97.92,94.17,90.29,93.17,83.35,80.55,75.7,69.44,63.18,60.12,54.51,51.51
+Annual,Foreign country,Per hundred thousand inhabitants,Greece,55.23,56.85,64.84,70.9,71.03,69.28,62.98,48.71,48.17,49.14,54.2,58.87,63.43,60.86,57.57
+Annual,Foreign country,Per hundred thousand inhabitants,Spain,57.37,58.74,56.61,52.5,48.9,45.19,42.35,38.47,36.89,35.57,35.44,35.09,33.63,34.33,35.33
+Annual,Foreign country,Per hundred thousand inhabitants,Finland,6.28,6.68,6.99,8.11,8.85,8.44,8.86,8.94,9.68,10.08,9.12,9.1,8.58,7.61,8.31
+Annual,Foreign country,Per hundred thousand inhabitants,France,18.54,17.95,17.94,19.31,19.98,21.1,20.95,21.16,22.41,23.08,24.14,24.43,22.81,25.79,26.62
+Annual,Foreign country,Per hundred thousand inhabitants,Croatia,6.8,6.5,5.62,6.74,6.67,6.45,5.44,4.66,4.7,5.42,7.62,11.8,9.39,11.57,10.95
+Annual,Foreign country,Per hundred thousand inhabitants,Hungary,5.36,5.75,6.03,5.86,6.25,6.59,7.09,9.19,8.93,8.79,7.7,8.24,10.22,19.31,29.86
+Annual,Foreign country,Per hundred thousand inhabitants,Ireland,9.94,11.06,8.73,8.44,8.68,9.15,8.06,7.39,:,:,10.77,12.54,11.92,11.49,12.87
+Annual,Foreign country,Per hundred thousand inhabitants,Iceland,9.19,9.71,8.5,8.79,11.58,7.77,6.76,8.81,7.82,9.16,8.9,8.96,9.34,8.68,10.37
+Annual,Foreign country,Per hundred thousand inhabitants,Italy,37.51,41.52,42.21,41.52,40.33,37.44,29.38,29.28,31.56,33.52,34.35,34.02,29.75,29.42,30.73
+Annual,Foreign country,Per hundred thousand inhabitants,Liechtenstein,183.84,379.33,169.94,143.85,134.34,138.44,110.43,112.4,164.8,161.33,141.68,93.8,98.07,:,134.83
+Annual,Foreign country,Per hundred thousand inhabitants,Lithuania,2.8,3.71,3.18,4.19,3.76,5.01,5.4,4.38,3.84,4.0,4.45,4.58,3.65,5.97,5.92
+Annual,Foreign country,Per hundred thousand inhabitants,Luxembourg,114.92,98.07,92.22,87.53,88.79,84.54,84.59,91.66,94.23,83.46,81.56,71.51,65.0,70.42,85.06
+Annual,Foreign country,Per hundred thousand inhabitants,Latvia,3.74,3.93,4.39,4.0,3.72,3.36,4.35,5.34,7.21,4.82,4.34,3.39,2.36,3.06,4.21
+Annual,Foreign country,Per hundred thousand inhabitants,Montenegro,7.8,13.77,18.58,13.23,32.56,37.69,60.17,27.49,45.64,30.05,27.96,30.86,21.23,24.65,23.31
+Annual,Foreign country,Per hundred thousand inhabitants,North Macedonia,:,2.44,:,:,:,:,:,:,14.63,6.41,:,:,:,:,:
+Annual,Foreign country,Per hundred thousand inhabitants,Malta,37.76,52.32,69.08,:,:,:,:,:,52.62,54.1,54.03,79.02,102.61,60.26,50.67
+Annual,Foreign country,Per hundred thousand inhabitants,Netherlands,17.19,17.31,17.21,16.25,15.18,14.36,12.89,11.2,10.79,12.04,12.72,13.28,13.22,13.04,13.96
+Annual,Foreign country,Per hundred thousand inhabitants,Norway,:,:,:,:,24.01,23.99,24.98,26.34,25.47,25.26,22.58,19.95,18.48,16.69,16.13
+Annual,Foreign country,Per hundred thousand inhabitants,Poland,1.43,1.56,1.5,1.46,1.49,1.37,1.43,1.37,1.75,2.22,2.74,3.45,3.34,4.6,4.86
+Annual,Foreign country,Per hundred thousand inhabitants,Portugal,20.75,21.42,22.6,24.1,24.68,25.24,23.9,24.12,22.31,20.99,19.12,19.32,17.18,16.24,18.49
+Annual,Foreign country,Per hundred thousand inhabitants,Romania,0.93,0.99,0.96,0.97,0.87,0.97,1.27,1.35,1.53,1.46,1.3,1.21,1.17,1.17,1.3
+Annual,Foreign country,Per hundred thousand inhabitants,Serbia,2.21,2.62,4.34,2.61,2.9,4.9,4.23,4.96,5.06,4.97,4.53,5.0,5.57,6.16,5.8
+Annual,Foreign country,Per hundred thousand inhabitants,Sweden,:,:,:,:,20.92,19.39,13.73,13.59,12.93,12.41,13.03,13.82,14.19,13.77,14.22
+Annual,Foreign country,Per hundred thousand inhabitants,Slovenia,6.77,6.74,7.28,6.49,7.88,7.04,7.28,6.35,5.72,:,9.14,13.5,19.85,17.02,19.17
+Annual,Foreign country,Per hundred thousand inhabitants,Slovakia,2.72,3.12,3.65,3.6,3.81,3.47,3.27,3.34,3.89,4.03,3.84,4.7,4.01,4.78,7.49
+Annual,Foreign country,Per hundred thousand inhabitants,Türkiye,:,2.6,2.92,3.05,2.93,3.26,3.84,4.9,5.64,8.13,10.61,12.2,12.39,14.41,17.75
+Annual,Foreign country,Per hundred thousand inhabitants,England and Wales,18.51,18.11,18.43,17.7,17.33,15.72,15.9,15.33,14.51,14.39,14.01,:,:,:,:
+Annual,Foreign country,Per hundred thousand inhabitants,Scotland (NUTS 2021),5.17,5.94,5.18,5.17,5.43,5.04,5.4,5.51,:,:,:,:,:,:,:
+Annual,Foreign country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),7.17,7.33,5.61,7.85,6.49,7.88,7.24,6.6,10.65,6.7,7.52,:,:,:,:
+Annual,Foreign country,Per hundred thousand inhabitants,Kosovo*,:,:,:,3.4,:,:,:,:,5.08,6.45,4.56,5.62,5.72,:,:
+Annual,Reporting country,Number,Albania,4880.0,4629.0,4603.0,4590.0,4550.0,4914.0,5590.0,5892.0,5942.0,5573.0,5226.0,4932.0,4505.0,4842.0,4937.0
+Annual,Reporting country,Number,Austria,:,:,4636.0,4715.0,4625.0,4489.0,4243.0,3963.0,3933.0,4021.0,4134.0,4278.0,4190.0,4280.0,4349.0
+Annual,Reporting country,Number,Bosnia and Herzegovina,:,:,2228.0,2690.0,:,2844.0,2779.0,2673.0,2783.0,2788.0,4326.0,4404.0,3923.0,2842.0,2704.0
+Annual,Reporting country,Number,Belgium,5681.0,5840.0,6089.0,6177.0,6264.0,6531.0,:,6103.0,:,5844.0,5706.0,6023.0,5764.0,6063.0,6320.0
+Annual,Reporting country,Number,Bulgaria,9221.0,8841.0,9233.0,9710.0,9313.0,8581.0,7638.0,7166.0,7130.0,6802.0,6490.0,6311.0,6097.0,5714.0,5443.0
+Annual,Reporting country,Number,Switzerland,1722.0,1774.0,1735.0,1715.0,1712.0,1795.0,1846.0,1984.0,1908.0,1949.0,1923.0,2090.0,1843.0,1883.0,1856.0
+Annual,Reporting country,Number,Cyprus,275.0,257.0,262.0,266.0,274.0,247.0,293.0,333.0,349.0,441.0,343.0,387.0,341.0,378.0,427.0
+Annual,Reporting country,Number,Czechia,19053.0,21274.0,20300.0,21440.0,20929.0,15122.0,17109.0,19196.0,20674.0,20345.0,19809.0,19254.0,17752.0,17352.0,17593.0
+Annual,Reporting country,Number,Denmark,2659.0,2910.0,3091.0,3109.0,2850.0,2993.0,2581.0,2338.0,2454.0,2450.0,2596.0,2783.0,2995.0,3148.0,3063.0
+Annual,Reporting country,Number,Estonia,:,2156.0,2044.0,2098.0,2038.0,1931.0,1808.0,1727.0,1804.0,1727.0,1668.0,1650.0,1567.0,1464.0,1387.0
+Annual,Reporting country,Number,Greece,6139.0,5057.0,5139.0,4592.0,4600.0,5070.0,4916.0,4322.0,4365.0,4720.0,4832.0,4577.0,4580.0,4531.0,4504.0
+Annual,Reporting country,Number,Spain,47357.0,48917.0,47614.0,45970.0,45704.0,45649.0,45320.0,43744.0,42459.0,42265.0,42347.0,42047.0,39262.0,38825.0,38993.0
+Annual,Reporting country,Number,Finland,3197.0,3233.0,2990.0,2832.0,2828.0,2837.0,2665.0,2646.0,2625.0,2527.0,2453.0,2443.0,2277.0,2390.0,2400.0
+Annual,Reporting country,Number,France,50383.0,49426.0,48947.0,52238.0,53529.0,53232.0,52456.0,52586.0,53468.0,53556.0,53908.0,54325.0,47186.0,52001.0,54105.0
+Annual,Reporting country,Number,Croatia,:,:,:,:,:,:,3532.0,3144.0,2880.0,2912.0,2904.0,3052.0,3150.0,3438.0,3668.0
+Annual,Reporting country,Number,Hungary,14205.0,14855.0,15724.0,16625.0,16558.0,17188.0,17190.0,16543.0,16780.0,16482.0,15550.0,15529.0,15754.0,16744.0,16454.0
+Annual,Reporting country,Number,Ireland,3027.0,3368.0,3324.0,3311.0,3312.0,3054.0,2833.0,3413.0,:,:,3442.0,3402.0,3218.0,3231.0,3718.0
+Annual,Reporting country,Number,Iceland,111.0,117.0,140.0,122.0,116.0,122.0,132.0,110.0,90.0,106.0,105.0,126.0,107.0,110.0,99.0
+Annual,Reporting country,Number,Italy,37283.0,41500.0,43918.0,43676.0,43146.0,41504.0,36889.0,35611.0,36829.0,38731.0,40357.0,41880.0,36864.0,37920.0,39317.0
+Annual,Reporting country,Number,Liechtenstein,13.0,14.0,15.0,19.0,11.0,17.0,12.0,11.0,10.0,12.0,9.0,7.0,19.0,:,5.0
+Annual,Reporting country,Number,Lithuania,7910.0,8537.0,9039.0,9792.0,9616.0,9112.0,8477.0,7227.0,6704.0,6485.0,6360.0,6010.0,5218.0,4919.0,4807.0
+Annual,Reporting country,Number,Luxembourg,206.0,218.0,218.0,189.0,200.0,202.0,161.0,175.0,181.0,191.0,165.0,155.0,150.0,170.0,156.0
+Annual,Reporting country,Number,Latvia,6466.0,6970.0,4656.0,4443.0,4120.0,5068.0,4658.0,4303.0,4101.0,3671.0,3438.0,3349.0,3059.0,3125.0,3150.0
+Annual,Reporting country,Number,Montenegro,1168.0,1410.0,1342.0,1246.0,1129.0,830.0,749.0,960.0,839.0,932.0,951.0,898.0,678.0,767.0,882.0
+Annual,Reporting country,Number,North Macedonia,:,2160.0,:,:,:,:,:,:,2928.0,2898.0,:,:,:,:,:
+Annual,Reporting country,Number,Malta,:,:,:,:,:,:,:,6.0,316.0,342.0,378.0,364.0,336.0,303.0,295.0
+Annual,Reporting country,Number,Netherlands,11790.0,11510.0,11515.0,11262.0,10934.0,10312.0,9764.0,8957.0,8769.0,8817.0,9066.0,9398.0,8723.0,9030.0,8782.0
+Annual,Reporting country,Number,Norway,:,:,:,:,2786.0,2624.0,2772.0,2632.0,2791.0,2771.0,2531.0,2452.0,2526.0,2735.0,2796.0
+Annual,Reporting country,Number,Poland,84433.0,85154.0,81800.0,82276.0,84892.0,79644.0,78802.0,72174.0,71544.0,73636.0,71777.0,73302.0,67086.0,70528.0,69894.0
+Annual,Reporting country,Number,Portugal,8617.0,8836.0,9223.0,10133.0,11012.0,11637.0,11706.0,11871.0,11610.0,11423.0,11053.0,10962.0,9733.0,10032.0,10588.0
+Annual,Reporting country,Number,Romania,26021.0,26514.0,28037.0,30486.0,31643.0,33239.0,29903.0,28065.0,27153.0,23164.0,20539.0,20343.0,21527.0,22764.0,22834.0
+Annual,Reporting country,Number,Serbia,9538.0,10783.0,10894.0,10881.0,10017.0,9679.0,9986.0,9711.0,10314.0,10457.0,10554.0,10729.0,10154.0,10134.0,10393.0
+Annual,Reporting country,Number,Sweden,:,:,:,:,4312.0,3870.0,2995.0,2967.0,2957.0,2908.0,3074.0,3420.0,3810.0,4258.0,4660.0
+Annual,Reporting country,Number,Slovenia,:,:,:,1140.0,1215.0,1215.0,1372.0,1268.0,1190.0,:,1157.0,1115.0,1033.0,777.0,976.0
+Annual,Reporting country,Number,Slovakia,:,9148.0,9834.0,10331.0,10644.0,9565.0,9843.0,9732.0,9784.0,9809.0,10085.0,10299.0,10300.0,9843.0,9532.0
+Annual,Reporting country,Number,Türkiye,:,114062.0,118086.0,126008.0,132437.0,145003.0,156454.0,174450.0,196286.0,226927.0,256264.0,281544.0,257548.0,285780.0,326266.0
+Annual,Reporting country,Number,England and Wales,70684.0,70859.0,70974.0,72995.0,73197.0,72126.0,73960.0,75120.0,74945.0,75715.0,73365.0,:,:,:,:
+Annual,Reporting country,Number,Scotland (NUTS 2021),7559.0,7654.0,7581.0,7905.0,7769.0,7626.0,7591.0,7449.0,:,:,:,:,:,:,:
+Annual,Reporting country,Number,Northern Ireland (UK) (NUTS 2021),1398.0,1394.0,1364.0,1531.0,1564.0,1652.0,1576.0,1325.0,1290.0,1286.0,1266.0,:,:,:,:
+Annual,Reporting country,Number,Kosovo*,:,:,:,1380.0,1642.0,1651.0,1727.0,1389.0,1558.0,1494.0,1485.0,1705.0,1294.0,:,:
+Annual,Reporting country,Per hundred thousand inhabitants,Albania,153.94,145.35,:,162.09,:,:,193.03,203.71,205.89,193.74,182.07,172.3,158.29,171.11,176.73
+Annual,Reporting country,Per hundred thousand inhabitants,Austria,:,:,55.51,56.3,55.01,53.11,49.88,46.21,45.26,45.83,46.86,48.29,47.07,47.91,48.44
+Annual,Reporting country,Per hundred thousand inhabitants,Bosnia and Herzegovina,:,:,57.96,69.99,:,:,:,:,:,:,:,:,:,:,:
+Annual,Reporting country,Per hundred thousand inhabitants,Belgium,53.26,54.31,56.17,56.15,56.46,58.51,:,54.31,:,51.48,50.06,52.58,50.02,52.47,54.4
+Annual,Reporting country,Per hundred thousand inhabitants,Bulgaria,122.65,118.4,124.4,131.76,127.1,117.8,105.41,99.5,99.67,95.78,92.06,90.16,87.71,82.61,79.59
+Annual,Reporting country,Per hundred thousand inhabitants,Switzerland,22.68,23.03,22.28,21.79,21.52,22.33,22.68,24.08,22.91,23.15,22.67,24.46,21.42,21.72,21.24
+Annual,Reporting country,Per hundred thousand inhabitants,Cyprus,35.42,32.25,31.98,31.68,31.79,28.53,34.15,39.31,41.14,51.59,39.69,44.18,38.4,42.19,47.2
+Annual,Reporting country,Per hundred thousand inhabitants,Czechia,184.2,204.05,194.03,204.45,199.22,143.8,162.75,182.16,195.89,192.32,186.7,180.79,166.0,162.14,167.29
+Annual,Reporting country,Per hundred thousand inhabitants,Denmark,48.56,52.8,55.85,55.91,51.07,53.42,45.87,41.31,43.0,42.62,44.9,47.93,51.44,53.9,52.15
+Annual,Reporting country,Per hundred thousand inhabitants,Estonia,:,161.41,153.3,157.78,153.79,146.27,137.4,131.34,137.09,131.27,126.45,124.55,117.91,110.07,104.15
+Annual,Reporting country,Per hundred thousand inhabitants,Greece,54.9,45.58,46.22,41.28,41.49,46.08,44.99,39.8,40.48,43.83,44.99,42.68,42.73,42.43,43.06
+Annual,Reporting country,Per hundred thousand inhabitants,Spain,103.7,105.79,102.43,98.51,97.62,97.69,97.44,94.18,91.43,90.84,90.76,89.58,82.95,81.91,82.21
+Annual,Reporting country,Per hundred thousand inhabitants,Finland,60.32,60.7,55.87,52.69,52.36,52.28,48.89,48.36,47.84,45.92,44.49,44.27,41.21,43.19,43.26
+Annual,Reporting country,Per hundred thousand inhabitants,France,78.71,76.81,75.7,80.39,82.0,81.15,79.55,79.09,80.09,80.17,80.56,80.87,70.09,76.86,79.72
+Annual,Reporting country,Per hundred thousand inhabitants,Croatia,:,:,:,:,:,:,83.17,74.41,68.72,70.1,70.73,74.87,77.62,85.18,94.97
+Annual,Reporting country,Per hundred thousand inhabitants,Hungary,141.41,148.09,157.02,166.49,166.71,173.46,174.03,167.85,170.69,168.23,159.02,158.9,161.26,172.07,169.82
+Annual,Reporting country,Per hundred thousand inhabitants,Ireland,67.9,74.49,73.06,72.44,72.27,66.52,61.51,73.73,:,:,71.26,69.37,64.82,64.54,73.48
+Annual,Reporting country,Per hundred thousand inhabitants,Iceland,35.19,36.63,44.08,38.31,36.3,37.91,40.53,33.42,27.07,31.33,30.13,35.3,29.38,29.83,26.31
+Annual,Reporting country,Per hundred thousand inhabitants,Italy,63.57,70.34,74.2,73.57,72.64,69.54,60.69,58.57,60.71,63.92,66.72,70.01,61.81,64.01,66.6
+Annual,Reporting country,Per hundred thousand inhabitants,Liechtenstein,36.77,39.34,41.79,52.56,30.16,46.15,32.32,29.44,26.58,31.74,23.61,18.24,49.04,:,12.72
+Annual,Reporting country,Per hundred thousand inhabitants,Lithuania,246.22,268.13,287.69,320.78,320.14,306.6,287.99,247.39,232.09,227.71,226.42,215.09,186.75,175.95,171.31
+Annual,Reporting country,Per hundred thousand inhabitants,Luxembourg,42.58,44.17,43.42,36.93,38.11,37.61,29.29,31.09,31.41,32.34,27.41,25.25,23.96,26.78,24.17
+Annual,Reporting country,Per hundred thousand inhabitants,Latvia,295.01,322.26,219.57,214.16,201.49,250.42,232.73,216.66,208.28,188.25,177.73,174.43,160.35,165.06,167.93
+Annual,Reporting country,Per hundred thousand inhabitants,Montenegro,189.75,228.47,216.8,201.02,182.01,133.68,120.51,154.32,134.84,149.75,152.81,144.33,109.03,123.56,142.79
+Annual,Reporting country,Per hundred thousand inhabitants,North Macedonia,:,105.44,:,:,:,:,:,:,141.36,139.75,:,:,:,:,:
+Annual,Reporting country,Per hundred thousand inhabitants,Malta,:,:,:,:,:,:,:,1.4,70.16,74.3,79.46,73.75,65.3,58.71,56.63
+Annual,Reporting country,Per hundred thousand inhabitants,Netherlands,71.87,69.82,69.47,67.62,65.35,61.46,58.02,53.0,51.65,51.62,52.77,54.38,50.11,51.67,49.92
+Annual,Reporting country,Per hundred thousand inhabitants,Norway,:,:,:,:,55.88,51.95,54.27,50.94,53.56,52.7,47.79,46.02,47.06,50.73,51.54
+Annual,Reporting country,Per hundred thousand inhabitants,Poland,221.52,223.29,215.13,216.16,223.03,209.25,207.28,189.9,188.44,193.92,189.0,193.04,176.74,186.38,185.62
+Annual,Reporting country,Per hundred thousand inhabitants,Portugal,81.65,83.65,87.23,95.84,104.45,110.96,112.26,114.42,112.27,110.8,107.4,106.67,94.53,97.41,102.28
+Annual,Reporting country,Per hundred thousand inhabitants,Romania,126.1,129.71,130.63,142.37,157.46,166.03,149.91,141.24,137.41,117.92,105.16,104.78,111.37,118.55,119.91
+Annual,Reporting country,Per hundred thousand inhabitants,Serbia,129.5,147.01,149.1,150.05,138.8,134.78,139.73,136.5,145.75,148.53,150.74,154.07,146.59,147.48,152.9
+Annual,Reporting country,Per hundred thousand inhabitants,Sweden,:,:,:,:,45.47,40.5,31.05,30.44,30.02,29.09,30.37,33.43,36.89,41.02,44.58
+Annual,Reporting country,Per hundred thousand inhabitants,Slovenia,:,:,:,55.6,59.11,59.01,66.57,61.47,57.65,:,55.98,53.58,49.29,36.84,46.32
+Annual,Reporting country,Per hundred thousand inhabitants,Slovakia,:,169.96,182.44,191.58,196.95,176.77,181.74,179.51,180.31,180.47,185.28,188.96,188.72,180.28,175.39
+Annual,Reporting country,Per hundred thousand inhabitants,Türkiye,:,159.49,162.74,170.92,177.23,191.73,204.07,224.53,249.28,284.32,317.12,343.33,309.72,341.78,385.29
+Annual,Reporting country,Per hundred thousand inhabitants,England and Wales,129.42,128.74,127.96,130.51,129.85,127.08,129.35,130.25,128.89,129.29,124.43,:,:,:,:
+Annual,Reporting country,Per hundred thousand inhabitants,Scotland (NUTS 2021),145.76,146.71,144.49,149.7,146.41,143.34,142.22,139.06,:,:,:,:,:,:,:
+Annual,Reporting country,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),78.97,78.04,75.82,84.61,85.98,90.44,85.78,71.73,69.41,68.89,67.49,:,:,:,:
+Annual,Reporting country,Per hundred thousand inhabitants,Kosovo*,:,:,:,76.92,:,:,:,:,87.94,83.77,82.57,94.95,72.61,:,:
+Annual,Total,Number,Albania,4916.0,4667.0,4657.0,4659.0,4618.0,4998.0,5689.0,5981.0,6031.0,5674.0,5316.0,5045.0,4614.0,4956.0,5060.0
+Annual,Total,Number,Austria,8248.0,8708.0,8540.0,8770.0,8805.0,8862.0,8692.0,8665.0,8619.0,8852.0,9163.0,9072.0,8488.0,8436.0,8993.0
+Annual,Total,Number,Bosnia and Herzegovina,:,:,2743.0,2757.0,:,2898.0,2825.0,2730.0,2832.0,2820.0,4377.0,4482.0,4097.0,4108.0,4081.0
+Annual,Total,Number,Belgium,9811.0,10126.0,10526.0,11040.0,11183.0,11818.0,:,10994.0,:,10471.0,10261.0,10794.0,10357.0,10769.0,11050.0
+Annual,Total,Number,Bulgaria,9408.0,9006.0,9379.0,9885.0,9493.0,8834.0,7870.0,7408.0,7345.0,6988.0,6651.0,6448.0,6251.0,5873.0,5577.0
+Annual,Total,Number,Switzerland,5303.0,5605.0,5765.0,5626.0,6102.0,6652.0,6519.0,6498.0,6507.0,6564.0,6602.0,6568.0,6183.0,6113.0,6252.0
+Annual,Total,Number,Cyprus,652.0,578.0,636.0,622.0,678.0,553.0,532.0,547.0,586.0,592.0,619.0,759.0,601.0,795.0,958.0
+Annual,Total,Number,Czechia,20502.0,21853.0,21900.0,23170.0,22644.0,16645.0,18658.0,20866.0,22481.0,22159.0,21577.0,21048.0,19286.0,18748.0,19052.0
+Annual,Total,Number,Germany,73793.0,72295.0,70827.0,69543.0,68533.0,66221.0,63228.0,63020.0,64291.0,65841.0,65762.0,63146.0,59585.0,57525.0,57465.0
+Annual,Total,Number,Denmark,3451.0,3721.0,3944.0,3947.0,3829.0,4091.0,3583.0,3203.0,3408.0,3418.0,3635.0,3920.0,4166.0,4222.0,4208.0
+Annual,Total,Number,Estonia,3656.0,3555.0,3393.0,3400.0,3286.0,3023.0,3034.0,2823.0,2864.0,2723.0,2584.0,2487.0,2348.0,2189.0,2073.0
+Annual,Total,Number,Greece,11736.0,11364.0,12349.0,12479.0,12475.0,12693.0,11798.0,9611.0,9560.0,10011.0,10654.0,10891.0,11379.0,11030.0,10526.0
+Annual,Total,Number,Spain,73558.0,76079.0,73929.0,70472.0,68597.0,66765.0,65017.0,61614.0,59589.0,58812.0,58883.0,58517.0,55180.0,55097.0,55751.0
+Annual,Total,Number,Finland,3530.0,3589.0,3364.0,3268.0,3306.0,3295.0,3148.0,3135.0,3156.0,3082.0,2956.0,2945.0,2751.0,2811.0,2861.0
+Annual,Total,Number,France,62252.0,60978.0,60544.0,64787.0,66572.0,67075.0,66270.0,66678.0,68432.0,68974.0,70059.0,70739.0,62543.0,69448.0,72173.0
+Annual,Total,Number,Croatia,4734.0,4891.0,5165.0,5084.0,4741.0,4352.0,3763.0,3341.0,3108.0,3190.0,3217.0,3533.0,3531.0,3905.0,4091.0
+Annual,Total,Number,Hungary,14743.0,15432.0,16328.0,17210.0,17179.0,17841.0,17890.0,17449.0,17658.0,17343.0,16303.0,16334.0,16752.0,18623.0,19347.0
+Annual,Total,Number,Ireland,3484.0,3868.0,4318.0,4216.0,4287.0,4088.0,3777.0,3755.0,3718.0,3680.0,3962.0,4017.0,3810.0,3806.0,4369.0
+Annual,Total,Number,Iceland,140.0,148.0,167.0,150.0,153.0,147.0,154.0,139.0,116.0,137.0,136.0,158.0,141.0,142.0,138.0
+Annual,Total,Number,Italy,59284.0,65598.0,69263.0,68325.0,67102.0,63848.0,54745.0,53410.0,55978.0,59038.0,61131.0,62232.0,54605.0,55349.0,57455.0
+Annual,Total,Number,Liechtenstein,78.0,149.0,76.0,71.0,60.0,68.0,53.0,53.0,72.0,73.0,63.0,43.0,57.0,52.0,58.0
+Annual,Total,Number,Lithuania,8000.0,8655.0,9139.0,9920.0,9729.0,9261.0,8636.0,7355.0,6815.0,6599.0,6485.0,6138.0,5320.0,5086.0,4973.0
+Annual,Total,Number,Luxembourg,762.0,702.0,681.0,637.0,666.0,656.0,626.0,691.0,:,684.0,656.0,594.0,557.0,617.0,705.0
+Annual,Total,Number,Latvia,6548.0,7055.0,6780.0,6561.0,6117.0,5136.0,4745.0,4409.0,4243.0,3765.0,3522.0,3414.0,3104.0,3183.0,3229.0
+Annual,Total,Number,Montenegro,1216.0,1499.0,1457.0,1328.0,1331.0,1064.0,1123.0,1131.0,1123.0,1119.0,1125.0,1090.0,810.0,920.0,1026.0
+Annual,Total,Number,North Macedonia,:,:,:,:,:,:,:,:,3231.0,3031.0,:,:,:,:,:
+Annual,Total,Number,Malta,662.0,494.0,584.0,584.0,585.0,615.0,581.0,569.0,553.0,591.0,635.0,754.0,864.0,614.0,559.0
+Annual,Total,Number,Netherlands,14610.0,14364.0,14368.0,13969.0,13473.0,12721.0,11934.0,10850.0,10601.0,10874.0,11251.0,11777.0,11024.0,11309.0,11238.0
+Annual,Total,Number,Norway,3477.0,3340.0,3564.0,3866.0,4052.0,3869.0,4103.0,4056.0,4192.0,4164.0,3791.0,3561.0,3533.0,3651.0,3687.0
+Annual,Total,Number,Poland,84978.0,85749.0,82372.0,82832.0,85459.0,80165.0,79345.0,72695.0,72209.0,74480.0,72818.0,74612.0,68354.0,72269.0,71723.0
+Annual,Total,Number,Portugal,10807.0,11287.0,11839.0,12955.0,13875.0,14535.0,14198.0,14373.0,13917.0,13587.0,13021.0,12947.0,11502.0,11704.0,12502.0
+Annual,Total,Number,Romania,26212.0,26716.0,28244.0,30694.0,31817.0,33434.0,30156.0,28334.0,27455.0,23450.0,20792.0,20578.0,21753.0,22989.0,23082.0
+Annual,Total,Number,Serbia,9701.0,10975.0,11211.0,11070.0,10226.0,10031.0,10288.0,10064.0,10672.0,10807.0,10871.0,11077.0,10540.0,10557.0,10787.0
+Annual,Total,Number,Sweden,7073.0,7286.0,6846.0,6669.0,6296.0,5723.0,5807.0,5691.0,5658.0,5713.0,6114.0,6719.0,7297.0,7776.0,8414.0
+Annual,Total,Number,Slovenia,1318.0,1365.0,1351.0,1273.0,1377.0,1360.0,1522.0,1399.0,1308.0,:,1346.0,1396.0,1449.0,1136.0,1380.0
+Annual,Total,Number,Slovakia,8166.0,9316.0,10031.0,10525.0,10850.0,9753.0,10020.0,9913.0,9995.0,10028.0,10294.0,10555.0,10519.0,10104.0,9839.0
+Annual,Total,Number,Türkiye,:,116340.0,120814.0,128604.0,136020.0,145468.0,159397.0,178257.0,200727.0,233415.0,264842.0,291546.0,267883.0,297863.0,341294.0
+Annual,Total,Number,England and Wales,81674.0,81836.0,84004.0,84428.0,84886.0,81884.0,83678.0,84444.0,83604.0,84441.0,81904.0,:,:,:,:
+Annual,Total,Number,Scotland (NUTS 2021),7827.0,7964.0,7853.0,8178.0,8057.0,7894.0,7731.0,7744.0,7579.0,7436.0,:,:,:,:,:
+Annual,Total,Number,Northern Ireland (UK) (NUTS 2021),1543.0,1525.0,1465.0,1673.0,1682.0,1796.0,1709.0,1447.0,1407.0,1411.0,1407.0,:,:,:,:
+Annual,Total,Number,Kosovo*,:,:,:,1441.0,1737.0,1776.0,1854.0,1478.0,1648.0,1709.0,1567.0,1806.0,1396.0,:,:
+Annual,Total,Per hundred thousand inhabitants,Albania,155.08,:,:,:,:,:,196.45,206.79,208.97,197.25,185.21,176.25,162.12,175.14,181.13
+Annual,Total,Per hundred thousand inhabitants,Austria,99.28,104.48,102.26,104.71,104.72,104.85,102.18,101.03,99.18,100.9,103.86,102.41,95.36,94.44,100.16
+Annual,Total,Per hundred thousand inhabitants,Bosnia and Herzegovina,:,:,71.36,71.74,:,:,:,:,:,:,:,:,:,:,:
+Annual,Total,Per hundred thousand inhabitants,Belgium,91.98,94.17,97.1,100.36,100.79,105.88,:,97.84,:,92.24,90.02,94.23,89.89,93.2,95.11
+Annual,Total,Per hundred thousand inhabitants,Bulgaria,125.14,120.61,126.37,134.14,129.56,121.27,108.62,102.86,102.67,98.4,94.34,92.11,89.92,84.91,81.55
+Annual,Total,Per hundred thousand inhabitants,Switzerland,69.84,72.77,74.04,71.49,76.71,82.75,80.09,78.88,78.14,77.96,77.82,76.87,71.84,70.51,71.54
+Annual,Total,Per hundred thousand inhabitants,Cyprus,83.98,72.53,77.64,74.07,78.65,63.87,62.0,64.58,69.08,69.26,71.62,86.65,67.68,88.73,105.89
+Annual,Total,Per hundred thousand inhabitants,Czechia,198.21,209.61,209.33,220.95,215.55,158.28,177.49,198.0,213.01,209.47,203.36,197.64,180.35,175.19,181.16
+Annual,Total,Per hundred thousand inhabitants,Germany,89.75,88.16,86.58,86.69,85.32,82.24,78.28,77.61,78.24,79.79,79.43,76.06,71.65,69.18,69.04
+Annual,Total,Per hundred thousand inhabitants,Denmark,63.02,67.51,71.26,70.98,68.61,73.02,63.67,56.59,59.71,59.46,62.88,67.52,71.55,72.29,71.64
+Annual,Total,Per hundred thousand inhabitants,Estonia,273.15,266.14,254.48,255.7,247.96,228.98,230.58,214.7,217.64,206.97,195.89,187.72,176.68,164.58,155.65
+Annual,Total,Per hundred thousand inhabitants,Greece,110.13,102.43,111.06,112.19,112.53,115.35,107.97,88.52,88.65,92.97,99.19,101.55,106.16,103.29,100.63
+Annual,Total,Per hundred thousand inhabitants,Spain,161.07,164.53,159.03,151.01,146.52,142.88,139.78,132.65,128.31,126.4,126.2,124.67,116.58,116.24,117.54
+Annual,Total,Per hundred thousand inhabitants,Finland,66.6,67.38,62.86,60.8,61.21,60.72,57.75,57.29,57.51,56.0,53.62,53.37,49.79,50.8,51.57
+Annual,Total,Per hundred thousand inhabitants,France,97.26,94.76,93.64,99.7,101.98,102.25,100.5,100.29,102.5,103.25,104.69,105.3,92.9,102.65,106.34
+Annual,Total,Per hundred thousand inhabitants,Croatia,109.79,113.49,120.04,118.51,110.88,102.11,88.61,79.07,74.16,76.79,78.36,86.67,87.01,96.75,105.92
+Annual,Total,Per hundred thousand inhabitants,Hungary,146.76,153.84,163.05,172.35,172.97,180.05,181.12,177.05,179.62,177.01,166.73,167.14,171.47,191.38,199.68
+Annual,Total,Per hundred thousand inhabitants,Ireland,78.16,85.55,94.91,92.24,93.55,89.04,82.01,81.12,78.67,76.92,82.02,81.91,76.75,76.02,86.34
+Annual,Total,Per hundred thousand inhabitants,Iceland,44.38,46.34,52.58,47.1,47.88,45.67,47.29,42.24,34.88,40.49,39.03,44.26,38.72,38.5,36.68
+Annual,Total,Per hundred thousand inhabitants,Italy,101.08,111.18,117.02,115.09,112.98,106.97,90.07,87.85,92.27,97.44,101.07,104.04,91.56,93.44,97.33
+Annual,Total,Per hundred thousand inhabitants,Liechtenstein,220.61,418.67,211.73,196.41,164.5,184.59,142.75,141.84,191.38,193.07,165.29,112.04,147.11,133.15,147.55
+Annual,Total,Per hundred thousand inhabitants,Lithuania,249.02,271.84,290.87,324.97,323.91,311.62,293.4,251.77,235.93,231.71,230.87,219.67,190.4,181.92,177.23
+Annual,Total,Per hundred thousand inhabitants,Luxembourg,157.5,142.25,135.64,124.45,126.89,122.15,113.88,122.74,:,115.8,108.97,96.76,88.96,97.21,109.24
+Annual,Total,Per hundred thousand inhabitants,Latvia,298.75,326.19,319.74,316.25,299.15,253.78,237.08,221.99,215.49,193.07,182.07,177.82,162.71,168.13,172.14
+Annual,Total,Per hundred thousand inhabitants,Montenegro,197.55,242.89,235.38,214.25,214.57,171.37,180.69,181.8,180.48,179.79,180.76,175.19,130.25,148.21,166.1
+Annual,Total,Per hundred thousand inhabitants,North Macedonia,:,:,:,:,:,:,:,:,155.99,146.16,:,:,:,:,:
+Annual,Total,Per hundred thousand inhabitants,Malta,162.32,120.22,141.05,140.73,140.1,145.95,136.58,129.41,122.78,128.4,133.49,152.77,167.91,118.97,107.3
+Annual,Total,Per hundred thousand inhabitants,Netherlands,89.06,87.13,86.68,83.87,80.53,75.81,70.91,64.2,62.44,63.66,65.48,68.15,63.33,64.71,63.89
+Annual,Total,Per hundred thousand inhabitants,Norway,73.4,69.59,73.36,78.57,81.27,76.59,80.33,78.51,80.45,79.19,71.59,66.83,65.82,67.72,67.96
+Annual,Total,Per hundred thousand inhabitants,Poland,222.95,224.85,216.64,217.62,224.52,210.61,208.7,191.27,190.19,196.14,191.74,196.49,180.08,190.99,190.48
+Annual,Total,Per hundred thousand inhabitants,Portugal,102.4,106.85,111.97,122.53,131.61,138.6,136.16,138.54,134.58,131.79,126.53,125.99,111.71,113.65,120.77
+Annual,Total,Per hundred thousand inhabitants,Romania,127.02,130.7,131.6,143.34,158.33,167.0,151.18,142.59,138.94,119.37,106.46,105.99,112.54,119.72,121.21
+Annual,Total,Per hundred thousand inhabitants,Serbia,131.71,149.63,153.44,152.66,141.7,139.68,143.95,141.46,150.81,153.5,155.27,159.07,152.16,153.63,158.7
+Annual,Total,Per hundred thousand inhabitants,Sweden,77.02,78.71,73.29,70.83,66.39,59.89,60.21,58.39,57.44,57.16,60.41,65.68,70.66,74.92,80.5
+Annual,Total,Per hundred thousand inhabitants,Slovenia,65.56,67.16,66.0,62.09,66.99,66.06,73.84,67.82,63.37,:,65.12,67.09,69.14,53.86,65.49
+Annual,Total,Per hundred thousand inhabitants,Slovakia,151.9,173.08,186.09,195.18,200.77,180.25,185.01,182.85,184.2,184.5,189.12,193.65,192.73,185.06,181.04
+Annual,Total,Per hundred thousand inhabitants,Türkiye,:,162.67,166.5,174.44,182.03,192.35,207.91,229.43,254.92,292.45,327.73,355.53,322.15,356.23,403.04
+Annual,Total,Per hundred thousand inhabitants,England and Wales,149.54,148.69,151.46,150.95,150.59,144.27,146.35,146.42,143.78,144.19,138.91,:,:,:,:
+Annual,Total,Per hundred thousand inhabitants,Scotland (NUTS 2021),150.93,152.66,149.68,154.87,151.84,148.38,144.84,144.57,140.64,137.34,:,:,:,:,:
+Annual,Total,Per hundred thousand inhabitants,Northern Ireland (UK) (NUTS 2021),87.16,85.38,81.43,92.45,92.47,98.32,93.02,78.34,75.7,75.59,75.0,:,:,:,:
+Annual,Total,Per hundred thousand inhabitants,Kosovo*,:,:,:,80.32,:,:,:,:,93.02,95.82,87.13,100.58,78.33,:,:

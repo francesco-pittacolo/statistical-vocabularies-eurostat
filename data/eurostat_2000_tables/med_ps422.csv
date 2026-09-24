@@ -1,0 +1,109 @@
+Time frequency,Indicator used in Euro_Med,Geopolitical entity (reporting)\Time,2000.0,2001.0,2002.0,2003.0,2004.0,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0
+Annual,"Unemployment rate by education level, male, Illiterate (%)",Algeria,:,13.0 d,:,10.5 d,7.4 d,3.7 d,3.8 d,5.0 d,3.1 d,2.5 d,1.7 d,2.4 d,2.7 d,2.2 d,2.6 d,3.9 d
+Annual,"Unemployment rate by education level, male, Illiterate (%)",Egypt,0.4,0.3,0.2,0.3,0.2,0.8,0.9,0.6,0.6,0.5,0.9,3.7,2.3,5.8,4.2,:
+Annual,"Unemployment rate by education level, male, Illiterate (%)",Israel,0.1,0.1,0.1,0.1,0.1,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.1 b,0.0,0.0,0.0
+Annual,"Unemployment rate by education level, male, Illiterate (%)",Jordan,10.4,11.8,11.5,10.8,9.5,9.4,9.8,7.4,7.6,10.9,8.6,8.2,10.4,8.5,6.6,8.3
+Annual,"Unemployment rate by education level, male, Illiterate (%)",Lebanon,:,:,:,:,5.0,:,:,5.6,:,4.7,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, male, Illiterate (%)",Morocco,4.2,3.5,2.6,2.9,2.4,2.6,3.0,3.0,2.7,2.5,2.6,2.2,2.2,2.8,3.2,2.5
+Annual,"Unemployment rate by education level, male, Illiterate (%)",Palestine*,28.7,28.5,36.7,28.3,34.5,23.5,22.2,25.9,30.3,35.3,31.9,27.5,22.0,30.9,36.8,26.0
+Annual,"Unemployment rate by education level, male, Illiterate (%)",Tunisia,10.4,10.3,13.3,11.0,11.8,8.8,8.2,6.3,5.8,5.1,5.5,5.3,5.3,5.3,:,:
+Annual,"Unemployment rate by education level, male, ISCED 0-1 (%)",Algeria,:,27.0 d,:,23.2 d,16.5 d,12.9 d,11.0 d,11.7 d,8.1 d,7.1 d,7.5 d,6.3 d,7.9 d,6.4 d,6.9 d,7.9 d
+Annual,"Unemployment rate by education level, male, ISCED 0-1 (%)",Egypt,0.5 d,0.6 d,0.3 d,0.6 d,0.6 d,: d,: d,: d,: d,: d,: d,: d,: d,: d,: d,:
+Annual,"Unemployment rate by education level, male, ISCED 0-1 (%)",Israel,15.6,13.4,16.1,16.3,15.4,15.1,14.5,15.0,11.2,12.0,12.0,9.4,13.9 b,11.5,9.0,8.3
+Annual,"Unemployment rate by education level, male, ISCED 0-1 (%)",Lebanon,:,:,:,:,7.1,:,:,7.7,:,4.0,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, male, ISCED 0-1 (%)",Morocco,12.6,11.2,9.9,9.9,9.2,9.1,8.0,7.8,7.5,7.0,6.5,6.0,6.2,6.9,7.1,5.8
+Annual,"Unemployment rate by education level, male, ISCED 0-1 (%)",Palestine*,32.7,32.3,40.3,31.6,33.1,31.7,27.4,25.7,31.7,28.3,27.3,22.1,23.5,23.2,27.4,25.3
+Annual,"Unemployment rate by education level, male, ISCED 0-1 (%)",Tunisia,16.3,16.7,16.1,15.1,14.4,14.9,14.6,12.4,11.5,9.3,8.5,11.0,11.4,9.8,:,:
+Annual,"Unemployment rate by education level, male, ISCED 2 (%)",Algeria,:,35.5 d,:,30.8 d,23.3 d,20.0 d,15.9 d,16.9 d,13.4 d,10.5 d,10.5 d,11.9 d,12.7 d,10.4 d,11.6 d,12.9 d
+Annual,"Unemployment rate by education level, male, ISCED 2 (%)",Egypt,: d,: d,: d,: d,: d,1.6 d,1.8 d,1.4 d,1.7 d,1.4 d,1.5 d,6.9 d,7.0 d,7.5 d,10.1 bd,:
+Annual,"Unemployment rate by education level, male, ISCED 2 (%)",Israel,13.0,14.2,14.4,15.8,14.0,14.1,12.4,11.2,9.8,11.3,11.3,8.9,13.5 b,11.4,11.8,10.6
+Annual,"Unemployment rate by education level, male, ISCED 2 (%)",Lebanon,:,:,:,:,8.1,:,:,8.2,:,4.4,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, male, ISCED 2 (%)",Morocco,26.4,24.2,22.2,21.8,20.1,20.3,18.2,17.1,16.6,16.2,15.3,14.2,14.7,14.7,15.0,14.4
+Annual,"Unemployment rate by education level, male, ISCED 2 (%)",Palestine*,30.5,30.2,37.4,30.8,32.0,27.5,27.0,25.4,29.4,27.4,25.5,21.0,22.2,23.2,25.9,24.6
+Annual,"Unemployment rate by education level, male, ISCED 2 (%)",Tunisia,19.0,18.2,18.0,18.1,17.3,17.1,17.0,18.2,17.0,:,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, male, ISCED 3-4 (%)",Algeria,:,25.5 d,:,23.5 d,18.4 d,16.6 d,12.3 d,13.0 d,9.5 d,8.4 d,7.0 d,6.9 d,7.9 d,7.9 d,8.3 d,8.8 d
+Annual,"Unemployment rate by education level, male, ISCED 3-4 (%)",Egypt,12.0,11.9,13.6,15.6,11.4,12.8,11.8,9.4,9.0,7.8,6.8,11.1,12.1,11.5,10.8 b,:
+Annual,"Unemployment rate by education level, male, ISCED 3-4 (%)",Israel,8.7,9.8,11.0,11.6,10.9,9.9,8.8,7.5,5.9,8.7,7.7,6.4,7.2 b,6.7,6.7,5.7
+Annual,"Unemployment rate by education level, male, ISCED 3-4 (%)",Lebanon,:,:,:,:,8.6,:,:,9.8,:,5.3,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, male, ISCED 3-4 (%)",Morocco,26.0,24.0,21.8,22.3,21.7,21.1,17.8,17.8,18.2,15.4,15.4,15.8,15.3,15.7,15.9,17.3
+Annual,"Unemployment rate by education level, male, ISCED 3-4 (%)",Palestine*,25.4,25.2,31.1,23.6,24.2,25.3,20.8,20.7,25.0,21.0,20.0,17.1,18.7,17.7,20.7,18.9
+Annual,"Unemployment rate by education level, male, ISCED 3-4 (%)",Tunisia,16.9,13.6,13.5,11.9,11.5,10.7,10.6,12.2,12.9,13.2,12.8,19.5,19.1,15.5,:,:
+Annual,"Unemployment rate by education level, male, ISCED 5-6 (%)",Algeria,:,20.8 d,:,18.3 d,14.5 d,12.5 d,10.2 d,12.4 d,11.6 d,11.5 d,10.4 d,8.9 d,9.8 d,9.4 d,9.9 d,8.5 d
+Annual,"Unemployment rate by education level, male, ISCED 5-6 (%)",Egypt,8.4,9.3,11.2,12.7,11.6,13.1,13.1,13.0,12.1,12.4,11.1,13.9,15.2,15.3,13.7,:
+Annual,"Unemployment rate by education level, male, ISCED 5-6 (%)",Israel,5.0,5.7,6.7,6.3,5.7,4.8,4.4,3.4,3.8,5.1,4.2,3.8,4.0 b,4.0,3.7,3.4
+Annual,"Unemployment rate by education level, male, ISCED 5-6 (%)",Lebanon,:,:,:,:,6.9,:,:,10.8,:,7.0,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, male, ISCED 5-6 (%)",Morocco,24.8,23.6,23.4,23.8,22.5,22.7,15.5,16.7,14.8,13.9,13.6,12.8,13.3,13.0,15.5,16.9
+Annual,"Unemployment rate by education level, male, ISCED 5-6 (%)",Palestine*,13.3,13.4,16.9,16.2,16.8,16.4,15.1,14.3,18.2,15.9,15.5,14.5,16.0,16.0,19.3,19.0
+Annual,"Unemployment rate by education level, male, ISCED 5-6 (%)",Tunisia,8.9,8.8,9.9,9.8,7.8,10.5,12.2,13.4,14.4,15.5,15.9,19.3,15.6,20.1,:,:
+Annual,"Unemployment rate by education level, female, Illiterate (%)",Algeria,:,5.7 d,:,8.0 d,3.4 d,1.9 d,2.4 d,3.1 d,1.2 d,5.7 d,2.7 d,3.0 d,4.4 d,5.5 d,3.7 d,1.4 d
+Annual,"Unemployment rate by education level, female, Illiterate (%)",Egypt,0.0,0.3,0.4,0.1,0.1,0.2,0.4,0.3,0.4,3.0,0.9,1.5,0.4,4.5,9.6,:
+Annual,"Unemployment rate by education level, female, Illiterate (%)",Israel,0.0,0.1,0.0,0.0,0.1,0.1,0.1,0.1,0.0,0.0,0.0,0.0,0.0 b,0.0,0.0,0.0
+Annual,"Unemployment rate by education level, female, Illiterate (%)",Jordan,7.8,6.8,6.4,2.3,3.8,7.5,3.1,8.3,3.7,4.3,1.2,1.0,2.1,0.0,2.8,0.0
+Annual,"Unemployment rate by education level, female, Illiterate (%)",Lebanon,:,:,:,:,4.4,:,:,1.9,:,3.7,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, female, Illiterate (%)",Morocco,2.6,2.4,2.1,2.5,1.7,1.6,1.7,1.7,1.5,1.4,1.8,1.6,1.4,1.6,1.7,1.6
+Annual,"Unemployment rate by education level, female, Illiterate (%)",Palestine*,0.7,0.7,2.4,2.9,2.3,1.7,1.9,1.1,3.3,2.9,2.0,3.3,2.5,3.8,5.3,6.9
+Annual,"Unemployment rate by education level, female, Illiterate (%)",Tunisia,8.5,9.8,11.9,11.7,14.7,5.9,7.6,5.2,6.3,7.7,7.3,13.5,6.6,3.4,:,:
+Annual,"Unemployment rate by education level, female, ISCED 0-1 (%)",Algeria,:,27.4 d,:,19.1 d,9.5 d,5.7 d,7.1 d,11.7 d,5.9 d,8.2 d,8.0 d,7.4 d,12.5 d,9.7 d,8.2 d,5.5 d
+Annual,"Unemployment rate by education level, female, ISCED 0-1 (%)",Egypt,2.7 d,6.9 d,6.1 d,3.5 d,3.9 d,: d,: d,: d,: d,: d,: d,: d,: d,: d,: d,:
+Annual,"Unemployment rate by education level, female, ISCED 0-1 (%)",Israel,13.6,14.3,15.9,19.2,19.4,17.2,18.6,18.6,13.1,11.5,12.9,7.0,11.0 b,8.2,7.8,8.2
+Annual,"Unemployment rate by education level, female, ISCED 0-1 (%)",Lebanon,:,:,:,:,12.6,:,:,11.9,:,8.8,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, female, ISCED 0-1 (%)",Morocco,16.9,15.5,15.3,14.0,12.1,10.9,10.2,9.1,7.9,7.8,7.5,6.9,7.7,6.3,7.1,6.5
+Annual,"Unemployment rate by education level, female, ISCED 0-1 (%)",Palestine*,6.6,6.7,10.0,7.8,8.7,3.1,7.4,5.5,7.3,6.7,6.6,5.8,5.4,4.7,9.2,14.2
+Annual,"Unemployment rate by education level, female, ISCED 0-1 (%)",Tunisia,21.1,18.6,18.4,18.4,20.1,19.2,17.6,18.0,15.3,15.0,13.0,19.3,15.4,10.3,:,:
+Annual,"Unemployment rate by education level, female, ISCED 2 (%)",Algeria,:,38.6 d,:,33.6 d,24.3 d,19.5 d,18.8 d,19.7 d,17.2 d,16.5 d,12.8 d,18.6 d,18.7 d,17.3 d,16.1 d,17.8 d
+Annual,"Unemployment rate by education level, female, ISCED 2 (%)",Egypt,: d,: d,: d,: d,: d,4.8 d,5.4 d,4.3 d,6.1 d,16.7 d,9.3 d,10.3 d,11.8 d,12.0 d,12.6 bd,:
+Annual,"Unemployment rate by education level, female, ISCED 2 (%)",Israel,17.1,18.2,16.3,21.8,24.4,18.2,18.2,17.2,11.6,13.7,10.6,8.7,15.1 b,13.4,15.0,12.4
+Annual,"Unemployment rate by education level, female, ISCED 2 (%)",Lebanon,:,:,:,:,15.0,:,:,15.1,:,10.5,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, female, ISCED 2 (%)",Morocco,33.2,30.0,29.8,30.1,29.0,29.2,25.2,23.1,21.1,21.4,23.2,23.0,20.8,21.1,22.8,21.3
+Annual,"Unemployment rate by education level, female, ISCED 2 (%)",Palestine*,8.3,8.2,20.2,11.6,12.3,10.1,10.2,10.4,11.4,15.2,12.7,15.2,15.9,15.7,17.7,24.6
+Annual,"Unemployment rate by education level, female, ISCED 2 (%)",Tunisia,19.5,21.5,19.4,18.5,19.8,21.5,19.9,19.3,17.8,:,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, female, ISCED 3-4 (%)",Algeria,:,36.3 d,:,26.0 d,22.8 d,20.5 d,15.8 d,21.4 d,18.6 d,16.2 d,17.2 d,15.0 d,16.0 d,16.0 d,15.0 d,14.8 d
+Annual,"Unemployment rate by education level, female, ISCED 3-4 (%)",Egypt,41.3,35.0,30.5,39.0,43.1,43.3,40.4,31.7,33.7,36.2,34.0,34.5,35.8,34.6,32.9 b,:
+Annual,"Unemployment rate by education level, female, ISCED 3-4 (%)",Israel,11.6,12.8,13.8,14.3,14.6,12.7,12.6,10.5,8.8,9.5,8.3,7.1,8.8 b,7.9,7.3,6.4
+Annual,"Unemployment rate by education level, female, ISCED 3-4 (%)",Lebanon,:,:,:,:,9.2,:,:,9.5,:,14.3,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, female, ISCED 3-4 (%)",Morocco,34.9,30.7,29.8,31.3,30.5,28.9,25.5,25.6,29.0,27.6,25.5,28.0,27.4,26.6,27.6,25.7
+Annual,"Unemployment rate by education level, female, ISCED 3-4 (%)",Palestine*,7.6,7.4,16.5,18.4,13.2,16.5,13.4,9.4,16.7,13.6,15.2,13.7,17.8,12.5,21.6,30.2
+Annual,"Unemployment rate by education level, female, ISCED 3-4 (%)",Tunisia,18.2,17.7,16.5,16.5,15.4,18.3,15.7,16.3,16.2,16.6,16.6,23.9,26.5,18.5,:,:
+Annual,"Unemployment rate by education level, female, ISCED 5-6 (%)",Algeria,:,37.1 d,:,29.8 d,27.5 d,24.0 d,23.5 d,23.3 d,27.8 d,28.0 d,33.3 d,22.4 d,20.5 d,19.2 d,21.8 d,20.5 d
+Annual,"Unemployment rate by education level, female, ISCED 5-6 (%)",Egypt,23.2,20.3,26.2,25.6,27.1,29.5,27.1,26.6,25.2,30.5,33.7,32.1,32.6,34.0,31.6,:
+Annual,"Unemployment rate by education level, female, ISCED 5-6 (%)",Israel,5.7,6.1,6.9,7.4,6.9,5.8,4.8,4.5,4.0,5.5,4.6,4.4,4.8 b,4.5,4.4,4.2
+Annual,"Unemployment rate by education level, female, ISCED 5-6 (%)",Lebanon,:,:,:,:,10.2,:,:,11.3,:,11.4,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, female, ISCED 5-6 (%)",Morocco,41.7,40.2,40.3,40.8,37.0,37.8,30.0,30.6,28.5,25.2,24.7,27.9,26.6,26.1,27.7,28.7
+Annual,"Unemployment rate by education level, female, ISCED 5-6 (%)",Palestine*,22.2,22.6,22.6,28.8,31.4,33.2,32.6,33.8,36.6,36.5,37.1,39.6,45.4,48.1,51.7,48.5
+Annual,"Unemployment rate by education level, female, ISCED 5-6 (%)",Tunisia,15.0,13.4,15.0,15.7,14.1,21.9,26.2,27.5,31.4,30.8,32.4,41.8,39.1,42.0,:,:
+Annual,"Unemployment rate by education level, total, Illiterate (%)",Algeria,:,12.0 d,:,10.2 d,6.5 d,3.4 d,3.4 d,4.7 d,2.8 d,3.0 d,1.9 d,2.5 d,3.0 d,2.7 d,2.7 d,3.6 d
+Annual,"Unemployment rate by education level, total, Illiterate (%)",Egypt,0.3,0.3,0.2,0.3,0.2,0.6,0.8,0.5,0.6,1.2,0.9,3.1,1.8,5.4,5.8,:
+Annual,"Unemployment rate by education level, total, Illiterate (%)",Israel,0.0,0.1,0.1,0.0,0.1,0.1,0.1,0.1,0.0,0.0,0.0,0.0,0.0 b,0.0,0.0,0.0
+Annual,"Unemployment rate by education level, total, Illiterate (%)",Jordan,10.1,11.2,10.9,9.8,8.9,9.2,9.3,7.5,7.0,9.9,7.6,7.5,9.3,7.6,6.1,7.0
+Annual,"Unemployment rate by education level, total, Illiterate (%)",Lebanon,:,:,:,:,4.9,:,:,4.9,:,4.4,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, total, Illiterate (%)",Morocco,3.5,3.0,2.4,2.7,2.1,2.1,2.5,2.4,2.2,2.1,2.3,1.9,1.9,2.3,2.5,2.1
+Annual,"Unemployment rate by education level, total, Illiterate (%)",Palestine*,16.3,15.9,22.0,15.2,17.2,10.1,9.9,11.1,15.5,18.8,18.1,15.8,11.9,16.4,21.5,17.6
+Annual,"Unemployment rate by education level, total, Illiterate (%)",Tunisia,9.8,10.1,12.8,11.3,12.7,7.8,7.9,5.9,6.0,6.1,6.3,8.0,5.8,4.7,:,:
+Annual,"Unemployment rate by education level, total, ISCED 0-1 (%)",Algeria,:,27.0 d,:,22.9 d,15.7 d,12.4 d,10.7 d,11.7 d,7.9 d,7.2 d,7.6 d,6.3 d,8.3 d,6.7 d,7.0 d,7.7 d
+Annual,"Unemployment rate by education level, total, ISCED 0-1 (%)",Egypt,0.7 d,0.9 d,0.6 d,0.8 d,0.8 d,: d,: d,: d,: d,: d,: d,: d,: d,: d,: d,:
+Annual,"Unemployment rate by education level, total, ISCED 0-1 (%)",Israel,15.0,13.7,16.1,17.0,16.5,15.7,15.5,15.9,11.7,11.9,12.2,8.8,13.1 b,10.7,8.7,8.3
+Annual,"Unemployment rate by education level, total, ISCED 0-1 (%)",Lebanon,:,:,:,:,7.7,:,:,8.2,:,4.6,:,:,8.1,:,:,:
+Annual,"Unemployment rate by education level, total, ISCED 0-1 (%)",Morocco,13.1,11.7,10.6,10.4,9.5,9.4,8.3,8.0,7.6,7.1,6.7,6.1,6.4,6.9,7.1,5.9
+Annual,"Unemployment rate by education level, total, ISCED 0-1 (%)",Palestine*,30.8,30.5,38.0,29.3,30.7,25.7,25.1,23.0,29.0,26.3,25.4,20.5,21.7,21.3,25.4,24.2
+Annual,"Unemployment rate by education level, total, ISCED 0-1 (%)",Tunisia,17.3,17.1,16.6,15.8,15.6,15.7,15.2,13.5,12.3,10.4,9.3,12.4,12.2,9.9,:,:
+Annual,"Unemployment rate by education level, total, ISCED 2 (%)",Algeria,:,35.8 d,:,31.1 d,23.4 d,20.0 d,16.2 d,17.2 d,13.8 d,11.1 d,10.7 d,12.6 d,13.3 d,11.1 d,12.0 d,13.4 d
+Annual,"Unemployment rate by education level, total, ISCED 2 (%)",Egypt,: d,: d,: d,: d,: d,1.8 d,2.0 d,1.7 d,2.0 d,2.7 d,2.2 d,7.2 d,7.4 d,7.9 d,10.3 bd,:
+Annual,"Unemployment rate by education level, total, ISCED 2 (%)",Israel,14.3,15.5,15.0,17.7,17.2,15.3,14.2,13.1,10.3,12.1,11.1,8.8,14.0 b,12.1,12.8,11.2
+Annual,"Unemployment rate by education level, total, ISCED 2 (%)",Lebanon,:,:,:,:,9.2,:,:,9.2,:,5.2,:,:,8.7,:,:,:
+Annual,"Unemployment rate by education level, total, ISCED 2 (%)",Morocco,27.7,25.3,23.6,23.3,21.7,21.9,19.4,18.2,17.3,16.9,16.4,15.4,15.5,15.5,16.0,15.4
+Annual,"Unemployment rate by education level, total, ISCED 2 (%)",Palestine*,29.0,28.8,36.1,29.0,30.1,24.5,25.4,23.7,27.6,26.4,24.6,20.5,21.7,22.7,25.2,24.6
+Annual,"Unemployment rate by education level, total, ISCED 2 (%)",Tunisia,19.1,18.9,18.3,18.2,17.9,18.1,17.6,18.5,17.2,:,:,:,:,:,:,:
+Annual,"Unemployment rate by education level, total, ISCED 3-4 (%)",Algeria,:,27.7 d,:,24.0 d,19.3 d,17.4 d,13.0 d,14.7 d,11.4 d,9.9 d,8.9 d,8.6 d,9.7 d,9.7 d,9.7 d,10.1 d
+Annual,"Unemployment rate by education level, total, ISCED 3-4 (%)",Egypt,20.4,18.7,18.8,22.0,20.4,20.8,19.2,14.9,14.6,14.3,12.8,16.1,17.3,16.6,15.7 b,:
+Annual,"Unemployment rate by education level, total, ISCED 3-4 (%)",Israel,10.0,11.2,12.3,12.8,12.6,11.2,10.6,8.9,7.2,9.1,8.0,6.7,7.9 b,7.3,6.9,6.0
+Annual,"Unemployment rate by education level, total, ISCED 3-4 (%)",Lebanon,:,:,:,:,8.7,:,:,9.7,:,7.7,:,:,13.9,:,:,:
+Annual,"Unemployment rate by education level, total, ISCED 3-4 (%)",Morocco,28.3,25.8,23.9,24.8,24.1,23.2,19.7,19.8,20.8,18.3,17.7,18.7,18.1,18.2,18.6,19.3
+Annual,"Unemployment rate by education level, total, ISCED 3-4 (%)",Palestine*,23.9,23.7,29.9,23.1,23.1,21.5,20.1,19.6,24.2,20.4,19.6,16.7,18.7,17.3,20.8,20.3
+Annual,"Unemployment rate by education level, total, ISCED 3-4 (%)",Tunisia,17.2,14.7,14.3,13.1,12.6,12.7,12.0,13.3,13.8,14.0,13.7,20.6,21.0,16.2,:,:
+Annual,"Unemployment rate by education level, total, ISCED 5-6 (%)",Algeria,:,26.7 d,:,22.5 d,19.3 d,16.9 d,15.5 d,17.0 d,18.0 d,18.5 d,20.3 d,15.2 d,14.6 d,14.0 d,15.4 d,14.1 d
+Annual,"Unemployment rate by education level, total, ISCED 5-6 (%)",Egypt,12.8,12.4,15.7,16.4,16.1,18.1,17.4,17.3,16.4,18.4,18.9,20.1,21.4,22.0,20.0,:
+Annual,"Unemployment rate by education level, total, ISCED 5-6 (%)",Israel,5.3,5.9,6.8,6.9,6.3,5.3,4.6,4.0,3.9,5.3,4.4,4.1,4.4 b,4.3,4.1,3.8
+Annual,"Unemployment rate by education level, total, ISCED 5-6 (%)",Lebanon,:,:,:,:,8.2,:,:,11.0,:,8.8,:,:,11.4,:,:,:
+Annual,"Unemployment rate by education level, total, ISCED 5-6 (%)",Morocco,30.6,29.2,29.3,29.9,27.8,28.1,20.6,21.7,19.6,17.8,17.4,18.2,18.1,17.7,19.9,21.1
+Annual,"Unemployment rate by education level, total, ISCED 5-6 (%)",Palestine*,15.9,16.1,18.6,20.2,21.9,22.3,21.3,21.3,25.6,24.3,24.1,24.8,28.4,29.8,33.7,31.8
+Annual,"Unemployment rate by education level, total, ISCED 5-6 (%)",Tunisia,10.9,10.4,11.6,11.8,10.2,14.8,17.5,19.0,21.6,21.9,22.9,29.2,26.1,30.2,:,:

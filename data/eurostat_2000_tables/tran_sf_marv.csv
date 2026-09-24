@@ -1,0 +1,47 @@
+Time frequency,Unit of measure,Type of victim,Sea basins,Country of registration\Time,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0,2023.0
+Annual,Person,Injured,Atlantic Ocean,European Union - 27 countries (from 2020),27.0,27.0,51.0,140.0,48.0,109.0,137.0,114.0,91.0,80.0,69.0,67.0,99.0
+Annual,Person,Injured,Atlantic Ocean,Others,72.0,87.0,68.0,71.0,82.0,69.0,59.0,52.0,71.0,36.0,15.0,19.0,10.0
+Annual,Person,Injured,Atlantic Ocean,Unknown,:,1.0,:,0.0,0.0,0.0,:,1.0,0.0,0.0,1.0,0.0,0.0
+Annual,Person,Injured,Baltic Sea,European Union - 27 countries (from 2020),29.0,66.0,60.0,51.0,41.0,25.0,38.0,41.0,32.0,20.0,27.0,33.0,23.0
+Annual,Person,Injured,Baltic Sea,Others,4.0,11.0,2.0,8.0,7.0,0.0,3.0,4.0,4.0,3.0,2.0,3.0,3.0
+Annual,Person,Injured,Baltic Sea,Unknown,:,0.0,:,0.0,:,0.0,0.0,0.0,:,1.0,0.0,1.0,0.0
+Annual,Person,Injured,Black Sea,European Union - 27 countries (from 2020),1.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,:,1.0,1.0
+Annual,Person,Injured,Black Sea,Others,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+Annual,Person,Injured,English Channel,European Union - 27 countries (from 2020),3.0,22.0,20.0,54.0,2.0,26.0,35.0,23.0,21.0,18.0,22.0,19.0,24.0
+Annual,Person,Injured,English Channel,Others,43.0,60.0,38.0,32.0,22.0,19.0,27.0,19.0,17.0,7.0,1.0,2.0,2.0
+Annual,Person,Injured,English Channel,Unknown,:,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,:,0.0,:
+Annual,Person,Injured,Mediterranean Sea,European Union - 27 countries (from 2020),26.0,58.0,82.0,124.0,93.0,72.0,119.0,88.0,107.0,55.0,38.0,72.0,92.0
+Annual,Person,Injured,Mediterranean Sea,Others,16.0,13.0,7.0,13.0,16.0,11.0,9.0,8.0,15.0,3.0,6.0,8.0,12.0
+Annual,Person,Injured,Mediterranean Sea,Unknown,:,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,5.0,1.0,2.0,0.0
+Annual,Person,Injured,North Sea,European Union - 27 countries (from 2020),29.0,54.0,38.0,91.0,45.0,26.0,28.0,37.0,63.0,33.0,39.0,23.0,33.0
+Annual,Person,Injured,North Sea,Others,65.0,93.0,75.0,40.0,59.0,43.0,29.0,44.0,46.0,29.0,5.0,7.0,37.0
+Annual,Person,Injured,North Sea,Unknown,0.0,0.0,0.0,0.0,0.0,:,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Injured,Other sea basins,European Union - 27 countries (from 2020),44.0,48.0,47.0,40.0,29.0,62.0,45.0,61.0,34.0,35.0,40.0,44.0,47.0
+Annual,Person,Injured,Other sea basins,Others,67.0,117.0,135.0,137.0,151.0,126.0,117.0,135.0,134.0,56.0,20.0,21.0,73.0
+Annual,Person,Injured,Other sea basins,Unknown,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,5.0
+Annual,Person,Injured,Unknown,European Union - 27 countries (from 2020),23.0,99.0,40.0,26.0,15.0,12.0,6.0,3.0,2.0,5.0,5.0,5.0,4.0
+Annual,Person,Injured,Unknown,Others,1.0,2.0,120.0,36.0,31.0,50.0,65.0,77.0,100.0,93.0,94.0,82.0,39.0
+Annual,Person,Injured,Unknown,Unknown,:,:,:,0.0,:,:,:,0.0,:,0.0,:,0.0,:
+Annual,Person,Killed,Atlantic Ocean,European Union - 27 countries (from 2020),9.0,18.0,11.0,25.0,13.0,13.0,6.0,12.0,20.0,3.0,5.0,6.0,1.0
+Annual,Person,Killed,Atlantic Ocean,Others,4.0,3.0,7.0,5.0,34.0,2.0,7.0,3.0,0.0,7.0,0.0,3.0,0.0
+Annual,Person,Killed,Atlantic Ocean,Unknown,:,0.0,:,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Killed,Baltic Sea,European Union - 27 countries (from 2020),2.0,2.0,2.0,6.0,1.0,5.0,2.0,1.0,1.0,1.0,6.0,3.0,0.0
+Annual,Person,Killed,Baltic Sea,Others,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0
+Annual,Person,Killed,Baltic Sea,Unknown,:,0.0,:,0.0,:,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0
+Annual,Person,Killed,Black Sea,European Union - 27 countries (from 2020),0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,:,0.0,0.0
+Annual,Person,Killed,Black Sea,Others,0.0,0.0,0.0,0.0,1.0,:,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Killed,English Channel,European Union - 27 countries (from 2020),1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Annual,Person,Killed,English Channel,Others,0.0,1.0,1.0,1.0,0.0,0.0,6.0,0.0,0.0,1.0,0.0,0.0,0.0
+Annual,Person,Killed,English Channel,Unknown,:,0.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,:,0.0,:
+Annual,Person,Killed,Mediterranean Sea,European Union - 27 countries (from 2020),10.0,36.0,17.0,14.0,13.0,9.0,9.0,6.0,5.0,8.0,6.0,17.0,7.0
+Annual,Person,Killed,Mediterranean Sea,Others,8.0,0.0,14.0,9.0,1.0,1.0,2.0,1.0,3.0,6.0,3.0,0.0,0.0
+Annual,Person,Killed,Mediterranean Sea,Unknown,:,1.0,0.0,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Killed,North Sea,European Union - 27 countries (from 2020),0.0,15.0,1.0,2.0,11.0,5.0,1.0,5.0,5.0,0.0,3.0,1.0,2.0
+Annual,Person,Killed,North Sea,Others,3.0,22.0,1.0,5.0,4.0,4.0,2.0,2.0,2.0,0.0,0.0,0.0,7.0
+Annual,Person,Killed,North Sea,Unknown,0.0,0.0,0.0,2.0,0.0,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Killed,Other sea basins,European Union - 27 countries (from 2020),5.0,3.0,3.0,7.0,4.0,37.0,2.0,7.0,9.0,9.0,4.0,3.0,2.0
+Annual,Person,Killed,Other sea basins,Others,10.0,3.0,5.0,19.0,7.0,37.0,2.0,2.0,4.0,4.0,4.0,3.0,1.0
+Annual,Person,Killed,Other sea basins,Unknown,3.0,0.0,0.0,:,0.0,1.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0
+Annual,Person,Killed,Unknown,European Union - 27 countries (from 2020),0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Killed,Unknown,Others,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Person,Killed,Unknown,Unknown,:,:,:,0.0,:,:,:,0.0,:,0.0,:,0.0,:

@@ -1,0 +1,193 @@
+{
+  "duplicate_pairs": {
+    "count": 0,
+    "examples": []
+  },
+  "invalid_relation_labels": {
+    "count": 0,
+    "examples": []
+  },
+  "exact_signature_violations": {
+    "count": 759,
+    "examples": [
+      {
+        "measure1": "Body mass index (BMI) by sex, age and educational attainment level",
+        "measure2": "Body mass index (BMI) by sex, age and educational attainment level (%)",
+        "relation": "same_concept",
+        "method": "automatic_same_concept_normalized_text_identity"
+      },
+      {
+        "measure1": "Body mass index (BMI) by sex, age and income quintile",
+        "measure2": "Body mass index (BMI) by sex, age and income quintile (%)",
+        "relation": "same_concept",
+        "method": "automatic_same_concept_normalized_text_identity"
+      },
+      {
+        "measure1": "Annual data on employment in knowledge-intensive activities at the national level, by sex (NACE Rev. 2, )",
+        "measure2": "Annual data on employment in knowledge-intensive activities at the national level, by sex and NACE Rev. 1.1",
+        "relation": "same_concept",
+        "method": "automatic_same_concept_token_reorder"
+      },
+      {
+        "measure1": "Annual detailed enterprise statistics for construction (NACE Rev. 2, F)",
+        "measure2": "Annual detailed enterprise statistics on construction (NACE Rev. 1.1, F)",
+        "relation": "same_concept",
+        "method": "automatic_same_concept_token_reorder"
+      },
+      {
+        "measure1": "Annual detailed enterprise statistics for trade (NACE Rev. 2 G)",
+        "measure2": "Annual detailed enterprise statistics on trade (NACE Rev. 1.1 G)",
+        "relation": "same_concept",
+        "method": "automatic_same_concept_token_reorder"
+      },
+      {
+        "measure1": "Annual earnings by economic control (enterprises with 10 employed persons or more) - NACE Rev. 1.1, C-O excluding L",
+        "measure2": "Annual earnings by economic control (enterprises with 10 employed persons or more) - NACE Rev. 2, B-S excluding O",
+        "relation": "same_concept",
+        "method": "automatic_same_concept_token_reorder"
+      },
+      {
+        "measure1": "Annual earnings by quantiles and contractual working time (enterprises with 10 employed persons or more) - NACE Rev. 1.1, C-O excluding L",
+        "measure2": "Annual earnings by quantiles and contractual working time (enterprises with 10 employed persons or more) - NACE Rev. 2, B-S excluding O",
+        "relation": "same_concept",
+        "method": "automatic_same_concept_token_reorder"
+      },
+      {
+        "measure1": "Average annual gross earnings by sex and NACE Rev. 1.1 activity",
+        "measure2": "Average annual gross earnings by sex and NACE Rev. 2 activity",
+        "relation": "same_concept",
+        "method": "automatic_same_concept_token_reorder"
+      },
+      {
+        "measure1": "Average number of actual weekly hours of work in main job, by sex, age, professional status, full-time/part-time and economic activity ( NACE Rev. 1.1)",
+        "measure2": "Average number of actual weekly hours of work in main job, by sex, age, professional status, full-time/part-time and economic activity ( NACE Rev. 2)",
+        "relation": "same_concept",
+        "method": "automatic_same_concept_token_reorder"
+      },
+      {
+        "measure1": "Average number of actual weekly hours of work in the second job, by sex, age, professional status, economic activity and full-time/part-time in the first job ( NACE Rev. 1.1)",
+        "measure2": "Average number of actual weekly hours of work in the second job, by sex, age, professional status, economic activity and full-time/part-time in the first job ( NACE Rev. 2)",
+        "relation": "same_concept",
+        "method": "automatic_same_concept_token_reorder"
+      }
+    ]
+  },
+  "subtype_containment_violations": {
+    "count": 41,
+    "examples": [
+      {
+        "measure1": "Material deprivation for the 'Economic strain' and 'Durables' dimensions, by number of item of deprivation - EU-SILC survey",
+        "measure2": "Material deprivation for the 'Economic strain' dimension, by number of item of deprivation - EU-SILC survey",
+        "method": "automatic_subtype"
+      },
+      {
+        "measure1": "Share of renewable fuels in gross final consumption of energy from renewables",
+        "measure2": "Share of renewable fuels in total gross final consumption of energy",
+        "method": "automatic_subtype"
+      },
+      {
+        "measure1": "Incoming '' requests by submitting country (PARTNER), type of request, legal provision, sex and type of applicant",
+        "measure2": "Incoming '' requests for information by submitting country (PARTNER), legal provision, sex and type of applicant",
+        "method": "automatic_subtype"
+      },
+      {
+        "measure1": "Enterprises and total expenditure of enterprises by area of expenditure, NACE Rev. 2 activity and size class",
+        "measure2": "Expenditures of enterprises by area of expenditure, NACE Rev. 2 activity and size class",
+        "method": "automatic_subtype"
+      },
+      {
+        "measure1": "Outgoing '' requests by receiving country (PARTNER), type of request, legal provision, sex and type of applicant",
+        "measure2": "Outgoing '' requests for information by receiving country (PARTNER), legal provision, sex and type of applicant",
+        "method": "automatic_subtype"
+      },
+      {
+        "measure1": "Causes of death - standardised death rate by NUTS 2 region of residence, 3 year average",
+        "measure2": "Causes of death by NUTS 2 regions - standardised death rate, 3 year average",
+        "method": "automatic_subtype"
+      },
+      {
+        "measure1": "Relative median at-risk-of-poverty gap of elderly people - EU-SILC and ECHP surveys",
+        "measure2": "Relative median poverty risk gap of elderly people - EU-SILC survey",
+        "method": "automatic_subtype"
+      },
+      {
+        "measure1": "Labour cost levels by NACE Rev. 2 activity",
+        "measure2": "Labour costs by NACE Rev. 2 activity",
+        "method": "automatic_subtype"
+      },
+      {
+        "measure1": "Enterprises and expenditure of enterprises on innovation activities by area of expenditure, NACE Rev. 2 activity and size class",
+        "measure2": "Innovation activities and expenditures in the enterprises by NACE Rev. 2 activity and size class",
+        "method": "automatic_subtype"
+      },
+      {
+        "measure1": "Net occupancy rate of bed-places and bedrooms in hotels and similar accommodation (NACE Rev. 2, I, 55.1)",
+        "measure2": "Net occupancy rate of bed-places and bedrooms in hotels and similar accommodations (NACE Rev. 2, I, 55.1) - monthly data",
+        "method": "automatic_subtype"
+      }
+    ]
+  },
+  "relation_balance": {
+    "complementary": {
+      "count": 53,
+      "share": 0.0064
+    },
+    "different_aspects": {
+      "count": 2936,
+      "share": 0.3537
+    },
+    "related": {
+      "count": 114,
+      "share": 0.0137
+    },
+    "same_concept": {
+      "count": 4259,
+      "share": 0.5131
+    },
+    "subtype": {
+      "count": 935,
+      "share": 0.1126
+    },
+    "synonym": {
+      "count": 4,
+      "share": 0.0005
+    }
+  },
+  "fallback_relationships": {
+    "count": 0,
+    "share": 0.0,
+    "by_method": {}
+  },
+  "method_profile": {
+    "automatic_learned_dimension": {
+      "n": 318,
+      "confidence_mean": 0.9083,
+      "embedding_similarity_mean": null
+    },
+    "automatic_same_concept_normalized_text_identity": {
+      "n": 26,
+      "confidence_mean": 0.999,
+      "embedding_similarity_mean": null
+    },
+    "automatic_same_concept_token_reorder": {
+      "n": 191,
+      "confidence_mean": 0.995,
+      "embedding_similarity_mean": null
+    },
+    "automatic_structural_aspect": {
+      "n": 3,
+      "confidence_mean": 0.95,
+      "embedding_similarity_mean": null
+    },
+    "automatic_subtype": {
+      "n": 366,
+      "confidence_mean": 0.9371,
+      "embedding_similarity_mean": null
+    },
+    "llm_classification": {
+      "n": 7397,
+      "confidence_mean": 0.9113,
+      "embedding_similarity_mean": null
+    }
+  }
+}

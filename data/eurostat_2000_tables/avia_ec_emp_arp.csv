@@ -1,0 +1,293 @@
+Time frequency,Reporting airport,Sex\Time,2003.0,2004.0,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0
+Annual,SALZBURG airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,381.0,360.0,350.0
+Annual,WIEN-SCHWECHAT airport,Total,2626.0,2626.0,:,:,:,:,:,:,:,:,0.0,0.0,:,0.0,4624.0,4830.0,5385.0,5452.0,4858.0
+Annual,SARAJEVO airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,515.0,508.0,478.0
+Annual,BRUSSELS airport,Total,773.0,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,:,:,0.0,0.0,0.0,:
+Annual,CHARLEROI/BRUSSELS SOUTH airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:,:
+Annual,BURGAS airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:,:,:
+Annual,SOFIA airport,Females,:,:,:,:,619.0,680.0,685.0,802.0,792.0,792.0,:,:,:,:,:,:,:,:,:
+Annual,SOFIA airport,Males,:,:,:,:,1123.0,1170.0,1185.0,1079.0,1048.0,1048.0,:,:,:,:,:,:,:,:,:
+Annual,SOFIA airport,Total,:,:,:,:,1742.0,1850.0,1870.0,1881.0,1840.0,1840.0,1840.0,2172.0,:,:,:,:,:,:,:
+Annual,VARNA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:,:,:
+Annual,GENEVA airport,Total,500.0,500.0,:,:,:,:,:,:,:,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:
+Annual,ZURICH airport,Total,:,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:
+Annual,BASEL airport,Total,274.0,274.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,LARNAKA/INTL airport,Females,:,:,0.0,2000.0,2000.0,2676.0,2776.0,2012.0,2165.0,2352.0,:,:,:,:,:,:,:,:,:
+Annual,LARNAKA/INTL airport,Males,:,:,0.0,4900.0,4914.0,5685.0,6138.0,4479.0,4602.0,4774.0,:,:,:,:,:,:,:,:,:
+Annual,LARNAKA/INTL airport,Total,4800.0,5000.0,5200.0,6900.0,6914.0,8361.0,8414.0,6491.0,6767.0,7126.0,:,:,:,:,:,:,:,:,:
+Annual,PAFOS/INTL airport,Females,:,:,:,243.0,282.0,442.0,502.0,498.0,466.0,602.0,:,:,:,:,:,:,:,:,:
+Annual,PAFOS/INTL airport,Males,:,:,:,836.0,658.0,1445.0,1358.0,1332.0,1177.0,1675.0,:,:,:,:,:,:,:,:,:
+Annual,PAFOS/INTL airport,Total,850.0,900.0,940.0,1079.0,940.0,1887.0,1860.0,1830.0,1643.0,2277.0,:,:,:,:,:,:,:,:,:
+Annual,PRAHA/RUZYNE airport,Females,:,:,:,:,745.0,700.0,679.0,602.0,557.0,557.0,490.0,:,:,:,:,:,:,:,:
+Annual,PRAHA/RUZYNE airport,Males,:,:,:,:,1664.0,1607.0,1595.0,1485.0,1401.0,1401.0,1259.0,:,:,:,:,:,:,:,:
+Annual,PRAHA/RUZYNE airport,Total,11000.0,11000.0,12000.0,14000.0,2409.0,2307.0,2274.0,2087.0,1958.0,1958.0,1749.0,1727.0,1784.0,1784.0,1995.0,2654.0,2925.0,2380.0,:
+Annual,BERLIN-BRANDENBURG airport,Total,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,DRESDEN airport,Total,328.0,328.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,FRANKFURT/MAIN airport,Total,15526.0,15526.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,MUENSTER/OSNABRUECK airport,Total,336.0,336.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,HAMBURG airport,Total,2000.0,2000.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,KOELN/BONN airport,Total,1640.0,1640.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,DUESSELDORF airport,Total,2673.0,2673.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,MUENCHEN airport,Total,4045.0,4045.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,NUERNBERG airport,Total,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,LEIPZIG/HALLE airport,Total,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,STUTTGART airport,Total,1251.0,1251.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,BERLIN-TEGEL airport,Total,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,HANNOVER airport,Total,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,BREMEN airport,Total,254.0,254.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,BILLUND airport,Total,660.0,660.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,788.0,806.0,728.0,958.0
+Annual,KOBENHAVN/KASTRUP airport,Total,328.0,328.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,2632.0,2709.0,2454.0,1976.0
+Annual,LENNART MERI TALLINN airport,Females,95.0,93.0,104.0,119.0,122.0,136.0,148.0,160.0,168.0,168.0,183.0,:,:,:,:,:,:,:,:
+Annual,LENNART MERI TALLINN airport,Males,192.0,200.0,221.0,236.0,252.0,278.0,327.0,341.0,312.0,312.0,339.0,:,:,:,:,:,:,:,:
+Annual,LENNART MERI TALLINN airport,Total,287.0,293.0,325.0,355.0,374.0,414.0,475.0,501.0,501.0,480.0,522.0,513.0,525.0,543.0,579.0,579.0,601.0,499.0,514.0
+Annual,ATHINAI/ELEFTHERIOS VENIZELOS airport,Females,:,:,:,:,263.0,263.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,ATHINAI/ELEFTHERIOS VENIZELOS airport,Males,:,:,:,:,501.0,501.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,ATHINAI/ELEFTHERIOS VENIZELOS airport,Total,:,:,:,:,764.0,764.0,:,:,:,0.0,0.0,0.0,:,0.0,:,0.0,0.0,0.0,:
+Annual,ELEFSIS airport,Females,246.0,246.0,244.0,244.0,263.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,ELEFSIS airport,Males,:,:,487.0,486.0,501.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,ELEFSIS airport,Total,720.0,720.0,731.0,730.0,764.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,IRAKLION/NIKOS KAZANTZAKIS airport,Females,50.0,50.0,50.0,53.0,53.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,IRAKLION/NIKOS KAZANTZAKIS airport,Males,120.0,120.0,115.0,120.0,114.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,IRAKLION/NIKOS KAZANTZAKIS airport,Total,170.0,170.0,165.0,173.0,167.0,:,:,:,:,0.0,0.0,0.0,:,0.0,:,0.0,0.0,0.0,:
+Annual,KOS/IPPOKRATIS airport,Total,0.0,:,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,0.0,0.0,0.0,:
+Annual,KERKIRA/IOANNIS KAPODISTRIAS airport,Females,:,:,27.0,22.0,21.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,KERKIRA/IOANNIS KAPODISTRIAS airport,Males,:,:,71.0,72.0,72.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,KERKIRA/IOANNIS KAPODISTRIAS airport,Total,110.0,110.0,98.0,94.0,93.0,:,:,:,:,0.0,0.0,0.0,:,0.0,:,0.0,0.0,0.0,:
+Annual,RODOS/DIAGORAS airport,Females,260.0,260.0,276.0,284.0,308.0,314.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,RODOS/DIAGORAS airport,Males,403.0,403.0,409.0,426.0,412.0,421.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,RODOS/DIAGORAS airport,Total,663.0,663.0,685.0,710.0,720.0,735.0,:,:,:,0.0,0.0,0.0,:,0.0,:,0.0,0.0,0.0,:
+Annual,THESSALONIKI/MAKEDONIA airport,Females,:,:,:,:,:,800.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,THESSALONIKI/MAKEDONIA airport,Males,:,:,:,:,:,900.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,THESSALONIKI/MAKEDONIA airport,Total,1700.0,1700.0,1750.0,1750.0,1750.0,1700.0,:,:,:,0.0,0.0,0.0,:,0.0,:,0.0,0.0,0.0,:
+Annual,FUERTEVENTURA airport,Total,:,:,:,:,:,:,:,:,:,0.0,1207.0,1207.0,1207.0,1207.0,1700.0,2400.0,2530.0,2530.0,2179.0
+Annual,LA GOMERA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,72.0,72.0,72.0,130.0,103.0,127.0
+Annual,HIERRO airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,89.0,92.0,92.0,203.0,196.0,180.0
+Annual,LA PALMA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,712.0,712.0,712.0,992.0,992.0,964.0
+Annual,GRAN CANARIA airport,Total,640.0,640.0,:,:,:,:,:,:,:,0.0,5044.0,5044.0,5044.0,5044.0,5044.0,5656.0,5719.0,3557.0,4202.0
+Annual,LANZAROTE airport,Total,:,:,:,:,:,:,:,:,:,0.0,1409.0,1409.0,1409.0,1724.0,1788.0,1867.0,2046.0,1519.0,1903.0
+Annual,TENERIFE SUR/REINA SOFIA airport,Total,294.0,294.0,:,:,:,:,:,:,:,0.0,3634.0,3634.0,3634.0,5098.0,5703.0,5703.0,5569.0,3634.0,5007.0
+Annual,TENERIFE NORTE airport,Total,:,:,:,:,:,:,:,:,:,0.0,1825.0,1825.0,1825.0,1825.0,2718.0,2680.0,3241.0,2570.0,2796.0
+Annual,CEUTA (HEL CIVIL) airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,105.0,105.0,105.0
+Annual,CEUTA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,55.0,55.0,70.0,:,:,:
+Annual,MELILLA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,250.0,250.0,250.0,250.0,250.0,250.0
+Annual,ALBACETE airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,11.0,11.0,10.0,10.0,36.0,36.0
+Annual,ALGECIRAS (CADIZ) airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,23.0,23.0,23.0,24.0,24.0,24.0
+Annual,ALICANTE airport,Total,:,:,:,:,:,:,:,:,:,0.0,4384.0,4384.0,4384.0,5816.0,6011.0,6690.0,6690.0,4714.0,5722.0
+Annual,ALMERIA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,446.0,446.0,446.0,495.0,325.0,462.0
+Annual,ASTURIAS airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,454.0,469.0,454.0,498.0,436.0,491.0
+Annual,CORDOBA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,78.0,78.0,78.0,78.0,78.0,78.0
+Annual,BILBAO airport,Total,:,:,:,:,:,:,:,:,:,0.0,1275.0,1275.0,1275.0,1585.0,1907.0,2491.0,1993.0,2269.0,2747.0
+Annual,BURGOS airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,40.0,40.0,40.0,40.0,100.0,100.0
+Annual,BARCELONA/EL PRAT airport,Total,:,:,:,:,:,:,:,:,:,0.0,18174.0,18174.0,18174.0,22811.0,26838.0,28021.0,28021.0,39000.0,39000.0
+Annual,BADAJOZ airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,47.0,47.0,47.0,47.0
+Annual,A CORUNA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,730.0,770.0,767.0,930.0,877.0,1000.0
+Annual,MADRID/CUATRO VIENTOS airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,822.0,793.0,887.0,887.0,837.0,866.0
+Annual,GIRONA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,1250.0,1375.0,1400.0,1866.0,1364.0,1672.0
+Annual,GRANADA/FEDERICO GARCIA LORCA GRANADA-JAEN airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,550.0,550.0,550.0,600.0,550.0,580.0
+Annual,HUESCA/PIRINEOS airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,26.0,26.0,26.0,26.0,26.0,26.0
+Annual,IBIZA airport,Total,2200.0,2200.0,:,:,:,:,:,:,:,0.0,1588.0,1588.0,1588.0,1588.0,1588.0,1915.0,2964.0,2327.0,3889.0
+Annual,JEREZ airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,1200.0,1249.0,1250.0,1250.0,1200.0,1200.0
+Annual,SABADELL airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,450.0,450.0,450.0,450.0,450.0,450.0
+Annual,LEON airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,17.0,19.0,19.0,19.0,19.0,:
+Annual,ADOLFO SUAREZ MADRID-BARAJAS airport,Total,1500.0,1500.0,:,:,:,:,:,:,:,0.0,36454.0,36454.0,36454.0,36454.0,36454.0,36454.0,39815.0,39178.0,41491.0
+Annual,MALAGA/COSTA DEL SOL airport,Total,350.0,350.0,:,:,:,:,:,:,:,0.0,5390.0,5390.0,:,8198.0,8543.0,9771.0,9793.0,7535.0,9214.0
+Annual,MENORCA airport,Total,:,:,:,:,:,:,:,:,:,6534.0,900.0,900.0,5390.0,144.0,146.0,151.0,157.0,154.0,157.0
+Annual,MURCIA/AEROPUERTO DE LA REGION DE MURCIA AIRPORT,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,425.0,445.0,405.0,350.0,380.0,395.0
+Annual,PALMA DE MALLORCA airport,Total,:,:,:,:,:,:,:,:,:,0.0,8091.0,8091.0,:,9370.0,9370.0,9370.0,12524.0,10500.0,10500.0
+Annual,PAMPLONA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,485.0,485.0,485.0,485.0,414.0,421.0
+Annual,LOGRONO airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,58.0,58.0,58.0,58.0,62.0,62.0
+Annual,REUS airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,477.0,581.0,638.0,704.0,372.0,366.0
+Annual,SALAMANCA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,120.0,120.0,120.0,120.0,120.0,120.0
+Annual,MALLORCA/SON BONET airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,357.0,283.0,278.0,278.0,285.0,300.0
+Annual,SAN SEBASTIAN airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,189.0,197.0,197.0,197.0,197.0,173.0
+Annual,SANTIAGO airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,1681.0,1856.0,1792.0,1547.0,1211.0,1447.0
+Annual,VALENCIA airport,Total,:,:,:,:,:,:,:,:,:,0.0,2377.0,2377.0,9370.0,4143.0,4810.0,5240.0,:,:,:
+Annual,VALLADOLID airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,140.0,157.0,155.0,150.0,144.0,144.0
+Annual,VITORIA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,372.0,652.0,784.0,784.0,850.0,850.0
+Annual,VIGO airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,745.0,640.0,732.0,752.0,513.0,513.0
+Annual,SEVE BALLESTEROS-SANTANDER airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,372.0,519.0,650.0,781.0,452.0,573.0
+Annual,ZARAGOZA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,840.0,712.0,1147.0,1501.0,1274.0,1450.0
+Annual,SEVILLA airport,Total,170.0,170.0,:,:,:,:,:,:,:,0.0,1231.0,1231.0,1231.0,1231.0,1231.0,1231.0,1334.0,1524.0,1524.0
+Annual,HELSINKI-VANTAA airport,Total,:,:,650.0,:,:,20000.0,:,:,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:
+Annual,LA REUNION-ROLAND GARROS airport,Females,:,55.0,58.0,62.0,58.0,59.0,56.0,:,71.0,71.0,71.0,:,:,:,:,:,:,:,:
+Annual,LA REUNION-ROLAND GARROS airport,Males,:,175.0,179.0,179.0,187.0,194.0,184.0,:,211.0,211.0,211.0,:,:,:,:,:,:,:,:
+Annual,LA REUNION-ROLAND GARROS airport,Total,:,230.0,237.0,241.0,245.0,253.0,240.0,:,282.0,282.0,282.0,282.0,:,282.0,:,:,:,:,:
+Annual,BORDEAUX-MERIGNAC airport,Females,:,:,:,:,:,:,:,:,:,93.0,93.0,:,:,:,:,:,:,:,:
+Annual,BORDEAUX-MERIGNAC airport,Males,:,:,:,:,:,:,:,:,:,109.0,109.0,:,:,:,:,:,:,:,:
+Annual,BORDEAUX-MERIGNAC airport,Total,:,:,:,:,:,:,:,:,:,202.0,202.0,202.0,:,202.0,:,:,:,:,:
+Annual,TOULOUSE/BLAGNAC airport,Females,93.0,93.0,93.0,:,:,:,110.0,110.0,120.0,120.0,120.0,:,:,:,:,:,:,:,:
+Annual,TOULOUSE/BLAGNAC airport,Males,153.0,153.0,153.0,:,:,:,160.0,160.0,170.0,170.0,170.0,:,:,:,:,:,:,:,:
+Annual,TOULOUSE/BLAGNAC airport,Total,246.0,246.0,246.0,:,:,:,270.0,270.0,290.0,290.0,290.0,290.0,:,290.0,:,:,:,:,:
+Annual,LYON SAINT-EXUPERY airport,Females,180.0,180.0,180.0,:,:,:,183.0,183.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,LYON SAINT-EXUPERY airport,Males,296.0,296.0,295.0,:,:,:,306.0,306.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,LYON SAINT-EXUPERY airport,Total,476.0,476.0,475.0,:,:,:,489.0,489.0,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,MARSEILLE-PROVENCE airport,Females,:,:,138.0,:,:,:,:,:,:,138.0,138.0,:,:,:,:,:,:,:,:
+Annual,MARSEILLE-PROVENCE airport,Males,:,:,219.0,:,:,:,:,:,:,216.0,216.0,:,:,:,:,:,:,:,:
+Annual,MARSEILLE-PROVENCE airport,Total,355.0,:,357.0,:,5000.0,5000.0,:,5200.0,:,354.0,354.0,354.0,:,354.0,:,:,:,:,:
+Annual,NICE-COTE D AZUR airport,Females,:,:,:,:,:,190.0,206.0,195.0,199.0,205.0,205.0,:,:,:,:,:,:,:,:
+Annual,NICE-COTE D AZUR airport,Males,:,:,:,:,:,328.0,356.0,335.0,343.0,338.0,338.0,:,:,:,:,:,:,:,:
+Annual,NICE-COTE D AZUR airport,Total,400.0,:,:,:,:,528.0,562.0,530.0,542.0,543.0,543.0,543.0,:,543.0,:,:,:,:,:
+Annual,MONTPELLIER MEDITERRANEE airport,Females,35.0,35.0,35.0,34.0,32.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,MONTPELLIER MEDITERRANEE airport,Males,53.0,53.0,54.0,53.0,61.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,MONTPELLIER MEDITERRANEE airport,Total,88.0,88.0,89.0,87.0,93.0,:,1500.0,1500.0,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,PARIS-CHARLES DE GAULLE airport,Total,4044.0,4044.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,PARIS-ORLY airport,Total,3812.0,3812.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,NANTES ATLANTIQUE airport,Females,:,:,:,:,:,74.0,76.0,82.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,NANTES ATLANTIQUE airport,Males,:,:,:,:,:,94.0,101.0,107.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,NANTES ATLANTIQUE airport,Total,139.0,139.0,:,:,:,168.0,177.0,189.0,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,BALE-MULHOUSE airport,Total,248.0,248.0,253.0,258.0,272.0,:,:,:,:,0.0,126.0,126.0,:,0.0,:,:,:,:,:
+Annual,STRASBOURG-ENTZHEIM airport,Females,52.0,52.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,STRASBOURG-ENTZHEIM airport,Males,71.0,71.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,STRASBOURG-ENTZHEIM airport,Total,123.0,123.0,:,:,:,:,:,:,:,0.0,0.0,:,:,0.0,:,:,:,:,:
+Annual,AIME CESAIRE/MARTINIQUE airport,Females,:,:,:,:,:,:,:,:,:,29.0,29.0,:,:,:,:,:,:,:,:
+Annual,AIME CESAIRE/MARTINIQUE airport,Males,:,:,:,:,:,:,:,:,:,97.0,97.0,:,:,:,:,:,:,:,:
+Annual,AIME CESAIRE/MARTINIQUE airport,Total,3000.0,3000.0,3000.0,:,:,:,:,2000.0,:,126.0,126.0,:,:,126.0,:,:,:,:,:
+Annual,POINTE-A-PITRE/LE RAIZET/GUADELOUPE airport,Females,:,:,:,:,:,:,:,53.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,POINTE-A-PITRE/LE RAIZET/GUADELOUPE airport,Males,:,:,:,:,:,:,:,159.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,POINTE-A-PITRE/LE RAIZET/GUADELOUPE airport,Total,:,:,:,:,:,:,:,212.0,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,DUBROVNIK/CILIPI airport,Females,:,:,:,:,121.0,116.0,126.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,DUBROVNIK/CILIPI airport,Males,:,:,:,:,237.0,241.0,231.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,DUBROVNIK/CILIPI airport,Total,:,:,:,:,358.0,357.0,357.0,:,:,0.0,0.0,0.0,:,0.0,0.0,:,:,:,:
+Annual,PULA airport,Females,:,:,:,:,51.0,54.0,48.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,PULA airport,Males,:,:,:,:,92.0,105.0,101.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,PULA airport,Total,:,:,:,:,143.0,159.0,149.0,:,:,0.0,0.0,0.0,:,0.0,0.0,:,:,:,:
+Annual,RIJEKA/KRK airport,Females,:,:,:,:,26.0,25.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,RIJEKA/KRK airport,Males,:,:,:,:,49.0,48.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,RIJEKA/KRK airport,Total,:,:,:,:,75.0,73.0,:,:,:,0.0,0.0,0.0,:,0.0,0.0,:,:,:,:
+Annual,SPLIT/KASTELA airport,Females,:,:,:,:,174.0,171.0,169.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,SPLIT/KASTELA airport,Males,:,:,:,:,207.0,209.0,209.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,SPLIT/KASTELA airport,Total,:,:,:,:,381.0,380.0,378.0,:,:,0.0,0.0,0.0,:,0.0,0.0,:,:,:,:
+Annual,ZAGREB/FRANJO TUDJMAN airport,Females,:,:,:,:,261.0,269.0,260.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,ZAGREB/FRANJO TUDJMAN airport,Males,:,:,:,:,655.0,669.0,593.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,ZAGREB/FRANJO TUDJMAN airport,Total,:,:,:,:,916.0,938.0,853.0,:,:,0.0,0.0,0.0,:,0.0,0.0,:,:,:,:
+Annual,ZADAR/ZEMUNIK airport,Females,:,:,:,:,27.0,35.0,13.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,ZADAR/ZEMUNIK airport,Males,:,:,:,:,47.0,52.0,36.0,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,ZADAR/ZEMUNIK airport,Total,:,:,:,:,74.0,87.0,49.0,:,:,0.0,0.0,0.0,:,0.0,0.0,:,:,:,:
+Annual,BUDAPEST/LISZT FERENC INTERNATIONAL airport,Females,:,:,:,:,580.0,512.0,442.0,417.0,400.0,310.0,285.0,:,:,:,:,:,:,:,:
+Annual,BUDAPEST/LISZT FERENC INTERNATIONAL airport,Males,:,:,:,:,1086.0,967.0,822.0,716.0,674.0,508.0,474.0,:,:,:,:,:,:,:,:
+Annual,BUDAPEST/LISZT FERENC INTERNATIONAL airport,Total,1678.0,1678.0,:,1800.0,1666.0,1479.0,1264.0,1133.0,1074.0,818.0,759.0,739.0,714.0,708.0,661.0,564.0,655.0,568.0,639.0
+Annual,CORK airport,Females,:,:,:,105.0,114.0,111.0,:,:,:,98.0,101.0,:,:,:,:,:,:,:,:
+Annual,CORK airport,Males,:,:,:,198.0,205.0,205.0,:,:,:,177.0,178.0,:,:,:,:,:,:,:,:
+Annual,CORK airport,Total,:,:,:,303.0,319.0,316.0,:,:,:,275.0,279.0,279.0,279.0,245.0,245.0,245.0,245.0,193.0,:
+Annual,DUBLIN airport,Females,:,:,769.0,703.0,864.0,899.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,DUBLIN airport,Males,:,:,1127.0,1031.0,1176.0,1232.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,DUBLIN airport,Total,:,:,1896.0,1734.0,2040.0,2131.0,:,:,:,0.0,2222.0,2222.0,2222.0,2437.0,2621.0,2751.0,2873.0,2345.0,:
+Annual,KERRY airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,56.0,50.0,53.0,57.0,57.0,:
+Annual,SHANNON airport,Females,:,:,170.0,118.0,166.0,113.0,:,:,:,107.0,122.0,:,:,:,:,:,:,:,:
+Annual,SHANNON airport,Males,:,:,409.0,454.0,222.0,207.0,:,:,:,177.0,191.0,:,:,:,:,:,:,:,:
+Annual,SHANNON airport,Total,700.0,700.0,579.0,572.0,388.0,320.0,:,:,:,284.0,313.0,272.0,254.0,254.0,254.0,262.0,249.0,222.0,:
+Annual,KEFLAVIK airport,Total,:,:,:,:,:,:,:,:,:,0.0,0.0,376.0,460.0,460.0,732.0,775.0,750.0,542.0,562.0
+Annual,BARI/PALESE airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,343.0,342.0,:
+Annual,BRINDISI/CASALE airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,343.0,342.0,:
+Annual,LAMEZIA TERME airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,160.0,121.0,:
+Annual,CATANIA/FONTANAROSSA airport,Total,:,:,:,:,403.0,:,407.0,435.0,460.0,464.0,464.0,474.0,474.0,474.0,490.0,557.0,609.0,592.0,:
+Annual,PALERMO/PUNTA RAISI airport,Total,:,:,:,:,315.0,:,313.0,304.0,302.0,301.0,:,301.0,301.0,301.0,284.0,281.0,272.0,262.0,:
+Annual,CAGLIARI/ELMAS airport,Females,:,:,:,:,:,:,:,:,:,220.0,:,:,:,:,:,:,:,:,:
+Annual,CAGLIARI/ELMAS airport,Males,:,:,:,:,:,:,:,:,:,358.0,:,:,:,:,:,:,:,:,:
+Annual,CAGLIARI/ELMAS airport,Total,:,:,:,:,142.0,:,142.0,520.0,562.0,578.0,:,289.0,289.0,346.0,441.0,476.0,377.0,321.0,:
+Annual,OLBIA/COSTA SMERALDA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,319.0,256.0,:
+Annual,MILANO/MALPENSA airport,Total,:,:,:,:,2456.0,:,2310.0,5206.0,5135.0,5091.0,:,2644.0,2644.0,2947.0,3165.0,3235.0,2853.0,2788.0,:
+Annual,BERGAMO/ORIO AL SERIO airport,Total,:,:,:,:,374.0,:,372.0,385.0,437.0,454.0,456.0,456.0,456.0,572.0,345.0,359.0,228.0,234.0,:
+Annual,TORINO/CASELLE airport,Females,:,:,:,:,:,:,:,:,166.0,160.0,159.0,:,:,:,:,:,:,:,:
+Annual,TORINO/CASELLE airport,Males,:,:,:,:,:,:,:,:,234.0,237.0,227.0,:,:,:,:,:,:,:,:
+Annual,TORINO/CASELLE airport,Total,448.0,448.0,:,:,220.0,:,208.0,406.0,400.0,397.0,386.0,386.0,386.0,237.0,240.0,239.0,239.0,228.0,:
+Annual,MILANO/LINATE airport,Total,:,:,:,:,2456.0,:,2310.0,5206.0,5135.0,5091.0,:,2644.0,2644.0,2947.0,3165.0,3235.0,2853.0,2788.0,:
+Annual,BOLOGNA/BORGO PANIGALE airport,Total,500.0,500.0,:,:,353.0,:,338.0,719.0,820.0,838.0,0.0,714.0,714.0,445.0,464.0,484.0,509.0,454.0,:
+Annual,TREVISO/S.ANGELO airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,206.0,181.0,:
+Annual,VERONA/VILLAFRANCA airport,Females,:,:,:,:,:,:,:,:,:,88.0,95.0,:,:,:,:,:,:,:,:
+Annual,VERONA/VILLAFRANCA airport,Males,:,:,:,:,:,:,:,:,:,69.0,83.0,:,:,:,:,:,:,:,:
+Annual,VERONA/VILLAFRANCA airport,Total,:,:,:,:,377.0,:,376.0,158.0,157.0,157.0,178.0,174.0,174.0,174.0,131.0,131.0,131.0,129.0,:
+Annual,VENEZIA/TESSERA airport,Females,:,:,:,:,:,:,:,:,:,118.0,115.0,:,:,:,:,:,:,:,:
+Annual,VENEZIA/TESSERA airport,Males,:,:,:,:,:,:,:,:,:,262.0,263.0,:,:,:,:,:,:,:,:
+Annual,VENEZIA/TESSERA airport,Total,800.0,800.0,:,:,339.0,:,359.0,369.0,376.0,380.0,378.0,384.0,384.0,384.0,439.0,464.0,464.0,459.0,:
+Annual,ROMA/CIAMPINO airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,2477.0,3416.0,2895.0,3559.0,3117.0,:
+Annual,ROMA/FIUMICINO airport,Total,2200.0,2200.0,:,:,2415.0,:,2400.0,2391.0,2296.0,2330.0,:,2477.0,2477.0,2477.0,3416.0,2895.0,3559.0,3117.0,:
+Annual,NAPOLI/CAPODICHINO airport,Females,:,:,:,:,:,:,:,:,:,141.0,141.0,:,:,:,:,:,:,:,:
+Annual,NAPOLI/CAPODICHINO airport,Males,:,:,:,:,:,:,:,:,:,197.0,197.0,:,:,:,:,:,:,:,:
+Annual,NAPOLI/CAPODICHINO airport,Total,:,:,:,:,384.0,:,345.0,374.0,374.0,338.0,338.0,619.0,619.0,619.0,697.0,715.0,766.0,652.0,:
+Annual,PISA/S. GIUSTO airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,882.0,825.0,:
+Annual,FIRENZE/PERETOLA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,882.0,825.0,:
+Annual,VILNIUS/INTERNATIONAL airport,Females,0.0,0.0,222.0,232.0,277.0,278.0,142.0,111.0,108.0,94.0,103.0,:,:,:,:,:,:,:,:
+Annual,VILNIUS/INTERNATIONAL airport,Males,0.0,0.0,506.0,514.0,507.0,525.0,338.0,244.0,225.0,240.0,246.0,:,:,:,:,:,:,:,:
+Annual,VILNIUS/INTERNATIONAL airport,Total,670.0,670.0,728.0,746.0,784.0,803.0,480.0,355.0,333.0,334.0,349.0,280.0,310.0,308.0,323.0,335.0,325.0,257.0,257.0
+Annual,LUXEMBOURG airport,Total,154.0,154.0,:,:,:,:,:,:,:,0.0,0.0,:,:,0.0,:,:,:,:,:
+Annual,RIGA airport,Females,0.0,215.0,267.0,341.0,360.0,447.0,491.0,410.0,412.0,417.0,438.0,:,:,:,:,:,:,:,:
+Annual,RIGA airport,Males,0.0,344.0,398.0,568.0,732.0,864.0,665.0,602.0,642.0,709.0,680.0,:,:,:,:,:,:,:,:
+Annual,RIGA airport,Total,450.0,559.0,665.0,909.0,1092.0,1311.0,1156.0,1012.0,1054.0,1126.0,1145.0,1173.0,1143.0,1178.0,1246.0,1297.0,1324.0,1016.0,1169.0
+Annual,PODGORICA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,420.0,468.0,468.0,537.0,521.0,:
+Annual,TIVAT airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,210.0,232.0,232.0,255.0,250.0,:
+Annual,SKOPJE airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,812.0,802.0,681.0,705.0,788.0,:,:
+Annual,LUQA airport,Females,:,:,84.0,82.0,97.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,LUQA airport,Males,:,:,305.0,295.0,301.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,LUQA airport,Total,:,:,389.0,377.0,398.0,:,:,:,:,:,:,:,:,:,:,357.0,386.0,349.0,324.0
+Annual,AMSTERDAM/SCHIPHOL airport,Total,2039.0,2039.0,:,:,:,:,:,:,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:
+Annual,EINDHOVEN airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,63.0,63.0,:
+Annual,ROTTERDAM airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,104.0,107.0,110.0,110.0,:
+Annual,BODO airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,540.0,540.0,540.0,:,:
+Annual,BERGEN/FLESLAND airport,Total,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,:,137.0,147.0,147.0,147.0,:,:
+Annual,OSLO/GARDERMOEN airport,Total,750.0,750.0,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,:,:
+Annual,TROMSO/LANGNES airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,650.0,650.0,650.0,650.0,:,:
+Annual,TRONDHEIM/VAERNES airport,Total,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,:,:
+Annual,STAVANGER/SOLA airport,Total,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,:,:
+Annual,WARSZAWA/CHOPINA airport,Total,:,:,:,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,:,:,:,:,:
+Annual,FARO airport,Total,232.0,232.0,:,:,:,237.0,233.0,:,229.0,0.0,0.0,159.0,143.0,141.0,144.0,142.0,141.0,137.0,131.0
+Annual,MADEIRA airport,Total,:,:,:,:,:,254.0,240.0,:,1315.0,1315.0,0.0,201.0,183.0,179.0,178.0,178.0,165.0,155.0,153.0
+Annual,PONTA DELGADA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,50.0,55.0,54.0,53.0,53.0,50.0
+Annual,PORTO airport,Total,:,:,:,:,:,205.0,205.0,:,210.0,0.0,0.0,126.0,114.0,116.0,120.0,127.0,127.0,127.0,124.0
+Annual,LISBOA airport,Total,9000.0,9000.0,:,:,:,521.0,548.0,:,535.0,535.0,0.0,286.0,264.0,276.0,285.0,304.0,327.0,297.0,277.0
+Annual,BUCURESTI/HENRI COANDA airport,Females,:,226.0,225.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,BUCURESTI/HENRI COANDA airport,Males,:,554.0,449.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,BUCURESTI/HENRI COANDA airport,Total,835.0,780.0,674.0,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,0.0,0.0,0.0,:,:
+Annual,BEOGRAD/NIKOLA TESLA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,1663.0,2002.0,2002.0,2002.0,1471.0
+Annual,NIS airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,148.0,165.0,165.0,165.0,203.0
+Annual,GOTEBORG/LANDVETTER airport,Total,:,:,2700.0,:,:,:,:,:,:,0.0,0.0,0.0,:,717.0,0.0,0.0,3700.0,3700.0,3700.0
+Annual,MALMO airport,Total,600.0,600.0,1400.0,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,0.0,0.0,:,:,:
+Annual,STOCKHOLM/ARLANDA airport,Total,700.0,700.0,15000.0,:,:,:,:,:,:,0.0,0.0,0.0,:,0.0,0.0,0.0,19000.0,19000.0,19000.0
+Annual,STOCKHOLM/BROMMA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,1100.0,1100.0,1100.0
+Annual,LJUBLJANA/BRNIK airport,Females,92.0,92.0,86.0,98.0,107.0,118.0,105.0,112.0,111.0,111.0,110.0,:,:,:,:,:,:,:,:
+Annual,LJUBLJANA/BRNIK airport,Males,215.0,215.0,246.0,274.0,334.0,328.0,292.0,300.0,299.0,299.0,292.0,:,:,:,:,:,:,:,:
+Annual,LJUBLJANA/BRNIK airport,Total,307.0,318.0,332.0,372.0,441.0,446.0,397.0,412.0,410.0,410.0,402.0,402.0,397.0,399.0,428.0,483.0,478.0,395.0,376.0
+Annual,BRATISLAVA/M.R.STEFANIK airport,Females,147.0,147.0,149.0,170.0,180.0,192.0,169.0,162.0,162.0,165.0,146.0,:,:,:,:,:,:,:,:
+Annual,BRATISLAVA/M.R.STEFANIK airport,Males,235.0,235.0,405.0,462.0,493.0,501.0,461.0,439.0,439.0,438.0,403.0,:,:,:,:,:,:,:,:
+Annual,BRATISLAVA/M.R.STEFANIK airport,Total,382.0,382.0,554.0,632.0,673.0,693.0,630.0,601.0,601.0,603.0,549.0,538.0,:,612.0,617.0,617.0,645.0,570.0,518.0
+Annual,ANKARA/ESENBOGA airport,Total,:,:,:,:,:,5708.0,6041.0,6706.0,6861.0,6861.0,1551.0,9529.0,:,826.0,839.0,813.0,795.0,799.0,774.0
+Annual,ADANA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,375.0,376.0,386.0,392.0,399.0,388.0
+Annual,ANTALYA airport,Females,:,:,:,:,:,4210.0,4451.0,4451.0,5280.0,5280.0,5280.0,:,:,:,:,:,:,:,:
+Annual,ANTALYA airport,Males,:,:,:,:,:,6315.0,6677.0,6677.0,7919.0,7919.0,7919.0,:,:,:,:,:,:,:,:
+Annual,ANTALYA airport,Total,:,:,:,:,:,10525.0,11128.0,11128.0,13199.0,13199.0,1043.0,1075.0,:,576.0,583.0,592.0,618.0,636.0,632.0
+Annual,GAZIANTEP airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,214.0,227.0,221.0,233.0,249.0,272.0
+Annual,KAYSERI airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,830.0,133.0,133.0,150.0,163.0,160.0
+Annual,ISTANBUL/ATATURK airport,Females,:,:,:,:,:,172.0,180.0,187.0,196.0,196.0,196.0,:,:,:,:,:,:,:,:
+Annual,ISTANBUL/ATATURK airport,Males,:,:,:,:,:,683.0,704.0,725.0,738.0,738.0,738.0,:,:,:,:,:,:,:,:
+Annual,ISTANBUL/ATATURK airport,Total,:,:,:,:,:,:,:,912.0,934.0,934.0,2079.0,41458.0,:,1054.0,1098.0,1070.0,1088.0,:,:
+Annual,IZMIR/ADNAN MENDERES airport,Total,:,:,:,:,:,3230.0,5090.0,6213.0,5025.0,5025.0,882.0,5093.0,:,5450.0,643.0,644.0,655.0,661.0,650.0
+Annual,MUGLA/DALAMAN airport,Females,:,:,:,:,:,:,38.0,35.0,38.0,38.0,38.0,:,:,:,:,:,:,:,:
+Annual,MUGLA/DALAMAN airport,Males,:,:,:,:,:,:,302.0,305.0,305.0,305.0,305.0,:,:,:,:,:,:,:,:
+Annual,MUGLA/DALAMAN airport,Total,:,:,:,:,:,:,340.0,340.0,5025.0,343.0,518.0,3403.0,:,3449.0,350.0,360.0,380.0,372.0,360.0
+Annual,DIYARBAKIR airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,1092.0,148.0,146.0,158.0,162.0,159.0
+Annual,TRABZON airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,1489.0,239.0,238.0,265.0,264.0,265.0
+Annual,VAN/FERIT MELEN airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,140.0,142.0,142.0,176.0,161.0,162.0
+Annual,MUGLA/MILAS-BODRUM airport,Total,:,:,:,:,:,1960.0,2344.0,1628.0,2678.0,2678.0,330.0,3494.0,:,3950.0,279.0,285.0,300.0,298.0,298.0
+Annual,SAMSUN/CARSAMBA airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,178.0,181.0,186.0,198.0,199.0,202.0
+Annual,ISTANBUL/SABIHA GOKCEN airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,423.0,355.0,593.0,861.0,868.0,860.0
+Annual,ISTANBUL/ISTANBUL HAVALIMANI airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,2934.0,6659.0,7182.0,7107.0
+Annual,BELFAST/ALDERGROVE airport,Total,:,:,:,:,:,:,:,:,:,154.0,156.0,156.0,:,156.0,:,:,:,:,:
+Annual,BELFAST/CITY airport,Total,:,:,:,:,:,:,:,:,:,91.0,91.0,91.0,:,91.0,:,:,:,:,:
+Annual,BIRMINGHAM airport,Total,:,:,:,:,:,:,:,:,:,535.0,586.0,586.0,:,586.0,:,:,:,:,:
+Annual,MANCHESTER airport,Total,2359.0,2359.0,:,:,:,:,:,:,:,1819.0,1916.0,1916.0,:,1916.0,:,:,:,:,:
+Annual,CARDIFF airport,Total,:,:,:,:,:,:,:,:,:,42.0,44.0,44.0,:,44.0,:,:,:,:,:
+Annual,BRISTOL airport,Total,:,:,:,:,:,:,:,:,:,205.0,215.0,215.0,:,215.0,:,:,:,:,:
+Annual,LIVERPOOL airport,Total,:,:,:,:,:,:,:,:,:,217.0,0.0,:,:,:,:,:,:,:,:
+Annual,LONDON LUTON airport,Total,:,:,:,:,:,:,:,:,:,556.0,596.0,596.0,:,596.0,:,:,:,:,:
+Annual,SOUTHAMPTON airport,Total,:,:,:,:,:,:,:,:,:,:,:,:,:,:,950.0,:,:,:,:
+Annual,LONDON GATWICK airport,Total,1800.0,1800.0,:,:,:,:,:,:,:,2371.0,2454.0,2454.0,:,2454.0,:,:,:,:,:
+Annual,LONDON/CITY airport,Total,220.0,220.0,:,:,:,:,:,:,:,429.0,422.0,:,:,422.0,:,:,:,:,:
+Annual,LONDON HEATHROW airport,Total,3800.0,3800.0,:,:,:,:,:,:,:,5278.0,5921.0,:,:,5921.0,:,:,:,:,:
+Annual,LEEDS BRADFORD airport,Total,:,:,:,:,:,:,:,:,:,199.0,208.0,:,:,208.0,:,:,:,:,:
+Annual,NEWCASTLE airport,Total,:,:,:,:,:,:,:,:,:,267.0,248.0,248.0,:,248.0,:,:,:,:,:
+Annual,EAST MIDLANDS airport,Total,:,:,:,:,:,:,:,:,:,481.0,534.0,534.0,:,534.0,:,:,:,:,:
+Annual,ABERDEEN/DYCE airport,Total,:,:,:,:,:,:,:,:,:,250.0,257.0,257.0,:,257.0,:,:,:,:,:
+Annual,GLASGOW airport,Total,:,:,:,:,:,:,:,:,:,386.0,403.0,403.0,:,403.0,:,:,:,:,:
+Annual,EDINBURGH airport,Total,:,:,:,:,:,:,:,:,:,528.0,502.0,502.0,:,502.0,:,:,:,:,:
+Annual,PRESTWICK airport,Total,:,:,:,:,:,:,:,:,:,314.0,311.0,311.0,:,311.0,:,:,:,:,:
+Annual,LONDON STANSTED airport,Total,:,:,:,:,:,:,:,:,:,1116.0,1298.0,1298.0,:,1298.0,:,:,:,:,:

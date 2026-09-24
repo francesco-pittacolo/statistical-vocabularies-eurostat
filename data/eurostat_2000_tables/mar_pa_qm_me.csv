@@ -1,0 +1,229 @@
+Time frequency,Nationality of registration of vessel,Direction of flow,Unit of measure,Maritime entity (partner),Maritime entity (reporting)\Time,Janvier-Mars 2019,Avril-Juin 2019,Jullet-Septembre 2019,Octobre-Décembre 2019,Janvier-Mars 2020,Avril-Juin 2020,Jullet-Septembre 2020,Octobre-Décembre 2020,Janvier-Mars 2021,Avril-Juin 2021,Jullet-Septembre 2021,Octobre-Décembre 2021,Janvier-Mars 2022,Avril-Juin 2022,Jullet-Septembre 2022,Octobre-Décembre 2022,Janvier-Mars 2023,Avril-Juin 2023,Jullet-Septembre 2023,Octobre-Décembre 2023
+Quarterly,Albania,Outwards,Thousand,Italy,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Albania,Outwards,Thousand,Italy,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Albania,Outwards,Thousand,Total,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Albania,Outwards,Thousand,Total,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Albania,Total,Thousand,Italy,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Albania,Total,Thousand,Italy,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Albania,Total,Thousand,Total,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Albania,Total,Thousand,Total,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Inwards,Thousand,Albania,Montenegro,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Inwards,Thousand,Albania,Bar,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Inwards,Thousand,Croatia,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Inwards,Thousand,Croatia,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Inwards,Thousand,Total,Montenegro,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Inwards,Thousand,Total,Bar,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Outwards,Thousand,Albania,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Outwards,Thousand,Albania,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Outwards,Thousand,Croatia,Montenegro,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Outwards,Thousand,Croatia,Bar,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Outwards,Thousand,Total,Montenegro,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Outwards,Thousand,Total,Bar,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Total,Thousand,Albania,Montenegro,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Total,Thousand,Albania,Bar,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Total,Thousand,Croatia,Montenegro,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Total,Thousand,Croatia,Bar,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Total,Thousand,Total,Montenegro,2.0,1.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Belgium,Total,Thousand,Total,Bar,2.0,1.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Greece,Outwards,Thousand,Albania,Montenegro,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:
+Quarterly,Greece,Outwards,Thousand,Albania,Bar,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:
+Quarterly,Greece,Outwards,Thousand,Greece,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Greece,Outwards,Thousand,Greece,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Greece,Outwards,Thousand,Total,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:
+Quarterly,Greece,Outwards,Thousand,Total,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:
+Quarterly,Greece,Total,Thousand,Albania,Montenegro,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:
+Quarterly,Greece,Total,Thousand,Albania,Bar,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:
+Quarterly,Greece,Total,Thousand,Greece,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Greece,Total,Thousand,Greece,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Greece,Total,Thousand,Total,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:
+Quarterly,Greece,Total,Thousand,Total,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:
+Quarterly,Croatia,Inwards,Thousand,Italy,Montenegro,:,1.0,9.0,1.0,:,:,0.0,:,:,0.0,2.0,0.0,:,0.0,5.0,0.0,:,:,:,:
+Quarterly,Croatia,Inwards,Thousand,Italy,Bar,:,1.0,9.0,1.0,:,:,0.0,:,:,0.0,2.0,0.0,:,0.0,5.0,0.0,:,:,:,:
+Quarterly,Croatia,Inwards,Thousand,Total,Montenegro,:,1.0,9.0,1.0,:,:,0.0,:,:,0.0,2.0,0.0,:,0.0,5.0,0.0,:,:,:,:
+Quarterly,Croatia,Inwards,Thousand,Total,Bar,:,1.0,9.0,1.0,:,:,0.0,:,:,0.0,2.0,0.0,:,0.0,5.0,0.0,:,:,:,:
+Quarterly,Croatia,Outwards,Thousand,Italy,Montenegro,:,0.0,4.0,1.0,:,:,0.0,:,:,0.0,2.0,0.0,:,0.0,5.0,1.0,:,:,:,:
+Quarterly,Croatia,Outwards,Thousand,Italy,Bar,:,0.0,4.0,1.0,:,:,0.0,:,:,0.0,2.0,0.0,:,0.0,5.0,1.0,:,:,:,:
+Quarterly,Croatia,Outwards,Thousand,Total,Montenegro,:,0.0,4.0,1.0,:,:,0.0,:,:,0.0,2.0,0.0,:,0.0,5.0,1.0,:,:,:,:
+Quarterly,Croatia,Outwards,Thousand,Total,Bar,:,0.0,4.0,1.0,:,:,0.0,:,:,0.0,2.0,0.0,:,0.0,5.0,1.0,:,:,:,:
+Quarterly,Croatia,Total,Thousand,Italy,Montenegro,:,1.0,12.0,2.0,:,:,0.0,:,:,1.0,4.0,0.0,:,1.0,10.0,1.0,:,:,:,:
+Quarterly,Croatia,Total,Thousand,Italy,Bar,:,1.0,12.0,2.0,:,:,0.0,:,:,1.0,4.0,0.0,:,1.0,10.0,1.0,:,:,:,:
+Quarterly,Croatia,Total,Thousand,Total,Montenegro,:,1.0,12.0,2.0,:,:,0.0,:,:,1.0,4.0,0.0,:,1.0,10.0,1.0,:,:,:,:
+Quarterly,Croatia,Total,Thousand,Total,Bar,:,1.0,12.0,2.0,:,:,0.0,:,:,1.0,4.0,0.0,:,1.0,10.0,1.0,:,:,:,:
+Quarterly,Italy - first register,Inwards,Thousand,Total,Montenegro,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Inwards,Thousand,Total,Bar,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Inwards,Thousand,Türkiye,Montenegro,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Inwards,Thousand,Türkiye,Bar,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Inwards,Thousand,Türkiye: Mediterranean,Montenegro,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Inwards,Thousand,Türkiye: Mediterranean,Bar,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Outwards,Thousand,Italy,Montenegro,:,:,0.0,:,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Outwards,Thousand,Italy,Bar,:,:,0.0,:,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Outwards,Thousand,Total,Montenegro,:,:,0.0,:,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Outwards,Thousand,Total,Bar,:,:,0.0,:,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Total,Thousand,Italy,Montenegro,:,:,0.0,:,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Total,Thousand,Italy,Bar,:,:,0.0,:,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Total,Thousand,Total,Montenegro,:,:,0.0,:,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Total,Thousand,Total,Bar,:,:,0.0,:,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Total,Thousand,Türkiye,Montenegro,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Total,Thousand,Türkiye,Bar,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Total,Thousand,Türkiye: Mediterranean,Montenegro,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Italy - first register,Total,Thousand,Türkiye: Mediterranean,Bar,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Liberia,Outwards,Thousand,Italy,Montenegro,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Liberia,Outwards,Thousand,Italy,Bar,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Liberia,Outwards,Thousand,Total,Montenegro,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Liberia,Outwards,Thousand,Total,Bar,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Liberia,Total,Thousand,Italy,Montenegro,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Liberia,Total,Thousand,Italy,Bar,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Liberia,Total,Thousand,Total,Montenegro,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Liberia,Total,Thousand,Total,Bar,:,:,:,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Inwards,Thousand,Croatia,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Inwards,Thousand,Croatia,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Inwards,Thousand,Italy,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Inwards,Thousand,Italy,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Inwards,Thousand,Total,Montenegro,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Inwards,Thousand,Total,Bar,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Outwards,Thousand,Greece,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Outwards,Thousand,Greece,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Outwards,Thousand,Total,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Outwards,Thousand,Total,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Outwards,Thousand,Türkiye,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Outwards,Thousand,Türkiye,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Outwards,Thousand,Türkiye: unspecified maritime coastal area,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Outwards,Thousand,Türkiye: unspecified maritime coastal area,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Total,Thousand,Greece,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Total,Thousand,Greece,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Total,Thousand,Croatia,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Total,Thousand,Croatia,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Total,Thousand,Italy,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Total,Thousand,Italy,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Total,Thousand,Total,Montenegro,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Total,Thousand,Total,Bar,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Total,Thousand,Türkiye,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Total,Thousand,Türkiye,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Total,Thousand,Türkiye: unspecified maritime coastal area,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Malta,Total,Thousand,Türkiye: unspecified maritime coastal area,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Netherlands,Outwards,Thousand,Italy,Montenegro,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Netherlands,Outwards,Thousand,Italy,Bar,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Netherlands,Outwards,Thousand,Total,Montenegro,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Netherlands,Outwards,Thousand,Total,Bar,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Netherlands,Total,Thousand,Italy,Montenegro,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Netherlands,Total,Thousand,Italy,Bar,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Netherlands,Total,Thousand,Total,Montenegro,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Netherlands,Total,Thousand,Total,Bar,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Inwards,Thousand,Albania,Montenegro,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Inwards,Thousand,Albania,Bar,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Inwards,Thousand,Total,Montenegro,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Inwards,Thousand,Total,Bar,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Outwards,Thousand,Albania,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Outwards,Thousand,Albania,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Outwards,Thousand,Algeria,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Outwards,Thousand,Algeria,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Outwards,Thousand,Montenegro,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Outwards,Thousand,Montenegro,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Outwards,Thousand,Total,Montenegro,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Outwards,Thousand,Total,Bar,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Total,Thousand,Albania,Montenegro,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Total,Thousand,Albania,Bar,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Total,Thousand,Algeria,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Total,Thousand,Algeria,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Total,Thousand,Montenegro,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Total,Thousand,Montenegro,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Total,Thousand,Total,Montenegro,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Panama,Total,Thousand,Total,Bar,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Inwards,Thousand,Greece,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Inwards,Thousand,Greece,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Inwards,Thousand,Total,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Inwards,Thousand,Total,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Outwards,Thousand,Greece,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Outwards,Thousand,Greece,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Outwards,Thousand,Croatia,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Outwards,Thousand,Croatia,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Outwards,Thousand,Total,Montenegro,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Outwards,Thousand,Total,Bar,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Total,Thousand,Greece,Montenegro,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Total,Thousand,Greece,Bar,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Total,Thousand,Croatia,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Total,Thousand,Croatia,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Total,Thousand,Total,Montenegro,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Portugal - conventional register,Total,Thousand,Total,Bar,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Inwards,Thousand,Albania,Montenegro,1.0,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Inwards,Thousand,Albania,Bar,1.0,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Inwards,Thousand,Greece,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Inwards,Thousand,Greece,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Inwards,Thousand,Croatia,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Inwards,Thousand,Croatia,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Inwards,Thousand,Italy,Montenegro,:,1.0,9.0,1.0,:,:,0.0,:,:,0.0,2.0,0.0,:,0.0,5.0,0.0,:,:,:,:
+Quarterly,Total,Inwards,Thousand,Italy,Bar,:,1.0,9.0,1.0,:,:,0.0,:,:,0.0,2.0,0.0,:,0.0,5.0,0.0,:,:,:,:
+Quarterly,Total,Inwards,Thousand,Total,Montenegro,1.0,1.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+Quarterly,Total,Inwards,Thousand,Total,Bar,1.0,1.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+Quarterly,Total,Inwards,Thousand,Türkiye,Montenegro,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Inwards,Thousand,Türkiye,Bar,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Inwards,Thousand,Türkiye: Mediterranean,Montenegro,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Inwards,Thousand,Türkiye: Mediterranean,Bar,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Inwards,Thousand,Unknown,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Total,Inwards,Thousand,Unknown,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Total,Inwards,Thousand,Total unspecified and unknown locations,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Total,Inwards,Thousand,Total unspecified and unknown locations,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Total,Outwards,Thousand,Albania,Montenegro,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Albania,Bar,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Algeria,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Algeria,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Greece,Montenegro,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Greece,Bar,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Croatia,Montenegro,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Croatia,Bar,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Italy,Montenegro,:,0.0,4.0,1.0,:,:,0.0,:,:,0.0,2.0,0.0,:,0.0,5.0,1.0,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Italy,Bar,:,0.0,4.0,1.0,:,:,0.0,:,:,0.0,2.0,0.0,:,0.0,5.0,1.0,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Montenegro,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Montenegro,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Total,Montenegro,1.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0
+Quarterly,Total,Outwards,Thousand,Total,Bar,1.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0
+Quarterly,Total,Outwards,Thousand,Türkiye,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Türkiye,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Türkiye: unspecified maritime coastal area,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Türkiye: unspecified maritime coastal area,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Outwards,Thousand,Unknown,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Total,Outwards,Thousand,Unknown,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Total,Outwards,Thousand,Total unspecified and unknown locations,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Total,Outwards,Thousand,Total unspecified and unknown locations,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Total,Total,Thousand,Albania,Montenegro,1.0,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:
+Quarterly,Total,Total,Thousand,Albania,Bar,1.0,1.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,0.0,:,:,:,:
+Quarterly,Total,Total,Thousand,Algeria,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Algeria,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Greece,Montenegro,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Greece,Bar,:,0.0,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Croatia,Montenegro,1.0,1.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Croatia,Bar,1.0,1.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Italy,Montenegro,:,1.0,12.0,2.0,:,:,0.0,:,:,1.0,4.0,0.0,:,1.0,10.0,1.0,:,:,:,:
+Quarterly,Total,Total,Thousand,Italy,Bar,:,1.0,12.0,2.0,:,:,0.0,:,:,1.0,4.0,0.0,:,1.0,10.0,1.0,:,:,:,:
+Quarterly,Total,Total,Thousand,Montenegro,Montenegro,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Montenegro,Bar,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Total,Montenegro,2.0,2.0,12.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,1.0,10.0,1.0,0.0,0.0,0.0,0.0
+Quarterly,Total,Total,Thousand,Total,Bar,2.0,2.0,12.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,1.0,10.0,1.0,0.0,0.0,0.0,0.0
+Quarterly,Total,Total,Thousand,Türkiye,Montenegro,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Türkiye,Bar,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Türkiye: Mediterranean,Montenegro,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Türkiye: Mediterranean,Bar,:,:,0.0,:,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Türkiye: unspecified maritime coastal area,Montenegro,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Türkiye: unspecified maritime coastal area,Bar,:,:,0.0,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:,:
+Quarterly,Total,Total,Thousand,Unknown,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Total,Total,Thousand,Unknown,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Total,Total,Thousand,Total unspecified and unknown locations,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Total,Total,Thousand,Total unspecified and unknown locations,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Inwards,Thousand,Total,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Inwards,Thousand,Total,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Inwards,Thousand,Unknown,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Inwards,Thousand,Unknown,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Inwards,Thousand,Total unspecified and unknown locations,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Inwards,Thousand,Total unspecified and unknown locations,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Outwards,Thousand,Total,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Outwards,Thousand,Total,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Outwards,Thousand,Unknown,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Outwards,Thousand,Unknown,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Outwards,Thousand,Total unspecified and unknown locations,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Outwards,Thousand,Total unspecified and unknown locations,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Total,Thousand,Total,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Total,Thousand,Total,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Total,Thousand,Unknown,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Total,Thousand,Unknown,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Total,Thousand,Total unspecified and unknown locations,Montenegro,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0
+Quarterly,Unknown,Total,Thousand,Total unspecified and unknown locations,Bar,:,:,:,:,0.0,0.0,0.0,0.0,0.0,:,:,:,0.0,:,:,:,0.0,0.0,0.0,0.0

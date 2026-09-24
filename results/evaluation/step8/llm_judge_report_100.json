@@ -1,0 +1,354 @@
+{
+  "n_sampled": 43,
+  "n_judged": 43,
+  "agree": 31,
+  "disagree": 12,
+  "errors": 0,
+  "agreement": 0.7209,
+  "results": [
+    {
+      "measure1": "Direct investment abroad, main components - annual data, million units of national currency",
+      "measure2": "Direct investment abroad, main components - quarterly data, million units of national currency",
+      "relation": "different_aspects",
+      "method": "automatic_learned_dimension",
+      "agree": true,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Annual earnings by quantiles and contractual working time (enterprises with 10 employed persons or more) - NACE Rev. 1.1, C-O excluding L",
+      "measure2": "Monthly earnings by quantiles and contractual working time (enterprises with 10 employed persons or more) - NACE Rev. 1.1, C-O excluding L",
+      "relation": "different_aspects",
+      "method": "automatic_learned_dimension",
+      "agree": true,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Financial derivatives and employee stock options - annual data, million units of national currency",
+      "measure2": "Financial derivatives and employee stock options - quarterly data, million units of national currency",
+      "relation": "different_aspects",
+      "method": "automatic_learned_dimension",
+      "agree": true,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Exports of goods - machinery and transport equipment",
+      "measure2": "Imports of goods - machinery and transport equipment",
+      "relation": "different_aspects",
+      "method": "automatic_learned_dimension",
+      "agree": true,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "European Union and euro area balance of payments - monthly data (BPM6)",
+      "measure2": "European Union and euro area balance of payments - quarterly data (BPM6)",
+      "relation": "different_aspects",
+      "method": "automatic_learned_dimension",
+      "agree": false,
+      "suggested_relation": "related"
+    },
+    {
+      "measure1": "Emigration by age group, sex and country of birth",
+      "measure2": "Immigration by age, sex and group of country of birth",
+      "relation": "different_aspects",
+      "method": "automatic_learned_dimension",
+      "agree": false,
+      "suggested_relation": "complementary"
+    },
+    {
+      "measure1": "Current account, main components, net balance - annual data, million units of national currency",
+      "measure2": "Current account, main components, net balance - quarterly data, million units of national currency",
+      "relation": "different_aspects",
+      "method": "automatic_learned_dimension",
+      "agree": true,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Production in services - annual data",
+      "measure2": "Production in services - monthly data",
+      "relation": "different_aspects",
+      "method": "automatic_learned_dimension",
+      "agree": true,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Conversion factors for euro fixed series into euro/ECU - monthly data",
+      "measure2": "Conversion factors for euro fixed series into euro/ECU - quarterly data",
+      "relation": "different_aspects",
+      "method": "automatic_learned_dimension",
+      "agree": true,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Turnover in industry, domestic market - annual data",
+      "measure2": "Turnover in industry, domestic market - monthly data",
+      "relation": "different_aspects",
+      "method": "automatic_learned_dimension",
+      "agree": false,
+      "suggested_relation": "subtype"
+    },
+    {
+      "measure1": "Enterprises by year of registration and by type of enterprise, NACE Rev. 2 activity and size class",
+      "measure2": "Enterprises by year of registration and by type of enterprise, NACE Rev.2 activity and size class",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_normalized_text_identity",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Average seniority of work with the same employer and NACE Rev. 2 activity",
+      "measure2": "Average seniority of work with the same employer and Nace Rev. 2 activity",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_normalized_text_identity",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "At-risk-of poverty rate",
+      "measure2": "At-risk-of-poverty rate",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_normalized_text_identity",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Body mass index (BMI) by sex, age and educational attainment level",
+      "measure2": "Body mass index (BMI) by sex, age and educational attainment level (%)",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_normalized_text_identity",
+      "agree": false,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Employed persons and employees by sex and full-time/part-time activity and NACE Rev. 2 activity",
+      "measure2": "Employed persons and employees by sex and full-time/part-time activity and Nace Rev. 2 activity",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_normalized_text_identity",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Employed persons by age groups and NACE Rev. 2 activity",
+      "measure2": "Employed persons by age groups and Nace Rev. 2 activity",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_normalized_text_identity",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Full-time and part-time employment by sex and economic activity ( NACE Rev. 1.1) (1 000)",
+      "measure2": "Full-time and part-time employment by sex and economic activity ( NACE Rev. 1.1) - 1 000",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_normalized_text_identity",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Self-reported vaccination against influenza by sex, age and educational attainment level",
+      "measure2": "Self-reported vaccination against influenza by sex, age and educational attainment level (%)",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_normalized_text_identity",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "In work at-risk-of-poverty rate",
+      "measure2": "In-work at-risk-of-poverty rate",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_normalized_text_identity",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Permanency of job (permanent or temporary) and NACE Rev. 2 activity",
+      "measure2": "Permanency of job (permanent or temporary) and Nace Rev. 2 activity",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_normalized_text_identity",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "SBS data by NUTS 2 regions (NUTS ) and NACE Rev. 1.1",
+      "measure2": "SBS data by NUTS 2 regions and NACE Rev. 2",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_token_reorder",
+      "agree": false,
+      "suggested_relation": "subtype"
+    },
+    {
+      "measure1": "Persons reporting a work-related health problem by sex, age and NACE Rev. 1.1 activity",
+      "measure2": "Persons reporting a work-related health problem by sex, age and NACE Rev. 2 activity",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_token_reorder",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Pupils from age 0 to the starting age of compulsory education at primary level by sex - % of the population of the corresponding age",
+      "measure2": "Pupils from age 3 to the starting age of compulsory education at primary level by sex - % of the population of the corresponding age",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_token_reorder",
+      "agree": false,
+      "suggested_relation": "subtype"
+    },
+    {
+      "measure1": "Mean monthly earnings by sex, size class of the enterprise and occupation",
+      "measure2": "Mean monthly earnings by size class of the enterprise, sex, occupation",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_token_reorder",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Mean annual earnings by economic activity, sex, length of service in the enterprise",
+      "measure2": "Mean annual earnings by economic activity, sex, length of service with the enterprise",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_token_reorder",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Enterprises providing training by factor limiting provision and NACE Rev. 1.1 activity - % of training enterprises",
+      "measure2": "Enterprises providing training by factor limiting provision and NACE Rev. 2 activity - % of training enterprises",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_token_reorder",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Mean annual holidays by economic activity, sex, educational attainment level",
+      "measure2": "Mean annual holidays by sex, economic activity and educational attainment level",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_token_reorder",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Monthly minimum wage as a proportion of average monthly earnings (%) - NACE Rev. 1.1",
+      "measure2": "Monthly minimum wage as a proportion of average monthly earnings (%) - NACE Rev. 2",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_token_reorder",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Gross fixed capital formation at current prices",
+      "measure2": "Gross fixed capital formation, current prices",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_token_reorder",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Air passenger transport routes between partner airports and main airports in",
+      "measure2": "Air passenger transport routes between partner airports and main airports in the",
+      "relation": "same_concept",
+      "method": "automatic_same_concept_token_reorder",
+      "agree": true,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Average number of actual weekly hours of work in main job, by sex, age, professional status, full-time/part-time and economic activity ( NACE Rev. 1.1)",
+      "measure2": "Average number of usual weekly hours of work in main job, by sex, age, professional status, full-time/part-time and economic activity ( NACE Rev. 1.1)",
+      "relation": "different_aspects",
+      "method": "automatic_structural_aspect",
+      "agree": true,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Average number of actual weekly hours of work in main job, by sex, age, professional status, full-time/part-time and economic activity ( NACE Rev. 2)",
+      "measure2": "Average number of usual weekly hours of work in main job, by sex, age, professional status, full-time/part-time and economic activity ( NACE Rev. 2)",
+      "relation": "different_aspects",
+      "method": "automatic_structural_aspect",
+      "agree": true,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Innovative enterprises whose innovation activities have been affected by legislation or regulations by subject of the regulation/legislation, type of effect, NACE Rev. 2 activity and size class",
+      "measure2": "Innovative enterprises whose innovation activities have been affected, or not affected, by legislation or regulations, by type of effect, NACE Rev.2 activity and size class",
+      "relation": "different_aspects",
+      "method": "automatic_structural_aspect",
+      "agree": true,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Enterprises by specific types of innovation, NACE Rev. 2 activity and size class",
+      "measure2": "Enterprises that introduced innovation of specific types by type of the innovation, NACE Rev. 2 activity and size class",
+      "relation": "subtype",
+      "method": "automatic_subtype",
+      "agree": false,
+      "suggested_relation": "same_concept"
+    },
+    {
+      "measure1": "Degree mobile graduates from abroad by education level, sex and country of origin",
+      "measure2": "Share of degree mobile graduates from abroad by education level, sex and country of origin",
+      "relation": "subtype",
+      "method": "automatic_subtype",
+      "agree": false,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Employed persons and employees by sex and full-time/part-time activity and Nace Rev. 2 activity",
+      "measure2": "Employed persons by full-time/part-time activity and Nace Rev. 2 activity",
+      "relation": "subtype",
+      "method": "automatic_subtype",
+      "agree": false,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Freight and mail air transport routes between partner airports and main airports in the",
+      "measure2": "Freight and mail air transport routes between partner airports and main airports in the United Kingdom",
+      "relation": "subtype",
+      "method": "automatic_subtype",
+      "agree": true,
+      "suggested_relation": "subtype"
+    },
+    {
+      "measure1": "Community design (CD) applications per million population by other typologies",
+      "measure2": "Community designs (CD) per million population by other typologies",
+      "relation": "subtype",
+      "method": "automatic_subtype",
+      "agree": true,
+      "suggested_relation": "subtype"
+    },
+    {
+      "measure1": "Community design (CD) applications by metropolitan regions",
+      "measure2": "Community designs (CD) by metropolitan regions",
+      "relation": "subtype",
+      "method": "automatic_subtype",
+      "agree": false,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Gross value added - NACE Rev. 2: K - volumes",
+      "measure2": "Gross value added - NACE Rev. 2: TOTAL - volumes",
+      "relation": "subtype",
+      "method": "automatic_subtype",
+      "agree": true,
+      "suggested_relation": "subtype"
+    },
+    {
+      "measure1": "Community design (CD) applications per billion GDP by metropolitan regions",
+      "measure2": "Community designs (CD) per billion GDP by metropolitan regions",
+      "relation": "subtype",
+      "method": "automatic_subtype",
+      "agree": false,
+      "suggested_relation": "different_aspects"
+    },
+    {
+      "measure1": "Gross value added - NACE Rev. 2: B-E - current prices",
+      "measure2": "Gross value added - NACE Rev. 2: TOTAL - current prices",
+      "relation": "subtype",
+      "method": "automatic_subtype",
+      "agree": true,
+      "suggested_relation": "subtype"
+    },
+    {
+      "measure1": "Gas prices for household consumers - bi-annual data",
+      "measure2": "Gas prices for non-household consumers - bi-annual data",
+      "relation": "subtype",
+      "method": "automatic_subtype",
+      "agree": false,
+      "suggested_relation": "different_aspects"
+    }
+  ]
+}

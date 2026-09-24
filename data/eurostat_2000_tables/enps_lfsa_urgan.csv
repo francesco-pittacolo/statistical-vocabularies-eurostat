@@ -1,0 +1,79 @@
+Time frequency,Unit of measure,Sex,Age class,Geopolitical entity (reporting)\Time,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0
+Annual,Rate,Females,From 15 to 24 years,Algeria,39.9 d,31.4 d,40.2 d,34.4 d,34.6 d,37.5 d,38.2 d,43.1 d,39.7 d,41.3 d,45.4 d,49.9 d,45.7 d,51.3,45.1,:,:,:
+Annual,Rate,Females,From 15 to 24 years,Egypt,62.2,55.2,47.9,53.9,56.1,45.8,43.7,48.8,48.6,44.0,36.5,36.6,38.4,52.0,49.4,43.5,42.6,:
+Annual,Rate,Females,From 15 to 24 years,Israel,18.6,19.1,17.0,13.4,13.6,12.9,11.4,12.7 b,10.7,11.1,9.7,9.1,7.8,7.4,7.2,8.2,8.0,6.6
+Annual,Rate,Females,From 15 to 24 years,Jordan,41.1,40.4,44.4,52.3,38.1,38.9,35.1,31.2,22.8,39.3,36.2,56.9,57.1,58.6,59.1,65.9,67.6,64.2
+Annual,Rate,Females,From 15 to 24 years,Lebanon,:,:,21.0,:,22.3,:,:,:,:,:,:,:,:,21.4 e,:,:,:,52.3 e
+Annual,Rate,Females,From 15 to 24 years,Libya,:,:,:,:,:,:,:,67.8,:,:,:,:,:,:,:,:,:,:
+Annual,Rate,Females,From 15 to 24 years,Morocco,14.9,14.1,15.5,16.1,16.2,16.1,17.4,19.2,18.2,19.1,21.4,23.3,34.3,34.3,33.4,41.2,41.9,:
+Annual,Rate,Females,From 15 to 24 years,Palestine*,46.1,43.1,42.5,49.3,47.2,49.7,54.0,62.7,65.2,63.4,56.6,61.1,67.2,69.3,67.1,70.0,64.5,57.0
+Annual,Rate,Females,From 15 to 24 years,Tunisia,29.3,30.2,30.9,31.5,30.5,32.7,45.5,35.7,37.7,:,37.0,:,:,:,34.5,36.2,40.0,36.6
+Annual,Rate,Females,From 15 to 74 years,Algeria,17.5,11.8,18.3,17.4,18.1,19.1,17.2,17.0,16.3,17.1,16.6,20.0,20.7,19.5,20.4,:,:,:
+Annual,Rate,Females,From 15 to 74 years,Egypt,25.1,24.0,18.6,19.3,22.9,22.5,22.7,24.1,24.2,24.0,24.2,23.6,23.1,21.6,21.7 d,17.7 d,16.0 d,:
+Annual,Rate,Females,From 15 to 74 years,Israel,:,:,:,:,:,:,:,7.0,6.3,5.9,5.4,5.0,4.3,4.0,3.9,4.1,4.9,3.7
+Annual,Rate,Females,From 15 to 74 years,Lebanon,:,:,:,:,:,:,:,:,:,:,:,:,:,14.3 de,:,:,:,32.7 de
+Annual,Rate,Females,From 15 to 74 years,Libya,:,:,:,:,:,14.2,:,25.0,:,:,:,:,:,:,:,:,:,:
+Annual,Rate,Females,From 15 to 74 years,Morocco,:,:,9.9,9.8,9.5,9.6,10.3,10.0,9.6,10.5,10.5,11.0,14.7,14.1,13.5,16.3,16.9,:
+Annual,Rate,Females,From 15 to 74 years,Palestine*,22.2,20.6,19.1,24.5,26.6,26.9,28.4,33.0,35.2,38.7,34.4,38.0,42.9,41.9,41.2,40.1,42.9,40.4
+Annual,Rate,Females,From 15 to 74 years,Tunisia,:,:,:,:,:,:,:,:,:,:,:,:,:,:,22.4,22.8,23.6,20.5
+Annual,Rate,Females,From 25 to 74 years,Algeria,12.2,7.0,11.0,12.9,15.7,15.6,12.5,12.6,11.9,12.9,16.8 p,16.4,17.1,15.2,17.8,:,:,:
+Annual,Rate,Females,From 25 to 74 years,Egypt,:,:,:,:,:,12.7,14.7,16.1,17.3,17.5,18.4,17.5,17.2,14.5,15.3,12.6,11.4,:
+Annual,Rate,Females,From 25 to 74 years,Israel,:,:,:,:,:,:,:,5.8,5.4,4.9,4.6,4.2,3.7,3.3,3.3,3.4,4.3,3.1
+Annual,Rate,Females,From 25 to 74 years,Jordan,17.5,15.3,18.4,16.8,17.3,14.5,14.9,13.1,14.9,13.6,15.9,16.1,23.7,19.7,19.7,23.9,23.9,24.9
+Annual,Rate,Females,From 25 to 74 years,Lebanon,:,:,:,:,:,:,:,:,:,:,:,:,:,12.4 de,:,:,:,28.3 de
+Annual,Rate,Females,From 25 to 74 years,Libya,:,:,:,:,:,:,:,21.0,:,:,:,:,:,:,:,:,:,:
+Annual,Rate,Females,From 25 to 74 years,Morocco,:,:,8.2,8.0,7.8,8.0,8.6,8.0,7.9,8.7,8.4,8.8,11.2,10.7,10.5,12.8,13.4,:
+Annual,Rate,Females,From 25 to 74 years,Palestine*,16.8,15.2,13.7,17.7,20.8,21.2,21.9,26.1,28.9,33.1,28.9,31.8,36.2,35.5,35.4,33.9,38.3,36.8
+Annual,Rate,Females,From 25 to 74 years,Tunisia,:,:,:,:,:,:,:,:,:,:,:,:,:,:,14.3,20.2,21.7,18.6
+Annual,Rate,Males,From 15 to 24 years,Algeria,29.8 d,22.9 d,25.4 d,21.7 d,19.0 d,18.6 d,19.1 d,24.0 d,21.6 d,22.1 d,26.8 d,22.3 d,24.8 d,24.6,23.6,:,:,:
+Annual,Rate,Males,From 15 to 24 years,Egypt,23.3,20.6,17.2,16.8,14.9,11.2,18.2,21.0,21.3,20.6,21.8,21.0,25.7,17.2,12.2,12.5,12.8,:
+Annual,Rate,Males,From 15 to 24 years,Israel,17.0,17.3,15.0,11.9,15.7,14.5,11.8,11.6 b,10.4,10.1,8.9,8.2,6.7,6.9,6.1,7.6,7.5,7.2
+Annual,Rate,Males,From 15 to 24 years,Jordan,38.7,35.4,34.0,32.0,30.9,32.7,36.3,35.5,34.4,36.0,32.0,31.5,31.7,34.8,36.4,41.6,45.4,43.0
+Annual,Rate,Males,From 15 to 24 years,Lebanon,:,:,22.0,:,14.6,:,:,:,:,:,:,:,:,24.5 e,:,:,:,46.1 e
+Annual,Rate,Males,From 15 to 24 years,Libya,:,:,:,:,:,:,:,40.8,:,:,:,:,:,:,:,:,:,:
+Annual,Rate,Males,From 15 to 24 years,Morocco,17.8,17.5,17.9,19.1,18.5,18.1,18.1,18.4,19.4,20.3,20.6,22.2,23.8,22.5,22.0,28.0,28.4,:
+Annual,Rate,Males,From 15 to 24 years,Palestine*,35.0,34.5,34.1,39.9,37.4,37.1,32.3,34.7,37.2,40.3,33.7,34.1,36.6,36.9,34.7,36.6,37.2,31.9
+Annual,Rate,Males,From 15 to 24 years,Tunisia,31.4,31.6,31.6,31.6,31.1,27.8,40.8,41.8,33.4,:,34.0,:,:,:,34.2,35.4,42.2,37.4
+Annual,Rate,Males,From 15 to 74 years,Algeria,14.9,14.4,12.9,10.1,8.6,8.1,8.4,9.6,8.3,9.2,9.9,8.1,9.4,9.9,9.1,:,:,:
+Annual,Rate,Males,From 15 to 74 years,Egypt,7.1,6.8,5.9,5.6,5.2,4.9,8.9,9.3,9.8,9.6,9.4,8.9,8.2,6.9,4.8 d,6.0 d,5.6 d,:
+Annual,Rate,Males,From 15 to 74 years,Israel,:,:,:,:,:,:,:,6.8,6.2,5.9,5.2,4.7,4.1,4.1,3.7,4.5,5.1,3.9
+Annual,Rate,Males,From 15 to 74 years,Lebanon,:,:,:,:,:,:,:,:,:,:,:,:,:,10.0 de,:,:,:,28.4 de
+Annual,Rate,Males,From 15 to 74 years,Libya,:,:,:,:,:,13.2,:,15.8,:,:,:,:,:,:,:,:,:,:
+Annual,Rate,Males,From 15 to 74 years,Morocco,:,:,9.9,9.6,9.0,9.0,8.5,8.7,9.2,9.8,9.5,8.9,8.8,8.2,7.9,10.8,11.0,:
+Annual,Rate,Males,From 15 to 74 years,Palestine*,23.8,24.5,22.4,27.2,24.2,23.2,19.1,20.5,20.5,24.0,20.2,20.6,21.6,22.4,21.4,22.5,22.4,20.4
+Annual,Rate,Males,From 15 to 74 years,Tunisia,:,:,:,:,:,:,:,:,:,:,:,:,:,:,12.4,13.5,15.4,13.1
+Annual,Rate,Males,From 25 to 74 years,Algeria,10.1,6.8,7.2,6.9,8.1,5.6,6.0,6.4,5.5,6.5,10.2 p,5.9,6.6,7.4,6.8,:,:,:
+Annual,Rate,Males,From 25 to 74 years,Egypt,:,:,:,:,:,2.4,5.4,4.7,5.2,4.3,4.5,4.3,4.0,4.7,3.3,4.6,4.2,:
+Annual,Rate,Males,From 25 to 74 years,Israel,:,:,:,:,:,:,:,5.9,5.4,5.1,4.4,4.0,3.7,3.5,3.3,4.0,4.7,3.3
+Annual,Rate,Males,From 25 to 74 years,Jordan,7.7,7.2,6.2,6.3,6.7,6.6,7.0,6.6,6.7,6.1,6.8,8.1,9.9,11.5,12.0,16.4,16.9,15.2
+Annual,Rate,Males,From 25 to 74 years,Lebanon,:,:,:,:,:,:,:,:,:,:,:,:,:,7.0 de,:,:,:,24.7 de
+Annual,Rate,Males,From 25 to 74 years,Libya,:,:,:,:,:,:,:,12.7,:,:,:,:,:,:,:,:,:,:
+Annual,Rate,Males,From 25 to 74 years,Morocco,:,:,7.6,6.9,6.5,6.6,6.2,6.5,7.0,7.5,7.4,6.6,6.4,6.0,5.9,8.5,8.8,:
+Annual,Rate,Males,From 25 to 74 years,Palestine*,20.5,21.4,18.7,23.2,20.2,19.0,14.9,15.7,14.9,18.4,15.7,16.2,16.6,17.8,17.3,18.7,18.3,17.1
+Annual,Rate,Males,From 25 to 74 years,Tunisia,:,:,:,:,:,:,:,:,:,:,:,:,:,:,4.9,10.4,12.5,10.5
+Annual,Rate,Total,From 15 to 24 years,Algeria,31.1 d,24.3 d,27.4 d,23.8 d,21.3 d,21.5 d,22.4 d,27.5 d,24.8 d,25.2 d,30.0 d,26.7 d,28.3 d,29.1,26.9,:,:,:
+Annual,Rate,Total,From 15 to 24 years,Egypt,34.1,29.9,24.8,25.4,25.6,19.8,24.1,27.7,28.2,26.5,26.1,25.6,29.6,24.8,19.3,17.3,17.5,:
+Annual,Rate,Total,From 15 to 24 years,Israel,17.8,18.2,16.1,12.6,14.6,13.7,11.6,12.1 b,10.5,10.6,9.3,8.6,7.3,7.2,6.7,7.9,7.8,6.9
+Annual,Rate,Total,From 15 to 24 years,Jordan,38.8,35.6,34.7,32.9,31.2,33.0,36.2,:,34.1,36.1,32.1,35.6,37.3,39.2,40.6,46.0,49.3,47.0
+Annual,Rate,Total,From 15 to 24 years,Lebanon,:,:,22.0,:,16.8,:,:,:,:,:,:,:,:,23.3 e,:,:,:,47.8 e
+Annual,Rate,Total,From 15 to 24 years,Libya,:,:,:,:,39.2,44.1,:,48.6,:,:,:,:,:,:,:,:,:,:
+Annual,Rate,Total,From 15 to 24 years,Morocco,17.0,16.6,17.2,18.3,17.9,17.6,17.9,18.6,19.1,20.0,20.8,22.5,26.5,25.6,24.9,31.2,31.8,:
+Annual,Rate,Total,From 15 to 24 years,Palestine*,36.5,35.8,35.3,41.4,39.1,39.1,35.9,39.1,41.3,44.1,37.4,38.6,41.9,42.1,40.1,42.1,41.7,36.1
+Annual,Rate,Total,From 15 to 24 years,Tunisia,30.7,31.2,31.4,31.6,30.9,29.4,42.3,37.6,34.7,:,35.0,:,:,:,34.4,35.7,41.5,37.2
+Annual,Rate,Total,From 15 to 74 years,Algeria,15.3,12.3,13.8,11.7,10.2,10.0,10.0,11.0,9.8,10.6,11.2,10.5,11.7,11.8,11.4,:,:,:
+Annual,Rate,Total,From 15 to 74 years,Egypt,11.2,10.6,8.9,8.7,9.4,9.0,12.0,12.7,13.2,13.0,12.8,12.5,11.8,10.0,7.9 d,7.9 d,7.4 d,:
+Annual,Rate,Total,From 15 to 74 years,Israel,:,:,:,:,:,:,:,6.9,6.2,5.9,5.3,4.8,4.2,4.0,3.8,4.3,5.0,3.8
+Annual,Rate,Total,From 15 to 74 years,Lebanon,:,:,:,:,:,:,:,:,:,:,:,:,:,11.4 de,:,:,:,29.6 de
+Annual,Rate,Total,From 15 to 74 years,Libya,:,:,:,:,:,13.5,:,19.0,:,:,:,:,:,:,:,:,:,:
+Annual,Rate,Total,From 15 to 74 years,Morocco,:,:,9.9,9.6,9.2,9.1,9.0,9.1,9.3,10.0,9.8,9.5,10.3,9.6,9.2,12.0,12.4,:
+Annual,Rate,Total,From 15 to 74 years,Palestine*,23.6,23.8,21.8,26.7,24.7,23.8,20.9,22.9,23.4,27.1,23.1,24.0,25.7,26.4,25.4,25.9,26.4,24.4
+Annual,Rate,Total,From 15 to 74 years,Tunisia,:,:,:,:,:,:,:,:,:,:,:,:,:,:,15.3,16.2,18.0,15.4
+Annual,Rate,Total,From 25 to 74 years,Algeria,10.5,7.0,7.8,7.9,9.4,7.3,7.2,7.5,6.8,7.7,11.5 p,8.1,8.7,9.0,9.1,:,:,:
+Annual,Rate,Total,From 25 to 74 years,Egypt,:,:,:,:,:,4.7,7.5,7.3,8.0,8.5,7.5,7.2,7.0,6.7,5.5,6.0,5.5,:
+Annual,Rate,Total,From 25 to 74 years,Israel,:,:,:,:,:,:,:,5.8,5.4,5.0,4.5,4.1,3.7,3.4,3.3,3.7,4.5,3.2
+Annual,Rate,Total,From 25 to 74 years,Jordan,9.2,8.4,8.5,8.2,8.6,8.0,8.4,7.8,8.1,7.4,8.5,9.6,12.9,13.7,13.6,18.0,18.4,17.3
+Annual,Rate,Total,From 25 to 74 years,Lebanon,:,:,:,:,:,:,:,:,:,:,:,:,:,8.6 de,:,:,:,25.6 de
+Annual,Rate,Total,From 25 to 74 years,Libya,:,:,:,:,:,:,:,15.6,:,:,:,:,:,:,:,:,:,:
+Annual,Rate,Total,From 25 to 74 years,Morocco,:,:,7.7,7.2,6.8,7.0,6.8,6.9,7.2,7.9,7.7,7.2,7.6,7.1,7.0,9.5,9.8,:
+Annual,Rate,Total,From 25 to 74 years,Palestine*,19.9,20.3,17.7,22.2,20.3,19.4,16.3,17.9,17.9,21.7,18.5,19.3,20.5,21.5,21.2,21.8,22.4,21.3
+Annual,Rate,Total,From 25 to 74 years,Tunisia,:,:,:,:,:,:,:,:,:,:,:,:,:,:,7.6,13.1,15.3,13.0

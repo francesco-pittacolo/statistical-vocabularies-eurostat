@@ -1,0 +1,28 @@
+Time frequency,Unit of measure,Aircraft category,Geopolitical entity (reporting)\Time,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0
+Annual,Number,"Business, corporate and executive aircraft",Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Number,"Business, corporate and executive aircraft",Egypt,:,:,39.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,Number,"Business, corporate and executive aircraft",Jordan,2.0,6.0,6.0,6.0,10.0,10.0,9.0,9.0,3.0,4.0,2.0,4.0,3.0,4.0
+Annual,Number,"Business, corporate and executive aircraft",Lebanon,:,:,:,:,:,:,:,:,1.0,11.0,12.0,13.0,:,:
+Annual,Number,"Business, corporate and executive aircraft",Morocco,:,70.0,93.0,93.0,93 p,93 p,:,:,:,:,:,:,:,:
+Annual,Number,"Business, corporate and executive aircraft",Tunisia,2.0,2.0,3.0,3.0,4.0,5.0,5.0,5.0,3.0,3.0,3.0,3.0,1.0,1.0
+Annual,Number,Cargo aircraft,Algeria,3.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,3.0
+Annual,Number,Cargo aircraft,Egypt,:,:,4.0,5.0,6.0,4.0,4.0,5.0,7.0,7.0,5.0,4.0,:,:
+Annual,Number,Cargo aircraft,Israel,7.0,6.0,6.0,4.0,2.0,4.0,3.0,3.0,3.0,3.0,3.0,4.0,4.0,3.0
+Annual,Number,Cargo aircraft,Jordan,4.0,5.0,4.0,4.0,4.0,4.0,3.0,3.0,2.0,2.0,2.0,1.0,0.0,0.0
+Annual,Number,Cargo aircraft,Lebanon,:,:,:,:,:,:,:,:,2.0,10.0,12.0,13.0,:,:
+Annual,Number,Cargo aircraft,Morocco,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1 p,1 p,:,:
+Annual,Number,Cargo aircraft,Palestine*,:,:,:,:,:,:,:,0.0,:,:,:,:,:,:
+Annual,Number,Cargo aircraft,Tunisia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0
+Annual,Number,Passenger aircraft,Algeria,52.0,80.0,84.0,87.0,86.0,97.0,101.0,87.0,87.0,55.0,62.0,68.0,68.0,70.0
+Annual,Number,Passenger aircraft,Egypt,:,:,41.0,72.0,95.0,100.0,99.0,98.0,108.0,109.0,104.0,154 bd,:,:
+Annual,Number,Passenger aircraft,Israel,46.0,47.0,47.0,48.0,49.0,51.0,49.0,49.0,49.0,52.0,50.0,55.0,53.0,56.0
+Annual,Number,Passenger aircraft,Jordan,22.0,27.0,28.0,41.0,43.0,51.0,52.0,50.0,50.0,52.0,43.0,40.0,48.0,48.0
+Annual,Number,Passenger aircraft,Lebanon,:,:,:,:,:,:,:,:,31.0,35.0,37.0,39.0,:,:
+Annual,Number,Passenger aircraft,Morocco,41.0,46.0,58.0,59.0,53.0,56.0,55.0,47.0,47 p,48.0,53 p,53 p,:,:
+Annual,Number,Passenger aircraft,Palestine*,3.0,3.0,3.0,:,3.0,3.0,3.0,2.0,:,:,:,:,:,:
+Annual,Number,Passenger aircraft,Tunisia,50.0,53.0,59.0,62.0,64.0,66.0,62.0,63.0,66.0,63.0,66.0,65.0,63.0,58.0
+Annual,Number,Special purpose and ambulance aircraft,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Number,Special purpose and ambulance aircraft,Jordan,3.0,4.0,4.0,4.0,3.0,2.0,2.0,2.0,2.0,3.0,2.0,2.0,2.0,3.0
+Annual,Number,Special purpose and ambulance aircraft,Lebanon,:,:,:,:,:,:,:,:,0.0,0.0,0.0,0.0,:,:
+Annual,Number,Special purpose and ambulance aircraft,Morocco,:,3.0,6.0,6.0,6 p,6 p,:,:,:,:,:,:,:,:
+Annual,Number,Special purpose and ambulance aircraft,Tunisia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,:

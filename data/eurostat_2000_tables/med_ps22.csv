@@ -1,0 +1,97 @@
+Time frequency,Indicator used in Euro_Med,Geopolitical entity (reporting)\Time,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0
+Annual,Number of compulsory schooling years (year),Algeria,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,:
+Annual,Number of compulsory schooling years (year),Egypt,9.0 d,9.0 d,9.0 d,9.0 d,9.0 d,9.0 d,9.0 d,9.0 d,9.0 d,12.0 d,12.0 d,12.0 d,12.0 d,12.0 d,:
+Annual,Number of compulsory schooling years (year),Israel,11.0,11.0,11.0,11.0,11.0,11.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,:
+Annual,Number of compulsory schooling years (year),Jordan,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,:
+Annual,Number of compulsory schooling years (year),Lebanon,6.0,6.0,6.0,:,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,:
+Annual,Number of compulsory schooling years (year),Morocco,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,:,:
+Annual,Number of compulsory schooling years (year),Palestine*,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0
+Annual,Number of compulsory schooling years (year),Tunisia,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+Annual,"School completion rate at ISCED 1, male (%)",Algeria,83.7,88.3,103.1 b,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,"School completion rate at ISCED 1, male (%)",Egypt,81.8 d,81.8 d,83.8 d,82.3 d,84.4 d,89.5 d,89.3 d,89.9 d,90.6 d,91.6 d,88.7 d,91.4 d,94.8 d,:,:
+Annual,"School completion rate at ISCED 1, male (%)",Israel,100.0 e,100.0 e,100.0 e,86.3,100.0,100.0,96.9,99.3,97.4,97.2,99.6,96.6,96.1,95.0,:
+Annual,"School completion rate at ISCED 1, male (%)",Jordan,:,97.5 i,:,:,:,:,:,:,:,:,:,96.3,96.5,97.9,:
+Annual,"School completion rate at ISCED 1, male (%)",Lebanon,76.2,87.2,81.7,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,"School completion rate at ISCED 1, male (%)",Morocco,:,:,:,71.2,73.8,81.0,85.9,86.0,89.3,86.9,86.7,90.6,92.3,:,:
+Annual,"School completion rate at ISCED 1, male (%)",Palestine*,99.6,99.6,99.2,98.3,98.4,97.9,99.9,99.3,99.6,99.5,97.6,98.7,98.4,99.1,98.0
+Annual,"School completion rate at ISCED 1, male (%)",Tunisia,81.7,83.2,85.2,:,:,:,:,:,:,:,:,:,:,91.9,:
+Annual,"School completion rate at ISCED 1, female (%)",Algeria,83.6,87.1,100.1 b,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,"School completion rate at ISCED 1, female (%)",Egypt,85.0 d,86.6 d,86.6 d,86.1 d,87.4 d,91.4 d,89.3 d,93.9 d,94.1 d,94.8 d,89.9 d,95.0 d,99.1 d,:,:
+Annual,"School completion rate at ISCED 1, female (%)",Israel,100.0 e,100.0 e,100.0 e,86.7,100.0,100.0,96.8,100.1,96.9,96.1,100.2,95.7,98.4,95.2,:
+Annual,"School completion rate at ISCED 1, female (%)",Jordan,:,99.7 i,:,:,:,:,:,:,:,:,:,97.9,99.0,97.9,:
+Annual,"School completion rate at ISCED 1, female (%)",Lebanon,88.2,93.5,91.1,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,"School completion rate at ISCED 1, female (%)",Morocco,:,:,:,73.8,77.5,83.7,86.8,86.2,90.8,88.3,87.2,88.4,89.5,:,:
+Annual,"School completion rate at ISCED 1, female (%)",Palestine*,99.4,99.4,99.3,98.5,98.6,98.2,99.9,99.9,99.6,99.6,99.2,99.1,98.1,96.9,98.6
+Annual,"School completion rate at ISCED 1, female (%)",Tunisia,87.8,88.7,89.7,:,:,:,:,:,:,:,:,:,:,95.5,:
+Annual,"School completion rate at ISCED 1, total (%)",Algeria,83.7,87.7,101.6 b,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,"School completion rate at ISCED 1, total (%)",Egypt,83.3 d,84.1 d,85.2 d,84.1 d,86.0 d,90.4 d,89.3 d,91.9 d,92.3 d,93.1 d,89.3 d,93.1 d,96.8 d,:,:
+Annual,"School completion rate at ISCED 1, total (%)",Israel,100.0 e,100.0 e,100.0 e,86.5,100.0,100.0,96.9,99.7,97.2,96.7,99.9,96.2,97.2,95.1,:
+Annual,"School completion rate at ISCED 1, total (%)",Jordan,97.3 i,98.8 i,:,:,:,:,:,:,:,:,:,97.1,97.7,97.9,:
+Annual,"School completion rate at ISCED 1, total (%)",Lebanon,80.9,91.4,86.2,:,:,:,:,:,:,:,:,:,:,:,:
+Annual,"School completion rate at ISCED 1, total (%)",Morocco,68.6,71.0,73.0,72.6,75.8,82.5,86.5,86.2,90.2,87.8,:,:,:,:,:
+Annual,"School completion rate at ISCED 1, total (%)",Palestine*,99.5,99.5,99.2,98.4,98.5,98.1,99.9,99.5,99.6,99.6,98.3,98.9,98.2,98.2,98.3
+Annual,"School completion rate at ISCED 1, total (%)",Tunisia,84.7,85.9,87.5,:,:,:,:,:,:,:,:,:,:,93.8,93.5
+Annual,"Net enrolment rate at ISCED 1, male (%)",Algeria,96.3,97.3,97.5,:,:,:,:,:,93.9,:,96.4,:,:,:,:
+Annual,"Net enrolment rate at ISCED 1, male (%)",Egypt,86.7 d,89.6 d,86.7 d,88.1 d,90.0 d,96.1 d,94.6 d,92.4 d,89.6 d,90.0 d,90.0 d,93.2 d,92.6 d,:,:
+Annual,"Net enrolment rate at ISCED 1, male (%)",Israel,92.9,92.6,92.9,92.8,97.6,94.8,94.6,95.3,94.7,94.2,94.5,94.1,93.7,93.7,:
+Annual,"Net enrolment rate at ISCED 1, male (%)",Jordan,95.9,93.0,:,:,:,:,:,:,:,:,:,85.3,85.2,86.0,:
+Annual,"Net enrolment rate at ISCED 1, male (%)",Lebanon,93.8,91.8,97.2,:,93.0,92.4,93.0,89.2,89.3 d,:,:,:,:,:,:
+Annual,"Net enrolment rate at ISCED 1, male (%)",Morocco,90.2,91.3,91.9,92.1,91.9,95.0,97.2,97.3,99.0,99.5,92.7,96.4,98.7,:,:
+Annual,"Net enrolment rate at ISCED 1, male (%)",Palestine*,76.9,73.9,75.7,90.5,92.2,91.9,95.4,94.7,97.6,95.6,96.7,98.6,99.5,98.5,98.7
+Annual,"Net enrolment rate at ISCED 1, male (%)",Tunisia,97.0,97.3,97.3,:,98.4,97.8,:,:,:,:,:,:,:,99.1 d,99.1 d
+Annual,"Net enrolment rate at ISCED 1, female (%)",Algeria,93.9,95.7,96.1,:,:,:,:,:,92.8,:,95.6,:,:,:,:
+Annual,"Net enrolment rate at ISCED 1, female (%)",Egypt,87.5 d,91.5 d,86.2 d,89.2 d,89.3 d,94.7 d,93.5 d,94.3 d,91.7 d,92.2 d,92.2 d,95.4 d,96.1 d,:,:
+Annual,"Net enrolment rate at ISCED 1, female (%)",Israel,93.4,93.2,93.6,93.5,98.5,95.6,95.4,96.1,95.4,94.9,95.2,95.0,94.6,94.6,:
+Annual,"Net enrolment rate at ISCED 1, female (%)",Jordan,97.6,96.2,:,:,:,:,:,:,:,:,:,87.6,86.1,87.1,:
+Annual,"Net enrolment rate at ISCED 1, female (%)",Lebanon,98.3,98.4,99.4,:,97.8,97.0,98.5,93.0,93.8 d,:,:,:,:,:,:
+Annual,"Net enrolment rate at ISCED 1, female (%)",Morocco,84.9,85.9,87.2,88.0,89.1,92.7,95.3,96.0,97.8,98.5,93.3,96.8,99.2,:,:
+Annual,"Net enrolment rate at ISCED 1, female (%)",Palestine*,76.8,74.1,75.5,90.2,90.6,91.3,94.5,95.9,97.1,95.9,97.7,99.4,99.5,99.1,99.0
+Annual,"Net enrolment rate at ISCED 1, female (%)",Tunisia,97.1,97.4,97.4,:,97.9,97.4,:,:,:,:,:,:,:,99.3 d,99.2 d
+Annual,"Net enrolment rate at ISCED 1, total (%)",Algeria,95.1,96.5,96.8,:,:,:,:,:,93.4,:,96.0,:,:,:,:
+Annual,"Net enrolment rate at ISCED 1, total (%)",Egypt,87.1 d,90.5 d,86.4 d,88.6 d,89.7 d,95.4 d,94.1 d,93.3 d,90.6 d,91.1 d,91.1 d,94.2 d,94.3 d,:,:
+Annual,"Net enrolment rate at ISCED 1, total (%)",Israel,93.1,92.9,93.2,93.1,98.1,95.2,95.0,95.7,95.1,94.5,94.8,94.5,94.6,94.1,:
+Annual,"Net enrolment rate at ISCED 1, total (%)",Jordan,96.7,94.6,:,:,:,:,:,:,:,:,:,86.4,85.7,86.6,:
+Annual,"Net enrolment rate at ISCED 1, total (%)",Lebanon,95.9,94.9,98.3,:,95.3,94.6,96.0,91.0,91.5 d,:,:,:,:,:,:
+Annual,"Net enrolment rate at ISCED 1, total (%)",Morocco,87.6,88.7,89.6,90.1,90.5,93.9,96.3,96.6,98.4,99.0,:,:,:,:,:
+Annual,"Net enrolment rate at ISCED 1, total (%)",Palestine*,76.9,74.0,75.6,90.3,91.4,91.6,95.0,95.3,97.4,95.7,97.2,99.0,99.5,98.8,98.9
+Annual,"Net enrolment rate at ISCED 1, total (%)",Tunisia,97.1,97.3,97.4,:,98.1,97.6,:,:,:,:,:,:,:,99.2 d,99.2 d
+Annual,"Net enrolment rate at ISCED 2, male (%)",Algeria,65.4,71.1,74.9,:,:,:,:,:,74.3,:,75.1,:,:,:,:
+Annual,"Net enrolment rate at ISCED 2, male (%)",Egypt,59.4 d,67.1 d,69.3 d,64.1 d,60.2 d,76.4 bd,79.8 d,80.4 d,77.4 d,80.8 d,80.8 d,79.9 d,78.2 d,:,:
+Annual,"Net enrolment rate at ISCED 2, male (%)",Israel,67.3,66.0,64.7,63.6,91.0 b,89.3,90.0,89.4,89.8,90.0,89.4,89.9,89.1,89.5,:
+Annual,"Net enrolment rate at ISCED 2, male (%)",Jordan,80.9,83.5,:,:,:,:,:,:,:,:,:,68.5,64.2,65.1,:
+Annual,"Net enrolment rate at ISCED 2, male (%)",Lebanon,55.9,68.7,64.9,:,61.7,60.4,60.1,58.7,61.3 d,:,:,:,:,:,:
+Annual,"Net enrolment rate at ISCED 2, male (%)",Morocco,34.8,37.4,40.9,44.0,43.3,48.7,51.8,54.8,58.0,61.0,52.3,55.7,58.1,:,:
+Annual,"Net enrolment rate at ISCED 2, male (%)",Palestine*,90.1,88.5,88.3,90.3,87.6,84.3,85.3,85.3,86.4,85.5,89.1,90.8,92.1,96.6,96.0
+Annual,"Net enrolment rate at ISCED 2, male (%)",Tunisia,79.7,80.6,86.2,:,83.0,81.3,:,:,:,:,:,:,:,93.8 d,94.0 d
+Annual,"Net enrolment rate at ISCED 2, female (%)",Algeria,70.2,75.4,78.2,:,:,:,:,:,76.8,:,79.2,:,:,:,:
+Annual,"Net enrolment rate at ISCED 2, female (%)",Egypt,62.2 d,70.5 d,71.6 d,68.6 d,63.3 d,79.3 bd,83.7 d,87.2 d,84.6 d,87.1 d,87.1 d,85.3 d,84.2 d,:,:
+Annual,"Net enrolment rate at ISCED 2, female (%)",Israel,68.7,67.3,65.9,65.3,94.1 b,92.4,92.1,92.2,92.5,92.1,91.3,92.3,91.5,92.0,:
+Annual,"Net enrolment rate at ISCED 2, female (%)",Jordan,83.3,87.3,:,:,:,:,:,:,:,:,:,80.4,77.5,78.4,:
+Annual,"Net enrolment rate at ISCED 2, female (%)",Lebanon,65.4,80.5,70.6,:,77.2,74.8,75.0,72.5,75.1 d,:,:,:,:,:,:
+Annual,"Net enrolment rate at ISCED 2, female (%)",Morocco,33.3,36.6,40.2,43.0,42.2,47.2,50.3,52.9,56.8,61.0,51.0,54.2,56.4,:,:
+Annual,"Net enrolment rate at ISCED 2, female (%)",Palestine*,92.6,90.9,89.6,93.6,91.0,89.4,89.3,89.3,90.1,89.4,92.9,94.4,95.6,99.1,98.7
+Annual,"Net enrolment rate at ISCED 2, female (%)",Tunisia,92.2,93.1,97.7,:,87.6,85.8,:,:,:,:,:,:,:,97.1 d,97.1 d
+Annual,"Net enrolment rate at ISCED 2, total (%)",Algeria,67.7,73.2,76.5,:,:,:,:,:,75.5,:,77.1,:,:,:,:
+Annual,"Net enrolment rate at ISCED 2, total (%)",Egypt,60.7 d,68.7 d,70.4 d,66.3 d,61.7 d,77.8 bd,81.7 d,83.7 d,80.9 d,83.1 d,83.8 d,82.5 d,81.1 d,:,:
+Annual,"Net enrolment rate at ISCED 2, total (%)",Israel,68.0,66.6,65.3,64.4,92.5 b,90.8,90.8,90.8,91.1,91.0,90.4,91.0,90.2,90.7,:
+Annual,"Net enrolment rate at ISCED 2, total (%)",Jordan,82.1,85.4,:,:,:,:,:,:,:,:,:,74.6,70.6,71.8,:
+Annual,"Net enrolment rate at ISCED 2, total (%)",Lebanon,60.5,74.4,69.1,:,69.0,67.1,67.1,65.1,65.9 d,:,:,:,:,:,:
+Annual,"Net enrolment rate at ISCED 2, total (%)",Morocco,34.0,37.0,40.6,43.5,42.7,48.0,51.1,53.9,57.4,61.0,:,:,:,:,:
+Annual,"Net enrolment rate at ISCED 2, total (%)",Palestine*,91.3,89.7,88.9,91.9,89.2,86.8,87.3,87.3,88.2,87.4,90.9,92.6,93.8,97.8,97.3
+Annual,"Net enrolment rate at ISCED 2, total (%)",Tunisia,85.6,86.5,91.5,:,85.3,83.6,:,:,:,:,:,:,:,95.4 d,95.5 d
+Annual,Gender parity index at ISCED 1 (ratio),Algeria,1 i,1 i,1 i,:,:,:,:,:,1 i,:,1 i,:,:,:,:
+Annual,Gender parity index at ISCED 1 (ratio),Egypt,1 di,1 di,1 di,1 di,1 di,1 di,1 di,1 di,1 di,1 di,1 di,1 di,1 di,:,:
+Annual,Gender parity index at ISCED 1 (ratio),Israel,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,:
+Annual,Gender parity index at ISCED 1 (ratio),Jordan,1 i,1 i,:,:,:,:,:,:,:,:,:,1 i,1 i,1 i,:
+Annual,Gender parity index at ISCED 1 (ratio),Lebanon,1 i,1 i,1 i,:,1 i,1 i,1 i,1 i,1 di,:,:,:,:,:,:
+Annual,Gender parity index at ISCED 1 (ratio),Morocco,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,:,:
+Annual,Gender parity index at ISCED 1 (ratio),Palestine*,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i
+Annual,Gender parity index at ISCED 1 (ratio),Tunisia,1 i,1 i,1 i,:,1 i,1 i,:,:,:,:,:,:,:,1 di,1 di
+Annual,Gender parity index at ISCED 2 (ratio),Algeria,1 i,1 i,1 i,:,:,:,:,:,1 i,:,1 i,:,:,:,:
+Annual,Gender parity index at ISCED 2 (ratio),Egypt,1 di,1 di,1 di,1 di,1 di,1 bdi,1 di,1 di,1 di,1 di,1 di,1 di,1 di,:,:
+Annual,Gender parity index at ISCED 2 (ratio),Israel,1 i,1 i,1 i,1 i,1 bi,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,:
+Annual,Gender parity index at ISCED 2 (ratio),Jordan,1 i,1 i,:,:,:,:,:,:,:,:,:,1 i,1 i,1 i,:
+Annual,Gender parity index at ISCED 2 (ratio),Lebanon,1 i,1 i,1 i,:,1 i,1 i,1 i,1 i,1 di,:,:,:,:,:,:
+Annual,Gender parity index at ISCED 2 (ratio),Morocco,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,:,:
+Annual,Gender parity index at ISCED 2 (ratio),Palestine*,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i,1 i
+Annual,Gender parity index at ISCED 2 (ratio),Tunisia,1 i,1 i,1 i,:,1 i,1 i,:,:,:,:,:,:,:,1 di,1 di

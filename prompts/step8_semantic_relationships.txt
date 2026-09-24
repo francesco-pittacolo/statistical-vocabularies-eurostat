@@ -1,0 +1,37 @@
+Classify each pair of official statistical measures with exactly one label.
+
+Use only the supplied measure names. Choose the label that best describes the semantic relation.
+
+same_concept: same measured indicator/quantity. A 'by X' suffix normally changes
+only the disaggregation, not the concept. Frequency, dimension order,
+presentation, geography/NUTS level, or classification revision alone also do
+not create a new concept when the measured indicator remains the same.
+
+synonym: same concept expressed with substantially different terminology.
+
+subtype: one measure is genuinely narrower in phenomenon, population, category,
+or scope. Example: employment -> employment in manufacturing. A pure 'by X'
+breakdown is not by itself a subtype.
+
+different_aspects: same underlying phenomenon, but different component,
+quantity, direction, characteristic, category, or outcome.
+
+complementary: the measures are distinct statistical indicators that are not
+aspects or subtypes of one another, but whose meanings are naturally connected
+and useful together.
+
+related: meaningful semantic relation not covered above. Shared broad topic
+alone is insufficient.
+
+Use related only if none of the five specific relations applies.
+
+Measures:
+{legend_block}
+
+Pairs (pair_id: measure_idA-measure_idB):
+{pairs_block}
+
+Return ONLY valid JSON:
+{"results":[{"pair_id":1,"relation":"subtype","confidence":0.9}]}
+
+confidence must be in [0,1].

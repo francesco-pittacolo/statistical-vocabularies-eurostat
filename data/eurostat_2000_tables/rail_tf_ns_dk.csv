@@ -1,0 +1,189 @@
+Time frequency,Unit of measure,Rail network segment (2005),Train category\Time,2005.0
+Annual,Number,K?Benhavn H - ?Sterport,Goods trains,0.0
+Annual,Number,K?Benhavn H - ?Sterport,Passenger trains,76650.0
+Annual,Number,?Sterport - Helgoland,Goods trains,0.0
+Annual,Number,?Sterport - Helgoland,Passenger trains,57123.0
+Annual,Number,Helgoland - Helsing?R,Goods trains,0.0
+Annual,Number,Helgoland - Helsing?R,Passenger trains,41793.0
+Annual,Number,K?Benhavn H - Kalvebod,Goods trains,0.0
+Annual,Number,K?Benhavn H - Kalvebod,Passenger trains,52743.0
+Annual,Number,Kalvebod - K?Benhavns Lufthavn,Goods trains,7118.0
+Annual,Number,Kalvebod - K?Benhavns Lufthavn,Passenger trains,49823.0
+Annual,Number,K?Benhavns Lufthavn - Drogden,Goods trains,6388.0
+Annual,Number,K?Benhavns Lufthavn - Drogden,Passenger trains,24820.0
+Annual,Number,Vigerslev - Kalvebod,Goods trains,6205.0
+Annual,Number,Vigerslev - Kalvebod,Passenger trains,0.0
+Annual,Number,Hvidovre Fj. - Vigerslev,Goods trains,4380.0
+Annual,Number,Hvidovre Fj. - Vigerslev,Passenger trains,0.0
+Annual,Number,K?Benhavn H - Hvidovre Fj.,Goods trains,0.0
+Annual,Number,K?Benhavn H - Hvidovre Fj.,Passenger trains,59860.0
+Annual,Number,Hvidovre Fj. - Roskilde,Goods trains,9673.0
+Annual,Number,Hvidovre Fj. - Roskilde,Passenger trains,59860.0
+Annual,Number,Roskilde - Ringsted,Goods trains,9125.0
+Annual,Number,Roskilde - Ringsted,Passenger trains,39968.0
+Annual,Number,Ringsted - Odense,Goods trains,8395.0
+Annual,Number,Ringsted - Odense,Passenger trains,24090.0
+Annual,Number,Roskilde - Holb?K,Goods trains,548.0
+Annual,Number,Roskilde - Holb?K,Passenger trains,11680.0
+Annual,Number,Holb?K - Kalundborg,Goods trains,548.0
+Annual,Number,Holb?K - Kalundborg,Passenger trains,8395.0
+Annual,Number,Roskilde - N?Stved Over K?Ge,Goods trains,1278.0
+Annual,Number,Roskilde - N?Stved Over K?Ge,Passenger trains,11498.0
+Annual,Number,Ringsted - N?Stved,Goods trains,730.0
+Annual,Number,Ringsted - N?Stved,Passenger trains,13505.0
+Annual,Number,N?Stved - Nyk?Bing F,Goods trains,0.0
+Annual,Number,N?Stved - Nyk?Bing F,Passenger trains,13870.0
+Annual,Number,Nyk?Bing F - R?Dby F,Goods trains,0.0
+Annual,Number,Nyk?Bing F - R?Dby F,Passenger trains,3285.0
+Annual,Number,Nyk?Bing F - Gedser,Goods trains,0.0
+Annual,Number,Nyk?Bing F - Gedser,Passenger trains,548.0
+Annual,Number,Odense - Svendborg,Goods trains,365.0
+Annual,Number,Odense - Svendborg,Passenger trains,19345.0
+Annual,Number,Odense - Snogh?J,Goods trains,8760.0
+Annual,Number,Odense - Snogh?J,Passenger trains,28470.0
+Annual,Number,Snogh?J - Fredericia,Goods trains,2920.0
+Annual,Number,Snogh?J - Fredericia,Passenger trains,21353.0
+Annual,Number,Snogh?J - Taulov,Goods trains,5658.0
+Annual,Number,Snogh?J - Taulov,Passenger trains,7118.0
+Annual,Number,Fredericia - Taulov,Goods trains,5110.0
+Annual,Number,Fredericia - Taulov,Passenger trains,14783.0
+Annual,Number,Taulov - Lunderskov,Goods trains,9855.0
+Annual,Number,Taulov - Lunderskov,Passenger trains,20805.0
+Annual,Number,Lunderskov - Tinglev,Goods trains,8213.0
+Annual,Number,Lunderskov - Tinglev,Passenger trains,8030.0
+Annual,Number,Tinglev - Padborg,Goods trains,7665.0
+Annual,Number,Tinglev - Padborg,Passenger trains,4563.0
+Annual,Number,Tinglev - S?Nderborg,Goods trains,0.0
+Annual,Number,Tinglev - S?Nderborg,Passenger trains,4015.0
+Annual,Number,Lunderskov - Bramming,Goods trains,1278.0
+Annual,Number,Lunderskov - Bramming,Passenger trains,12045.0
+Annual,Number,Bramming - Esbjerg,Goods trains,730.0
+Annual,Number,Bramming - Esbjerg,Passenger trains,20258.0
+Annual,Number,Bramming - T?Nder,Goods trains,183.0
+Annual,Number,Bramming - T?Nder,Passenger trains,11863.0
+Annual,Number,Fredericia - Vejle,Goods trains,3103.0
+Annual,Number,Fredericia - Vejle,Passenger trains,24455.0
+Annual,Number,Vejle - Skanderborg,Goods trains,2190.0
+Annual,Number,Vejle - Skanderborg,Passenger trains,14965.0
+Annual,Number,Skanderborg - -?Rhus,Goods trains,2555.0
+Annual,Number,Skanderborg - -?Rhus,Passenger trains,34310.0
+Annual,Number,-?Rhus - Lang-?,Goods trains,0.0
+Annual,Number,-?Rhus - Lang-?,Passenger trains,23908.0
+Annual,Number,Lang-? - Aalborg,Goods trains,0.0
+Annual,Number,Lang-? - Aalborg,Passenger trains,20258.0
+Annual,Number,Aalborg - Frederikshavn,Goods trains,0.0
+Annual,Number,Aalborg - Frederikshavn,Passenger trains,21535.0
+Annual,Number,-?Rhus - Hornslet,Goods trains,1643.0
+Annual,Number,-?Rhus - Hornslet,Passenger trains,22083.0
+Annual,Number,Hornslet - Gren-?,Goods trains,183.0
+Annual,Number,Hornslet - Gren-?,Passenger trains,14600.0
+Annual,Number,Skanderborg - Herning,Goods trains,0.0
+Annual,Number,Skanderborg - Herning,Passenger trains,13140.0
+Annual,Number,Herning - Skjern,Goods trains,0.0
+Annual,Number,Herning - Skjern,Passenger trains,5658.0
+Annual,Number,Lang-? - Struer,Goods trains,0.0
+Annual,Number,Lang-? - Struer,Passenger trains,8943.0
+Annual,Number,Vejle - Herning,Goods trains,548.0
+Annual,Number,Vejle - Herning,Passenger trains,9125.0
+Annual,Number,Herning - Holstebro,Goods trains,730.0
+Annual,Number,Herning - Holstebro,Passenger trains,8760.0
+Annual,Number,Holstebro - Struer,Goods trains,0.0
+Annual,Number,Holstebro - Struer,Passenger trains,13140.0
+Annual,Number,Esbjerg - Holstebro,Goods trains,1095.0
+Annual,Number,Esbjerg - Holstebro,Passenger trains,9125.0
+Annual,Number,Struer - Thisted,Goods trains,0.0
+Annual,Number,Struer - Thisted,Passenger trains,4380.0
+Annual,Number,?Sterport - K?Benhavn H,Goods trains,0.0
+Annual,Number,?Sterport - K?Benhavn H,Passenger trains,76650.0
+Annual,Number,Helgoland - ?Sterport,Goods trains,0.0
+Annual,Number,Helgoland - ?Sterport,Passenger trains,57123.0
+Annual,Number,Helsing?R - Helgoland,Goods trains,0.0
+Annual,Number,Helsing?R - Helgoland,Passenger trains,41793.0
+Annual,Number,Kalvebod - K?Benhavn H,Goods trains,0.0
+Annual,Number,Kalvebod - K?Benhavn H,Passenger trains,52743.0
+Annual,Number,K?Benhavns Lufthavn - Kalvebod,Goods trains,7118.0
+Annual,Number,K?Benhavns Lufthavn - Kalvebod,Passenger trains,49823.0
+Annual,Number,Drogden - K?Benhavns Lufthavn,Goods trains,6388.0
+Annual,Number,Drogden - K?Benhavns Lufthavn,Passenger trains,24820.0
+Annual,Number,Kalvebod - Vigerslev,Goods trains,6205.0
+Annual,Number,Kalvebod - Vigerslev,Passenger trains,0.0
+Annual,Number,Vigerslev - Hvidovre Fj.,Goods trains,4380.0
+Annual,Number,Vigerslev - Hvidovre Fj.,Passenger trains,0.0
+Annual,Number,Hvidovre Fj. - K?Benhavn H,Goods trains,0.0
+Annual,Number,Hvidovre Fj. - K?Benhavn H,Passenger trains,59860.0
+Annual,Number,Roskilde - Hvidovre Fj.,Goods trains,9673.0
+Annual,Number,Roskilde - Hvidovre Fj.,Passenger trains,59860.0
+Annual,Number,Ringsted - Roskilde,Goods trains,9125.0
+Annual,Number,Ringsted - Roskilde,Passenger trains,39968.0
+Annual,Number,Odense - Ringsted,Goods trains,8395.0
+Annual,Number,Odense - Ringsted,Passenger trains,24090.0
+Annual,Number,Holb?K - Roskilde,Goods trains,548.0
+Annual,Number,Holb?K - Roskilde,Passenger trains,11680.0
+Annual,Number,Kalundborg - Holb?K,Goods trains,548.0
+Annual,Number,Kalundborg - Holb?K,Passenger trains,8395.0
+Annual,Number,N?Stved Over K?Ge - Roskilde,Goods trains,1278.0
+Annual,Number,N?Stved Over K?Ge - Roskilde,Passenger trains,11498.0
+Annual,Number,N?Stved - Ringsted,Goods trains,730.0
+Annual,Number,N?Stved - Ringsted,Passenger trains,13505.0
+Annual,Number,Nyk?Bing F - N?Stved,Goods trains,0.0
+Annual,Number,Nyk?Bing F - N?Stved,Passenger trains,13870.0
+Annual,Number,R?Dby F - Nyk?Bing F,Goods trains,0.0
+Annual,Number,R?Dby F - Nyk?Bing F,Passenger trains,3285.0
+Annual,Number,Gedser - Nyk?Bing F,Goods trains,0.0
+Annual,Number,Gedser - Nyk?Bing F,Passenger trains,548.0
+Annual,Number,Svendborg - Odense,Goods trains,365.0
+Annual,Number,Svendborg - Odense,Passenger trains,19345.0
+Annual,Number,Snogh?J - Odense,Goods trains,8760.0
+Annual,Number,Snogh?J - Odense,Passenger trains,28470.0
+Annual,Number,Fredericia - Snogh?J,Goods trains,2920.0
+Annual,Number,Fredericia - Snogh?J,Passenger trains,21353.0
+Annual,Number,Taulov - Snogh?J,Goods trains,5658.0
+Annual,Number,Taulov - Snogh?J,Passenger trains,7118.0
+Annual,Number,Taulov - Fredericia,Goods trains,5110.0
+Annual,Number,Taulov - Fredericia,Passenger trains,14783.0
+Annual,Number,Lunderskov - Taulov,Goods trains,9855.0
+Annual,Number,Lunderskov - Taulov,Passenger trains,20805.0
+Annual,Number,Tinglev - Lunderskov,Goods trains,8213.0
+Annual,Number,Tinglev - Lunderskov,Passenger trains,8030.0
+Annual,Number,Padborg - Tinglev,Goods trains,7665.0
+Annual,Number,Padborg - Tinglev,Passenger trains,4563.0
+Annual,Number,S?Nderborg - Tinglev,Goods trains,0.0
+Annual,Number,S?Nderborg - Tinglev,Passenger trains,4015.0
+Annual,Number,Bramming - Lunderskov,Goods trains,1278.0
+Annual,Number,Bramming - Lunderskov,Passenger trains,12045.0
+Annual,Number,Esbjerg - Bramming,Goods trains,730.0
+Annual,Number,Esbjerg - Bramming,Passenger trains,20258.0
+Annual,Number,T?Nder - Bramming,Goods trains,183.0
+Annual,Number,T?Nder - Bramming,Passenger trains,11863.0
+Annual,Number,Vejle - Fredericia,Goods trains,3103.0
+Annual,Number,Vejle - Fredericia,Passenger trains,24455.0
+Annual,Number,Skanderborg - Vejle,Goods trains,2190.0
+Annual,Number,Skanderborg - Vejle,Passenger trains,14965.0
+Annual,Number,-?Rhus - Skanderborg,Goods trains,2555.0
+Annual,Number,-?Rhus - Skanderborg,Passenger trains,34310.0
+Annual,Number,Lang-? - -?Rhus,Goods trains,0.0
+Annual,Number,Lang-? - -?Rhus,Passenger trains,23908.0
+Annual,Number,Aalborg - Lang-?,Goods trains,0.0
+Annual,Number,Aalborg - Lang-?,Passenger trains,20258.0
+Annual,Number,Frederikshavn - Aalborg,Goods trains,0.0
+Annual,Number,Frederikshavn - Aalborg,Passenger trains,21535.0
+Annual,Number,Hornslet - -?Rhus,Goods trains,1643.0
+Annual,Number,Hornslet - -?Rhus,Passenger trains,22083.0
+Annual,Number,Gren-? - Hornslet,Goods trains,183.0
+Annual,Number,Gren-? - Hornslet,Passenger trains,14600.0
+Annual,Number,Herning - Skanderborg,Goods trains,0.0
+Annual,Number,Herning - Skanderborg,Passenger trains,13140.0
+Annual,Number,Skjern - Herning,Goods trains,0.0
+Annual,Number,Skjern - Herning,Passenger trains,5658.0
+Annual,Number,Struer - Lang-?,Goods trains,0.0
+Annual,Number,Struer - Lang-?,Passenger trains,8943.0
+Annual,Number,Herning - Vejle,Goods trains,548.0
+Annual,Number,Herning - Vejle,Passenger trains,9125.0
+Annual,Number,Holstebro - Herning,Goods trains,730.0
+Annual,Number,Holstebro - Herning,Passenger trains,8760.0
+Annual,Number,Struer - Holstebro,Goods trains,0.0
+Annual,Number,Struer - Holstebro,Passenger trains,13140.0
+Annual,Number,Holstebro - Esbjerg,Goods trains,1095.0
+Annual,Number,Holstebro - Esbjerg,Passenger trains,9125.0
+Annual,Number,Thisted - Struer,Goods trains,0.0
+Annual,Number,Thisted - Struer,Passenger trains,4380.0

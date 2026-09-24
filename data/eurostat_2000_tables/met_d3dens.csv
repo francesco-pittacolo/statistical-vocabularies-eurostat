@@ -1,0 +1,366 @@
+Time frequency,Metropolitan regions\Time,2018.0,2019.0,2020.0,2021.0,2022.0,2023.0
+Annual,Albania,:,:,:,101 e,99 e,98 e
+Annual,Non-metropolitan regions in Albania,:,:,:,101 e,99 e,98 e
+Annual,Austria,107.0,107.0,108.0,108.0,109.0,110.0
+Annual,Wien,333.0,335.0,337.0,339.0,341.0,349.0
+Annual,Graz,184.0,185.0,187.0,188.0,190.0,192.0
+Annual,Linz,184.0,185.0,186.0,187.0,188.0,190.0
+Annual,Salzburg,216.0,217.0,219.0,220.0,221.0,223.0
+Annual,Innsbruck,149.0,150.0,150.0,150.0,151.0,152.0
+Annual,Non-metropolitan regions in Austria,62.0,62.0,62.0,62.0,63.0,63.0
+Annual,Belgium,374.0,376.0,378.0,379.0,382.0,386.0
+Annual,Bruxelles / Brussel,944.0,951.0,959.0,683 b,687.0,697.0
+Annual,Antwerpen,1091.0,1097.0,1104.0,1107.0,1112.0,1127.0
+Annual,Gent,504.0,507.0,510.0,512.0,515.0,521.0
+Annual,Charleroi,772.0,773.0,774.0,257 b,258.0,259.0
+Annual,Liège,601.0,602.0,604.0,450 b,451.0,453.0
+Annual,Namur,:,:,:,275.0,277.0,279.0
+Annual,Non-metropolitan regions in Belgium,254.0,255.0,256.0,265 b,266.0,269.0
+Annual,Bulgaria,64.0,64.0,63.0,63.0,62.0,59 b
+Annual,Sofia,156.0,156.0,156.0,155.0,155.0,151 b
+Annual,Plovdiv,113.0,113.0,113.0,113.0,112.0,107 b
+Annual,Varna,125.0,125.0,124.0,124.0,124.0,114 b
+Annual,Burgas,54.0,54.0,54.0,54.0,54.0,50 b
+Annual,Non-metropolitan regions in Bulgaria,47.0,46.0,46.0,45.0,44.0,41 b
+Annual,Switzerland,213.0,214.0,216.0,218.0,219.0,221.0
+Annual,Zürich,910.0,920.0,931.0,939.0,946.0,955.0
+Annual,Genève,2038.0,2055.0,2075.0,2084.0,2096.0,2116.0
+Annual,Basel,524.0,526.0,527.0,529.0,531.0,535.0
+Annual,Bern,177.0,178.0,179.0,179.0,180.0,181.0
+Annual,Lausanne,281.0,283.0,286.0,289.0,292.0,295.0
+Annual,St. Gallen,:,:,:,260.0,262.0,266.0
+Annual,Lucerne,:,:,:,276.0,278.0,281.0
+Annual,Non-metropolitan regions in Switzerland,145.0,146.0,147.0,130 b,131.0,132.0
+Annual,Cyprus,94.0,95.0,96.0,97.0,98.0,100.0
+Annual,Lefkosia,94.0,95.0,96.0,97.0,98.0,100.0
+Annual,Czechia,137.0,138.0,139.0,136 b,136.0,140.0
+Annual,Praha,236.0,239.0,242.0,235 b,238.0,250.0
+Annual,Brno,168.0,169.0,170.0,168 b,168.0,173.0
+Annual,Ostrava,227.0,226.0,226.0,223 b,222.0,224.0
+Annual,Plzen,77.0,78.0,78.0,77 b,77.0,80.0
+Annual,Non-metropolitan regions in Czech Republic,108.0,108.0,108.0,107 b,106.0,109.0
+Annual,Germany (until 1990 former territory of the FRG),234.0,235.0,235.0,235.0,236.0,239.0
+Annual,Berlin,307.0,310.0,312.0,313.0,314.0,320.0
+Annual,Hamburg,466.0,469.0,471.0,473.0,474.0,482.0
+Annual,München,537.0,542.0,545.0,546.0,547.0,555.0
+Annual,Köln,1249.0,1254.0,1256.0,1253.0,1248.0,1262.0
+Annual,Frankfurt am Main,629.0,633.0,638.0,639.0,639.0,649.0
+Annual,Stuttgart,761.0,764.0,766.0,764.0,763.0,772.0
+Annual,Leipzig,266.0,268.0,269.0,270.0,271.0,276.0
+Annual,Dresden,235.0,235.0,235.0,235.0,234.0,236.0
+Annual,Düsseldorf,1321.0,1324.0,1327.0,1325.0,1325.0,1341.0
+Annual,Bremen,218.0,218.0,218.0,219.0,219.0,222.0
+Annual,Hannover,447.0,448.0,448.0,448.0,448.0,454.0
+Annual,Nürnberg,459.0,462.0,463.0,463.0,463.0,471.0
+Annual,Bielefeld,1284.0,1289.0,1290.0,1288.0,1290.0,1306.0
+Annual,Halle an der Saale,276.0,276.0,275.0,274.0,274.0,277.0
+Annual,Magdeburg,122.0,122.0,121.0,120.0,120.0,122.0
+Annual,Wiesbaden,466.0,466.0,466.0,467.0,467.0,473.0
+Annual,Göttingen,153.0,153.0,152.0,151.0,151.0,153.0
+Annual,Darmstadt,582.0,585.0,587.0,586.0,585.0,593.0
+Annual,Freiburg im Breisgau,299.0,300.0,301.0,302.0,303.0,308.0
+Annual,Regensburg,184.0,186.0,187.0,187.0,188.0,191.0
+Annual,Schwerin,65.0,65.0,65.0,65.0,65.0,66.0
+Annual,Erfurt,185.0,185.0,184.0,184.0,183.0,185.0
+Annual,Augsburg,338.0,341.0,343.0,344.0,346.0,351.0
+Annual,Bonn,722.0,724.0,727.0,727.0,729.0,738.0
+Annual,Karlsruhe,611.0,613.0,613.0,611.0,611.0,618.0
+Annual,Mönchengladbach,1542.0,1538.0,1535.0,1527.0,1535.0,1579.0
+Annual,Mainz,619.0,624.0,627.0,625.0,627.0,635.0
+Annual,Ruhrgebiet,1172.0,1172.0,1172.0,1169.0,1168.0,1180.0
+Annual,Kiel,200.0,200.0,200.0,200.0,201.0,203.0
+Annual,Saarbrücken,522.0,520.0,518.0,517.0,516.0,521.0
+Annual,Koblenz,361.0,362.0,362.0,362.0,363.0,368.0
+Annual,Rostock,119.0,119.0,120.0,120.0,120.0,121.0
+Annual,Kaiserslautern,204.0,204.0,204.0,204.0,204.0,207.0
+Annual,Iserlohn,391.0,390.0,388.0,387.0,385.0,388.0
+Annual,Flensburg,136.0,137.0,138.0,138.0,139.0,141.0
+Annual,Konstanz,369.0,371.0,372.0,373.0,374.0,380.0
+Annual,Gießen,313.0,315.0,317.0,318.0,320.0,327.0
+Annual,Bayreuth,125.0,125.0,125.0,125.0,125.0,125.0
+Annual,Aschaffenburg,254.0,255.0,255.0,256.0,256.0,259.0
+Annual,Neubrandenburg,51.0,51.0,50.0,50.0,50.0,51.0
+Annual,Rosenheim,222.0,223.0,224.0,224.0,225.0,228.0
+Annual,Offenburg,231.0,233.0,234.0,235.0,236.0,240.0
+Annual,Görlitz,125.0,124.0,123.0,122.0,121.0,121.0
+Annual,Schweinfurt,135.0,136.0,135.0,135.0,136.0,137.0
+Annual,Wetzlar,239.0,238.0,238.0,238.0,238.0,242.0
+Annual,Braunschweig-Salzgitter-Wolfsburg,242.0,243.0,243.0,243.0,244.0,247.0
+Annual,Mannheim-Ludwigshafen,588.0,591.0,593.0,593.0,594.0,601.0
+Annual,Münster,377.0,378.0,379.0,380.0,382.0,386.0
+Annual,Aachen,789.0,791.0,793.0,793.0,793.0,801.0
+Annual,Lübeck,269.0,270.0,269.0,269.0,270.0,272.0
+Annual,Kassel,313.0,313.0,314.0,313.0,313.0,318.0
+Annual,Osnabrück,233.0,233.0,234.0,234.0,235.0,238.0
+Annual,Oldenburg (Oldenburg),223.0,224.0,225.0,226.0,227.0,230.0
+Annual,Heidelberg,609.0,610.0,611.0,609.0,610.0,618.0
+Annual,Paderborn,246.0,248.0,248.0,249.0,250.0,253.0
+Annual,Würzburg,166.0,166.0,167.0,166.0,167.0,168.0
+Annual,Bremerhaven,147.0,147.0,147.0,147.0,148.0,150.0
+Annual,Heilbronn,389.0,392.0,393.0,395.0,395.0,402.0
+Annual,Ulm,248.0,250.0,251.0,252.0,254.0,258.0
+Annual,Pforzheim,480.0,483.0,484.0,485.0,485.0,492.0
+Annual,Ingolstadt,173.0,174.0,175.0,176.0,177.0,180.0
+Annual,Reutlingen,262.0,263.0,263.0,263.0,264.0,267.0
+Annual,Siegen,229.0,230.0,229.0,228.0,228.0,230.0
+Annual,Hildesheim,230.0,230.0,229.0,229.0,228.0,231.0
+Annual,Zwickau,337.0,335.0,332.0,329.0,326.0,328.0
+Annual,Wuppertal,2105.0,2109.0,2114.0,2113.0,2111.0,2136.0
+Annual,Düren,281.0,282.0,283.0,284.0,286.0,290.0
+Annual,Bocholt,261.0,261.0,262.0,262.0,263.0,267.0
+Annual,Non-metropolitan regions in Germany,138 e,138 e,138 e,138.0,138.0,139.0
+Annual,Denmark,138.0,138.0,139.0,139.0,140.0,141.0
+Annual,København,768.0,773.0,778.0,782.0,787.0,798.0
+Annual,Århus,154.0,155.0,156.0,157.0,159.0,161.0
+Annual,Odense,145.0,146.0,146.0,146.0,147.0,148.0
+Annual,Aalborg,76.0,76.0,76.0,77.0,77.0,77.0
+Annual,Non-metropolitan regions in Denmark,79.0,79.0,79.0,79.0,79.0,80.0
+Annual,Estonia,30.0,30.0,31.0,31.0,31.0,32.0
+Annual,Tallinn,136.0,138.0,140.0,143.0,144.0,149.0
+Annual,Non-metropolitan regions in Estonia,19.0,19.0,18.0,18.0,18.0,19.0
+Annual,Greece,83.0,82.0,82.0,82.0,80 b,80.0
+Annual,Athina,1284.0,1279.0,1277.0,1274.0,1307 b,1302.0
+Annual,Thessaloniki,311.0,311.0,311.0,308.0,307 b,307.0
+Annual,Non-metropolitan regions in Greece,49.0,49.0,49.0,49.0,46 b,46.0
+Annual,Spain,93.0,93.0,94.0,94.0,94.0,96.0
+Annual,Madrid,822.0,833.0,846.0,847.0,849.0,862.0
+Annual,Barcelona,715.0,723.0,730.0,731.0,731.0,751.0
+Annual,Valencia,236.0,236.0,239.0,240.0,241.0,247.0
+Annual,Sevilla,140.0,140.0,141.0,141.0,141.0,141.0
+Annual,Zaragoza,56.0,57.0,57.0,57.0,56.0,57.0
+Annual,Málaga - Marbella,227.0,229.0,232.0,234.0,236.0,241.0
+Annual,Murcia - Cartagena,131.0,132.0,133.0,134.0,135.0,137.0
+Annual,Las Palmas,553.0,556.0,559.0,561.0,563.0,555.0
+Annual,Valladolid,64.0,64.0,64.0,64.0,64.0,64.0
+Annual,Palma de Mallorca,250.0,254.0,259.0,261.0,262.0,259.0
+Annual,Vitoria/Gasteiz,108.0,109.0,110.0,109.0,109.0,112.0
+Annual,Oviedo - Gijón,97.0,97.0,96.0,96.0,95.0,95.0
+Annual,Pamplona/Iruña,62.0,63.0,63.0,64.0,64.0,65.0
+Annual,Santander,110.0,110.0,111.0,111.0,111.0,112.0
+Annual,Bilbao,515.0,516.0,518.0,517.0,514.0,523.0
+Annual,Córdoba,58.0,58.0,58.0,57.0,57.0,57.0
+Annual,Alicante/Alacant - Elche/Elx,320.0,323.0,327.0,329.0,330.0,339.0
+Annual,Vigo,211.0,211.0,212.0,211.0,211.0,212.0
+Annual,Santa Cruz de Tenerife,460.0,468.0,476.0,479.0,482.0,467.0
+Annual,A Coruña,142.0,142.0,142.0,142.0,142.0,142.0
+Annual,Granada,73.0,73.0,73.0,74.0,74.0,74.0
+Annual,Guipúzcoa,360.0,361.0,363.0,363.0,362.0,368.0
+Annual,Cádiz,171.0,171.0,172.0,172.0,172.0,172.0
+Annual,Non-metropolitan regions in Spain,35.0,35.0,36.0,36.0,36.0,36.0
+Annual,Finland,18.0,18.0,18.0,18.0,18.0,18.0
+Annual,Helsinki,182.0,184.0,186.0,187.0,188.0,191.0
+Annual,Tampere,41.0,41.0,41.0,41.0,42.0,42.0
+Annual,Turku,45.0,45.0,45.0,45.0,45.0,46.0
+Annual,Non-metropolitan regions in Finland,11 e,10 e,10 e,10.0,10.0,10.0
+Annual,France,106.0,106.0,106.0,107 p,107 p,108 p
+Annual,Paris,1022.0,1025.0,1028.0,1033 p,1032 p,1037 p
+Annual,Lyon,576.0,580.0,583.0,588 p,591 p,594 p
+Annual,Toulouse,218.0,221.0,223.0,227 p,230 p,232 p
+Annual,Strasbourg,238.0,240.0,241.0,242 p,244 p,245 p
+Annual,Bordeaux,162.0,164.0,165.0,168 p,169 p,171 p
+Annual,Nantes,207.0,209.0,211.0,214 p,217 p,218 p
+Annual,Lille - Dunkerque - Valenciennes,455.0,455.0,454.0,455 p,455 p,456 p
+Annual,Montpellier,191.0,193.0,195.0,198 p,201 p,202 p
+Annual,Saint-Etienne,160.0,161.0,161.0,161 p,162 p,162 p
+Annual,Rennes,157.0,158.0,159.0,161 p,163 p,164 p
+Annual,Amiens,93.0,93.0,93.0,92 p,92 p,92 p
+Annual,Rouen,201.0,200.0,200.0,200 p,200 p,201 p
+Annual,Nancy,140.0,140.0,140.0,140 p,139 p,139 p
+Annual,Reims,70.0,70.0,69.0,69 p,69 p,69 p
+Annual,Orléans,100.0,101.0,101.0,101 p,101 p,102 p
+Annual,Dijon,61.0,61.0,61.0,61 p,61 p,61 p
+Annual,Poitiers,62.0,62.0,63.0,63 p,63 p,63 p
+Annual,Clermont-Ferrand,82.0,83.0,83.0,84 p,83 p,83 p
+Annual,Caen,124.0,124.0,124.0,124 p,125 p,126 p
+Annual,Limoges,67.0,67.0,67.0,67 p,67 p,67 p
+Annual,Besançon,103.0,104.0,104.0,104 p,105 p,105 p
+Annual,Grenoble,162.0,162.0,163.0,164 p,165 p,166 p
+Annual,Fort-de-France,335.0,331.0,327.0,323 p,320 p,321 p
+Annual,Tours,100.0,100.0,100.0,100 p,101 p,101 p
+Annual,Angers,114.0,114.0,114.0,115 p,115 p,116 p
+Annual,Brest,135.0,135.0,135.0,136 p,137 p,137 p
+Annual,Le Mans,91.0,91.0,90.0,91 p,91 p,91 p
+Annual,Mulhouse,218.0,218.0,218.0,219 p,219 p,219 p
+Annual,Perpignan,117.0,117.0,117.0,118 p,120 p,121 p
+Annual,Nimes,129.0,129.0,129.0,130 p,130 p,132 p
+Annual,Pau,89.0,89.0,89.0,90 p,91 p,92 p
+Annual,Annecy (FR) / Genève (CH),179.0,180.0,182.0,184 p,187 p,188 p
+Annual,Marseille,288.0,289.0,290.0,293 p,294 p,296 p
+Annual,Nice,253.0,253.0,254.0,257 p,258 p,260 p
+Annual,Les Abymes,:,:,:,243 p,243 p,244 p
+Annual,Non-metropolitan regions in France,54.0,54.0,54.0,53 bp,53 p,54 p
+Annual,Croatia,73.0,73.0,73.0,72.0,69 b,69.0
+Annual,Zagreb,253.0,253.0,254.0,254.0,242 b,243.0
+Annual,Split,100.0,99.0,99.0,99.0,94 b,94.0
+Annual,Non-metropolitan regions in Croatia,52.0,51.0,51.0,50.0,48 b,48.0
+Annual,Hungary,107.0,107.0,107.0,107.0,106.0,105 b
+Annual,Budapest,443.0,446.0,449.0,447.0,446.0,442 b
+Annual,Miskolc,90.0,89.0,89.0,88.0,87.0,87 b
+Annual,Pécs,83.0,82.0,82.0,81.0,81.0,81 b
+Annual,Debrecen,87.0,87.0,86.0,86.0,86.0,85 b
+Annual,Székesfehérvár,97.0,97.0,98.0,98.0,98.0,98 b
+Annual,Non-metropolitan regions in Hungary,77.0,77.0,76.0,76.0,76.0,75 b
+Annual,Ireland,70.0,71 e,72.0,73.0,74.0,77.0
+Annual,Dublin,266.0,271 e,275.0,278.0,281.0,293.0
+Annual,Cork,57.0,58 e,59.0,59.0,60.0,62.0
+Annual,Non-metropolitan regions in Ireland,42.0,43 e,43.0,44.0,44.0,46.0
+Annual,Iceland,3.0,4.0,4.0,4.0,4.0,4.0
+Annual,Non-metropolitan regions in Iceland,3.0,4.0,4.0,4.0,4.0,4.0
+Annual,Italy,203.0,201 b,200.0,199.0,198.0,198.0
+Annual,Roma,825.0,807 b,806.0,801.0,799.0,801.0
+Annual,Milano,1588.0,1591 b,1598.0,1589.0,1580.0,1586.0
+Annual,Napoli,2641.0,2596 b,2585.0,2544.0,2545.0,2539.0
+Annual,Torino,334.0,330 b,329.0,327.0,326.0,325.0
+Annual,Palermo,253.0,247 b,245.0,243.0,243.0,242.0
+Annual,Genova,461.0,454 b,451.0,450.0,446.0,446.0
+Annual,Firenze,290.0,286 b,285.0,286.0,283.0,283.0
+Annual,Bari,326.0,320 b,319.0,319.0,318.0,317.0
+Annual,Bologna,275.0,277 b,278.0,276.0,275.0,276.0
+Annual,Catania,311.0,302 b,301.0,301.0,302.0,301.0
+Annual,Venezia,442.0,441 b,440.0,437.0,434.0,433.0
+Annual,Verona,317.0,317 b,318.0,319.0,318.0,318.0
+Annual,Perugia,:,:,:,104.0,103.0,103.0
+Annual,Taranto,237.0,232 b,231.0,230.0,229.0,228.0
+Annual,Cagliari,125.0,123 b,123.0,350 b,351.0,349.0
+Annual,Padova,446.0,444 b,444.0,444.0,442.0,443.0
+Annual,Brescia,278.0,277 b,277.0,277.0,276.0,277.0
+Annual,Messina,194.0,190 b,188.0,185.0,185.0,184.0
+Annual,Prato,702.0,703 b,704.0,727.0,707.0,710.0
+Annual,Parma,131.0,132 b,133.0,131.0,131.0,132.0
+Annual,Reggio nell Emilia,233.0,232 b,232.0,231.0,230.0,231.0
+Annual,Bergamo,410.0,409 b,409.0,407.0,407.0,408.0
+Annual,Non-metropolitan regions in Italy,138.0,137 b,136.0,135 b,134.0,134.0
+Annual,Liechtenstein,241.0,243.0,245.0,247.0,249.0,251.0
+Annual,Non-metropolitan regions in Liechtenstein,241.0,243.0,245.0,247.0,249.0,251.0
+Annual,Lithuania,45.0,45.0,45.0,45.0,45.0,46.0
+Annual,Vilnius,85.0,86.0,87.0,88.0,87.0,90.0
+Annual,Kaunas,72.0,72.0,72.0,72.0,73.0,74.0
+Annual,Non-metropolitan regions in Lithuania,32.0,31.0,31.0,31.0,31.0,31.0
+Annual,Luxembourg,233.0,237.0,242.0,245.0,250.0,256.0
+Annual,Luxembourg,233.0,237.0,242.0,245.0,250.0,256.0
+Annual,Latvia,31.0,30.0,30.0,30.0,30.0,30.0
+Annual,Riga,99.0,98.0,98.0,97.0,97.0,98.0
+Annual,Non-metropolitan regions in Latvia,17.0,17.0,17.0,17.0,17.0,17.0
+Annual,Montenegro,46.0,46.0,46.0,46.0,45.0,:
+Annual,Non-metropolitan regions in Montenegro,46.0,46.0,46.0,46.0,45.0,:
+Annual,North Macedonia,83.0,83.0,83.0,83.0,74 b,:
+Annual,Non-metropolitan regions in North Macedonia,83.0,83.0,83.0,83.0,74 b,:
+Annual,Malta,1520.0,1577.0,1644.0,1649.0,1664 p,1732.0
+Annual,Valletta,1808.0,1878.0,1960.0,1965.0,1984 p,2048.0
+Annual,Non-metropolitan regions in Malta,481.0,491.0,506.0,508.0,513 p,591.0
+Annual,Netherlands,503.0,506.0,509.0,511.0,515.0,521.0
+Annual,s' Gravenhage,2647.0,2672.0,2705.0,2717.0,2743.0,2786.0
+Annual,Amsterdam,774.0,781.0,789.0,792.0,799.0,811.0
+Annual,Rotterdam,1085.0,1092.0,1101.0,1085.0,1092.0,1105.0
+Annual,Utrecht,922.0,930.0,939.0,969.0,975.0,988.0
+Annual,Eindhoven,528.0,532.0,537.0,540.0,544.0,553.0
+Annual,Tilburg,523.0,527.0,532.0,542.0,547.0,554.0
+Annual,Groningen,287.0,288.0,289.0,297.0,299.0,302.0
+Annual,Enschede,418.0,419.0,420.0,421.0,422.0,425.0
+Annual,Arnhem - Nijmegen,809.0,812.0,817.0,819.0,824.0,833.0
+Annual,Breda,511.0,513.0,515.0,516.0,518.0,524.0
+Annual,Leeuwarden,207.0,207.0,208.0,205.0,206.0,208.0
+Annual,Leiden,1490.0,1499.0,1510.0,1514.0,1525.0,1545.0
+Annual,Zwolle,256.0,258.0,260.0,262.0,264.0,268.0
+Annual,Non-metropolitan regions in Netherlands,314.0,315.0,317.0,317.0,319.0,322.0
+Annual,Norway,17.0,17.0,17.0,15.0,15.0,15.0
+Annual,Oslo,254.0,258.0,262.0,1636 b,1643.0,1664.0
+Annual,Bergen,42.0,42.0,43.0,20 b,20.0,20.0
+Annual,Trondheim,:,:,:,12.0,12.0,12.0
+Annual,Stavanger,:,:,:,56.0,57.0,57.0
+Annual,Non-metropolitan regions in Norway,11.0,11.0,11.0,:,11.0,11.0
+Annual,Poland,124.0,124.0,124.0,123 ep,123 ep,120 b
+Annual,Warszawa,503.0,508.0,513.0,515.0,517.0,544 b
+Annual,Lódz,431.0,429.0,428.0,425.0,421.0,416 b
+Annual,Kraków,341.0,343.0,346.0,348.0,349.0,355 b
+Annual,Wroclaw,2224.0,2233.0,2243.0,2246.0,2247.0,2347 b
+Annual,Poznan,231.0,233.0,235.0,236.0,237.0,244 b
+Annual,Gdansk,286.0,288.0,291.0,292.0,293.0,297 b
+Annual,Szczecin,1723.0,1720.0,1720.0,1710.0,1696.0,1659 b
+Annual,Bydgoszcz - Torún,271.0,271.0,271.0,271.0,269.0,261 b
+Annual,Lublin,170.0,170.0,170.0,169.0,169.0,163 b
+Annual,Katowice,493.0,491.0,489.0,486.0,482.0,462 b
+Annual,Bialystok,99.0,99.0,99.0,99.0,99.0,95 b
+Annual,Kielce,151.0,150.0,150.0,148.0,147.0,139 b
+Annual,Olsztyn,61.0,61.0,61.0,60.0,60.0,57 b
+Annual,Rzeszów,177.0,178.0,179.0,180.0,180.0,174 b
+Annual,Opole,111.0,110.0,110.0,110.0,109.0,106 b
+Annual,Czestochowa,169.0,168.0,167.0,166.0,164.0,158 b
+Annual,Radom,107.0,106.0,106.0,105.0,104.0,99 b
+Annual,Bielsko-Biala,286.0,286.0,287.0,286.0,285.0,279 b
+Annual,Tarnów,176.0,176.0,175.0,175.0,173.0,165 b
+Annual,Non-metropolitan regions in Poland,85.0,84.0,84.0,84.0,83.0,80 b
+Annual,Portugal,113.0,113.0,113.0,113.0,114 bp,115.0
+Annual,Lisboa,1008.0,1013.0,1019.0,1021.0,1021 bp,1032.0
+Annual,Porto,848.0,850.0,853.0,852.0,858 bp,875.0
+Annual,Coimbra,102.0,101.0,101.0,101.0,102 bp,102.0
+Annual,Non-metropolitan regions in Portugal,65.0,64.0,64.0,64.0,65 bp,65.0
+Annual,Romania,83.0,83.0,83 e,82.0,81 e,81 e
+Annual,Bucuresti,1313.0,1320.0,1324 e,1327 e,1293 e,1306 e
+Annual,Cluj-Napoca,106.0,107.0,107 e,107 e,103 e,104 e
+Annual,Timisoara,81.0,82.0,82 e,82 e,75 e,76 e
+Annual,Craiova,87.0,86.0,85 e,85 e,82 e,82 e
+Annual,Constanta,100.0,100.0,100 e,99 e,97 e,98 e
+Annual,Iasi,147.0,147.0,147 e,147 e,142 e,143 e
+Annual,Galati,117.0,115.0,114 e,113 e,113 e,113 e
+Annual,Brasov,103.0,104.0,104 e,104 e,103 e,104 e
+Annual,Ploiesti,155.0,153.0,152 e,150 e,148 e,148 e
+Annual,Non-metropolitan regions in Romania,65.0,64.0,64 e,63 e,64 e,63 e
+Annual,Sweden,25.0,25.0,25.0,25.0,26.0,26.0
+Annual,Stockholm,354.0,359.0,364.0,367.0,370.0,374.0
+Annual,Göteborg,71.0,72.0,73.0,73.0,73.0,74.0
+Annual,Malmö,123.0,124.0,126.0,127.0,128.0,129.0
+Annual,Uppsala,45.0,46.0,47.0,47.0,48.0,49.0
+Annual,Non-metropolitan regions in Sweden,12.0,12.0,12.0,13.0,13.0,13.0
+Annual,Slovenia,103.0,103.0,104.0,105.0,105.0,105.0
+Annual,Ljubljana,233.0,236.0,239.0,239.0,238.0,241.0
+Annual,Maribor,150.0,151.0,152.0,153.0,153.0,153.0
+Annual,Non-metropolitan regions in Slovenia,77.0,77.0,77.0,78.0,78.0,78.0
+Annual,Slovakia,112.0,112.0,112.0,112.0,112.0,111.0
+Annual,Bratislava,322.0,326.0,331.0,335.0,358.0,360.0
+Annual,Kosice,119.0,119.0,120.0,120.0,116.0,116.0
+Annual,Non-metropolitan regions in Slovakia,100.0,100.0,100.0,100.0,98.0,98.0
+Annual,Türkiye,105.0,107.0,108.0,109.0,110.0,111.0
+Annual,Non-metropolitan regions in Türkiye,105.0,107.0,108.0,109.0,110.0,111.0
+Annual,United Kingdom,273.0,275.0,:,:,:,:
+Annual,London,1423.0,1435.0,:,:,:,:
+Annual,West Midlands urban area,3170.0,3187.0,:,:,:,:
+Annual,Leeds,195.0,196.0,:,:,:,:
+Annual,Glasgow,502.0,504.0,:,:,:,:
+Annual,Bradford,1463.0,1467.0,:,:,:,:
+Annual,Liverpool,1393.0,1398.0,:,:,:,:
+Annual,Edinburgh,518.0,523.0,:,:,:,:
+Annual,Manchester,824.0,828.0,:,:,:,:
+Annual,Cardiff,747.0,750.0,:,:,:,:
+Annual,Sheffield,1576.0,1587.0,:,:,:,:
+Annual,Bristol,864.0,873.0,:,:,:,:
+Annual,Belfast,441.0,443.0,:,:,:,:
+Annual,Newcastle upon Tyne,216.0,217.0,:,:,:,:
+Annual,Leicester,455.0,459.0,:,:,:,:
+Annual,Aberdeen,76.0,76.0,:,:,:,:
+Annual,Cambridge,213.0,215.0,:,:,:,:
+Annual,Exeter,120.0,121.0,:,:,:,:
+Annual,Portsmouth,2450.0,2460.0,:,:,:,:
+Annual,Coventry,447.0,452.0,:,:,:,:
+Annual,Kingston upon Hull,242.0,243.0,:,:,:,:
+Annual,Stoke-on-Trent,415.0,417.0,:,:,:,:
+Annual,Nottingham,4393.0,4417.0,:,:,:,:
+Annual,Kirklees,839.0,842.0,:,:,:,:
+Annual,Doncaster,690.0,693.0,:,:,:,:
+Annual,Sunderland,2027.0,2027.0,:,:,:,:
+Annual,Medway,1442.0,1448.0,:,:,:,:
+Annual,Brighton and Hove,3496.0,3520.0,:,:,:,:
+Annual,Plymouth,3297.0,3302.0,:,:,:,:
+Annual,Swansea,495.0,497.0,:,:,:,:
+Annual,Derby,3310.0,3317.0,:,:,:,:
+Annual,Southampton,308.0,309.0,:,:,:,:
+Annual,Northampton,291.0,293.0,:,:,:,:
+Annual,Bournemouth,3131.0,3138.0,:,:,:,:
+Annual,Colchester,382.0,385.0,:,:,:,:
+Annual,Blackburn - Blackpool - Preston,577.0,577.0,:,:,:,:
+Annual,Middlesbrough,948.0,950.0,:,:,:,:
+Annual,Oxford,262.0,264.0,:,:,:,:
+Annual,Norwich,482.0,484.0,:,:,:,:
+Annual,Cheshire West and Chester,339.0,341.0,:,:,:,:
+Annual,Ipswich,199.0,200.0,:,:,:,:
+Annual,Non-metropolitan regions in United Kingdom,117.0,117.0,:,:,:,:

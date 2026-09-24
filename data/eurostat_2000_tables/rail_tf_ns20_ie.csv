@@ -1,0 +1,61 @@
+Time frequency,Rail network segment (2020),Train category,Unit of measure\Time,2020.0
+Annual,Connolly - Belfast,Passenger trains,Number,10155.0
+Annual,Pearse - Enfield,Passenger trains,Number,10144.0
+Annual,Heuston - Ballina/Westport,Passenger trains,Number,3900.0
+Annual,Connolly - Rosslare,Passenger trains,Number,1435.0
+Annual,Connolly - Sligo,Passenger trains,Number,2160.0
+Annual,Heuston - Galway,Passenger trains,Number,3636.0
+Annual,Heuston - Portlaoise,Passenger trains,Number,5901.0
+Annual,Heuston - Waterford,Passenger trains,Number,2125.0
+Annual,Heuston - Cork,Passenger trains,Number,4212.0
+Annual,Heuston - Ennis,Passenger trains,Number,1145.0
+Annual,Heuston - Tralee,Passenger trains,Number,2373.0
+Annual,Limerick - Ballybrophy,Passenger trains,Number,402.0
+Annual,Limerick Junction - Rosslare,Passenger trains,Number,350.0
+Annual,Cork - Cobh,Passenger trains,Number,14814.0
+Annual,Malahide - Greystones,Passenger trains,Number,10343.0
+Annual,Howth - Greystones,Passenger trains,Number,17689.0
+Annual,Waterford - Westport,Goods trains,Number,140.0
+Annual,Sligo - Waterford,Goods trains,Number,0.0
+Annual,Platin - Waterford,Goods trains,Number,0.0
+Annual,Limerick - Cork,Goods trains,Number,0.0
+Annual,Limerick - Kilmastulla,Goods trains,Number,0.0
+Annual,Wellington Bridge - Mallow,Goods trains,Number,0.0
+Annual,Tara Mines - North Wall,Goods trains,Number,508.0
+Annual,North Wall - Claremorris,Goods trains,Number,92.0
+Annual,North Wall - Kilkenny,Goods trains,Number,0.0
+Annual,North Wall - Cork,Goods trains,Number,0.0
+Annual,North Wall - Dundalk,Goods trains,Number,0.0
+Annual,Limerick - Galway,Passenger trains,Number,6499.0
+Annual,Docklands - Enfield,Passenger trains,Number,5830.0
+Annual,Docklands - Newbridge,Passenger trains,Number,4219.0
+Annual,Belfast - Connolly,Passenger trains,Number,10155.0
+Annual,Enfield - Pearse,Passenger trains,Number,10144.0
+Annual,Ballina/Westport - Heuston,Passenger trains,Number,3900.0
+Annual,Rosslare - Connolly,Passenger trains,Number,1435.0
+Annual,Sligo - Connolly,Passenger trains,Number,2160.0
+Annual,Galway - Heuston,Passenger trains,Number,3636.0
+Annual,Portlaoise - Heuston,Passenger trains,Number,5901.0
+Annual,Waterford - Heuston,Passenger trains,Number,2125.0
+Annual,Cork - Heuston,Passenger trains,Number,4212.0
+Annual,Ennis - Heuston,Passenger trains,Number,1145.0
+Annual,Tralee - Heuston,Passenger trains,Number,2373.0
+Annual,Ballybrophy - Limerick,Passenger trains,Number,402.0
+Annual,Rosslare - Limerick Junction,Passenger trains,Number,350.0
+Annual,Cobh - Cork,Passenger trains,Number,14814.0
+Annual,Greystones - Malahide,Passenger trains,Number,10093.0
+Annual,Greystones - Howth,Passenger trains,Number,16190.0
+Annual,Westport - Waterford,Goods trains,Number,140.0
+Annual,Waterford - Sligo,Goods trains,Number,0.0
+Annual,Waterford - Platin,Goods trains,Number,0.0
+Annual,Cork - Limerick,Goods trains,Number,0.0
+Annual,Kilmastulla - Limerick,Goods trains,Number,0.0
+Annual,Mallow - Wellington Bridge,Goods trains,Number,0.0
+Annual,North Wall - Tara Mines,Goods trains,Number,508.0
+Annual,Claremorris - North Wall,Goods trains,Number,92.0
+Annual,Kilkenny - North Wall,Goods trains,Number,0.0
+Annual,Cork - North Wall,Goods trains,Number,0.0
+Annual,Dundalk - North Wall,Goods trains,Number,0.0
+Annual,Galway - Limerick,Passenger trains,Number,6499.0
+Annual,Enfield - Docklands,Passenger trains,Number,5830.0
+Annual,Newbridge - Docklands,Passenger trains,Number,4219.0

@@ -1,0 +1,89 @@
+Time frequency,Rail network segment (2020),Train category,Unit of measure\Time,2020.0
+Annual,Luxembourg - Ettelbruck,Goods trains,Number,95.0
+Annual,Luxembourg - Ettelbruck,Passenger trains,Number,20715.0
+Annual,Ettelbruck - Troisvierges Frt,Goods trains,Number,65.0
+Annual,Ettelbruck - Troisvierges Frt,Passenger trains,Number,9951.0
+Annual,Ettelbruck - Diekirch,Goods trains,Number,0.0
+Annual,Ettelbruck - Diekirch,Passenger trains,Number,9373.0
+Annual,Kautenbach - Wiltz,Goods trains,Number,0.0
+Annual,Kautenbach - Wiltz,Passenger trains,Number,8964.0
+Annual,Ettelbruck - Bissen,Goods trains,Number,2.0
+Annual,Ettelbruck - Bissen,Passenger trains,Number,0.0
+Annual,Luxembourg - Oetrange,Goods trains,Number,2.0
+Annual,Luxembourg - Oetrange,Passenger trains,Number,16714.0
+Annual,Oetrange - Wasserbillig Frt,Goods trains,Number,1905.0
+Annual,Oetrange - Wasserbillig Frt,Passenger trains,Number,15567.0
+Annual,Luxembourg - Berchem Est,Goods trains,Number,262.0
+Annual,Luxembourg - Berchem Est,Passenger trains,Number,577.0
+Annual,Berchem - Oetrange,Goods trains,Number,1903.0
+Annual,Berchem - Oetrange,Passenger trains,Number,571.0
+Annual,Luxembourg - Kleinbettingen Frt,Goods trains,Number,661.0
+Annual,Luxembourg - Kleinbettingen Frt,Passenger trains,Number,15071.0
+Annual,Luxembourg - Bettembourg,Goods trains,Number,1940.0
+Annual,Luxembourg - Bettembourg,Passenger trains,Number,32293.0
+Annual,Bettembourg - Bettembourg Frt,Goods trains,Number,1932.0
+Annual,Bettembourg - Bettembourg Frt,Passenger trains,Number,13733.0
+Annual,Bettembourg - Volmerange (F),Goods trains,Number,0.0
+Annual,Bettembourg - Volmerange (F),Passenger trains,Number,12369.0
+Annual,Bettembourg - Petange,Goods trains,Number,3113.0
+Annual,Bettembourg - Petange,Passenger trains,Number,18568.0
+Annual,Noertzange - Rumelange,Goods trains,Number,1017.0
+Annual,Noertzange - Rumelange,Passenger trains,Number,1382.0
+Annual,Tetange - Langengrund,Goods trains,Number,863.0
+Annual,Tetange - Langengrund,Passenger trains,Number,0.0
+Annual,Esch/Alzette - Audun-Le Tiche (F),Goods trains,Number,0.0
+Annual,Esch/Alzette - Audun-Le Tiche (F),Passenger trains,Number,7834.0
+Annual,Luxembourg - Petange,Goods trains,Number,406.0
+Annual,Luxembourg - Petange,Passenger trains,Number,15597.0
+Annual,Petange - Rodange,Goods trains,Number,1357.0
+Annual,Petange - Rodange,Passenger trains,Number,25838.0
+Annual,Rodange - Rodange Frt (B1) (Athus),Goods trains,Number,332.0
+Annual,Rodange - Rodange Frt (B1) (Athus),Passenger trains,Number,11812.0
+Annual,Rodange - Rodange Frt (B2) (Aubange),Goods trains,Number,884.0
+Annual,Rodange - Rodange Frt (B2) (Aubange),Passenger trains,Number,0.0
+Annual,Rodange - Rodange Frt (F1),Goods trains,Number,0.0
+Annual,Rodange - Rodange Frt (F1),Passenger trains,Number,3646.0
+Annual,Ettelbruck - Luxembourg,Goods trains,Number,82.0
+Annual,Ettelbruck - Luxembourg,Passenger trains,Number,20795.0
+Annual,Troisvierges Frt - Ettelbruck,Goods trains,Number,51.0
+Annual,Troisvierges Frt - Ettelbruck,Passenger trains,Number,9999.0
+Annual,Diekirch - Ettelbruck,Goods trains,Number,0.0
+Annual,Diekirch - Ettelbruck,Passenger trains,Number,9342.0
+Annual,Wiltz - Kautenbach,Goods trains,Number,0.0
+Annual,Wiltz - Kautenbach,Passenger trains,Number,8574.0
+Annual,Bissen - Ettelbruck,Goods trains,Number,31.0
+Annual,Bissen - Ettelbruck,Passenger trains,Number,0.0
+Annual,Oetrange - Luxembourg,Goods trains,Number,1.0
+Annual,Oetrange - Luxembourg,Passenger trains,Number,16054.0
+Annual,Wasserbillig Frt - Oetrange,Goods trains,Number,1815.0
+Annual,Wasserbillig Frt - Oetrange,Passenger trains,Number,15910.0
+Annual,Berchem Est - Luxembourg,Goods trains,Number,267.0
+Annual,Berchem Est - Luxembourg,Passenger trains,Number,575.0
+Annual,Oetrange - Berchem,Goods trains,Number,1809.0
+Annual,Oetrange - Berchem,Passenger trains,Number,534.0
+Annual,Kleinbettingen Frt - Luxembourg,Goods trains,Number,680.0
+Annual,Kleinbettingen Frt - Luxembourg,Passenger trains,Number,15407.0
+Annual,Bettembourg - Luxembourg,Goods trains,Number,2043.0
+Annual,Bettembourg - Luxembourg,Passenger trains,Number,31873.0
+Annual,Bettembourg Frt - Bettembourg,Goods trains,Number,1860.0
+Annual,Bettembourg Frt - Bettembourg,Passenger trains,Number,13836.0
+Annual,Volmerange (F) - Bettembourg,Goods trains,Number,0.0
+Annual,Volmerange (F) - Bettembourg,Passenger trains,Number,11906.0
+Annual,Petange - Bettembourg,Goods trains,Number,3270.0
+Annual,Petange - Bettembourg,Passenger trains,Number,18625.0
+Annual,Rumelange - Noertzange,Goods trains,Number,1013.0
+Annual,Rumelange - Noertzange,Passenger trains,Number,1390.0
+Annual,Langengrund - Tetange,Goods trains,Number,879.0
+Annual,Langengrund - Tetange,Passenger trains,Number,0.0
+Annual,Audun-Le Tiche (F) - Esch/Alzette,Goods trains,Number,0.0
+Annual,Audun-Le Tiche (F) - Esch/Alzette,Passenger trains,Number,8101.0
+Annual,Petange - Luxembourg,Goods trains,Number,428.0
+Annual,Petange - Luxembourg,Passenger trains,Number,15362.0
+Annual,Rodange - Petange,Goods trains,Number,1439.0
+Annual,Rodange - Petange,Passenger trains,Number,26259.0
+Annual,Rodange Frt (B1) (Athus) - Rodange,Goods trains,Number,303.0
+Annual,Rodange Frt (B1) (Athus) - Rodange,Passenger trains,Number,11566.0
+Annual,Rodange Frt (B2) (Aubange) - Rodange,Goods trains,Number,955.0
+Annual,Rodange Frt (B2) (Aubange) - Rodange,Passenger trains,Number,0.0
+Annual,Rodange Frt (F1) - Rodange,Goods trains,Number,0.0
+Annual,Rodange Frt (F1) - Rodange,Passenger trains,Number,3642.0

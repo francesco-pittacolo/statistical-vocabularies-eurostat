@@ -1,0 +1,65 @@
+Time frequency,Unit of measure,Vehicles,Geopolitical entity (reporting)\Time,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0
+Annual,Thousand,Passenger cars,Algeria,1906.0,2043.0,2228.0,2462.0,2593.0,2691.0,2856.0,3050.0,3268.0,3483.0,3655.2,3872.7,3984.2,4151.0
+Annual,Thousand,Passenger cars,Israel,1652.0,1711.0,1805.0,1902.0,1971.0,2077.0,2188.0,2269.0,2362.0,2480.0,2607.0,2751.0,2881.3,3003.5
+Annual,Thousand,Passenger cars,Jordan,496.0 d,560.2 d,626.7 d,693.5 d,765.0 d,844.1 d,911.8 d,982.2 d,1007.0 d,1079.2 d,1148.6 d,1225.5 d,1295.6,1339.3
+Annual,Thousand,Passenger cars,Lebanon,:,:,1029.3,1101.5,1203.7,1367.1,1446.9,1479.7 e,1513.3 e,1547.6 e,:,:,:,:
+Annual,Thousand,Passenger cars,Libya,:,:,:,:,:,86.0,:,:,:,:,:,:,:,:
+Annual,Thousand,Passenger cars,Morocco,1477.3 de,1551.5 de,1642.3 de,1741.2 de,1864.8 de,1976.2 de,2083.7 de,2202.7 de,2314.8 de,2423.6 de,2531.8 dp,2670.6 dp,2808.8 dp,2950.1 dp
+Annual,Thousand,Passenger cars,Palestine*,104.8 d,90.2 d,59.8 d,74.7 d,100.4 d,143.5 d,110.0 d,176.8 d,115.7 d,131.0 d,143.1 d,167.0 d,190.5 d,221.0 d
+Annual,Thousand,Passenger cars,Tunisia,671.3,707.1,746.7,786.8,828.0,884.5,924.6,983.5,1038.1,1095.0,1153.2,1209.8,:,:
+Annual,Thousand,Passenger cars - diesel,Algeria,254.0,313.0,380.0,444.0,478.0,506.0,551.0,591.0,632.0,681.5,729.0,772.0,819.2,921.7
+Annual,Thousand,Passenger cars - diesel,Israel,67.0,70.0,74.0,78.0,79.0,82.0,87.0,93.0,103.0,110.0,119.0,131.0,147.6,169.4
+Annual,Thousand,Passenger cars - diesel,Jordan,68.0 d,77.2 d,83.7 d,90.2 d,92.2 d,94.5 d,102.1 d,104.0 d,108.8 d,117.7 d,129.2 d,138.8 d,145.2,151.2
+Annual,Thousand,Passenger cars - diesel,Lebanon,:,:,:,0.0 d,0.0 d,0.0 d,0.0 d,0.0 d,0.0 d,0.0 d,:,:,:,:
+Annual,Thousand,Passenger cars - diesel,Tunisia,169.4,180.0,190.0,202.4,214.9,227.7,238.7,258.0,273.5,288.0,302.1,316.0,:,:
+Annual,Thousand,Passenger cars - electric,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Annual,Thousand,Passenger cars - electric,Israel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0.6,0.7
+Annual,Thousand,Passenger cars - electric,Jordan,0.0 d,0.0 d,0.0 d,0.0 d,1.0 d,11.0 d,11.9 d,14.2 d,28.0 d,50.5 d,74.2 d,106.5 d,149.4,182.3
+Annual,Thousand,Passenger cars - electric,Lebanon,:,:,:,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,:,:,:
+Annual,Thousand,Passenger cars - electric,Tunisia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,:,:,:,:,:
+Annual,Thousand,Passenger cars - petrol,Algeria,1652.0,1730.0,1848.0,2018.0,2115.0,2185.0,2305.0,2459.0,2636.0,2801.6,2926.2,3100.7,3165.0,3229.3
+Annual,Thousand,Passenger cars - petrol,Israel,1584.0,1639.0,1728.0,1810.0,1887.0,1988.0,2094.0,2167.0,2247.0,2369.0,2487.0,2619.0,2733.1,2833.4
+Annual,Thousand,Passenger cars - petrol,Jordan,428.0 d,483.0 d,543.0 d,603.3 d,671.8 d,738.6 d,797.8 d,864.0 d,870.2 d,911.0 d,945.1 d,980.2 d,1001.0,1005.7
+Annual,Thousand,Passenger cars - petrol,Lebanon,:,:,1029.3,1101.5,1203.7,1367.1,1446.9,1479.7 e,1513.3 e,1547.6 e,:,:,:,:
+Annual,Thousand,Passenger cars - petrol,Tunisia,500.2,524.5,552.9,581.2,610.6,653.3,682.0,721.9,760.7,802.5,847.0,894.0,:,:
+Annual,Thousand,Lorries,Algeria,966.0,1010.0,1064.0,1141.0,1184.0,1217.0,1275.0,1332.0,1410.0,1480.3,1542.7,1592.0,1607.9,1626.2
+Annual,Thousand,Lorries,Egypt,668.2,705.5,724.8,761.0,832.1,866.3,906.7,942.8,985.5,1046.0,1136.0,1210.0,1259.0,:
+Annual,Thousand,Lorries,Israel,347.0,350.2,353.9,354.0,345.7,342.2,342.7,336.4,329.2,321.6,316.1,313.9,310.6,304.6
+Annual,Thousand,Lorries,Jordan,106.9 d,113.7 d,120.2 d,125.5 d,135.5 d,131.4 d,133.7 d,140.2 d,139.2 d,144.6 d,151.7 d,159.6 d,165.5,170.2
+Annual,Thousand,Lorries,Lebanon,:,:,:,121.3,135.4,124.4,133.5,110.6 e,91.6 e,75.9 e,:,:,:,:
+Annual,Thousand,Lorries,Palestine*,26.3 d,22.8 d,15.8 d,19.8 d,20.3 d,34.3 d,25.0 d,34.3 d,21.5 d,24.3 d,24.7 d,29.2 d,30.3 d,25.3 d
+Annual,Thousand,Lorries,Tunisia,299.6,310.6,322.3,334.2,348.2,364.3,378.8,398.2,415.2,436.4,457.1,481.3,:,:
+Annual,Thousand,Semi-trailers,Israel,7.0,7.0,7.0,8.0,8.0,8.0,9.0,9.0,9.0,10.0,10.0,11.0,11.7,12.3
+Annual,Thousand,Semi-trailers,Jordan,14.0 d,16.2 d,17.2 d,18.0 d,19.8 d,20.9 d,21.3 d,23.4 d,22.9 d,23.9 d,24.9 d,26.0 d,26.9,27.4
+Annual,Thousand,Semi-trailers,Palestine*,0.0 d,0.0 d,0.0 d,0.0 d,0.0 d,0.0 d,0.0 d,0.0 d,0.0 d,0.0 d,0.0 d,0.0 d,0.0 d,0.0 d
+Annual,Thousand,Semi-trailers,Tunisia,18.6,19.4,20.4,21.7,23.0,24.8,26.3,28.6,30.2,31.7,32.9,34.0,:,:
+Annual,Thousand,All vehicles (except trailers and motorcycles),Algeria,2987.0 d,3173.2 d,3420.6 d,3743.9 d,3924.2 d,4062.0 d,4291.0 d,4548.4 d,4852.2 d,5145.3 d,5389.3 d,5679.6 d,5849.0 d,6099.3 d
+Annual,Thousand,All vehicles (except trailers and motorcycles),Egypt,2793.2 d,3007.5 d,3151.8 d,3366.0 d,3650.1 d,4104.3 d,4448.7 d,4532.8 d,4818.5 d,5153.0 d,5571.0 d,5937.0 d,6379.0 d,:
+Annual,Thousand,All vehicles (except trailers and motorcycles),Israel,2108.9,2176.1,2283.8,2412.1,2480.0,2587.3,2704.4,2782.5,2873.9,2989.1,3116.2,3264.3,3398.9,3521.6
+Annual,Thousand,All vehicles (except trailers and motorcycles),Jordan,631.8 d,707.1 d,783.1 d,860.6 d,946.1 d,1020.3 d,1092.3 d,1173.5 d,1195.1 d,1275.0 d,1352.9 d,1439.4 d,1538.4,1588.9
+Annual,Thousand,All vehicles (except trailers and motorcycles),Lebanon,:,:,1154.9 d,1234.5 d,1352.1 d,1503.7 d,1593.6 d,1601.3 de,1614.0 de,1631.1 de,1651.9 d,1675.9 d,:,:
+Annual,Thousand,All vehicles (except trailers and motorcycles),Libya,:,:,:,:,:,1866.0,:,:,:,:,:,:,:,:
+Annual,Thousand,All vehicles (except trailers and motorcycles),Morocco,2013.1 de,2122.5 de,2258.7 de,2409.4 de,2596.1 de,2759.7 de,2920.3 de,3088.3 de,3242.9 de,3388.6 de,3559.1 dp,3747.9 dp,4056.6 dp,4311.8 dp
+Annual,Thousand,All vehicles (except trailers and motorcycles),Palestine*,135.4 d,116.6 d,76.7 d,96.7 d,123.6 d,182.5 d,138.6 d,217.0 d,140.7 d,159.5 d,172.1 d,201.3 d,228.2 d,254.3 d
+Annual,Thousand,All vehicles (except trailers and motorcycles),Tunisia,990.6 d,1038.4 d,1090.7 d,1143.8 d,1200.1 d,1274.5 d,1330.7 d,1410.6 d,1483.3 d,1562.8 d,1642.8 d,1725.1 d,:,:
+Annual,Thousand,Road tractors,Algeria,51.0,53.0,56.0,60.0,63.0,66.0,68.0,70.0,72.0,74.7,82.3,82.8,85.5,87.2
+Annual,Thousand,Road tractors,Israel,4.1,4.2,4.4,4.7,4.7,5.0,5.2,5.4,5.8,6.1,6.5,7.1,7.7,8.1
+Annual,Thousand,Road tractors,Jordan,12.6 d,14.4 d,15.3 d,19.1 d,21.8 d,19.4 d,20.4 d,22.6 d,20.5 d,21.1 d,21.3 d,21.7 d,21.9,22.0
+Annual,Thousand,Road tractors,Libya,:,:,:,:,:,41.0,:,:,:,:,:,:,:,:
+Annual,Thousand,Road tractors,Palestine*,2.5 d,2.0 d,0.1 d,0.8 d,0.6 d,1.9 d,1.2 d,1.8 d,1.4 d,1.0 d,1.0 d,1.0 d,1.0 d,1.0 d
+Annual,Thousand,Road tractors,Tunisia,10.7,11.0,11.6,12.2,13.0,14.1,14.8,16.2,16.9,17.6,18.2,18.6,:,:
+Annual,Thousand,Trailers,Algeria,100.0 d,103.0 d,107.0 d,112.0 d,116.0 d,120.0 d,123.0 d,126.0 d,129.0 d,134.0 d,139.2 d,147.6 d,151.5 d,154.2 d
+Annual,Thousand,Trailers,Egypt,59.5,61.0,56.9,70.2,62.9,70.9,75.0,77.6,68.7,71.0,76.0,93.0,92.5,:
+Annual,Thousand,Trailers,Israel,35.0,37.0,40.0,44.0,48.0,52.0,56.0,60.0,64.0,69.0,74.0,79.0,84.8,89.8
+Annual,Thousand,Trailers,Jordan,0.4 d,0.4 d,0.4 d,0.4 d,0.6 d,0.5 d,0.4 d,0.5 d,0.5 d,0.5 d,0.5 d,0.6 d,0.6,0.7
+Annual,Thousand,Trailers,Libya,:,:,:,:,:,53.0,:,:,:,:,:,:,:,:
+Annual,Thousand,Trailers,Palestine*,0.5 d,0.5 d,0.0 d,0.3 d,0.3 d,0.8 d,0.9 d,1.8 d,1.3 d,1.2 d,1.5 d,2.1 d,2.9 d,3.4 d
+Annual,Thousand,Trailers,Tunisia,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.6,2.6,2.6,2.6,2.7,:,:
+Annual,Thousand,Goods road vehicles,Algeria,1117.0 d,1166.0 d,1227.0 d,1313.0 d,1363.0 d,1403.0 d,1466.0 d,1528.0 d,1611.0 d,1689.0 d,1764.2 d,1822.4 d,1844.9 d,1867.6 d
+Annual,Thousand,Goods road vehicles,Egypt,727.7,766.5,781.7,831.2,895.0,937.2,981.7,1020.4,1054.2,1117.0,1212.0,1303.0,1351.0,:
+Annual,Thousand,Goods road vehicles,Israel,414.4,419.7,427.2,432.0,428.0,428.5,434.1,432.7,431.5,430.7,431.0,436.0,440.6,441.0
+Annual,Thousand,Goods road vehicles,Jordan,133.9 d,144.7 d,153.1 d,163.0 d,177.7 d,172.2 d,175.8 d,186.7 d,183.1 d,190.2 d,198.5 d,207.8 d,228.0,233.8
+Annual,Thousand,Goods road vehicles,Libya,:,:,:,:,:,402.0,:,:,:,:,:,:,:,:
+Annual,Thousand,Goods road vehicles,Morocco,506.4 de,540.9 de,585.7 de,621.6 de,684.3 de,735.7 de,787.9 de,836.2 de,878.2 d,914.4 d,1015.2 dp,1065.3 dp,1117.6 dp,1170.1 dp
+Annual,Thousand,Goods road vehicles,Palestine*,29.3 d,25.3 d,15.9 d,20.9 d,21.1 d,37.0 d,27.2 d,37.9 d,24.2 d,26.5 d,27.2 d,32.3 d,34.2 d,29.7 d
+Annual,Thousand,Goods road vehicles,Tunisia,331.4 d,343.5 d,356.8 d,370.6 d,386.7 d,405.7 d,422.4 d,445.6 d,464.9 d,488.3 d,510.8 d,536.6 d,:,:

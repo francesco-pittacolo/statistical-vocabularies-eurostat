@@ -1,0 +1,103 @@
+{
+  "learned_substitutions": {
+    "annual <-> quarterly": {
+      "support": 9,
+      "unique_contexts": 9,
+      "term_similarity": 0.569430947303772,
+      "context_similarity": 0.16561948853615516
+    },
+    "annual <-> monthly": {
+      "support": 7,
+      "unique_contexts": 5,
+      "term_similarity": 0.5705235004425049,
+      "context_similarity": 0.25604183193745333
+    },
+    "average <-> median": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.46916675567626953,
+      "context_similarity": 0.7333333333333333
+    },
+    "monthly <-> quarterly": {
+      "support": 4,
+      "unique_contexts": 4,
+      "term_similarity": 0.5286949872970581,
+      "context_similarity": 0.21467236467236464
+    },
+    "employment <-> unemployment": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.729265570640564,
+      "context_similarity": 0.3333333333333333
+    },
+    "export <-> import": {
+      "support": 10,
+      "unique_contexts": 10,
+      "term_similarity": 0.5845949649810791,
+      "context_similarity": 0.1115079365079365
+    },
+    "people <-> person": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.6168559789657593,
+      "context_similarity": 0.6666666666666666
+    }
+  },
+  "learned_variants": {},
+  "learned_dimensions": {
+    "annual <-> quarterly": {
+      "support": 9,
+      "unique_contexts": 9,
+      "term_similarity": 0.569430947303772,
+      "context_similarity": 0.16561948853615516,
+      "evidence_score": 0.7120100871679853,
+      "consolidated": false,
+      "valid_examples": 9
+    },
+    "annual <-> monthly": {
+      "support": 7,
+      "unique_contexts": 5,
+      "term_similarity": 0.5705235004425049,
+      "context_similarity": 0.25604183193745333,
+      "evidence_score": 0.6603130664759918,
+      "consolidated": false,
+      "valid_examples": 7
+    },
+    "average <-> median": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.46916675567626953,
+      "context_similarity": 0.7333333333333333,
+      "evidence_score": 0.4105000178019206,
+      "consolidated": true,
+      "valid_examples": 2
+    },
+    "monthly <-> quarterly": {
+      "support": 4,
+      "unique_contexts": 4,
+      "term_similarity": 0.5286949872970581,
+      "context_similarity": 0.21467236467236464,
+      "evidence_score": 0.48867347039388453,
+      "consolidated": false,
+      "valid_examples": 4
+    },
+    "export <-> import": {
+      "support": 10,
+      "unique_contexts": 10,
+      "term_similarity": 0.5845949649810791,
+      "context_similarity": 0.1115079365079365,
+      "evidence_score": 0.7392205802978031,
+      "consolidated": false,
+      "valid_examples": 8
+    },
+    "people <-> person": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.6168559789657593,
+      "context_similarity": 0.6666666666666666,
+      "evidence_score": 0.4267045291264852,
+      "consolidated": false,
+      "valid_examples": 2
+    }
+  }
+}

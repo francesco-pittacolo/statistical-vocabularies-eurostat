@@ -1,0 +1,301 @@
+Time frequency,Unit of measure,Rail network Segment (2015),Train category\Time,2015.0
+Annual,Number,Adjud  - Marasesti,Goods trains,3421.0
+Annual,Number,Adjud  - Marasesti,Passenger trains,8122.0
+Annual,Number,Apahida - Coslariu,Goods trains,3609.0
+Annual,Number,Apahida - Coslariu,Passenger trains,6018.0
+Annual,Number,Arad  - Simeria,Goods trains,5917.0
+Annual,Number,Arad  - Simeria,Passenger trains,9429.0
+Annual,Number,Arad - Timisoara,Goods trains,3359.0
+Annual,Number,Arad - Timisoara,Passenger trains,8619.0
+Annual,Number,Bacau  - Adjud,Goods trains,2114.0
+Annual,Number,Bacau  - Adjud,Passenger trains,7084.0
+Annual,Number,Beclean Pe Somes  - Deda,Goods trains,933.0
+Annual,Number,Beclean Pe Somes  - Deda,Passenger trains,6560.0
+Annual,Number,Beclean Pe Somes  - Ilva Mica,Goods trains,841.0
+Annual,Number,Beclean Pe Somes  - Ilva Mica,Passenger trains,4067.0
+Annual,Number,Border ( Curtici Ro/Hu)  - Curtici,Goods trains,6446.0
+Annual,Number,Border ( Curtici Ro/Hu)  - Curtici,Passenger trains,2341.0
+Annual,Number,Border Ro/Hu  - Episcopia Bihor,Goods trains,1185.0
+Annual,Number,Border Ro/Hu  - Episcopia Bihor,Passenger trains,1613.0
+Annual,Number,Border Ro/Ua  - Halmeu,Goods trains,600.0
+Annual,Number,Border Ro/Ua  - Halmeu,Passenger trains,0.0
+Annual,Number,Border Ro/Ua  - Vicsani,Goods trains,1551.0
+Annual,Number,Border Ro/Ua  - Vicsani,Passenger trains,38.0
+Annual,Number,Brazi - Bucuresti,Goods trains,5051.0
+Annual,Number,Brazi - Bucuresti,Passenger trains,18941.0
+Annual,Number,Brasov  - Predeal,Goods trains,6298.0
+Annual,Number,Brasov  - Predeal,Passenger trains,8451.0
+Annual,Number,Bucuresti  - Fetesti,Goods trains,7546.0
+Annual,Number,Bucuresti  - Fetesti,Passenger trains,5514.0
+Annual,Number,Bucuresti - Giurgiu,Goods trains,0.0
+Annual,Number,Bucuresti - Giurgiu,Passenger trains,0.0
+Annual,Number,Bucuresti  - Videle,Goods trains,7055.0
+Annual,Number,Bucuresti  - Videle,Passenger trains,10395.0
+Annual,Number,Buzau  - Faurei,Goods trains,6542.0
+Annual,Number,Buzau  - Faurei,Passenger trains,3584.0
+Annual,Number,Buzau  - Ploiesti Sud,Goods trains,8106.0
+Annual,Number,Buzau  - Ploiesti Sud,Passenger trains,12954.0
+Annual,Number,Calafat  - Border Ro/Bg,Goods trains,189.0
+Annual,Number,Calafat  - Border Ro/Bg,Passenger trains,360.0
+Annual,Number,Caracal  - Rosiori,Goods trains,6537.0
+Annual,Number,Caracal  - Rosiori,Passenger trains,8153.0
+Annual,Number,Chiajna  - Chitila,Goods trains,4165.0
+Annual,Number,Chiajna  - Chitila,Passenger trains,0.0
+Annual,Number,Chitila  - Mogosoaia,Goods trains,699.0
+Annual,Number,Chitila  - Mogosoaia,Passenger trains,2956.0
+Annual,Number,Ciucea  - Apahida,Goods trains,2228.0
+Annual,Number,Ciucea  - Apahida,Passenger trains,13257.0
+Annual,Number,Coslariu  - Sighisoara,Goods trains,3146.0
+Annual,Number,Coslariu  - Sighisoara,Passenger trains,5702.0
+Annual,Number,Craiova - Calafat,Goods trains,7624.0
+Annual,Number,Craiova - Calafat,Passenger trains,1468.0
+Annual,Number,Craiova  - Caracal,Goods trains,7647.0
+Annual,Number,Craiova  - Caracal,Passenger trains,12197.0
+Annual,Number,Cristesti Jijia  - Border Ro/Md,Goods trains,637.0
+Annual,Number,Cristesti Jijia  - Border Ro/Md,Passenger trains,2558.0
+Annual,Number,Curtici  - Arad,Goods trains,5622.0
+Annual,Number,Curtici  - Arad,Passenger trains,4699.0
+Annual,Number,Deda  - Siculeni,Goods trains,1485.0
+Annual,Number,Deda  - Siculeni,Passenger trains,4723.0
+Annual,Number,Dej  - Apahida,Goods trains,3642.0
+Annual,Number,Dej  - Apahida,Passenger trains,7154.0
+Annual,Number,Dej  - Beclean Pe Somes,Goods trains,1726.0
+Annual,Number,Dej  - Beclean Pe Somes,Passenger trains,6589.0
+Annual,Number,Dornesti  - Suceava,Goods trains,1293.0
+Annual,Number,Dornesti  - Suceava,Passenger trains,2660.0
+Annual,Number,Episcopia Bihor  - Oradea,Goods trains,2493.0
+Annual,Number,Episcopia Bihor  - Oradea,Passenger trains,5328.0
+Annual,Number,Fetesti  - Constanta,Goods trains,12117.0
+Annual,Number,Fetesti  - Constanta,Passenger trains,7014.0
+Annual,Number,Filiasi  - Craiova,Goods trains,9659.0
+Annual,Number,Filiasi  - Craiova,Passenger trains,10344.0
+Annual,Number,Faurei - Fetesti,Goods trains,5164.0
+Annual,Number,Faurei - Fetesti,Passenger trains,1786.0
+Annual,Number,Faurei  - Galati,Goods trains,4854.0
+Annual,Number,Faurei  - Galati,Passenger trains,7213.0
+Annual,Number,Galati  - Galati (Border Ro/Ua),Goods trains,929.0
+Annual,Number,Galati  - Galati (Border Ro/Ua),Passenger trains,0.0
+Annual,Number,Giurgiu  - Border Ro/Bg,Goods trains,2978.0
+Annual,Number,Giurgiu  - Border Ro/Bg,Passenger trains,460.0
+Annual,Number,Halmeu  - Satu Mare,Goods trains,1011.0
+Annual,Number,Halmeu  - Satu Mare,Passenger trains,2841.0
+Annual,Number,Iasi  - Cristesti Jijia,Goods trains,899.0
+Annual,Number,Iasi  - Cristesti Jijia,Passenger trains,7870.0
+Annual,Number,Ilva Mica  - Suceava,Goods trains,1478.0
+Annual,Number,Ilva Mica  - Suceava,Passenger trains,3954.0
+Annual,Number,Jilava  - Chiajna,Goods trains,1412.0
+Annual,Number,Jilava  - Chiajna,Passenger trains,0.0
+Annual,Number,Livezeni  - Târgu Jiu,Goods trains,4657.0
+Annual,Number,Livezeni  - Târgu Jiu,Passenger trains,3274.0
+Annual,Number,Mogosoaia  - Otopeni,Goods trains,0.0
+Annual,Number,Mogosoaia  - Otopeni,Passenger trains,0.0
+Annual,Number,Marasesti  - Buzau,Goods trains,4010.0
+Annual,Number,Marasesti  - Buzau,Passenger trains,9284.0
+Annual,Number,Oradea  - Arad,Goods trains,1781.0
+Annual,Number,Oradea  - Arad,Passenger trains,6521.0
+Annual,Number,Oradea  - Ciucea,Goods trains,1567.0
+Annual,Number,Oradea  - Ciucea,Passenger trains,8214.0
+Annual,Number,Orsova  - Filiasi,Goods trains,6573.0
+Annual,Number,Orsova  - Filiasi,Passenger trains,5784.0
+Annual,Number,Otopeni  - Jilava,Goods trains,1104.0
+Annual,Number,Otopeni  - Jilava,Passenger trains,0.0
+Annual,Number,Pascani  - Bacau,Goods trains,2174.0
+Annual,Number,Pascani  - Bacau,Passenger trains,7041.0
+Annual,Number,Pascani  - Iasi,Goods trains,971.0
+Annual,Number,Pascani  - Iasi,Passenger trains,11242.0
+Annual,Number,Pitesti  - Titu,Goods trains,2276.0
+Annual,Number,Pitesti  - Titu,Passenger trains,5498.0
+Annual,Number,Ploiesti Sud  - Brazi,Goods trains,11955.0
+Annual,Number,Ploiesti Sud  - Brazi,Passenger trains,17854.0
+Annual,Number,Podu Olt (Talmaciu)  - Râmnicu Vâlcea,Goods trains,82.0
+Annual,Number,Podu Olt (Talmaciu)  - Râmnicu Vâlcea,Passenger trains,4559.0
+Annual,Number,Predeal  - Brazi,Goods trains,7580.0
+Annual,Number,Predeal  - Brazi,Passenger trains,18668.0
+Annual,Number,Rosiori  - Videle,Goods trains,5405.0
+Annual,Number,Rosiori  - Videle,Passenger trains,8600.0
+Annual,Number,Râmnicu Vâlcea  - Vâlcelele,Goods trains,0.0
+Annual,Number,Râmnicu Vâlcea  - Vâlcelele,Passenger trains,0.0
+Annual,Number,Satu Mare  - Dej,Goods trains,3691.0
+Annual,Number,Satu Mare  - Dej,Passenger trains,6570.0
+Annual,Number,Satu Mare  - Oradea,Goods trains,2512.0
+Annual,Number,Satu Mare  - Oradea,Passenger trains,4721.0
+Annual,Number,Siculeni  - Adjud,Goods trains,1726.0
+Annual,Number,Siculeni  - Adjud,Passenger trains,3574.0
+Annual,Number,Sighisoara  - Brasov,Goods trains,4111.0
+Annual,Number,Sighisoara  - Brasov,Passenger trains,4129.0
+Annual,Number,Simeria  - Coslariu,Goods trains,3813.0
+Annual,Number,Simeria  - Coslariu,Passenger trains,6376.0
+Annual,Number,Simeria  - Livezeni,Goods trains,7507.0
+Annual,Number,Simeria  - Livezeni,Passenger trains,3541.0
+Annual,Number,Stamora Moravita  - Border Ro/Srb,Goods trains,692.0
+Annual,Number,Stamora Moravita  - Border Ro/Srb,Passenger trains,684.0
+Annual,Number,Suceava  - Pascani,Goods trains,1812.0
+Annual,Number,Suceava  - Pascani,Passenger trains,10156.0
+Annual,Number,Timisoara  - Orsova,Goods trains,3579.0
+Annual,Number,Timisoara  - Orsova,Passenger trains,5189.0
+Annual,Number,Timisoara - Stamora Moravita,Goods trains,1997.0
+Annual,Number,Timisoara - Stamora Moravita,Passenger trains,6095.0
+Annual,Number,Titu  - Chitila,Goods trains,2310.0
+Annual,Number,Titu  - Chitila,Passenger trains,8192.0
+Annual,Number,Târgu Jiu - Filiasi,Goods trains,1397.0
+Annual,Number,Târgu Jiu - Filiasi,Passenger trains,3879.0
+Annual,Number,Târgu Jiu  - Gura Motrului,Goods trains,4497.0
+Annual,Number,Târgu Jiu  - Gura Motrului,Passenger trains,2826.0
+Annual,Number,Vicsani  - Dornesti,Goods trains,1752.0
+Annual,Number,Vicsani  - Dornesti,Passenger trains,38.0
+Annual,Number,Videle - Giurgiu,Goods trains,3149.0
+Annual,Number,Videle - Giurgiu,Passenger trains,2111.0
+Annual,Number,Vâlcelele - Pitesti,Goods trains,169.0
+Annual,Number,Vâlcelele - Pitesti,Passenger trains,544.0
+Annual,Number,Vintu De Jos  - Podu Olt (Talmaciu),Goods trains,263.0
+Annual,Number,Vintu De Jos  - Podu Olt (Talmaciu),Passenger trains,5512.0
+Annual,Number,Marasesti - Adjud,Goods trains,2884.0
+Annual,Number,Marasesti - Adjud,Passenger trains,8541.0
+Annual,Number,Coslariu - Apahida,Goods trains,3181.0
+Annual,Number,Coslariu - Apahida,Passenger trains,5385.0
+Annual,Number,Simeria - Arad,Goods trains,4724.0
+Annual,Number,Simeria - Arad,Passenger trains,9416.0
+Annual,Number,Timisoara - Arad,Goods trains,3133.0
+Annual,Number,Timisoara - Arad,Passenger trains,8613.0
+Annual,Number,Adjud - Bacau,Goods trains,2251.0
+Annual,Number,Adjud - Bacau,Passenger trains,7056.0
+Annual,Number,Deda - Beclean Pe Somes,Goods trains,689.0
+Annual,Number,Deda - Beclean Pe Somes,Passenger trains,6623.0
+Annual,Number,Ilva Mica - Beclean Pe Somes,Goods trains,682.0
+Annual,Number,Ilva Mica - Beclean Pe Somes,Passenger trains,3996.0
+Annual,Number,Curtici - Border ( Curtici Ro/Hu),Goods trains,5441.0
+Annual,Number,Curtici - Border ( Curtici Ro/Hu),Passenger trains,2297.0
+Annual,Number,Episcopia Bihor - Border Ro/Hu,Goods trains,1049.0
+Annual,Number,Episcopia Bihor - Border Ro/Hu,Passenger trains,1604.0
+Annual,Number,Halmeu - Border Ro/Ua,Goods trains,708.0
+Annual,Number,Halmeu - Border Ro/Ua,Passenger trains,0.0
+Annual,Number,Vicsani - Border Ro/Ua,Goods trains,2569.0
+Annual,Number,Vicsani - Border Ro/Ua,Passenger trains,38.0
+Annual,Number,Bucuresti - Brazi,Goods trains,5935.0
+Annual,Number,Bucuresti - Brazi,Passenger trains,18909.0
+Annual,Number,Predeal - Brasov,Goods trains,6258.0
+Annual,Number,Predeal - Brasov,Passenger trains,8320.0
+Annual,Number,Fetesti - Bucuresti,Goods trains,6570.0
+Annual,Number,Fetesti - Bucuresti,Passenger trains,5474.0
+Annual,Number,Giurgiu - Bucuresti,Goods trains,0.0
+Annual,Number,Giurgiu - Bucuresti,Passenger trains,0.0
+Annual,Number,Videle - Bucuresti,Goods trains,6345.0
+Annual,Number,Videle - Bucuresti,Passenger trains,9458.0
+Annual,Number,Faurei - Buzau,Goods trains,5388.0
+Annual,Number,Faurei - Buzau,Passenger trains,3487.0
+Annual,Number,Ploiesti Sud - Buzau,Goods trains,7082.0
+Annual,Number,Ploiesti Sud - Buzau,Passenger trains,12809.0
+Annual,Number,Border Ro/Bg - Calafat,Goods trains,197.0
+Annual,Number,Border Ro/Bg - Calafat,Passenger trains,361.0
+Annual,Number,Rosiori - Caracal,Goods trains,5587.0
+Annual,Number,Rosiori - Caracal,Passenger trains,8096.0
+Annual,Number,Chitila - Chiajna,Goods trains,4124.0
+Annual,Number,Chitila - Chiajna,Passenger trains,0.0
+Annual,Number,Mogosoaia - Chitila,Goods trains,1018.0
+Annual,Number,Mogosoaia - Chitila,Passenger trains,2836.0
+Annual,Number,Apahida - Ciucea,Goods trains,1736.0
+Annual,Number,Apahida - Ciucea,Passenger trains,13242.0
+Annual,Number,Sighisoara - Coslariu,Goods trains,2555.0
+Annual,Number,Sighisoara - Coslariu,Passenger trains,5694.0
+Annual,Number,Calafat - Craiova,Goods trains,6533.0
+Annual,Number,Calafat - Craiova,Passenger trains,1457.0
+Annual,Number,Caracal - Craiova,Goods trains,6534.0
+Annual,Number,Caracal - Craiova,Passenger trains,12188.0
+Annual,Number,Border Ro/Md - Cristesti Jijia,Goods trains,526.0
+Annual,Number,Border Ro/Md - Cristesti Jijia,Passenger trains,2551.0
+Annual,Number,Arad - Curtici,Goods trains,4867.0
+Annual,Number,Arad - Curtici,Passenger trains,4620.0
+Annual,Number,Siculeni - Deda,Goods trains,1224.0
+Annual,Number,Siculeni - Deda,Passenger trains,4632.0
+Annual,Number,Apahida - Dej,Goods trains,4952.0
+Annual,Number,Apahida - Dej,Passenger trains,7080.0
+Annual,Number,Beclean Pe Somes - Dej,Goods trains,1362.0
+Annual,Number,Beclean Pe Somes - Dej,Passenger trains,6560.0
+Annual,Number,Suceava - Dornesti,Goods trains,1578.0
+Annual,Number,Suceava - Dornesti,Passenger trains,2541.0
+Annual,Number,Oradea - Episcopia Bihor,Goods trains,1991.0
+Annual,Number,Oradea - Episcopia Bihor,Passenger trains,5214.0
+Annual,Number,Constanta - Fetesti,Goods trains,10139.0
+Annual,Number,Constanta - Fetesti,Passenger trains,6979.0
+Annual,Number,Craiova - Filiasi,Goods trains,8294.0
+Annual,Number,Craiova - Filiasi,Passenger trains,10258.0
+Annual,Number,Fetesti - Faurei,Goods trains,4508.0
+Annual,Number,Fetesti - Faurei,Passenger trains,1654.0
+Annual,Number,Galati - Faurei,Goods trains,3422.0
+Annual,Number,Galati - Faurei,Passenger trains,7152.0
+Annual,Number,Galati (Border Ro/Ua) - Galati,Goods trains,804.0
+Annual,Number,Galati (Border Ro/Ua) - Galati,Passenger trains,0.0
+Annual,Number,Border Ro/Bg - Giurgiu,Goods trains,2254.0
+Annual,Number,Border Ro/Bg - Giurgiu,Passenger trains,372.0
+Annual,Number,Satu Mare - Halmeu,Goods trains,851.0
+Annual,Number,Satu Mare - Halmeu,Passenger trains,2754.0
+Annual,Number,Cristesti Jijia - Iasi,Goods trains,1077.0
+Annual,Number,Cristesti Jijia - Iasi,Passenger trains,7892.0
+Annual,Number,Suceava - Ilva Mica,Goods trains,1224.0
+Annual,Number,Suceava - Ilva Mica,Passenger trains,3895.0
+Annual,Number,Chiajna - Jilava,Goods trains,1256.0
+Annual,Number,Chiajna - Jilava,Passenger trains,0.0
+Annual,Number,Târgu Jiu - Livezeni,Goods trains,3861.0
+Annual,Number,Târgu Jiu - Livezeni,Passenger trains,3251.0
+Annual,Number,Otopeni - Mogosoaia,Goods trains,0.0
+Annual,Number,Otopeni - Mogosoaia,Passenger trains,0.0
+Annual,Number,Buzau - Marasesti,Goods trains,3329.0
+Annual,Number,Buzau - Marasesti,Passenger trains,9233.0
+Annual,Number,Arad - Oradea,Goods trains,1888.0
+Annual,Number,Arad - Oradea,Passenger trains,6638.0
+Annual,Number,Ciucea - Oradea,Goods trains,1325.0
+Annual,Number,Ciucea - Oradea,Passenger trains,8159.0
+Annual,Number,Filiasi - Orsova,Goods trains,7019.0
+Annual,Number,Filiasi - Orsova,Passenger trains,5839.0
+Annual,Number,Jilava - Otopeni,Goods trains,904.0
+Annual,Number,Jilava - Otopeni,Passenger trains,0.0
+Annual,Number,Bacau - Pascani,Goods trains,1922.0
+Annual,Number,Bacau - Pascani,Passenger trains,7011.0
+Annual,Number,Iasi - Pascani,Goods trains,1191.0
+Annual,Number,Iasi - Pascani,Passenger trains,10987.0
+Annual,Number,Titu - Pitesti,Goods trains,2660.0
+Annual,Number,Titu - Pitesti,Passenger trains,5563.0
+Annual,Number,Brazi - Ploiesti Sud,Goods trains,5493.0
+Annual,Number,Brazi - Ploiesti Sud,Passenger trains,17844.0
+Annual,Number,Râmnicu Vâlcea - Podu Olt (Talmaciu),Goods trains,76.0
+Annual,Number,Râmnicu Vâlcea - Podu Olt (Talmaciu),Passenger trains,4421.0
+Annual,Number,Brazi - Predeal,Goods trains,6391.0
+Annual,Number,Brazi - Predeal,Passenger trains,19512.0
+Annual,Number,Videle - Rosiori,Goods trains,6286.0
+Annual,Number,Videle - Rosiori,Passenger trains,8547.0
+Annual,Number,Vâlcelele - Râmnicu Vâlcea,Goods trains,0.0
+Annual,Number,Vâlcelele - Râmnicu Vâlcea,Passenger trains,0.0
+Annual,Number,Dej - Satu Mare,Goods trains,4424.0
+Annual,Number,Dej - Satu Mare,Passenger trains,6622.0
+Annual,Number,Oradea - Satu Mare,Goods trains,2126.0
+Annual,Number,Oradea - Satu Mare,Passenger trains,4683.0
+Annual,Number,Adjud - Siculeni,Goods trains,1437.0
+Annual,Number,Adjud - Siculeni,Passenger trains,3328.0
+Annual,Number,Brasov - Sighisoara,Goods trains,3475.0
+Annual,Number,Brasov - Sighisoara,Passenger trains,4084.0
+Annual,Number,Coslariu - Simeria,Goods trains,2849.0
+Annual,Number,Coslariu - Simeria,Passenger trains,6322.0
+Annual,Number,Livezeni - Simeria,Goods trains,6445.0
+Annual,Number,Livezeni - Simeria,Passenger trains,3496.0
+Annual,Number,Border Ro/Srb - Stamora Moravita,Goods trains,600.0
+Annual,Number,Border Ro/Srb - Stamora Moravita,Passenger trains,669.0
+Annual,Number,Pascani - Suceava,Goods trains,1614.0
+Annual,Number,Pascani - Suceava,Passenger trains,10024.0
+Annual,Number,Orsova - Timisoara,Goods trains,3586.0
+Annual,Number,Orsova - Timisoara,Passenger trains,5065.0
+Annual,Number,Stamora Moravita - Timisoara,Goods trains,1749.0
+Annual,Number,Stamora Moravita - Timisoara,Passenger trains,6069.0
+Annual,Number,Chitila - Titu,Goods trains,2911.0
+Annual,Number,Chitila - Titu,Passenger trains,8231.0
+Annual,Number,Filiasi - Târgu Jiu,Goods trains,1336.0
+Annual,Number,Filiasi - Târgu Jiu,Passenger trains,3751.0
+Annual,Number,Gura Motrului - Târgu Jiu,Goods trains,3577.0
+Annual,Number,Gura Motrului - Târgu Jiu,Passenger trains,2756.0
+Annual,Number,Dornesti - Vicsani,Goods trains,2049.0
+Annual,Number,Dornesti - Vicsani,Passenger trains,38.0
+Annual,Number,Giurgiu - Videle,Goods trains,2347.0
+Annual,Number,Giurgiu - Videle,Passenger trains,2095.0
+Annual,Number,Pitesti - Vâlcelele,Goods trains,211.0
+Annual,Number,Pitesti - Vâlcelele,Passenger trains,541.0
+Annual,Number,Podu Olt (Talmaciu) - Vintu De Jos,Goods trains,228.0
+Annual,Number,Podu Olt (Talmaciu) - Vintu De Jos,Passenger trains,5501.0

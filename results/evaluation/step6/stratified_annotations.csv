@@ -1,0 +1,101 @@
+id,term,source_tables,contexts,gold_category
+1,Awareness - Yes/No,gbv_awr_leg; gbv_awr_serv,DIMENSION_NAME,N
+2,Power asymmetry,iss_21gvcba; iss_21gvcsa,DIMENSION_NAME,N
+3,Animal output - basic and producer prices,tag00055,TITLE,M
+4,"Annual earnings by economic control (enterprises with 10 employed persons or more) - NACE Rev. 1.1, C-O excluding L",earn_ses_actrl,TITLE,M
+5,Percentage change - 12-months average,teicp000,Unit of measure,U
+6,Occupied conventional dwellings by tenure status and amenities,cens_91dame,TITLE,M
+7,Percentage of total population,hlth_silc_11$dv_1148; sdg_03_30; sdg_05_40; sdg_08_20; sdg_08_30; sdg_13_60; tepsr_wc130; tesem010; tesem050; tesem060; tessi294; tessi295; tgs00103; tgs00107; tin00186; tipslm100; tipslm60; tipslm90; tps00203,Unit of measure,U
+8,Central government bond yields - annual data,irt_h_cgby_a,TITLE,M
+9,Tonnes live weight,enpe_fish_ca_main; enps_fish_aq2a; enps_fish_ca_main; org_aqtspec,Unit of measure,U
+10,Bel_Mag - Magyarboly,rail_tf_ns10_hu; rail_tf_ns15_hu; rail_tf_ns20_hu; rail_tf_ns_hu,Rail network Segment (2015); Rail network segment (2005); Rail network segment (2010); Rail network segment (2020),A
+11,Seat capacity of passenger railway vehicles by type of vehicles,rail_eq_pa_cty,TITLE,M
+12,Persons employed in goods road transport enterprises by employment size classes,road_ec_empl,TITLE,M
+13,Smoking behaviour,hlth_ehis_sk3e$dv_1127; hlth_ehis_sk3e$dv_298; hlth_ehis_sk3i$dv_1141; hlth_ehis_sk3i$dv_304,DIMENSION_NAME,N
+14,"Consolidated banking leverage, domestic and foreign entities (asset-to-equity multiple)",tipsbd20,TITLE,M
+15,Yes,hlth_db_emasne; hlth_db_emaspr; lfso_12earlyret; trng_any3; trng_any4; trng_any5; trng_fed3; trng_inf3; trng_nfe4,Modalities of the variable for the ad-hoc module; Survey answer - Yes/No,A
+16,International trade as a share of GDP,med_ec4,TITLE,M
+17,Gren-Å - Hornslet,rail_tf_ns10_dk,Rail network segment (2010),A
+18,National accounts indicator (ESA 2010),enpe_gov_10dd; enpe_nama_10_gdp_ea; enps_gov_10dd; enps_nama_10_gdp_ea; env_ac_egss3; gov_10a_emp; gov_eu_debt; gov_eu_fa; gov_eu_nfa; sdg_08_10; sdg_09_70; sdg_10_10; sdg_12_61; sdg_17_40; tec00001; tec00009; tec00010; tec00011; tec00013; tec00021; tec00023; tec00104; tec00110; tec00112; tec00113; tec00114; tec00115; tec00116; tec00120; tec00127; tec00131; teina010; teina011; teina020; teina021; teina030; teina031; teina040; teina041; teina050; teina080; teina090; teina100; teina110; teina200; teina205; teina210; teina225; teina230; teina400_r2; teina402_r2; teina404_r2; teina406_r2; teina408_r2; teina410_r2; teina412_r2; teina414_r2; teina416_r2; teina418_r2; teina420_r2; teina422_r2; teina424_r2; teina426_r2; teina428_r2; teina430_r2; teina432_r2; teina434_r2; teina436_r2; teina438_r2; teina440_r2; teina442_r2; teina444_r2; teina446_r2; teina500; teina520; tepsr_sp110; tepsr_wc310; tesem040; tesem160; tesem170; tet00003; tet00004; tipsex13; tipsfs10; tipsfs20; tipsfs30; tipsgo10; tipslm10; tipslm13; tipslm20; tipsna20; tipsna30; tipsna40; tipsna51; tipsna60; tipsna62; tipsna70; tipspc10; tipspc13; tipspc14; tipspc15; tipspc16; tipspc20; tipspc23; tipspc24; tipspc25; tipspc26; tipspd10; tipspd13; tipspd14; tipspd15; tipspd16; tipspd20; tipspd22; tipspd23; tipspd24; tipspd25; tipspd26; tipspd30,DIMENSION_NAME,N
+19,Forestry indicators,for_area; for_profnc; for_protect; for_vol,DIMENSION_NAME,N
+20,Occurence,gbv_any_occ; gbv_dv_occ; gbv_ipv_occ; gbv_npv_occ; gbv_shw_occ; gbv_st_occ,DIMENSION_NAME,N
+21,Exports of goods - other manufactured products,teiet060,TITLE,M
+22,Before 1900,cens_91dper,Year of construction,A
+23,PER,cens_91hpnper,unit,U
+24,Most of the time,ilc_pw08$dv_426,Frequency,U
+25,Antwerpen,mar_mg_aa_pwhd; mar_mg_am_pvh; mar_qg_qm_pvh; mar_qg_qm_pwh; mar_qg_qm_pwhc; mar_qg_qm_pwhl; mar_sg_am_pwb; mar_sg_am_pwc; mar_sg_am_pwl; met_d3dens; met_ipr_da; met_ipr_dapop; met_ipr_dfa; met_ipr_dfapop; met_ipr_dr,Maritime entity (reporting); Metropolitan regions,A
+26,Kaunas,met_d3dens; met_ipr_da; met_ipr_dapop; met_ipr_dfa; met_ipr_dfapop; met_ipr_dr,Metropolitan regions,A
+27,Employment indicator,lfsi_jhh_a; sdg_08_30; sdg_08_40; tepsr_wc130; tesem010; tesem050; tesem060; tesem130; tipslm100; tipslm15; tps00172; tps00181,DIMENSION_NAME,N
+28,n_child,cens_91hnnch; ilc_lvph05; lfst_hheredch$dv_2683,DIMENSION_NAME,N
+29,Communication,med_ps33,TITLE,M
+30,Percentage of world total - 1-year change,tipsex11,Unit of measure,U
+31,Month,tag00014; tag00016; tag00017; tag00018,DIMENSION_NAME,N
+32,Export unit value index (2015=100),tet00028,External trade indicator,A
+33,Nationality of registration of vessel,mar_pa_qm_me; mar_pa_qm_mt,DIMENSION_NAME,N
+34,Tre¿njevka (S) - Zagreb Klara,rail_tf_ns15_hr,Rail network Segment (2015),A
+35,Legal type of the holding,tag00001; tag00020,DIMENSION_NAME,N
+36,Kars - Do?Ukapy,rail_tf_ns10_tr; rail_tf_ns_tr,Rail network segment (2005); Rail network segment (2010),A
+37,Snogh?J - Odense,rail_tf_ns10_dk; rail_tf_ns_dk,Rail network segment (2005); Rail network segment (2010),A
+38,Terajoule,nrg_dhdc_e,Unit of measure,U
+39,Production in industry - total (excluding construction),teiis080,TITLE,M
+40,Paloukia Salaminas,mar_mp_aa_pphd,Maritime entity (reporting),A
+41,"Index, 2021=100",sts_tot_prod_a,Unit of measure,U
+42,Kind of business partners,egi_so1,DIMENSION_NAME,N
+43,Municipal waste per inhabitant,enps_env_wasgenp,TITLE,M
+44,Client/Trader,bs_bs5_00; bs_bs6_00,DIMENSION_NAME,N
+45,Šeštokai - Mockava,rail_tf_ns20_lt,Rail network segment (2020),A
+46,"Index, 1990=100",env_bio3; sdg_15_60,Unit of measure,U
+47,"Source sectors for emissions of air pollutants (Nomenclature for reporting, CLRTAP)",tai07,DIMENSION_NAME,N
+48,"Price index (implicit deflator), 2015=100, national currency",tipsna51,Unit of measure,U
+49,Percentage of enterprises,tin00111; tin00116,Unit of measure,U
+50,Dorne?Ti  - Suceava,rail_tf_ns10_ro,Rail network segment (2010),A
+51,Population connected to at least secondary wastewater treatment,sdg_06_20,TITLE,M
+52,Sector (ESA 2010),tec00038; tec00039; tec00040; tec00041; tec00042; teibp010; teibp020; teibp030; teibp060; teibp070; tipsbp17; tipsbp18; tipsbp20; tipsbp22; tipsbp70; tipsii10; tipsii12; tipsii15; tipsii18; tipsii21,DIMENSION_NAME,N
+53,Aquaculture production in tonnes and value,tag00075,TITLE,M
+54,MIO_EUR,iww_ec_invest; med_ag50; sbs_cre_gbneea; sbs_cre_pcpay; sbs_cre_pcrec; sbs_cre_pintpay; sbs_cre_pintrex; sbs_cre_ploans; tag00054; tag00055; tag00056; tag00102,unit,U
+55,Planetary Boundary,sdg_12_31,Unit of measure,U
+56,Jesenice - Kranj,rail_tf_ns10_si; rail_tf_ns15_si; rail_tf_ns20_si; rail_tf_ns_si,Rail network Segment (2015); Rail network segment (2005); Rail network segment (2010); Rail network segment (2020),A
+57,Public water supply,med_en44,Hydrological parameters - flows - sources - water supply - treatment of water,A
+58,Parents educational attainment level,edat_lfso_00t4,TITLE,M
+59,Rating (0-10),ilc_pw01$dv_2761; ilc_pw01b$dv_2749; ilc_pw01b$dv_2751; ilc_pw01b$dv_2781; ilc_pw03$dv_2762; ilc_pw14; ilc_pw15$dv_2750,Unit of measure,U
+60,Health indicator,hlth_cd_iap; hlth_co_dischnr; hlth_hlye$dv_2041; hlth_hlye$dv_287; hlth_hlye_h; hsw_ind; sdg_03_11; sdg_11_52; tepsr_sp320; tespm120; tespm130; tps00048; tps00150; tps00208,DIMENSION_NAME,N
+61,Three-year average,earn_nt_netft; tipsun10,Statistical information; Unit of measure,U
+62,Consequences - Yes/No,lfst_dpw_09,DIMENSION_NAME,N
+63,Thousand cubic metres,for_secwpp; for_vol,Unit of measure,U
+64,"Ever-working women who have experienced sexual harassment at work, by frequency",gbv_shw_frq,TITLE,M
+65,Estimated average age of young people leaving the parental household by sex,yth_demo_030,TITLE,M
+66,Percentage of threatened species,med_en53,TITLE,M
+67,Euro-zone Business Climate Indicator - monthly data,ei_bsci_m_r2,TITLE,M
+68,Sea transport of goods,ttr00009,TITLE,M
+69,Person,cens_hndwsize; dsb_sprpb01; dsb_sprpb02; migr_asyaccm$dv_961; migr_asyappctza$dv_618; migr_asymrca; migr_asypenctzm$dv_723; migr_asyresa$dv_629; migr_asytpfa$dv_1381; migr_asytpfm$dv_1383; migr_asytpfq$dv_1382; migr_asytpsm$dv_1384; migr_asywitha$dv_1021; migr_eiord$dv_1261; migr_eirtn$dv_1241; migr_reschst$dv_1285; migr_reslas$dv_1283; migr_resltra$dv_1284; tps00170; tps00171; tps00189; tps00190; tps00191; tps00192; tps00193; tps00194; tps00195; tran_sf_marv; tran_sf_marves,Unit of measure,U
+70,Rostijne - Boma,rail_tf_ns10_be; rail_tf_ns15_be; rail_tf_ns_be,Rail network Segment (2015); Rail network segment (2005); Rail network segment (2010),A
+71,Percentage based on full-time equivalents (FTE),tsc00006,Unit of measure,U
+72,Seasonal adjustment,ei_bsci_m_r2; sts_tot_prod_a; tec00038; tec00039; tec00040; tec00041; tec00042; teibp010; teibp020; teibp030; teibp060; teibp070; teibs010; teibs020; teibs030; teibs040; teibs070; teiis010; teiis011; teiis012; teiis013; teiis014; teiis015; teiis016; teiis020; teiis030; teiis040; teiis050; teiis060; teiis070; teiis400; teilm010; teilm011; teilm012; teilm020; teilm021; teilm022; teina010; teina020; teina030; teina040; teina050; teina080; teina090; teina100; teina110; teina500; teina510; teina515; teina520; tipsbp10; tipsbp100; tipsbp17; tipsbp18; tipsbp20; tipsbp70; tipsbp90; tipsho50; tipsii10; tipsii20; tipsii30; tipsii40; tipsii50; tipsun30; tps00172,DIMENSION_NAME,N
+73,Working time,earn_gr_gpgr2wt; earn_ses10_adeci; earn_ses10_mdeci; earn_ses14_adeci; earn_ses14_mdeci; earn_ses18_adeci; earn_ses_adeci; earn_ses_mdeci; hsw_ij_svhos; ilc_iw07; lfst_dpw_03; tessi250; tps00071; tps00175; tqoe3b4,DIMENSION_NAME,N
+74,Percentage of risk-weighted assets,tipsbd30,Unit of measure,U
+75,Percentage of turnover,tin00110,Unit of measure,U
+76,Organic material,med_en23,Waste categories,A
+77,Gaziantep - Narly,rail_tf_ns10_tr; rail_tf_ns_tr,Rail network segment (2005); Rail network segment (2010),A
+78,Usually,hsw_ij_svnia; hsw_ij_svsha; lfsa_ewpeve$dv_604; lfsa_ewpnig$dv_605; lfsa_ewpsat$dv_606; lfsa_ewpsun$dv_607,Frequency,U
+79,Government schemes,hlth_sha11_hf$dv_2821,Classification of health care financing schemes - SHA 2011,A
+80,"Family member, neighbour, work colleague",trng_aes_187,Source of information,A
+81,Water process,env_wat_pop; ten00001; ten00003; ten00006,DIMENSION_NAME,N
+82,Annual work units in forestry and logging,for_awu,TITLE,M
+83,Activity and employment status,edat_lfse_14$dv_1864; edat_lfse_14$dv_356; edat_lfse_20$dv_1101; enps_lfsa_egaps; for_awu; hlth_rs_prs2$dv_2824; hsw_ac8$dv_386; hsw_aw_inaws; hsw_aw_nnaws; icw_car_04; icw_sr_15; icw_sr_16; ilc_lvhl30$dv_1323; lfsa_ewpeve$dv_604; lfsa_ewpnig$dv_605; lfsa_ewpsat$dv_606; lfsa_ewpsun$dv_607; lfsa_qoe_3a2$dv_608; lfso_06finiagps; lfso_10fvaredu$dv_609; lfso_12reduchrs; lfst_dpw_05; nama_10r_3empers$dv_1564; sdg_01_41; sdg_04_10; sdg_04_10a; sdg_05_30; sdg_08_20a; tepsr_lm210; tesem020; tesem100; tesem200; tesem210; tesov110; tespm070; tespn100; tipslm16; tps00044; tps00045; tps00071; tps00073; tps00159; tps00167; tqoe3a5; tqoe4a3; trng_nfe15,DIMENSION_NAME,N
+84,Children at risk of poverty or social exclusion,tespm040,TITLE,M
+85,"Price negotiated with platform, app or clients",lfst_dpw_11,Price setting,A
+86,Euro per kilogram of oil equivalent (KGOE),nrg_ind_ep; sdg_07_30,Unit of measure,U
+87,Nove Mesto Nad Vahom - Leopoldov,rail_tf_ns10_sk; rail_tf_ns15_sk; rail_tf_ns20_sk; rail_tf_ns_sk,Rail network Segment (2015); Rail network segment (2005); Rail network segment (2010); Rail network segment (2020),A
+88,BUCURESTI/HENRI COANDA airport,avia_ec_emp_arp,Reporting airport,A
+89,Micrograms per cubic metre,env_air_no2,Unit of measure,U
+90,Percentage of total,egi_em1; egi_em2; egi_rd1; egi_va1; egr_mne_n2sc; enpe_nama_10_a10; enps_nama_10_a10; mar_sg_am_ewx; sdg_13_70; sdg_13_70a; tran_im_mosp; tran_im_mospt; tran_im_uiww; tran_im_umar; tran_im_umod; tran_im_urail; tran_im_uroad; tsc00031,Unit of measure,U
+91,Tonnes of CO2 equivalent,med_en1,Unit of measure,U
+92,Boychinovtzi - Brusartzi,rail_tf_ns10_bg; rail_tf_ns15_bg; rail_tf_ns20_bg,Rail network Segment (2015); Rail network segment (2010); Rail network segment (2020),A
+93,Type of operation and loading status,ttr00005,DIMENSION_NAME,N
+94,Road traffic: road freight transport in volume,med_rd6,TITLE,M
+95,Energy balance,enps_nrg_bal_c; enps_nrg_bal_c1; nrg_bal_s$dv_650; nrg_ind_ren; sdg_07_40,DIMENSION_NAME; TITLE,N
+96,CPA_J6712B,sbs_cre_pacc; sbs_cre_pcpay; sbs_cre_pcrec; sbs_cre_pintpay; sbs_cre_pintrex; sbs_cre_ploans,cpa02,A
+97,Control over working time,lfso_17seworg,DIMENSION_NAME,N
+98,GDP weights used in the calculation of the global specific indicator,prc_rem_gdp,TITLE,M
+99,Household composition,icw_car_02; icw_sr_02; icw_sr_09; ilc_chmd02; ilc_scp06$dv_2742; ilc_scp10$dv_2744; ilc_scp12$dv_2746; ilc_scp20$dv_2747; ilc_scp22$dv_2441,DIMENSION_NAME,N
+100,"Death due to suicide, by sex",tps00122,TITLE,M

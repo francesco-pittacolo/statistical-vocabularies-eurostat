@@ -1,0 +1,385 @@
+Time frequency,Unit of measure,Rail network Segment (2015),Train category\Time,2015.0
+Annual,Number,Savski Marof DG - Savski Marof,Goods trains,1529.0
+Annual,Number,Savski Marof DG - Savski Marof,Passenger trains,2339.0
+Annual,Number,Savski Marof - Zapre¿ic,Goods trains,1587.0
+Annual,Number,Savski Marof - Zapre¿ic,Passenger trains,14510.0
+Annual,Number,Zapre¿ic - Zagreb ZK,Goods trains,1878.0
+Annual,Number,Zapre¿ic - Zagreb ZK,Passenger trains,19749.0
+Annual,Number,Zagreb ZK - Zagreb GK,Goods trains,1590.0
+Annual,Number,Zagreb ZK - Zagreb GK,Passenger trains,19740.0
+Annual,Number,Zagreb GK - Zagreb Borongaj,Goods trains,1569.0
+Annual,Number,Zagreb GK - Zagreb Borongaj,Passenger trains,25806.0
+Annual,Number,Zagreb Borongaj - Sesvete,Goods trains,1541.0
+Annual,Number,Zagreb Borongaj - Sesvete,Passenger trains,25402.0
+Annual,Number,Sesvete - Dugo Selo,Goods trains,4367.0
+Annual,Number,Sesvete - Dugo Selo,Passenger trains,25472.0
+Annual,Number,Dugo Selo - Kutina,Goods trains,2042.0
+Annual,Number,Dugo Selo - Kutina,Passenger trains,7542.0
+Annual,Number,Kutina - Banova Jaruga,Goods trains,1939.0
+Annual,Number,Kutina - Banova Jaruga,Passenger trains,7071.0
+Annual,Number,Banova Jaruga - Novska,Goods trains,1908.0
+Annual,Number,Banova Jaruga - Novska,Passenger trains,7070.0
+Annual,Number,Novska - Nova Kapela Batrina,Goods trains,1858.0
+Annual,Number,Novska - Nova Kapela Batrina,Passenger trains,6041.0
+Annual,Number,Nova Kapela Batrina - Slavonski Brod,Goods trains,1887.0
+Annual,Number,Nova Kapela Batrina - Slavonski Brod,Passenger trains,6215.0
+Annual,Number,Slavonski Brod - Strizivojna Vrpolje,Goods trains,1957.0
+Annual,Number,Slavonski Brod - Strizivojna Vrpolje,Passenger trains,6539.0
+Annual,Number,Strizivojna Vrpolje - Vinkovci,Goods trains,2134.0
+Annual,Number,Strizivojna Vrpolje - Vinkovci,Passenger trains,6392.0
+Annual,Number,Vinkovci - Tovarnik,Goods trains,1337.0
+Annual,Number,Vinkovci - Tovarnik,Passenger trains,1759.0
+Annual,Number,Tovarnik - Tovarnik DG,Goods trains,1324.0
+Annual,Number,Tovarnik - Tovarnik DG,Passenger trains,903.0
+Annual,Number,Sesvete - Zagreb Resnik,Goods trains,2912.0
+Annual,Number,Sesvete - Zagreb Resnik,Passenger trains,49.0
+Annual,Number,Zagreb Resnik - Sava,Goods trains,3226.0
+Annual,Number,Zagreb Resnik - Sava,Passenger trains,90.0
+Annual,Number,Sava - Zagreb RK OS S461,Goods trains,576.0
+Annual,Number,Sava - Zagreb RK OS S461,Passenger trains,1.0
+Annual,Number,Zagreb RK OS - Zagreb RK PS,Goods trains,3430.0
+Annual,Number,Zagreb RK OS - Zagreb RK PS,Passenger trains,154.0
+Annual,Number,Zagreb RK PS - Zagreb Klara,Goods trains,3070.0
+Annual,Number,Zagreb RK PS - Zagreb Klara,Passenger trains,154.0
+Annual,Number,Zagreb Klara - Delta,Goods trains,2786.0
+Annual,Number,Zagreb Klara - Delta,Passenger trains,5890.0
+Annual,Number,Zagreb ZK - Tre¿njevka (R),Goods trains,1433.0
+Annual,Number,Zagreb ZK - Tre¿njevka (R),Passenger trains,20.0
+Annual,Number,Zagreb Borongaj - Zagreb Resnik,Goods trains,23.0
+Annual,Number,Zagreb Borongaj - Zagreb Resnik,Passenger trains,224.0
+Annual,Number,Sava - Micevac,Goods trains,2476.0
+Annual,Number,Sava - Micevac,Passenger trains,89.0
+Annual,Number,Micevac - Velika Gorica,Goods trains,537.0
+Annual,Number,Micevac - Velika Gorica,Passenger trains,60.0
+Annual,Number,Zagreb RK OS - Micevac,Goods trains,3312.0
+Annual,Number,Zagreb RK OS - Micevac,Passenger trains,45.0
+Annual,Number,Zagreb Klara Mlaka - Zagreb RK PS,Goods trains,5.0
+Annual,Number,Zagreb Klara Mlaka - Zagreb RK PS,Passenger trains,0.0
+Annual,Number,Zagreb RK OS S461 - Zagreb RK PS,Goods trains,576.0
+Annual,Number,Zagreb RK OS S461 - Zagreb RK PS,Passenger trains,1.0
+Annual,Number,Zagreb GK - Tre¿njevka (S),Goods trains,9.0
+Annual,Number,Zagreb GK - Tre¿njevka (S),Passenger trains,10979.0
+Annual,Number,Tre¿njevka (S) - Zagreb Klara,Goods trains,1442.0
+Annual,Number,Tre¿njevka (S) - Zagreb Klara,Passenger trains,11031.0
+Annual,Number,Zagreb Klara - Zagreb Klara Mlaka,Goods trains,197.0
+Annual,Number,Zagreb Klara - Zagreb Klara Mlaka,Passenger trains,4912.0
+Annual,Number,Velika Gorica - Sisak,Goods trains,729.0
+Annual,Number,Velika Gorica - Sisak,Passenger trains,4974.0
+Annual,Number,Sisak - Sisak Caprag,Goods trains,865.0
+Annual,Number,Sisak - Sisak Caprag,Passenger trains,5968.0
+Annual,Number,Sisak Caprag - Sunja,Goods trains,281.0
+Annual,Number,Sisak Caprag - Sunja,Passenger trains,3334.0
+Annual,Number,Sunja - Novska,Goods trains,4.0
+Annual,Number,Sunja - Novska,Passenger trains,1192.0
+Annual,Number,Zagreb RK OS S461 - Zagreb RK OS,Goods trains,2866.0
+Annual,Number,Zagreb RK OS S461 - Zagreb RK OS,Passenger trains,1.0
+Annual,Number,Tre¿njevka (R) - Tre¿njevka (S),Goods trains,1247.0
+Annual,Number,Tre¿njevka (R) - Tre¿njevka (S),Passenger trains,52.0
+Annual,Number,Zagreb Klara Mlaka - Velika Gorica,Goods trains,197.0
+Annual,Number,Zagreb Klara Mlaka - Velika Gorica,Passenger trains,4912.0
+Annual,Number,Koprivnica DG - Botovo,Goods trains,1747.0
+Annual,Number,Koprivnica DG - Botovo,Passenger trains,556.0
+Annual,Number,Botovo - Koprivnica,Goods trains,2382.0
+Annual,Number,Botovo - Koprivnica,Passenger trains,580.0
+Annual,Number,Koprivnica - Kri¿evci,Goods trains,2264.0
+Annual,Number,Koprivnica - Kri¿evci,Passenger trains,4131.0
+Annual,Number,Kri¿evci - Dugo Selo,Goods trains,2227.0
+Annual,Number,Kri¿evci - Dugo Selo,Passenger trains,6092.0
+Annual,Number,Zagreb GK - Tre¿njevka (R),Goods trains,0.0
+Annual,Number,Zagreb GK - Tre¿njevka (R),Passenger trains,32.0
+Annual,Number,Tre¿njevka (R) - Delta,Goods trains,0.0
+Annual,Number,Tre¿njevka (R) - Delta,Passenger trains,0.0
+Annual,Number,Delta - Karlovac,Goods trains,2691.0
+Annual,Number,Delta - Karlovac,Passenger trains,5944.0
+Annual,Number,Karlovac - O¿tarije,Goods trains,3547.0
+Annual,Number,Karlovac - O¿tarije,Passenger trains,5520.0
+Annual,Number,O¿tarije - Ogulin,Goods trains,3426.0
+Annual,Number,O¿tarije - Ogulin,Passenger trains,3992.0
+Annual,Number,Ogulin - Moravice,Goods trains,2593.0
+Annual,Number,Ogulin - Moravice,Passenger trains,3061.0
+Annual,Number,Moravice - Lokve,Goods trains,2582.0
+Annual,Number,Moravice - Lokve,Passenger trains,2293.0
+Annual,Number,Lokve - ¿krljevo,Goods trains,2584.0
+Annual,Number,Lokve - ¿krljevo,Passenger trains,2296.0
+Annual,Number,¿krljevo - Su¿ak Pecine,Goods trains,1934.0
+Annual,Number,¿krljevo - Su¿ak Pecine,Passenger trains,2295.0
+Annual,Number,Su¿ak Pecine - Rijeka,Goods trains,1365.0
+Annual,Number,Su¿ak Pecine - Rijeka,Passenger trains,2293.0
+Annual,Number,Beli Manastir DG - Beli Manastir,Goods trains,200.0
+Annual,Number,Beli Manastir DG - Beli Manastir,Passenger trains,520.0
+Annual,Number,Beli Manastir - Osijek,Goods trains,384.0
+Annual,Number,Beli Manastir - Osijek,Passenger trains,2960.0
+Annual,Number,Osijek - Strizivojna Vrpolje,Goods trains,44.0
+Annual,Number,Osijek - Strizivojna Vrpolje,Passenger trains,2016.0
+Annual,Number,Strizivojna Vrpolje - Slavonski ¿amac,Goods trains,182.0
+Annual,Number,Strizivojna Vrpolje - Slavonski ¿amac,Passenger trains,0.0
+Annual,Number,Slavonski ¿amac - Slavonski ¿amac DG,Goods trains,182.0
+Annual,Number,Slavonski ¿amac - Slavonski ¿amac DG,Passenger trains,0.0
+Annual,Number,Metkovic DG - Metkovic,Goods trains,1349.0
+Annual,Number,Metkovic DG - Metkovic,Passenger trains,1.0
+Annual,Number,Metkovic - Ploce,Goods trains,1349.0
+Annual,Number,Metkovic - Ploce,Passenger trains,1.0
+Annual,Number,O¿tarije - Krpelj,Goods trains,0.0
+Annual,Number,O¿tarije - Krpelj,Passenger trains,725.0
+Annual,Number,Krpelj - Vrhovine,Goods trains,1040.0
+Annual,Number,Krpelj - Vrhovine,Passenger trains,1640.0
+Annual,Number,Vrhovine - Gracac,Goods trains,1008.0
+Annual,Number,Vrhovine - Gracac,Passenger trains,962.0
+Annual,Number,Gracac - Knin,Goods trains,1004.0
+Annual,Number,Gracac - Knin,Passenger trains,962.0
+Annual,Number,Knin - Perkovic,Goods trains,1028.0
+Annual,Number,Knin - Perkovic,Passenger trains,2404.0
+Annual,Number,Perkovic - Solin,Goods trains,739.0
+Annual,Number,Perkovic - Solin,Passenger trains,4367.0
+Annual,Number,Solin - Split Predgrade,Goods trains,128.0
+Annual,Number,Solin - Split Predgrade,Passenger trains,4986.0
+Annual,Number,Ogulin - Krpelj,Goods trains,1053.0
+Annual,Number,Ogulin - Krpelj,Passenger trains,1206.0
+Annual,Number,Knin - Bibinje,Goods trains,74.0
+Annual,Number,Knin - Bibinje,Passenger trains,0.0
+Annual,Number,Bibinje - Zadar,Goods trains,21.0
+Annual,Number,Bibinje - Zadar,Passenger trains,0.0
+Annual,Number,Perkovic - Ra¿ine,Goods trains,451.0
+Annual,Number,Perkovic - Ra¿ine,Passenger trains,2278.0
+Annual,Number,Ra¿ine - ¿ibenik,Goods trains,12.0
+Annual,Number,Ra¿ine - ¿ibenik,Passenger trains,2277.0
+Annual,Number,Split Predgrade - Split,Goods trains,0.0
+Annual,Number,Split Predgrade - Split,Passenger trains,5233.0
+Annual,Number,Vara¿din - Koprivnica,Goods trains,212.0
+Annual,Number,Vara¿din - Koprivnica,Passenger trains,3070.0
+Annual,Number,Koprivnica - Klo¿tar,Goods trains,340.0
+Annual,Number,Koprivnica - Klo¿tar,Passenger trains,2934.0
+Annual,Number,Klo¿tar - Virovitica,Goods trains,395.0
+Annual,Number,Klo¿tar - Virovitica,Passenger trains,4228.0
+Annual,Number,Virovitica - Pcelic,Goods trains,357.0
+Annual,Number,Virovitica - Pcelic,Passenger trains,2897.0
+Annual,Number,Pcelic - Na¿ice,Goods trains,311.0
+Annual,Number,Pcelic - Na¿ice,Passenger trains,2899.0
+Annual,Number,Na¿ice - Bizovac,Goods trains,299.0
+Annual,Number,Na¿ice - Bizovac,Passenger trains,3791.0
+Annual,Number,Bizovac - Osijek,Goods trains,318.0
+Annual,Number,Bizovac - Osijek,Passenger trains,3771.0
+Annual,Number,Osijek - Dalj,Goods trains,71.0
+Annual,Number,Osijek - Dalj,Passenger trains,952.0
+Annual,Number,Cakovec DG - Cakovec,Goods trains,111.0
+Annual,Number,Cakovec DG - Cakovec,Passenger trains,1956.0
+Annual,Number,Cakovec - Kotoriba,Goods trains,170.0
+Annual,Number,Cakovec - Kotoriba,Passenger trains,3972.0
+Annual,Number,Kotoriba - Kotoriba DG,Goods trains,129.0
+Annual,Number,Kotoriba - Kotoriba DG,Passenger trains,0.0
+Annual,Number,Rijeka - ¿apjane,Goods trains,768.0
+Annual,Number,Rijeka - ¿apjane,Passenger trains,777.0
+Annual,Number,¿apjane - ¿apjane DG,Goods trains,548.0
+Annual,Number,¿apjane - ¿apjane DG,Passenger trains,771.0
+Annual,Number,Vinkovci - Vukovar Borovo Naselje,Goods trains,470.0
+Annual,Number,Vinkovci - Vukovar Borovo Naselje,Passenger trains,1318.0
+Annual,Number,Vukovar Borovo Naselje - Vukovar,Goods trains,415.0
+Annual,Number,Vukovar Borovo Naselje - Vukovar,Passenger trains,1317.0
+Annual,Number,¿krljevo - Bakar,Goods trains,1421.0
+Annual,Number,¿krljevo - Bakar,Passenger trains,0.0
+Annual,Number,Su¿ak Pecine - Rijeka Brajdica,Goods trains,573.0
+Annual,Number,Su¿ak Pecine - Rijeka Brajdica,Passenger trains,0.0
+Annual,Number,Sunja - Volinja,Goods trains,279.0
+Annual,Number,Sunja - Volinja,Passenger trains,1484.0
+Annual,Number,Volinja - Volinja DG,Goods trains,254.0
+Annual,Number,Volinja - Volinja DG,Passenger trains,368.0
+Annual,Number,Vukovar Borovo Naselje - Dalj,Goods trains,51.0
+Annual,Number,Vukovar Borovo Naselje - Dalj,Passenger trains,0.0
+Annual,Number,Dalj - Erdut,Goods trains,56.0
+Annual,Number,Dalj - Erdut,Passenger trains,514.0
+Annual,Number,Erdut - Erdut DG,Goods trains,27.0
+Annual,Number,Erdut - Erdut DG,Passenger trains,26.0
+Annual,Number,Vara¿din - Cakovec,Goods trains,199.0
+Annual,Number,Vara¿din - Cakovec,Passenger trains,6060.0
+Annual,Number,Savski Marof - Savski Marof DG,Goods trains,1671.0
+Annual,Number,Savski Marof - Savski Marof DG,Passenger trains,2307.0
+Annual,Number,Zapre¿ic - Savski Marof,Goods trains,1723.0
+Annual,Number,Zapre¿ic - Savski Marof,Passenger trains,13429.0
+Annual,Number,Zagreb ZK - Zapre¿ic,Goods trains,2067.0
+Annual,Number,Zagreb ZK - Zapre¿ic,Passenger trains,18669.0
+Annual,Number,Zagreb GK - Zagreb ZK,Goods trains,1656.0
+Annual,Number,Zagreb GK - Zagreb ZK,Passenger trains,18669.0
+Annual,Number,Zagreb Borongaj - Zagreb GK,Goods trains,1661.0
+Annual,Number,Zagreb Borongaj - Zagreb GK,Passenger trains,24757.0
+Annual,Number,Sesvete - Zagreb Borongaj,Goods trains,1609.0
+Annual,Number,Sesvete - Zagreb Borongaj,Passenger trains,24332.0
+Annual,Number,Dugo Selo - Sesvete,Goods trains,4422.0
+Annual,Number,Dugo Selo - Sesvete,Passenger trains,24398.0
+Annual,Number,Kutina - Dugo Selo,Goods trains,2174.0
+Annual,Number,Kutina - Dugo Selo,Passenger trains,7366.0
+Annual,Number,Banova Jaruga - Kutina,Goods trains,2010.0
+Annual,Number,Banova Jaruga - Kutina,Passenger trains,6913.0
+Annual,Number,Novska - Banova Jaruga,Goods trains,1972.0
+Annual,Number,Novska - Banova Jaruga,Passenger trains,6912.0
+Annual,Number,Nova Kapela Batrina - Novska,Goods trains,1927.0
+Annual,Number,Nova Kapela Batrina - Novska,Passenger trains,6080.0
+Annual,Number,Slavonski Brod - Nova Kapela Batrina,Goods trains,1969.0
+Annual,Number,Slavonski Brod - Nova Kapela Batrina,Passenger trains,6234.0
+Annual,Number,Strizivojna Vrpolje - Slavonski Brod,Goods trains,1971.0
+Annual,Number,Strizivojna Vrpolje - Slavonski Brod,Passenger trains,6573.0
+Annual,Number,Vinkovci - Strizivojna Vrpolje,Goods trains,2140.0
+Annual,Number,Vinkovci - Strizivojna Vrpolje,Passenger trains,6423.0
+Annual,Number,Tovarnik - Vinkovci,Goods trains,1419.0
+Annual,Number,Tovarnik - Vinkovci,Passenger trains,1756.0
+Annual,Number,Tovarnik DG - Tovarnik,Goods trains,1404.0
+Annual,Number,Tovarnik DG - Tovarnik,Passenger trains,902.0
+Annual,Number,Zagreb Resnik - Sesvete,Goods trains,2946.0
+Annual,Number,Zagreb Resnik - Sesvete,Passenger trains,54.0
+Annual,Number,Sava - Zagreb Resnik,Goods trains,3267.0
+Annual,Number,Sava - Zagreb Resnik,Passenger trains,104.0
+Annual,Number,Zagreb RK OS S461 - Sava,Goods trains,0.0
+Annual,Number,Zagreb RK OS S461 - Sava,Passenger trains,0.0
+Annual,Number,Zagreb RK PS - Zagreb RK OS,Goods trains,2041.0
+Annual,Number,Zagreb RK PS - Zagreb RK OS,Passenger trains,24.0
+Annual,Number,Zagreb Klara - Zagreb RK PS,Goods trains,3632.0
+Annual,Number,Zagreb Klara - Zagreb RK PS,Passenger trains,225.0
+Annual,Number,Delta - Zagreb Klara,Goods trains,3161.0
+Annual,Number,Delta - Zagreb Klara,Passenger trains,5284.0
+Annual,Number,Tre¿njevka (R) - Zagreb ZK,Goods trains,1609.0
+Annual,Number,Tre¿njevka (R) - Zagreb ZK,Passenger trains,16.0
+Annual,Number,Zagreb Resnik - Zagreb Borongaj,Goods trains,51.0
+Annual,Number,Zagreb Resnik - Zagreb Borongaj,Passenger trains,236.0
+Annual,Number,Micevac - Sava,Goods trains,3197.0
+Annual,Number,Micevac - Sava,Passenger trains,104.0
+Annual,Number,Velika Gorica - Micevac,Goods trains,254.0
+Annual,Number,Velika Gorica - Micevac,Passenger trains,59.0
+Annual,Number,Micevac - Zagreb RK OS,Goods trains,2308.0
+Annual,Number,Micevac - Zagreb RK OS,Passenger trains,29.0
+Annual,Number,Zagreb RK PS - Zagreb Klara Mlaka,Goods trains,0.0
+Annual,Number,Zagreb RK PS - Zagreb Klara Mlaka,Passenger trains,0.0
+Annual,Number,Zagreb RK PS - Zagreb RK OS S461,Goods trains,0.0
+Annual,Number,Zagreb RK PS - Zagreb RK OS S461,Passenger trains,0.0
+Annual,Number,Tre¿njevka (S) - Zagreb GK,Goods trains,5.0
+Annual,Number,Tre¿njevka (S) - Zagreb GK,Passenger trains,10480.0
+Annual,Number,Zagreb Klara - Tre¿njevka (S),Goods trains,1614.0
+Annual,Number,Zagreb Klara - Tre¿njevka (S),Passenger trains,10528.0
+Annual,Number,Zagreb Klara Mlaka - Zagreb Klara,Goods trains,558.0
+Annual,Number,Zagreb Klara Mlaka - Zagreb Klara,Passenger trains,5083.0
+Annual,Number,Sisak - Velika Gorica,Goods trains,814.0
+Annual,Number,Sisak - Velika Gorica,Passenger trains,5152.0
+Annual,Number,Sisak Caprag - Sisak,Goods trains,823.0
+Annual,Number,Sisak Caprag - Sisak,Passenger trains,6081.0
+Annual,Number,Sunja - Sisak Caprag,Goods trains,358.0
+Annual,Number,Sunja - Sisak Caprag,Passenger trains,3441.0
+Annual,Number,Novska - Sunja,Goods trains,16.0
+Annual,Number,Novska - Sunja,Passenger trains,1429.0
+Annual,Number,Zagreb RK OS - Zagreb RK OS S461,Goods trains,2088.0
+Annual,Number,Zagreb RK OS - Zagreb RK OS S461,Passenger trains,0.0
+Annual,Number,Tre¿njevka (S) - Tre¿njevka (R),Goods trains,1401.0
+Annual,Number,Tre¿njevka (S) - Tre¿njevka (R),Passenger trains,48.0
+Annual,Number,Velika Gorica - Zagreb Klara Mlaka,Goods trains,563.0
+Annual,Number,Velika Gorica - Zagreb Klara Mlaka,Passenger trains,5083.0
+Annual,Number,Botovo - Koprivnica DG,Goods trains,1865.0
+Annual,Number,Botovo - Koprivnica DG,Passenger trains,559.0
+Annual,Number,Koprivnica - Botovo,Goods trains,2321.0
+Annual,Number,Koprivnica - Botovo,Passenger trains,567.0
+Annual,Number,Kri¿evci - Koprivnica,Goods trains,2330.0
+Annual,Number,Kri¿evci - Koprivnica,Passenger trains,4417.0
+Annual,Number,Dugo Selo - Kri¿evci,Goods trains,2295.0
+Annual,Number,Dugo Selo - Kri¿evci,Passenger trains,6427.0
+Annual,Number,Tre¿njevka (R) - Zagreb GK,Goods trains,0.0
+Annual,Number,Tre¿njevka (R) - Zagreb GK,Passenger trains,439.0
+Annual,Number,Delta - Tre¿njevka (R),Goods trains,0.0
+Annual,Number,Delta - Tre¿njevka (R),Passenger trains,407.0
+Annual,Number,Karlovac - Delta,Goods trains,2981.0
+Annual,Number,Karlovac - Delta,Passenger trains,5738.0
+Annual,Number,O¿tarije - Karlovac,Goods trains,3130.0
+Annual,Number,O¿tarije - Karlovac,Passenger trains,5462.0
+Annual,Number,Ogulin - O¿tarije,Goods trains,2994.0
+Annual,Number,Ogulin - O¿tarije,Passenger trains,3926.0
+Annual,Number,Moravice - Ogulin,Goods trains,2274.0
+Annual,Number,Moravice - Ogulin,Passenger trains,3091.0
+Annual,Number,Lokve - Moravice,Goods trains,2256.0
+Annual,Number,Lokve - Moravice,Passenger trains,2318.0
+Annual,Number,¿krljevo - Lokve,Goods trains,4398.0
+Annual,Number,¿krljevo - Lokve,Passenger trains,2322.0
+Annual,Number,Su¿ak Pecine - ¿krljevo,Goods trains,2137.0
+Annual,Number,Su¿ak Pecine - ¿krljevo,Passenger trains,2322.0
+Annual,Number,Rijeka - Su¿ak Pecine,Goods trains,1262.0
+Annual,Number,Rijeka - Su¿ak Pecine,Passenger trains,2321.0
+Annual,Number,Beli Manastir - Beli Manastir DG,Goods trains,166.0
+Annual,Number,Beli Manastir - Beli Manastir DG,Passenger trains,520.0
+Annual,Number,Osijek - Beli Manastir,Goods trains,383.0
+Annual,Number,Osijek - Beli Manastir,Passenger trains,2797.0
+Annual,Number,Strizivojna Vrpolje - Osijek,Goods trains,31.0
+Annual,Number,Strizivojna Vrpolje - Osijek,Passenger trains,2263.0
+Annual,Number,Slavonski ¿amac - Strizivojna Vrpolje,Goods trains,185.0
+Annual,Number,Slavonski ¿amac - Strizivojna Vrpolje,Passenger trains,2.0
+Annual,Number,Slavonski ¿amac DG - Slavonski ¿amac,Goods trains,190.0
+Annual,Number,Slavonski ¿amac DG - Slavonski ¿amac,Passenger trains,0.0
+Annual,Number,Metkovic - Metkovic DG,Goods trains,1554.0
+Annual,Number,Metkovic - Metkovic DG,Passenger trains,2.0
+Annual,Number,Ploce - Metkovic,Goods trains,1553.0
+Annual,Number,Ploce - Metkovic,Passenger trains,1.0
+Annual,Number,Krpelj - O¿tarije,Goods trains,0.0
+Annual,Number,Krpelj - O¿tarije,Passenger trains,724.0
+Annual,Number,Vrhovine - Krpelj,Goods trains,1010.0
+Annual,Number,Vrhovine - Krpelj,Passenger trains,1632.0
+Annual,Number,Gracac - Vrhovine,Goods trains,973.0
+Annual,Number,Gracac - Vrhovine,Passenger trains,966.0
+Annual,Number,Knin - Gracac,Goods trains,961.0
+Annual,Number,Knin - Gracac,Passenger trains,966.0
+Annual,Number,Perkovic - Knin,Goods trains,1014.0
+Annual,Number,Perkovic - Knin,Passenger trains,2406.0
+Annual,Number,Solin - Perkovic,Goods trains,612.0
+Annual,Number,Solin - Perkovic,Passenger trains,4346.0
+Annual,Number,Split Predgrade - Solin,Goods trains,101.0
+Annual,Number,Split Predgrade - Solin,Passenger trains,4974.0
+Annual,Number,Krpelj - Ogulin,Goods trains,1023.0
+Annual,Number,Krpelj - Ogulin,Passenger trains,1196.0
+Annual,Number,Bibinje - Knin,Goods trains,77.0
+Annual,Number,Bibinje - Knin,Passenger trains,0.0
+Annual,Number,Zadar - Bibinje,Goods trains,19.0
+Annual,Number,Zadar - Bibinje,Passenger trains,0.0
+Annual,Number,Ra¿ine - Perkovic,Goods trains,487.0
+Annual,Number,Ra¿ine - Perkovic,Passenger trains,2282.0
+Annual,Number,¿ibenik - Ra¿ine,Goods trains,12.0
+Annual,Number,¿ibenik - Ra¿ine,Passenger trains,2283.0
+Annual,Number,Split - Split Predgrade,Goods trains,0.0
+Annual,Number,Split - Split Predgrade,Passenger trains,5297.0
+Annual,Number,Koprivnica - Vara¿din,Goods trains,219.0
+Annual,Number,Koprivnica - Vara¿din,Passenger trains,3403.0
+Annual,Number,Klo¿tar - Koprivnica,Goods trains,303.0
+Annual,Number,Klo¿tar - Koprivnica,Passenger trains,2940.0
+Annual,Number,Virovitica - Klo¿tar,Goods trains,357.0
+Annual,Number,Virovitica - Klo¿tar,Passenger trains,3685.0
+Annual,Number,Pcelic - Virovitica,Goods trains,361.0
+Annual,Number,Pcelic - Virovitica,Passenger trains,2623.0
+Annual,Number,Na¿ice - Pcelic,Goods trains,312.0
+Annual,Number,Na¿ice - Pcelic,Passenger trains,2625.0
+Annual,Number,Bizovac - Na¿ice,Goods trains,300.0
+Annual,Number,Bizovac - Na¿ice,Passenger trains,3539.0
+Annual,Number,Osijek - Bizovac,Goods trains,319.0
+Annual,Number,Osijek - Bizovac,Passenger trains,3541.0
+Annual,Number,Dalj - Osijek,Goods trains,73.0
+Annual,Number,Dalj - Osijek,Passenger trains,930.0
+Annual,Number,Cakovec - Cakovec DG,Goods trains,162.0
+Annual,Number,Cakovec - Cakovec DG,Passenger trains,2008.0
+Annual,Number,Kotoriba - Cakovec,Goods trains,209.0
+Annual,Number,Kotoriba - Cakovec,Passenger trains,4017.0
+Annual,Number,Kotoriba DG - Kotoriba,Goods trains,171.0
+Annual,Number,Kotoriba DG - Kotoriba,Passenger trains,0.0
+Annual,Number,¿apjane - Rijeka,Goods trains,540.0
+Annual,Number,¿apjane - Rijeka,Passenger trains,778.0
+Annual,Number,¿apjane DG - ¿apjane,Goods trains,540.0
+Annual,Number,¿apjane DG - ¿apjane,Passenger trains,774.0
+Annual,Number,Vukovar Borovo Naselje - Vinkovci,Goods trains,456.0
+Annual,Number,Vukovar Borovo Naselje - Vinkovci,Passenger trains,1517.0
+Annual,Number,Vukovar - Vukovar Borovo Naselje,Goods trains,406.0
+Annual,Number,Vukovar - Vukovar Borovo Naselje,Passenger trains,1516.0
+Annual,Number,Bakar - ¿krljevo,Goods trains,2534.0
+Annual,Number,Bakar - ¿krljevo,Passenger trains,0.0
+Annual,Number,Rijeka Brajdica - Su¿ak Pecine,Goods trains,867.0
+Annual,Number,Rijeka Brajdica - Su¿ak Pecine,Passenger trains,0.0
+Annual,Number,Volinja - Sunja,Goods trains,345.0
+Annual,Number,Volinja - Sunja,Passenger trains,1479.0
+Annual,Number,Volinja DG - Volinja,Goods trains,332.0
+Annual,Number,Volinja DG - Volinja,Passenger trains,366.0
+Annual,Number,Dalj - Vukovar Borovo Naselje,Goods trains,49.0
+Annual,Number,Dalj - Vukovar Borovo Naselje,Passenger trains,0.0
+Annual,Number,Erdut - Dalj,Goods trains,55.0
+Annual,Number,Erdut - Dalj,Passenger trains,494.0
+Annual,Number,Erdut DG - Erdut,Goods trains,31.0
+Annual,Number,Erdut DG - Erdut,Passenger trains,26.0
+Annual,Number,Cakovec - Vara¿din,Goods trains,200.0
+Annual,Number,Cakovec - Vara¿din,Passenger trains,6058.0

@@ -1,0 +1,601 @@
+{
+  "learned_substitutions": {
+    "annual <-> monthly": {
+      "support": 88,
+      "unique_contexts": 61,
+      "term_similarity": 0.5705235004425049,
+      "context_similarity": 0.1266199916130281
+    },
+    "annual <-> quarterly": {
+      "support": 102,
+      "unique_contexts": 98,
+      "term_similarity": 0.569430947303772,
+      "context_similarity": 0.12011636650005286
+    },
+    "monthly <-> quarterly": {
+      "support": 52,
+      "unique_contexts": 50,
+      "term_similarity": 0.5286949872970581,
+      "context_similarity": 0.15210620279325365
+    },
+    "active <-> inactive": {
+      "support": 4,
+      "unique_contexts": 4,
+      "term_similarity": 0.752349317073822,
+      "context_similarity": 0.4832010582010582
+    },
+    "iceland <-> norway": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.7021310329437256,
+      "context_similarity": 0.2333333333333333
+    },
+    "iceland <-> switzerland": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.6761947870254517,
+      "context_similarity": 0.7
+    },
+    "montenegro <-> serbia": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.8061257600784302,
+      "context_similarity": 0.7
+    },
+    "norway <-> switzerland": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.6730406284332275,
+      "context_similarity": 0.2333333333333333
+    },
+    "bovine <-> poultry": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.45894742012023926,
+      "context_similarity": 0.0
+    },
+    "excluded <-> included": {
+      "support": 5,
+      "unique_contexts": 5,
+      "term_similarity": 0.5105538368225098,
+      "context_similarity": 0.3675176448938059
+    },
+    "average <-> median": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.46916675567626953,
+      "context_similarity": 0.7333333333333333
+    },
+    "atlantic <-> pacific": {
+      "support": 5,
+      "unique_contexts": 5,
+      "term_similarity": 0.5604870319366455,
+      "context_similarity": 0.3833333333333333
+    },
+    "central <-> north": {
+      "support": 4,
+      "unique_contexts": 4,
+      "term_similarity": 0.6015818119049072,
+      "context_similarity": 0.4444444444444444
+    },
+    "female <-> male": {
+      "support": 9,
+      "unique_contexts": 9,
+      "term_similarity": 0.7337932586669922,
+      "context_similarity": 0.2453552620219287
+    },
+    "consumer <-> service": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.4831254184246063,
+      "context_similarity": 0.3333333333333333
+    },
+    "industry <-> service": {
+      "support": 7,
+      "unique_contexts": 7,
+      "term_similarity": 0.4589400887489319,
+      "context_similarity": 0.19841269841269837
+    },
+    "graduate <-> student": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.5669888257980347,
+      "context_similarity": 0.45
+    },
+    "employment <-> turnover": {
+      "support": 2,
+      "unique_contexts": 1,
+      "term_similarity": 0.45492303371429443,
+      "context_similarity": 1.0
+    },
+    "daily <-> monthly": {
+      "support": 5,
+      "unique_contexts": 4,
+      "term_similarity": 0.5122929215431213,
+      "context_similarity": 0.2801984126984126
+    },
+    "bec <-> sitc": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.529049813747406,
+      "context_similarity": 0.5
+    },
+    "domestic <-> household": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.6008471250534058,
+      "context_similarity": 0.7142857142857143
+    },
+    "emigration <-> immigration": {
+      "support": 5,
+      "unique_contexts": 3,
+      "term_similarity": 0.7038243412971497,
+      "context_similarity": 0.58
+    },
+    "employee <-> employment": {
+      "support": 7,
+      "unique_contexts": 3,
+      "term_similarity": 0.6903930902481079,
+      "context_similarity": 0.5476190476190477
+    },
+    "employment <-> unemployment": {
+      "support": 20,
+      "unique_contexts": 16,
+      "term_similarity": 0.729265570640564,
+      "context_similarity": 0.3433216395249962
+    },
+    "purchasing <-> supplying": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.524217426776886,
+      "context_similarity": 0.8181818181818182
+    },
+    "export <-> import": {
+      "support": 22,
+      "unique_contexts": 22,
+      "term_similarity": 0.5845949649810791,
+      "context_similarity": 0.07898886827458255
+    },
+    "gas <-> oil": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.5958657264709473,
+      "context_similarity": 0.38888888888888884
+    },
+    "account <-> transaction": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.4515780508518219,
+      "context_similarity": 0.5
+    },
+    "abroad <-> foreign": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.646936297416687,
+      "context_similarity": 0.5111111111111111
+    },
+    "goat <-> sheep": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.6288315057754517,
+      "context_similarity": 0.0
+    },
+    "cattle <-> goat": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.48363587260246277,
+      "context_similarity": 0.6666666666666666
+    },
+    "dry <-> liquid": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.49405819177627563,
+      "context_similarity": 0.46153846153846156
+    },
+    "montenegro <-> norway": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.6730326414108276,
+      "context_similarity": 0.49242424242424243
+    },
+    "expenditure <-> revenue": {
+      "support": 2,
+      "unique_contexts": 1,
+      "term_similarity": 0.5835435390472412,
+      "context_similarity": 1.0
+    },
+    "number <-> value": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.580190896987915,
+      "context_similarity": 0.75
+    },
+    "computer <-> internet": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.6294004321098328,
+      "context_similarity": 0.14285714285714285
+    },
+    "loading <-> unloading": {
+      "support": 10,
+      "unique_contexts": 7,
+      "term_similarity": 0.5490903854370117,
+      "context_similarity": 0.5066448366448366
+    },
+    "construction <-> industry": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.46975699067115784,
+      "context_similarity": 0.6
+    },
+    "age <-> birth": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.49697068333625793,
+      "context_similarity": 0.6
+    },
+    "industry <-> market": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.6042712330818176,
+      "context_similarity": 0.5
+    },
+    "lower <-> upper": {
+      "support": 4,
+      "unique_contexts": 4,
+      "term_similarity": 0.640993595123291,
+      "context_similarity": 0.38994200244200244
+    },
+    "people <-> person": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.6168559789657593,
+      "context_similarity": 0.2222222222222222
+    },
+    "household <-> marital": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.488919198513031,
+      "context_similarity": 0.6666666666666666
+    },
+    "industry <-> product": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.5136436223983765,
+      "context_similarity": 0.75
+    },
+    "main <-> secondary": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.5872814655303955,
+      "context_similarity": 0.5636363636363636
+    }
+  },
+  "learned_variants": {},
+  "learned_dimensions": {
+    "annual <-> monthly": {
+      "support": 88,
+      "unique_contexts": 61,
+      "term_similarity": 0.5705235004425049,
+      "context_similarity": 0.1266199916130281,
+      "evidence_score": 0.7394286984111065,
+      "consolidated": false,
+      "valid_examples": 87
+    },
+    "annual <-> quarterly": {
+      "support": 102,
+      "unique_contexts": 98,
+      "term_similarity": 0.569430947303772,
+      "context_similarity": 0.12011636650005286,
+      "evidence_score": 0.737909462760765,
+      "consolidated": false,
+      "valid_examples": 100
+    },
+    "monthly <-> quarterly": {
+      "support": 52,
+      "unique_contexts": 50,
+      "term_similarity": 0.5286949872970581,
+      "context_similarity": 0.15210620279325365,
+      "evidence_score": 0.7361602380180623,
+      "consolidated": false,
+      "valid_examples": 45
+    },
+    "active <-> inactive": {
+      "support": 4,
+      "unique_contexts": 4,
+      "term_similarity": 0.752349317073822,
+      "context_similarity": 0.4832010582010582,
+      "evidence_score": 0.587110075054976,
+      "consolidated": false,
+      "valid_examples": 4
+    },
+    "montenegro <-> serbia": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.8061257600784302,
+      "context_similarity": 0.7,
+      "evidence_score": 0.471225152015686,
+      "consolidated": false,
+      "valid_examples": 2
+    },
+    "excluded <-> included": {
+      "support": 5,
+      "unique_contexts": 5,
+      "term_similarity": 0.5105538368225098,
+      "context_similarity": 0.3675176448938059,
+      "evidence_score": 0.6006142963432631,
+      "consolidated": false,
+      "valid_examples": 5
+    },
+    "average <-> median": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.46916675567626953,
+      "context_similarity": 0.7333333333333333,
+      "evidence_score": 0.4105000178019206,
+      "consolidated": true,
+      "valid_examples": 2
+    },
+    "atlantic <-> pacific": {
+      "support": 5,
+      "unique_contexts": 5,
+      "term_similarity": 0.5604870319366455,
+      "context_similarity": 0.3833333333333333,
+      "evidence_score": 0.6137640730539958,
+      "consolidated": false,
+      "valid_examples": 2
+    },
+    "central <-> north": {
+      "support": 4,
+      "unique_contexts": 4,
+      "term_similarity": 0.6015818119049072,
+      "context_similarity": 0.4444444444444444,
+      "evidence_score": 0.5492052512698703,
+      "consolidated": false,
+      "valid_examples": 2
+    },
+    "female <-> male": {
+      "support": 9,
+      "unique_contexts": 9,
+      "term_similarity": 0.7337932586669922,
+      "context_similarity": 0.2453552620219287,
+      "evidence_score": 0.7608297041377841,
+      "consolidated": false,
+      "valid_examples": 9
+    },
+    "industry <-> service": {
+      "support": 7,
+      "unique_contexts": 7,
+      "term_similarity": 0.4589400887489319,
+      "context_similarity": 0.19841269841269837,
+      "evidence_score": 0.626470557432326,
+      "consolidated": false,
+      "valid_examples": 7
+    },
+    "graduate <-> student": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.5669888257980347,
+      "context_similarity": 0.45,
+      "evidence_score": 0.45839776515960695,
+      "consolidated": false,
+      "valid_examples": 3
+    },
+    "daily <-> monthly": {
+      "support": 5,
+      "unique_contexts": 4,
+      "term_similarity": 0.5122929215431213,
+      "context_similarity": 0.2801984126984126,
+      "evidence_score": 0.5334982668483068,
+      "consolidated": false,
+      "valid_examples": 5
+    },
+    "bec <-> sitc": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.529049813747406,
+      "context_similarity": 0.5,
+      "evidence_score": 0.3758099627494812,
+      "consolidated": false,
+      "valid_examples": 2
+    },
+    "domestic <-> household": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.6008471250534058,
+      "context_similarity": 0.7142857142857143,
+      "evidence_score": 0.433026567867824,
+      "consolidated": false,
+      "valid_examples": 2
+    },
+    "emigration <-> immigration": {
+      "support": 5,
+      "unique_contexts": 3,
+      "term_similarity": 0.7038243412971497,
+      "context_similarity": 0.58,
+      "evidence_score": 0.5817648682594299,
+      "consolidated": false,
+      "valid_examples": 4
+    },
+    "employee <-> employment": {
+      "support": 7,
+      "unique_contexts": 3,
+      "term_similarity": 0.6903930902481079,
+      "context_similarity": 0.5476190476190477,
+      "evidence_score": 0.6426024275734311,
+      "consolidated": false,
+      "valid_examples": 7
+    },
+    "employment <-> unemployment": {
+      "support": 20,
+      "unique_contexts": 16,
+      "term_similarity": 0.729265570640564,
+      "context_similarity": 0.3433216395249962,
+      "evidence_score": 0.814517442033112,
+      "consolidated": false,
+      "valid_examples": 18
+    },
+    "purchasing <-> supplying": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.524217426776886,
+      "context_similarity": 0.8181818181818182,
+      "evidence_score": 0.4384798489917408,
+      "consolidated": true,
+      "valid_examples": 2
+    },
+    "export <-> import": {
+      "support": 22,
+      "unique_contexts": 22,
+      "term_similarity": 0.5845949649810791,
+      "context_similarity": 0.07898886827458255,
+      "evidence_score": 0.7327167666511323,
+      "consolidated": false,
+      "valid_examples": 20
+    },
+    "gas <-> oil": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.5958657264709473,
+      "context_similarity": 0.38888888888888884,
+      "evidence_score": 0.45195092307196727,
+      "consolidated": false,
+      "valid_examples": 2
+    },
+    "account <-> transaction": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.4515780508518219,
+      "context_similarity": 0.5,
+      "evidence_score": 0.3603156101703644,
+      "consolidated": false,
+      "valid_examples": 2
+    },
+    "abroad <-> foreign": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.646936297416687,
+      "context_similarity": 0.5111111111111111,
+      "evidence_score": 0.4866094817055596,
+      "consolidated": false,
+      "valid_examples": 3
+    },
+    "goat <-> sheep": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.6288315057754517,
+      "context_similarity": 0.0,
+      "evidence_score": 0.2957663011550903,
+      "consolidated": false,
+      "valid_examples": 2
+    },
+    "cattle <-> goat": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.48363587260246277,
+      "context_similarity": 0.6666666666666666,
+      "evidence_score": 0.4000605078538259,
+      "consolidated": false,
+      "valid_examples": 2
+    },
+    "dry <-> liquid": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.49405819177627563,
+      "context_similarity": 0.46153846153846156,
+      "evidence_score": 0.36111933066294744,
+      "consolidated": false,
+      "valid_examples": 2
+    },
+    "number <-> value": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.580190896987915,
+      "context_similarity": 0.75,
+      "evidence_score": 0.43603817939758305,
+      "consolidated": true,
+      "valid_examples": 2
+    },
+    "loading <-> unloading": {
+      "support": 10,
+      "unique_contexts": 7,
+      "term_similarity": 0.5490903854370117,
+      "context_similarity": 0.5066448366448366,
+      "evidence_score": 0.8111470444163696,
+      "consolidated": false,
+      "valid_examples": 10
+    },
+    "construction <-> industry": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.46975699067115784,
+      "context_similarity": 0.6,
+      "evidence_score": 0.4689513981342316,
+      "consolidated": false,
+      "valid_examples": 3
+    },
+    "age <-> birth": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.49697068333625793,
+      "context_similarity": 0.6,
+      "evidence_score": 0.3893941366672516,
+      "consolidated": false,
+      "valid_examples": 2
+    },
+    "industry <-> market": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.6042712330818176,
+      "context_similarity": 0.5,
+      "evidence_score": 0.4758542466163635,
+      "consolidated": false,
+      "valid_examples": 3
+    },
+    "lower <-> upper": {
+      "support": 4,
+      "unique_contexts": 4,
+      "term_similarity": 0.640993595123291,
+      "context_similarity": 0.38994200244200244,
+      "evidence_score": 0.5461871195130586,
+      "consolidated": false,
+      "valid_examples": 4
+    },
+    "people <-> person": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.6168559789657593,
+      "context_similarity": 0.2222222222222222,
+      "evidence_score": 0.4228156402375963,
+      "consolidated": false,
+      "valid_examples": 3
+    },
+    "household <-> marital": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.488919198513031,
+      "context_similarity": 0.6666666666666666,
+      "evidence_score": 0.4011171730359395,
+      "consolidated": false,
+      "valid_examples": 2
+    },
+    "industry <-> product": {
+      "support": 2,
+      "unique_contexts": 2,
+      "term_similarity": 0.5136436223983765,
+      "context_similarity": 0.75,
+      "evidence_score": 0.4227287244796753,
+      "consolidated": true,
+      "valid_examples": 2
+    },
+    "main <-> secondary": {
+      "support": 3,
+      "unique_contexts": 3,
+      "term_similarity": 0.5872814655303955,
+      "context_similarity": 0.5636363636363636,
+      "evidence_score": 0.48518356583335187,
+      "consolidated": false,
+      "valid_examples": 3
+    }
+  }
+}

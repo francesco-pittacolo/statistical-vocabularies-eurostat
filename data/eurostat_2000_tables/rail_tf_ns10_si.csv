@@ -1,0 +1,285 @@
+Time frequency,Unit of measure,Rail network segment (2010),Train category\Time,2010.0
+Annual,Number,Dobova Meja -  Dobova,Goods trains,2724.0
+Annual,Number,Dobova Meja -  Dobova,Passenger trains,3353.0
+Annual,Number,Dobova -  Sevnica,Goods trains,3296.0
+Annual,Number,Dobova -  Sevnica,Passenger trains,8442.0
+Annual,Number,Sevnica -  Zidani Most,Goods trains,3450.0
+Annual,Number,Sevnica -  Zidani Most,Passenger trains,9316.0
+Annual,Number,Zidani Most -  Ljubljana Zalog,Goods trains,8103.0
+Annual,Number,Zidani Most -  Ljubljana Zalog,Passenger trains,14363.0
+Annual,Number,Ljubljana Zalog -  Ljubljana Moste,Goods trains,12524.0
+Annual,Number,Ljubljana Zalog -  Ljubljana Moste,Passenger trains,15065.0
+Annual,Number,Ljubljana Moste -  Ljubljana,Goods trains,12493.0
+Annual,Number,Ljubljana Moste -  Ljubljana,Passenger trains,18318.0
+Annual,Number,Ljubljana -  Ljubljana Siska,Goods trains,6360.0
+Annual,Number,Ljubljana -  Ljubljana Siska,Passenger trains,13156.0
+Annual,Number,Ljubljana Siska -  Kranj,Goods trains,5681.0
+Annual,Number,Ljubljana Siska -  Kranj,Passenger trains,7925.0
+Annual,Number,Kranj -  Jesenice,Goods trains,5242.0
+Annual,Number,Kranj -  Jesenice,Passenger trains,6989.0
+Annual,Number,Jesenice -  Jesenice Meja,Goods trains,4604.0
+Annual,Number,Jesenice -  Jesenice Meja,Passenger trains,2663.0
+Annual,Number,Metlika Meja -  Metlika,Goods trains,1.0
+Annual,Number,Metlika Meja -  Metlika,Passenger trains,1161.0
+Annual,Number,Metlika -  Novo Mesto,Goods trains,274.0
+Annual,Number,Metlika -  Novo Mesto,Passenger trains,3165.0
+Annual,Number,Novo Mesto -  Trebnje,Goods trains,620.0
+Annual,Number,Novo Mesto -  Trebnje,Passenger trains,5258.0
+Annual,Number,Trebnje -  Grosuplje,Goods trains,583.0
+Annual,Number,Trebnje -  Grosuplje,Passenger trains,4170.0
+Annual,Number,Grosuplje -  Ljubljana,Goods trains,656.0
+Annual,Number,Grosuplje -  Ljubljana,Passenger trains,5052.0
+Annual,Number,Sevnica -  Trebnje,Goods trains,0.0
+Annual,Number,Sevnica -  Trebnje,Passenger trains,1831.0
+Annual,Number,Zidani Most -  Celje,Goods trains,6225.0
+Annual,Number,Zidani Most -  Celje,Passenger trains,10837.0
+Annual,Number,Celje -  Grobelno,Goods trains,6391.0
+Annual,Number,Celje -  Grobelno,Passenger trains,13699.0
+Annual,Number,Grobelno -  Poljcane,Goods trains,5986.0
+Annual,Number,Grobelno -  Poljcane,Passenger trains,10665.0
+Annual,Number,Poljcane -  Pragersko,Goods trains,6099.0
+Annual,Number,Poljcane -  Pragersko,Passenger trains,12136.0
+Annual,Number,Stranje -  Grobelno,Goods trains,272.0
+Annual,Number,Stranje -  Grobelno,Passenger trains,3034.0
+Annual,Number,Pragersko -  Maribortezno,Goods trains,4835.0
+Annual,Number,Pragersko -  Maribortezno,Passenger trains,14687.0
+Annual,Number,Tezno -  Maribor,Goods trains,4212.0
+Annual,Number,Tezno -  Maribor,Passenger trains,14384.0
+Annual,Number,Pragersko -  Kidricevo,Goods trains,2952.0
+Annual,Number,Pragersko -  Kidricevo,Passenger trains,4182.0
+Annual,Number,Kidricevo -  Ormoz,Goods trains,2460.0
+Annual,Number,Kidricevo -  Ormoz,Passenger trains,3839.0
+Annual,Number,Maribor -  Ruse,Goods trains,401.0
+Annual,Number,Maribor -  Ruse,Passenger trains,2717.0
+Annual,Number,Ruse -  Dravograd,Goods trains,343.0
+Annual,Number,Ruse -  Dravograd,Passenger trains,1552.0
+Annual,Number,Maribor -  Sentilj,Goods trains,3852.0
+Annual,Number,Maribor -  Sentilj,Passenger trains,3388.0
+Annual,Number,Sentilj -  Sentilj Meja,Goods trains,3605.0
+Annual,Number,Sentilj -  Sentilj Meja,Passenger trains,2389.0
+Annual,Number,Dravograd -  Prevalje,Goods trains,282.0
+Annual,Number,Dravograd -  Prevalje,Passenger trains,1570.0
+Annual,Number,Prevalje -  Prevalje Meja,Goods trains,40.0
+Annual,Number,Prevalje -  Prevalje Meja,Passenger trains,507.0
+Annual,Number,Ormoz -  Ljutomer,Goods trains,1875.0
+Annual,Number,Ormoz -  Ljutomer,Passenger trains,3272.0
+Annual,Number,Ormoz -  Sredisce,Goods trains,624.0
+Annual,Number,Ormoz -  Sredisce,Passenger trains,2369.0
+Annual,Number,Sredisce -  Sredisce Meja,Goods trains,614.0
+Annual,Number,Sredisce -  Sredisce Meja,Passenger trains,585.0
+Annual,Number,Ljutomer -  Murska Sobota,Goods trains,1943.0
+Annual,Number,Ljutomer -  Murska Sobota,Passenger trains,2729.0
+Annual,Number,Sv. Rok Ob Sotli -  Stranje,Goods trains,225.0
+Annual,Number,Sv. Rok Ob Sotli -  Stranje,Passenger trains,1923.0
+Annual,Number,Sv. Rok Ob Sotli Meja -  Sv. Rok Ob Sotli,Goods trains,0.0
+Annual,Number,Sv. Rok Ob Sotli Meja -  Sv. Rok Ob Sotli,Passenger trains,0.0
+Annual,Number,Imeno -  Stranje,Goods trains,50.0
+Annual,Number,Imeno -  Stranje,Passenger trains,2399.0
+Annual,Number,Imeno Meja -  Imeno,Goods trains,0.0
+Annual,Number,Imeno Meja -  Imeno,Passenger trains,0.0
+Annual,Number,Celje -  Sostanj,Goods trains,338.0
+Annual,Number,Celje -  Sostanj,Passenger trains,3084.0
+Annual,Number,Sostanj -  Velenje,Goods trains,415.0
+Annual,Number,Sostanj -  Velenje,Passenger trains,3084.0
+Annual,Number,Lok Gaj - Lave,Goods trains,0.0
+Annual,Number,Lok Gaj - Lave,Passenger trains,0.0
+Annual,Number,Lok Tezno -  Maribor Studenci,Goods trains,383.0
+Annual,Number,Lok Tezno -  Maribor Studenci,Passenger trains,305.0
+Annual,Number,Maribor -  Maribor Studenci,Goods trains,9.0
+Annual,Number,Maribor -  Maribor Studenci,Passenger trains,5292.0
+Annual,Number,Lendava Meja -  Lendava,Goods trains,282.0
+Annual,Number,Lendava Meja -  Lendava,Passenger trains,0.0
+Annual,Number,Ljubljana -  Borovnica,Goods trains,10441.0
+Annual,Number,Ljubljana -  Borovnica,Passenger trains,7497.0
+Annual,Number,Borovnica -  Postojna,Goods trains,10597.0
+Annual,Number,Borovnica -  Postojna,Passenger trains,6586.0
+Annual,Number,Postojna -  Pivka,Goods trains,11023.0
+Annual,Number,Postojna -  Pivka,Passenger trains,6654.0
+Annual,Number,Pivka -  Divaca,Goods trains,10541.0
+Annual,Number,Pivka -  Divaca,Passenger trains,5058.0
+Annual,Number,Divaca -  Presnica Cepisce,Goods trains,8581.0
+Annual,Number,Divaca -  Presnica Cepisce,Passenger trains,2281.0
+Annual,Number,Divaca -  Sezana,Goods trains,3421.0
+Annual,Number,Divaca -  Sezana,Passenger trains,5226.0
+Annual,Number,Presnica Cepisce -  Rakitovec Meja,Goods trains,222.0
+Annual,Number,Presnica Cepisce -  Rakitovec Meja,Passenger trains,586.0
+Annual,Number,Presnica Cepisce -  Koper,Goods trains,7873.0
+Annual,Number,Presnica Cepisce -  Koper,Passenger trains,1776.0
+Annual,Number,Kreplje Cepisce -  Sezana,Goods trains,886.0
+Annual,Number,Kreplje Cepisce -  Sezana,Passenger trains,1725.0
+Annual,Number,Prvacina -  Kreplje Cepisce,Goods trains,886.0
+Annual,Number,Prvacina -  Kreplje Cepisce,Passenger trains,1730.0
+Annual,Number,Sezana -  Sezana Meja,Goods trains,1781.0
+Annual,Number,Sezana -  Sezana Meja,Passenger trains,370.0
+Annual,Number,Mark Cepisce -  Prvacina,Goods trains,927.0
+Annual,Number,Mark Cepisce -  Prvacina,Passenger trains,2467.0
+Annual,Number,Nova Gorica -  Mark Cepisce,Goods trains,2066.0
+Annual,Number,Nova Gorica -  Mark Cepisce,Passenger trains,2467.0
+Annual,Number,Anhovo -  Nova Gorica,Goods trains,569.0
+Annual,Number,Anhovo -  Nova Gorica,Passenger trains,3101.0
+Annual,Number,Jesenice -  Anhovo,Goods trains,368.0
+Annual,Number,Jesenice -  Anhovo,Passenger trains,3368.0
+Annual,Number,Mark Cepisce -  Vrtojba - D.M.,Goods trains,1195.0
+Annual,Number,Mark Cepisce -  Vrtojba - D.M.,Passenger trains,0.0
+Annual,Number,Kreplje Cepisce -  Repentabor - D.M.,Goods trains,0.0
+Annual,Number,Kreplje Cepisce -  Repentabor - D.M.,Passenger trains,0.0
+Annual,Number,Pivka -  Ilirska Bistrica - D.M.,Goods trains,1012.0
+Annual,Number,Pivka -  Ilirska Bistrica - D.M.,Passenger trains,2280.0
+Annual,Number,Lok Divaca Node - 1st Direction,Goods trains,0.0
+Annual,Number,Lok Divaca Node - 1st Direction,Passenger trains,0.0
+Annual,Number,Ljubljana Siska -  Kamnik Graben,Goods trains,316.0
+Annual,Number,Ljubljana Siska -  Kamnik Graben,Passenger trains,4808.0
+Annual,Number,Grosuplje -  Kocevje,Goods trains,33.0
+Annual,Number,Grosuplje -  Kocevje,Passenger trains,0.0
+Annual,Number,Novo Mesto -  Straza,Goods trains,263.0
+Annual,Number,Novo Mesto -  Straza,Passenger trains,1.0
+Annual,Number,Dravograd -  Otiski Vrh,Goods trains,252.0
+Annual,Number,Dravograd -  Otiski Vrh,Passenger trains,0.0
+Annual,Number,Ljutomer -  Gornja Radgona,Goods trains,146.0
+Annual,Number,Ljutomer -  Gornja Radgona,Passenger trains,4.0
+Annual,Number,Murska Sobota -  Hodos Meja,Goods trains,0.0
+Annual,Number,Murska Sobota -  Hodos Meja,Passenger trains,0.0
+Annual,Number,Prvacina -  Ajdovscina,Goods trains,40.0
+Annual,Number,Prvacina -  Ajdovscina,Passenger trains,366.0
+Annual,Number,Dobova - Dobova Meja,Goods trains,2497.0
+Annual,Number,Dobova - Dobova Meja,Passenger trains,3357.0
+Annual,Number,Sevnica - Dobova,Goods trains,3193.0
+Annual,Number,Sevnica - Dobova,Passenger trains,8451.0
+Annual,Number,Zidani Most - Sevnica,Goods trains,3393.0
+Annual,Number,Zidani Most - Sevnica,Passenger trains,9217.0
+Annual,Number,Ljubljana Zalog - Zidani Most,Goods trains,8242.0
+Annual,Number,Ljubljana Zalog - Zidani Most,Passenger trains,14425.0
+Annual,Number,Ljubljana Moste - Ljubljana Zalog,Goods trains,12507.0
+Annual,Number,Ljubljana Moste - Ljubljana Zalog,Passenger trains,15131.0
+Annual,Number,Ljubljana - Ljubljana Moste,Goods trains,12506.0
+Annual,Number,Ljubljana - Ljubljana Moste,Passenger trains,18275.0
+Annual,Number,Ljubljana Siska - Ljubljana,Goods trains,5605.0
+Annual,Number,Ljubljana Siska - Ljubljana,Passenger trains,12997.0
+Annual,Number,Kranj - Ljubljana Siska,Goods trains,4913.0
+Annual,Number,Kranj - Ljubljana Siska,Passenger trains,7248.0
+Annual,Number,Jesenice - Kranj,Goods trains,4465.0
+Annual,Number,Jesenice - Kranj,Passenger trains,6190.0
+Annual,Number,Jesenice Meja - Jesenice,Goods trains,4585.0
+Annual,Number,Jesenice Meja - Jesenice,Passenger trains,2610.0
+Annual,Number,Metlika - Metlika Meja,Goods trains,1.0
+Annual,Number,Metlika - Metlika Meja,Passenger trains,1155.0
+Annual,Number,Novo Mesto - Metlika,Goods trains,280.0
+Annual,Number,Novo Mesto - Metlika,Passenger trains,3211.0
+Annual,Number,Trebnje - Novo Mesto,Goods trains,640.0
+Annual,Number,Trebnje - Novo Mesto,Passenger trains,5086.0
+Annual,Number,Grosuplje - Trebnje,Goods trains,643.0
+Annual,Number,Grosuplje - Trebnje,Passenger trains,4271.0
+Annual,Number,Ljubljana - Grosuplje,Goods trains,683.0
+Annual,Number,Ljubljana - Grosuplje,Passenger trains,5159.0
+Annual,Number,Trebnje - Sevnica,Goods trains,39.0
+Annual,Number,Trebnje - Sevnica,Passenger trains,1844.0
+Annual,Number,Celje - Zidani Most,Goods trains,6322.0
+Annual,Number,Celje - Zidani Most,Passenger trains,10985.0
+Annual,Number,Grobelno - Celje,Goods trains,6702.0
+Annual,Number,Grobelno - Celje,Passenger trains,13985.0
+Annual,Number,Poljcane - Grobelno,Goods trains,6170.0
+Annual,Number,Poljcane - Grobelno,Passenger trains,10759.0
+Annual,Number,Pragersko - Poljcane,Goods trains,6286.0
+Annual,Number,Pragersko - Poljcane,Passenger trains,12237.0
+Annual,Number,Grobelno - Stranje,Goods trains,250.0
+Annual,Number,Grobelno - Stranje,Passenger trains,3226.0
+Annual,Number,Maribortezno - Pragersko,Goods trains,4577.0
+Annual,Number,Maribortezno - Pragersko,Passenger trains,14715.0
+Annual,Number,Maribor - Tezno,Goods trains,4042.0
+Annual,Number,Maribor - Tezno,Passenger trains,14651.0
+Annual,Number,Kidricevo - Pragersko,Goods trains,3344.0
+Annual,Number,Kidricevo - Pragersko,Passenger trains,4087.0
+Annual,Number,Ormoz - Kidricevo,Goods trains,2972.0
+Annual,Number,Ormoz - Kidricevo,Passenger trains,3699.0
+Annual,Number,Ruse - Maribor,Goods trains,402.0
+Annual,Number,Ruse - Maribor,Passenger trains,2973.0
+Annual,Number,Dravograd - Ruse,Goods trains,343.0
+Annual,Number,Dravograd - Ruse,Passenger trains,1570.0
+Annual,Number,Sentilj - Maribor,Goods trains,3688.0
+Annual,Number,Sentilj - Maribor,Passenger trains,3371.0
+Annual,Number,Sentilj Meja - Sentilj,Goods trains,3445.0
+Annual,Number,Sentilj Meja - Sentilj,Passenger trains,2367.0
+Annual,Number,Prevalje - Dravograd,Goods trains,280.0
+Annual,Number,Prevalje - Dravograd,Passenger trains,1536.0
+Annual,Number,Prevalje Meja - Prevalje,Goods trains,20.0
+Annual,Number,Prevalje Meja - Prevalje,Passenger trains,461.0
+Annual,Number,Ljutomer - Ormoz,Goods trains,2162.0
+Annual,Number,Ljutomer - Ormoz,Passenger trains,3012.0
+Annual,Number,Sredisce - Ormoz,Goods trains,853.0
+Annual,Number,Sredisce - Ormoz,Passenger trains,2367.0
+Annual,Number,Sredisce Meja - Sredisce,Goods trains,845.0
+Annual,Number,Sredisce Meja - Sredisce,Passenger trains,583.0
+Annual,Number,Murska Sobota - Ljutomer,Goods trains,2225.0
+Annual,Number,Murska Sobota - Ljutomer,Passenger trains,2503.0
+Annual,Number,Stranje - Sv. Rok Ob Sotli,Goods trains,179.0
+Annual,Number,Stranje - Sv. Rok Ob Sotli,Passenger trains,1869.0
+Annual,Number,Sv. Rok Ob Sotli - Sv. Rok Ob Sotli Meja,Goods trains,0.0
+Annual,Number,Sv. Rok Ob Sotli - Sv. Rok Ob Sotli Meja,Passenger trains,0.0
+Annual,Number,Stranje - Imeno,Goods trains,53.0
+Annual,Number,Stranje - Imeno,Passenger trains,2660.0
+Annual,Number,Imeno - Imeno Meja,Goods trains,0.0
+Annual,Number,Imeno - Imeno Meja,Passenger trains,0.0
+Annual,Number,Sostanj - Celje,Goods trains,319.0
+Annual,Number,Sostanj - Celje,Passenger trains,2820.0
+Annual,Number,Velenje - Sostanj,Goods trains,401.0
+Annual,Number,Velenje - Sostanj,Passenger trains,2821.0
+Annual,Number,Lave - Lok Gaj,Goods trains,0.0
+Annual,Number,Lave - Lok Gaj,Passenger trains,0.0
+Annual,Number,Maribor Studenci - Lok Tezno,Goods trains,359.0
+Annual,Number,Maribor Studenci - Lok Tezno,Passenger trains,64.0
+Annual,Number,Maribor Studenci - Maribor,Goods trains,11.0
+Annual,Number,Maribor Studenci - Maribor,Passenger trains,5482.0
+Annual,Number,Lendava - Lendava Meja,Goods trains,294.0
+Annual,Number,Lendava - Lendava Meja,Passenger trains,0.0
+Annual,Number,Borovnica - Ljubljana,Goods trains,11265.0
+Annual,Number,Borovnica - Ljubljana,Passenger trains,6974.0
+Annual,Number,Postojna - Borovnica,Goods trains,11388.0
+Annual,Number,Postojna - Borovnica,Passenger trains,6075.0
+Annual,Number,Pivka - Postojna,Goods trains,11881.0
+Annual,Number,Pivka - Postojna,Passenger trains,6135.0
+Annual,Number,Divaca - Pivka,Goods trains,11338.0
+Annual,Number,Divaca - Pivka,Passenger trains,3884.0
+Annual,Number,Presnica Cepisce - Divaca,Goods trains,9527.0
+Annual,Number,Presnica Cepisce - Divaca,Passenger trains,2043.0
+Annual,Number,Sezana - Divaca,Goods trains,2794.0
+Annual,Number,Sezana - Divaca,Passenger trains,4465.0
+Annual,Number,Rakitovec Meja - Presnica Cepisce,Goods trains,227.0
+Annual,Number,Rakitovec Meja - Presnica Cepisce,Passenger trains,581.0
+Annual,Number,Koper - Presnica Cepisce,Goods trains,9139.0
+Annual,Number,Koper - Presnica Cepisce,Passenger trains,1540.0
+Annual,Number,Sezana - Kreplje Cepisce,Goods trains,769.0
+Annual,Number,Sezana - Kreplje Cepisce,Passenger trains,1597.0
+Annual,Number,Kreplje Cepisce - Prvacina,Goods trains,771.0
+Annual,Number,Kreplje Cepisce - Prvacina,Passenger trains,1599.0
+Annual,Number,Sezana Meja - Sezana,Goods trains,1475.0
+Annual,Number,Sezana Meja - Sezana,Passenger trains,368.0
+Annual,Number,Prvacina - Mark Cepisce,Goods trains,817.0
+Annual,Number,Prvacina - Mark Cepisce,Passenger trains,2341.0
+Annual,Number,Mark Cepisce - Nova Gorica,Goods trains,2015.0
+Annual,Number,Mark Cepisce - Nova Gorica,Passenger trains,2341.0
+Annual,Number,Nova Gorica - Anhovo,Goods trains,713.0
+Annual,Number,Nova Gorica - Anhovo,Passenger trains,2857.0
+Annual,Number,Anhovo - Jesenice,Goods trains,502.0
+Annual,Number,Anhovo - Jesenice,Passenger trains,2987.0
+Annual,Number,Vrtojba - D.M. - Mark Cepisce,Goods trains,1137.0
+Annual,Number,Vrtojba - D.M. - Mark Cepisce,Passenger trains,0.0
+Annual,Number,Repentabor - D.M. - Kreplje Cepisce,Goods trains,0.0
+Annual,Number,Repentabor - D.M. - Kreplje Cepisce,Passenger trains,1.0
+Annual,Number,Ilirska Bistrica - D.M. - Pivka,Goods trains,1136.0
+Annual,Number,Ilirska Bistrica - D.M. - Pivka,Passenger trains,2286.0
+Annual,Number,Lok Divaca Node - 2nd Direction,Goods trains,0.0
+Annual,Number,Lok Divaca Node - 2nd Direction,Passenger trains,0.0
+Annual,Number,Kamnik Graben - Ljubljana Siska,Goods trains,271.0
+Annual,Number,Kamnik Graben - Ljubljana Siska,Passenger trains,5287.0
+Annual,Number,Kocevje - Grosuplje,Goods trains,22.0
+Annual,Number,Kocevje - Grosuplje,Passenger trains,0.0
+Annual,Number,Straza - Novo Mesto,Goods trains,257.0
+Annual,Number,Straza - Novo Mesto,Passenger trains,1.0
+Annual,Number,Otiski Vrh - Dravograd,Goods trains,249.0
+Annual,Number,Otiski Vrh - Dravograd,Passenger trains,0.0
+Annual,Number,Gornja Radgona - Ljutomer,Goods trains,148.0
+Annual,Number,Gornja Radgona - Ljutomer,Passenger trains,4.0
+Annual,Number,Hodos Meja - Murska Sobota,Goods trains,0.0
+Annual,Number,Hodos Meja - Murska Sobota,Passenger trains,0.0
+Annual,Number,Ajdovscina - Prvacina,Goods trains,39.0
+Annual,Number,Ajdovscina - Prvacina,Passenger trains,359.0

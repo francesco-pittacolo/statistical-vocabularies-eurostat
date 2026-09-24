@@ -1,0 +1,7 @@
+groq
+numpy
+openpyxl
+pandas
+python-dotenv
+scikit-learn
+sentence-transformers

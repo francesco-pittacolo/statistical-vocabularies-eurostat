@@ -1,0 +1,403 @@
+Time frequency,Unit of measure,Rail network segment (2010),Train category\Time,2010.0
+Annual,Number,St. Hr.  (Km 286. 5 ) - Cadca,Goods trains,4524.0
+Annual,Number,St. Hr.  (Km 286. 5 ) - Cadca,Other trains,259.0
+Annual,Number,St. Hr.  (Km 286. 5 ) - Cadca,Passenger trains,5619.0
+Annual,Number,Cadca - Zilina,Goods trains,6307.0
+Annual,Number,Cadca - Zilina,Other trains,259.0
+Annual,Number,Cadca - Zilina,Passenger trains,8235.0
+Annual,Number,Zilina - Vrutky,Goods trains,7973.0
+Annual,Number,Zilina - Vrutky,Other trains,367.0
+Annual,Number,Zilina - Vrutky,Passenger trains,12320.0
+Annual,Number,Vrutky - Kralovany,Goods trains,6767.0
+Annual,Number,Vrutky - Kralovany,Other trains,367.0
+Annual,Number,Vrutky - Kralovany,Passenger trains,10975.0
+Annual,Number,Kralovany - Liptovsky Mikulas,Goods trains,7058.0
+Annual,Number,Kralovany - Liptovsky Mikulas,Other trains,367.0
+Annual,Number,Kralovany - Liptovsky Mikulas,Passenger trains,10453.0
+Annual,Number,Liptovsky Mikulas - Strba,Goods trains,6318.0
+Annual,Number,Liptovsky Mikulas - Strba,Other trains,367.0
+Annual,Number,Liptovsky Mikulas - Strba,Passenger trains,9321.0
+Annual,Number,Strba - Poprad ? Tatry,Goods trains,6472.0
+Annual,Number,Strba - Poprad ? Tatry,Other trains,367.0
+Annual,Number,Strba - Poprad ? Tatry,Passenger trains,10166.0
+Annual,Number,Poprad - Tatry - Spisska Nova Ves,Goods trains,7704.0
+Annual,Number,Poprad - Tatry - Spisska Nova Ves,Other trains,438.0
+Annual,Number,Poprad - Tatry - Spisska Nova Ves,Passenger trains,9835.0
+Annual,Number,Spisska Nova Ves - Margecany,Goods trains,6053.0
+Annual,Number,Spisska Nova Ves - Margecany,Other trains,439.0
+Annual,Number,Spisska Nova Ves - Margecany,Passenger trains,10445.0
+Annual,Number,Margecany - Kysak,Goods trains,6068.0
+Annual,Number,Margecany - Kysak,Other trains,438.0
+Annual,Number,Margecany - Kysak,Passenger trains,9715.0
+Annual,Number,Kysak - Kosice,Goods trains,10759.0
+Annual,Number,Kysak - Kosice,Other trains,438.0
+Annual,Number,Kysak - Kosice,Passenger trains,15940.0
+Annual,Number,Kosice - Michalany,Goods trains,5318.0
+Annual,Number,Kosice - Michalany,Other trains,427.0
+Annual,Number,Kosice - Michalany,Passenger trains,6498.0
+Annual,Number,Michalany - Cierna Nad Tisou,Goods trains,4261.0
+Annual,Number,Michalany - Cierna Nad Tisou,Other trains,427.0
+Annual,Number,Michalany - Cierna Nad Tisou,Passenger trains,3905.0
+Annual,Number,Cierna Nad Tisou - Cierna Nad Tisou St.Hr.,Goods trains,891.0
+Annual,Number,Cierna Nad Tisou - Cierna Nad Tisou St.Hr.,Other trains,427.0
+Annual,Number,Cierna Nad Tisou - Cierna Nad Tisou St.Hr.,Passenger trains,730.0
+Annual,Number,Bratislava Hl.St. - Bratislava - Vajnory,Goods trains,687.0
+Annual,Number,Bratislava Hl.St. - Bratislava - Vajnory,Other trains,287.0
+Annual,Number,Bratislava Hl.St. - Bratislava - Vajnory,Passenger trains,10447.0
+Annual,Number,Bratislava - Vajnory - Galanta,Goods trains,5268.0
+Annual,Number,Bratislava - Vajnory - Galanta,Other trains,287.0
+Annual,Number,Bratislava - Vajnory - Galanta,Passenger trains,10747.0
+Annual,Number,Galanta - Palarikovo,Goods trains,3886.0
+Annual,Number,Galanta - Palarikovo,Other trains,287.0
+Annual,Number,Galanta - Palarikovo,Passenger trains,11138.0
+Annual,Number,Palarikovo - Nove Zamky,Goods trains,2737.0
+Annual,Number,Palarikovo - Nove Zamky,Other trains,287.0
+Annual,Number,Palarikovo - Nove Zamky,Passenger trains,8606.0
+Annual,Number,Nove Zamky - Sturovo,Goods trains,1256.0
+Annual,Number,Nove Zamky - Sturovo,Other trains,287.0
+Annual,Number,Nove Zamky - Sturovo,Passenger trains,6234.0
+Annual,Number,Sturovo - Sturovo St.Hr.,Goods trains,787.0
+Annual,Number,Sturovo - Sturovo St.Hr.,Other trains,287.0
+Annual,Number,Sturovo - Sturovo St.Hr.,Passenger trains,2920.0
+Annual,Number,Kuty St.Hr. - Kuty,Goods trains,4893.0
+Annual,Number,Kuty St.Hr. - Kuty,Other trains,274.0
+Annual,Number,Kuty St.Hr. - Kuty,Passenger trains,7088.0
+Annual,Number,Kuty - Devinska Nova Ves,Goods trains,5976.0
+Annual,Number,Kuty - Devinska Nova Ves,Other trains,274.0
+Annual,Number,Kuty - Devinska Nova Ves,Passenger trains,7747.0
+Annual,Number,Devinska Nova Ves - Bratislava Hl.St.,Goods trains,6105.0
+Annual,Number,Devinska Nova Ves - Bratislava Hl.St.,Other trains,274.0
+Annual,Number,Devinska Nova Ves - Bratislava Hl.St.,Passenger trains,11475.0
+Annual,Number,Nove Zamky - Komarno,Goods trains,1496.0
+Annual,Number,Nove Zamky - Komarno,Other trains,179.0
+Annual,Number,Nove Zamky - Komarno,Passenger trains,4182.0
+Annual,Number,Komarno - Komarno St.Hr.,Goods trains,0.0
+Annual,Number,Komarno - Komarno St.Hr.,Other trains,0.0
+Annual,Number,Komarno - Komarno St.Hr.,Passenger trains,0.0
+Annual,Number,Zilina - Puchov*1,Goods trains,4676.0
+Annual,Number,Zilina - Puchov*1,Other trains,223.0
+Annual,Number,Zilina - Puchov*1,Passenger trains,11623.0
+Annual,Number,Puchov - Trencianska Tepla,Goods trains,3445.0
+Annual,Number,Puchov - Trencianska Tepla,Other trains,231.0
+Annual,Number,Puchov - Trencianska Tepla,Passenger trains,10119.0
+Annual,Number,Trencianska Tepla - Trencin,Goods trains,3479.0
+Annual,Number,Trencianska Tepla - Trencin,Other trains,231.0
+Annual,Number,Trencianska Tepla - Trencin,Passenger trains,10373.0
+Annual,Number,Trencin - Nove Mesto Nad Vahom,Goods trains,3133.0
+Annual,Number,Trencin - Nove Mesto Nad Vahom,Other trains,231.0
+Annual,Number,Trencin - Nove Mesto Nad Vahom,Passenger trains,10167.0
+Annual,Number,Nove Mesto Nad Vahom - Leopoldov,Goods trains,3230.0
+Annual,Number,Nove Mesto Nad Vahom - Leopoldov,Other trains,231.0
+Annual,Number,Nove Mesto Nad Vahom - Leopoldov,Passenger trains,8921.0
+Annual,Number,Leopoldov - Trnava,Goods trains,1516.0
+Annual,Number,Leopoldov - Trnava,Other trains,231.0
+Annual,Number,Leopoldov - Trnava,Passenger trains,11873.0
+Annual,Number,Trnava - Bratislava ? Raca,Goods trains,2853.0
+Annual,Number,Trnava - Bratislava ? Raca,Other trains,237.0
+Annual,Number,Trnava - Bratislava ? Raca,Passenger trains,13175.0
+Annual,Number,Bratislava - Raca - Bratislava Hl.St.,Goods trains,1866.0
+Annual,Number,Bratislava - Raca - Bratislava Hl.St.,Other trains,237.0
+Annual,Number,Bratislava - Raca - Bratislava Hl.St.,Passenger trains,11275.0
+Annual,Number,Leopoldov - Sered,Goods trains,829.0
+Annual,Number,Leopoldov - Sered,Other trains,169.0
+Annual,Number,Leopoldov - Sered,Passenger trains,741.0
+Annual,Number,Sered - Galanta,Goods trains,837.0
+Annual,Number,Sered - Galanta,Other trains,169.0
+Annual,Number,Sered - Galanta,Passenger trains,4873.0
+Annual,Number,Bratislava Hl.St. - Bratislava - Nove Mesto,Goods trains,1701.0
+Annual,Number,Bratislava Hl.St. - Bratislava - Nove Mesto,Other trains,0.0
+Annual,Number,Bratislava Hl.St. - Bratislava - Nove Mesto,Passenger trains,5818.0
+Annual,Number,Bratislava - Nove Mesto - Bratislava Uns,Goods trains,7163.0
+Annual,Number,Bratislava - Nove Mesto - Bratislava Uns,Other trains,116.0
+Annual,Number,Bratislava - Nove Mesto - Bratislava Uns,Passenger trains,1557.0
+Annual,Number,Bratislava Uns - Rusovce,Goods trains,2886.0
+Annual,Number,Bratislava Uns - Rusovce,Other trains,116.0
+Annual,Number,Bratislava Uns - Rusovce,Passenger trains,1051.0
+Annual,Number,Rusovce - Rusovce St.Hr.,Goods trains,1883.0
+Annual,Number,Rusovce - Rusovce St.Hr.,Other trains,116.0
+Annual,Number,Rusovce - Rusovce St.Hr.,Passenger trains,124.0
+Annual,Number,Bratislava - Petrzalka*2 - Bratislava - Petrzalka St.Hr.,Goods trains,2063.0
+Annual,Number,Bratislava - Petrzalka*2 - Bratislava - Petrzalka St.Hr.,Other trains,1.0
+Annual,Number,Bratislava - Petrzalka*2 - Bratislava - Petrzalka St.Hr.,Passenger trains,6660.0
+Annual,Number,Luky P.M. St.Hr. - Luky P.M.,Goods trains,2387.0
+Annual,Number,Luky P.M. St.Hr. - Luky P.M.,Other trains,146.0
+Annual,Number,Luky P.M. St.Hr. - Luky P.M.,Passenger trains,4634.0
+Annual,Number,Luky P.M. - Puchov,Goods trains,2335.0
+Annual,Number,Luky P.M. - Puchov,Other trains,146.0
+Annual,Number,Luky P.M. - Puchov,Passenger trains,4893.0
+Annual,Number,Devinska Nova Ves St.Hr. - Devinska Nova Ves,Goods trains,1822.0
+Annual,Number,Devinska Nova Ves St.Hr. - Devinska Nova Ves,Other trains,2.0
+Annual,Number,Devinska Nova Ves St.Hr. - Devinska Nova Ves,Passenger trains,2715.0
+Annual,Number,Plavec St.Hr. - Plavec,Goods trains,525.0
+Annual,Number,Plavec St.Hr. - Plavec,Other trains,159.0
+Annual,Number,Plavec St.Hr. - Plavec,Passenger trains,358.0
+Annual,Number,Plavec - Presov,Goods trains,838.0
+Annual,Number,Plavec - Presov,Other trains,159.0
+Annual,Number,Plavec - Presov,Passenger trains,3888.0
+Annual,Number,Presov - Kysak,Goods trains,998.0
+Annual,Number,Presov - Kysak,Other trains,159.0
+Annual,Number,Presov - Kysak,Passenger trains,6830.0
+Annual,Number,Kosice - Barca,Goods trains,5260.0
+Annual,Number,Kosice - Barca,Other trains,427.0
+Annual,Number,Kosice - Barca,Passenger trains,6554.0
+Annual,Number,Barca - Cana,Goods trains,1211.0
+Annual,Number,Barca - Cana,Other trains,153.0
+Annual,Number,Barca - Cana,Passenger trains,1330.0
+Annual,Number,Cana - Cana St.Hr.,Goods trains,947.0
+Annual,Number,Cana - Cana St.Hr.,Other trains,153.0
+Annual,Number,Cana - Cana St.Hr.,Passenger trains,1330.0
+Annual,Number,Skalite St.Hr. - Skalite,Goods trains,2947.0
+Annual,Number,Skalite St.Hr. - Skalite,Other trains,66.0
+Annual,Number,Skalite St.Hr. - Skalite,Passenger trains,4018.0
+Annual,Number,Skalite - Cadca,Goods trains,1384.0
+Annual,Number,Skalite - Cadca,Other trains,66.0
+Annual,Number,Skalite - Cadca,Passenger trains,4270.0
+Annual,Number,Nove Zamky - Surany,Goods trains,713.0
+Annual,Number,Nove Zamky - Surany,Other trains,123.0
+Annual,Number,Nove Zamky - Surany,Passenger trains,4639.0
+Annual,Number,Palarikovo - Surany,Goods trains,1393.0
+Annual,Number,Palarikovo - Surany,Other trains,225.0
+Annual,Number,Palarikovo - Surany,Passenger trains,2541.0
+Annual,Number,Surany - Ulany Nad Zitavou,Goods trains,2983.0
+Annual,Number,Surany - Ulany Nad Zitavou,Other trains,225.0
+Annual,Number,Surany - Ulany Nad Zitavou,Passenger trains,5462.0
+Annual,Number,Ulany Nad Zitavou - Levice,Goods trains,2298.0
+Annual,Number,Ulany Nad Zitavou - Levice,Other trains,225.0
+Annual,Number,Ulany Nad Zitavou - Levice,Passenger trains,5144.0
+Annual,Number,Levice - Kozarovce,Goods trains,2803.0
+Annual,Number,Levice - Kozarovce,Other trains,225.0
+Annual,Number,Levice - Kozarovce,Passenger trains,4963.0
+Annual,Number,Kozarovce - Hronska Dubrava,Goods trains,2856.0
+Annual,Number,Kozarovce - Hronska Dubrava,Other trains,25.0
+Annual,Number,Kozarovce - Hronska Dubrava,Passenger trains,4722.0
+Annual,Number,Hronska Dubrava - Zvolen Osobna Stanica,Goods trains,3636.0
+Annual,Number,Hronska Dubrava - Zvolen Osobna Stanica,Other trains,225.0
+Annual,Number,Hronska Dubrava - Zvolen Osobna Stanica,Passenger trains,7251.0
+Annual,Number,Zvolen Osobna Stanica - Zvolen Vychod  *4,Goods trains,3412.0
+Annual,Number,Zvolen Osobna Stanica - Zvolen Vychod  *4,Other trains,134.0
+Annual,Number,Zvolen Osobna Stanica - Zvolen Vychod  *4,Passenger trains,6256.0
+Annual,Number,Zvolen Vychod - Lucenec,Goods trains,2985.0
+Annual,Number,Zvolen Vychod - Lucenec,Other trains,134.0
+Annual,Number,Zvolen Vychod - Lucenec,Passenger trains,6256.0
+Annual,Number,Lucenec - Filakovo,Goods trains,3042.0
+Annual,Number,Lucenec - Filakovo,Other trains,134.0
+Annual,Number,Lucenec - Filakovo,Passenger trains,4948.0
+Annual,Number,Filakovo - Jesenske,Goods trains,2636.0
+Annual,Number,Filakovo - Jesenske,Other trains,134.0
+Annual,Number,Filakovo - Jesenske,Passenger trains,3537.0
+Annual,Number,Jesenske - Lenartovce,Goods trains,2430.0
+Annual,Number,Jesenske - Lenartovce,Other trains,134.0
+Annual,Number,Jesenske - Lenartovce,Passenger trains,3320.0
+Annual,Number,Lenartovce - Plesivec,Goods trains,2337.0
+Annual,Number,Lenartovce - Plesivec,Other trains,134.0
+Annual,Number,Lenartovce - Plesivec,Passenger trains,3320.0
+Annual,Number,Plesivec - Roznava,Goods trains,2666.0
+Annual,Number,Plesivec - Roznava,Other trains,138.0
+Annual,Number,Plesivec - Roznava,Passenger trains,3598.0
+Annual,Number,Roznava - Haniska Pri Kosiciach,Goods trains,2620.0
+Annual,Number,Roznava - Haniska Pri Kosiciach,Other trains,138.0
+Annual,Number,Roznava - Haniska Pri Kosiciach,Passenger trains,4793.0
+Annual,Number,Haniska Pri Kosiciach - Barca,Goods trains,5908.0
+Annual,Number,Haniska Pri Kosiciach - Barca,Other trains,138.0
+Annual,Number,Haniska Pri Kosiciach - Barca,Passenger trains,4482.0
+Annual,Number,Cadca - St. Hr.  (Km 286. 5 ),Goods trains,4731.0
+Annual,Number,Cadca - St. Hr.  (Km 286. 5 ),Other trains,259.0
+Annual,Number,Cadca - St. Hr.  (Km 286. 5 ),Passenger trains,5672.0
+Annual,Number,Zilina - Cadca,Goods trains,6583.0
+Annual,Number,Zilina - Cadca,Other trains,259.0
+Annual,Number,Zilina - Cadca,Passenger trains,8748.0
+Annual,Number,Vrutky - Zilina,Goods trains,8219.0
+Annual,Number,Vrutky - Zilina,Other trains,367.0
+Annual,Number,Vrutky - Zilina,Passenger trains,11044.0
+Annual,Number,Kralovany - Vrutky,Goods trains,7319.0
+Annual,Number,Kralovany - Vrutky,Other trains,367.0
+Annual,Number,Kralovany - Vrutky,Passenger trains,9364.0
+Annual,Number,Liptovsky Mikulas - Kralovany,Goods trains,6731.0
+Annual,Number,Liptovsky Mikulas - Kralovany,Other trains,367.0
+Annual,Number,Liptovsky Mikulas - Kralovany,Passenger trains,10094.0
+Annual,Number,Strba - Liptovsky Mikulas,Goods trains,5012.0
+Annual,Number,Strba - Liptovsky Mikulas,Other trains,367.0
+Annual,Number,Strba - Liptovsky Mikulas,Passenger trains,9323.0
+Annual,Number,Poprad ? Tatry - Strba,Goods trains,7062.0
+Annual,Number,Poprad ? Tatry - Strba,Other trains,367.0
+Annual,Number,Poprad ? Tatry - Strba,Passenger trains,9141.0
+Annual,Number,Spisska Nova Ves - Poprad - Tatry,Goods trains,5154.0
+Annual,Number,Spisska Nova Ves - Poprad - Tatry,Other trains,438.0
+Annual,Number,Spisska Nova Ves - Poprad - Tatry,Passenger trains,9609.0
+Annual,Number,Margecany - Spisska Nova Ves,Goods trains,6710.0
+Annual,Number,Margecany - Spisska Nova Ves,Other trains,438.0
+Annual,Number,Margecany - Spisska Nova Ves,Passenger trains,9253.0
+Annual,Number,Kysak - Margecany,Goods trains,6684.0
+Annual,Number,Kysak - Margecany,Other trains,438.0
+Annual,Number,Kysak - Margecany,Passenger trains,9353.0
+Annual,Number,Kosice - Kysak,Goods trains,6214.0
+Annual,Number,Kosice - Kysak,Other trains,438.0
+Annual,Number,Kosice - Kysak,Passenger trains,15253.0
+Annual,Number,Michalany - Kosice,Goods trains,6544.0
+Annual,Number,Michalany - Kosice,Other trains,427.0
+Annual,Number,Michalany - Kosice,Passenger trains,5929.0
+Annual,Number,Cierna Nad Tisou - Michalany,Goods trains,5634.0
+Annual,Number,Cierna Nad Tisou - Michalany,Other trains,427.0
+Annual,Number,Cierna Nad Tisou - Michalany,Passenger trains,3597.0
+Annual,Number,Cierna Nad Tisou St.Hr. - Cierna Nad Tisou,Goods trains,891.0
+Annual,Number,Cierna Nad Tisou St.Hr. - Cierna Nad Tisou,Other trains,427.0
+Annual,Number,Cierna Nad Tisou St.Hr. - Cierna Nad Tisou,Passenger trains,730.0
+Annual,Number,Bratislava - Vajnory - Bratislava Hl.St.,Goods trains,1969.0
+Annual,Number,Bratislava - Vajnory - Bratislava Hl.St.,Other trains,287.0
+Annual,Number,Bratislava - Vajnory - Bratislava Hl.St.,Passenger trains,8909.0
+Annual,Number,Galanta - Bratislava - Vajnory,Goods trains,4677.0
+Annual,Number,Galanta - Bratislava - Vajnory,Other trains,287.0
+Annual,Number,Galanta - Bratislava - Vajnory,Passenger trains,8685.0
+Annual,Number,Palarikovo - Galanta,Goods trains,3547.0
+Annual,Number,Palarikovo - Galanta,Other trains,287.0
+Annual,Number,Palarikovo - Galanta,Passenger trains,8693.0
+Annual,Number,Nove Zamky - Palarikovo,Goods trains,2595.0
+Annual,Number,Nove Zamky - Palarikovo,Other trains,287.0
+Annual,Number,Nove Zamky - Palarikovo,Passenger trains,7410.0
+Annual,Number,Sturovo - Nove Zamky,Goods trains,1416.0
+Annual,Number,Sturovo - Nove Zamky,Other trains,287.0
+Annual,Number,Sturovo - Nove Zamky,Passenger trains,5928.0
+Annual,Number,Sturovo St.Hr. - Sturovo,Goods trains,596.0
+Annual,Number,Sturovo St.Hr. - Sturovo,Other trains,287.0
+Annual,Number,Sturovo St.Hr. - Sturovo,Passenger trains,2920.0
+Annual,Number,Kuty - Kuty St.Hr.,Goods trains,4469.0
+Annual,Number,Kuty - Kuty St.Hr.,Other trains,274.0
+Annual,Number,Kuty - Kuty St.Hr.,Passenger trains,7130.0
+Annual,Number,Devinska Nova Ves - Kuty,Goods trains,4521.0
+Annual,Number,Devinska Nova Ves - Kuty,Other trains,274.0
+Annual,Number,Devinska Nova Ves - Kuty,Passenger trains,9516.0
+Annual,Number,Bratislava Hl.St. - Devinska Nova Ves,Goods trains,6644.0
+Annual,Number,Bratislava Hl.St. - Devinska Nova Ves,Other trains,274.0
+Annual,Number,Bratislava Hl.St. - Devinska Nova Ves,Passenger trains,11348.0
+Annual,Number,Komarno - Nove Zamky,Goods trains,1496.0
+Annual,Number,Komarno - Nove Zamky,Other trains,179.0
+Annual,Number,Komarno - Nove Zamky,Passenger trains,4433.0
+Annual,Number,Komarno St.Hr. - Komarno,Goods trains,0.0
+Annual,Number,Komarno St.Hr. - Komarno,Other trains,0.0
+Annual,Number,Komarno St.Hr. - Komarno,Passenger trains,0.0
+Annual,Number,Puchov*1 - Zilina,Goods trains,4715.0
+Annual,Number,Puchov*1 - Zilina,Other trains,225.0
+Annual,Number,Puchov*1 - Zilina,Passenger trains,10715.0
+Annual,Number,Trencianska Tepla - Puchov,Goods trains,3684.0
+Annual,Number,Trencianska Tepla - Puchov,Other trains,231.0
+Annual,Number,Trencianska Tepla - Puchov,Passenger trains,10350.0
+Annual,Number,Trencin - Trencianska Tepla,Goods trains,3770.0
+Annual,Number,Trencin - Trencianska Tepla,Other trains,231.0
+Annual,Number,Trencin - Trencianska Tepla,Passenger trains,10952.0
+Annual,Number,Nove Mesto Nad Vahom - Trencin,Goods trains,3441.0
+Annual,Number,Nove Mesto Nad Vahom - Trencin,Other trains,231.0
+Annual,Number,Nove Mesto Nad Vahom - Trencin,Passenger trains,9156.0
+Annual,Number,Leopoldov - Nove Mesto Nad Vahom,Goods trains,3532.0
+Annual,Number,Leopoldov - Nove Mesto Nad Vahom,Other trains,231.0
+Annual,Number,Leopoldov - Nove Mesto Nad Vahom,Passenger trains,9270.0
+Annual,Number,Trnava - Leopoldov,Goods trains,1607.0
+Annual,Number,Trnava - Leopoldov,Other trains,231.0
+Annual,Number,Trnava - Leopoldov,Passenger trains,11261.0
+Annual,Number,Bratislava ? Raca - Trnava,Goods trains,3048.0
+Annual,Number,Bratislava ? Raca - Trnava,Other trains,237.0
+Annual,Number,Bratislava ? Raca - Trnava,Passenger trains,13202.0
+Annual,Number,Bratislava Hl.St. - Bratislava - Raca,Goods trains,3382.0
+Annual,Number,Bratislava Hl.St. - Bratislava - Raca,Other trains,237.0
+Annual,Number,Bratislava Hl.St. - Bratislava - Raca,Passenger trains,12186.0
+Annual,Number,Sered - Leopoldov,Goods trains,834.0
+Annual,Number,Sered - Leopoldov,Other trains,169.0
+Annual,Number,Sered - Leopoldov,Passenger trains,741.0
+Annual,Number,Galanta - Sered,Goods trains,846.0
+Annual,Number,Galanta - Sered,Other trains,169.0
+Annual,Number,Galanta - Sered,Passenger trains,4670.0
+Annual,Number,Bratislava - Nove Mesto - Bratislava Hl.St.,Goods trains,1701.0
+Annual,Number,Bratislava - Nove Mesto - Bratislava Hl.St.,Other trains,0.0
+Annual,Number,Bratislava - Nove Mesto - Bratislava Hl.St.,Passenger trains,4601.0
+Annual,Number,Bratislava Uns - Bratislava - Nove Mesto,Goods trains,7163.0
+Annual,Number,Bratislava Uns - Bratislava - Nove Mesto,Other trains,116.0
+Annual,Number,Bratislava Uns - Bratislava - Nove Mesto,Passenger trains,808.0
+Annual,Number,Rusovce - Bratislava Uns,Goods trains,2985.0
+Annual,Number,Rusovce - Bratislava Uns,Other trains,116.0
+Annual,Number,Rusovce - Bratislava Uns,Passenger trains,808.0
+Annual,Number,Rusovce St.Hr. - Rusovce,Goods trains,1883.0
+Annual,Number,Rusovce St.Hr. - Rusovce,Other trains,116.0
+Annual,Number,Rusovce St.Hr. - Rusovce,Passenger trains,124.0
+Annual,Number,Bratislava - Petrzalka St.Hr. - Bratislava - Petrzalka*2,Goods trains,2063.0
+Annual,Number,Bratislava - Petrzalka St.Hr. - Bratislava - Petrzalka*2,Other trains,1.0
+Annual,Number,Bratislava - Petrzalka St.Hr. - Bratislava - Petrzalka*2,Passenger trains,6033.0
+Annual,Number,Luky P.M. - Luky P.M. St.Hr.,Goods trains,2282.0
+Annual,Number,Luky P.M. - Luky P.M. St.Hr.,Other trains,146.0
+Annual,Number,Luky P.M. - Luky P.M. St.Hr.,Passenger trains,4733.0
+Annual,Number,Puchov - Luky P.M.,Goods trains,2252.0
+Annual,Number,Puchov - Luky P.M.,Other trains,146.0
+Annual,Number,Puchov - Luky P.M.,Passenger trains,4982.0
+Annual,Number,Devinska Nova Ves - Devinska Nova Ves St.Hr.,Goods trains,1822.0
+Annual,Number,Devinska Nova Ves - Devinska Nova Ves St.Hr.,Other trains,2.0
+Annual,Number,Devinska Nova Ves - Devinska Nova Ves St.Hr.,Passenger trains,2896.0
+Annual,Number,Plavec - Plavec St.Hr.,Goods trains,525.0
+Annual,Number,Plavec - Plavec St.Hr.,Other trains,159.0
+Annual,Number,Plavec - Plavec St.Hr.,Passenger trains,346.0
+Annual,Number,Presov - Plavec,Goods trains,838.0
+Annual,Number,Presov - Plavec,Other trains,159.0
+Annual,Number,Presov - Plavec,Passenger trains,3970.0
+Annual,Number,Kysak - Presov,Goods trains,998.0
+Annual,Number,Kysak - Presov,Other trains,159.0
+Annual,Number,Kysak - Presov,Passenger trains,6805.0
+Annual,Number,Barca - Kosice,Goods trains,5260.0
+Annual,Number,Barca - Kosice,Other trains,427.0
+Annual,Number,Barca - Kosice,Passenger trains,6723.0
+Annual,Number,Cana - Barca,Goods trains,1211.0
+Annual,Number,Cana - Barca,Other trains,153.0
+Annual,Number,Cana - Barca,Passenger trains,1330.0
+Annual,Number,Cana St.Hr. - Cana,Goods trains,947.0
+Annual,Number,Cana St.Hr. - Cana,Other trains,153.0
+Annual,Number,Cana St.Hr. - Cana,Passenger trains,1330.0
+Annual,Number,Skalite - Skalite St.Hr.,Goods trains,2947.0
+Annual,Number,Skalite - Skalite St.Hr.,Other trains,66.0
+Annual,Number,Skalite - Skalite St.Hr.,Passenger trains,3670.0
+Annual,Number,Cadca - Skalite,Goods trains,1384.0
+Annual,Number,Cadca - Skalite,Other trains,66.0
+Annual,Number,Cadca - Skalite,Passenger trains,3637.0
+Annual,Number,Surany - Nove Zamky,Goods trains,713.0
+Annual,Number,Surany - Nove Zamky,Other trains,123.0
+Annual,Number,Surany - Nove Zamky,Passenger trains,4849.0
+Annual,Number,Surany - Palarikovo,Goods trains,1393.0
+Annual,Number,Surany - Palarikovo,Other trains,225.0
+Annual,Number,Surany - Palarikovo,Passenger trains,2436.0
+Annual,Number,Ulany Nad Zitavou - Surany,Goods trains,2983.0
+Annual,Number,Ulany Nad Zitavou - Surany,Other trains,225.0
+Annual,Number,Ulany Nad Zitavou - Surany,Passenger trains,6196.0
+Annual,Number,Levice - Ulany Nad Zitavou,Goods trains,2298.0
+Annual,Number,Levice - Ulany Nad Zitavou,Other trains,225.0
+Annual,Number,Levice - Ulany Nad Zitavou,Passenger trains,5417.0
+Annual,Number,Kozarovce - Levice,Goods trains,2803.0
+Annual,Number,Kozarovce - Levice,Other trains,225.0
+Annual,Number,Kozarovce - Levice,Passenger trains,4993.0
+Annual,Number,Hronska Dubrava - Kozarovce,Goods trains,2856.0
+Annual,Number,Hronska Dubrava - Kozarovce,Other trains,25.0
+Annual,Number,Hronska Dubrava - Kozarovce,Passenger trains,4746.0
+Annual,Number,Zvolen Osobna Stanica - Hronska Dubrava,Goods trains,3322.0
+Annual,Number,Zvolen Osobna Stanica - Hronska Dubrava,Other trains,225.0
+Annual,Number,Zvolen Osobna Stanica - Hronska Dubrava,Passenger trains,6809.0
+Annual,Number,Zvolen Vychod  *4 - Zvolen Osobna Stanica,Goods trains,4221.0
+Annual,Number,Zvolen Vychod  *4 - Zvolen Osobna Stanica,Other trains,134.0
+Annual,Number,Zvolen Vychod  *4 - Zvolen Osobna Stanica,Passenger trains,6354.0
+Annual,Number,Lucenec - Zvolen Vychod,Goods trains,2985.0
+Annual,Number,Lucenec - Zvolen Vychod,Other trains,134.0
+Annual,Number,Lucenec - Zvolen Vychod,Passenger trains,6354.0
+Annual,Number,Filakovo - Lucenec,Goods trains,2530.0
+Annual,Number,Filakovo - Lucenec,Other trains,134.0
+Annual,Number,Filakovo - Lucenec,Passenger trains,4896.0
+Annual,Number,Jesenske - Filakovo,Goods trains,2636.0
+Annual,Number,Jesenske - Filakovo,Other trains,134.0
+Annual,Number,Jesenske - Filakovo,Passenger trains,3942.0
+Annual,Number,Lenartovce - Jesenske,Goods trains,2430.0
+Annual,Number,Lenartovce - Jesenske,Other trains,134.0
+Annual,Number,Lenartovce - Jesenske,Passenger trains,3311.0
+Annual,Number,Plesivec - Lenartovce,Goods trains,2337.0
+Annual,Number,Plesivec - Lenartovce,Other trains,134.0
+Annual,Number,Plesivec - Lenartovce,Passenger trains,3311.0
+Annual,Number,Roznava - Plesivec,Goods trains,2666.0
+Annual,Number,Roznava - Plesivec,Other trains,138.0
+Annual,Number,Roznava - Plesivec,Passenger trains,3486.0
+Annual,Number,Haniska Pri Kosiciach - Roznava,Goods trains,2620.0
+Annual,Number,Haniska Pri Kosiciach - Roznava,Other trains,138.0
+Annual,Number,Haniska Pri Kosiciach - Roznava,Passenger trains,3733.0
+Annual,Number,Barca - Haniska Pri Kosiciach,Goods trains,5166.0
+Annual,Number,Barca - Haniska Pri Kosiciach,Other trains,138.0
+Annual,Number,Barca - Haniska Pri Kosiciach,Passenger trains,4622.0

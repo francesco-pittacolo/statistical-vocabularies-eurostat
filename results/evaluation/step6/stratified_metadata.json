@@ -1,0 +1,402 @@
+{
+  "1": {
+    "term": "Awareness - Yes/No",
+    "predicted_category": "N"
+  },
+  "2": {
+    "term": "Power asymmetry",
+    "predicted_category": "N"
+  },
+  "3": {
+    "term": "Animal output - basic and producer prices",
+    "predicted_category": "M"
+  },
+  "4": {
+    "term": "Annual earnings by economic control (enterprises with 10 employed persons or more) - NACE Rev. 1.1, C-O excluding L",
+    "predicted_category": "M"
+  },
+  "5": {
+    "term": "Percentage change - 12-months average",
+    "predicted_category": "U"
+  },
+  "6": {
+    "term": "Occupied conventional dwellings by tenure status and amenities",
+    "predicted_category": "M"
+  },
+  "7": {
+    "term": "Percentage of total population",
+    "predicted_category": "U"
+  },
+  "8": {
+    "term": "Central government bond yields - annual data",
+    "predicted_category": "M"
+  },
+  "9": {
+    "term": "Tonnes live weight",
+    "predicted_category": "U"
+  },
+  "10": {
+    "term": "Bel_Mag - Magyarboly",
+    "predicted_category": "A"
+  },
+  "11": {
+    "term": "Seat capacity of passenger railway vehicles by type of vehicles",
+    "predicted_category": "M"
+  },
+  "12": {
+    "term": "Persons employed in goods road transport enterprises by employment size classes",
+    "predicted_category": "M"
+  },
+  "13": {
+    "term": "Smoking behaviour",
+    "predicted_category": "N"
+  },
+  "14": {
+    "term": "Consolidated banking leverage, domestic and foreign entities (asset-to-equity multiple)",
+    "predicted_category": "M"
+  },
+  "15": {
+    "term": "Yes",
+    "predicted_category": "A"
+  },
+  "16": {
+    "term": "International trade as a share of GDP",
+    "predicted_category": "M"
+  },
+  "17": {
+    "term": "Gren-Å - Hornslet",
+    "predicted_category": "A"
+  },
+  "18": {
+    "term": "National accounts indicator (ESA 2010)",
+    "predicted_category": "N"
+  },
+  "19": {
+    "term": "Forestry indicators",
+    "predicted_category": "N"
+  },
+  "20": {
+    "term": "Occurence",
+    "predicted_category": "N"
+  },
+  "21": {
+    "term": "Exports of goods - other manufactured products",
+    "predicted_category": "M"
+  },
+  "22": {
+    "term": "Before 1900",
+    "predicted_category": "A"
+  },
+  "23": {
+    "term": "PER",
+    "predicted_category": "U"
+  },
+  "24": {
+    "term": "Most of the time",
+    "predicted_category": "U"
+  },
+  "25": {
+    "term": "Antwerpen",
+    "predicted_category": "A"
+  },
+  "26": {
+    "term": "Kaunas",
+    "predicted_category": "A"
+  },
+  "27": {
+    "term": "Employment indicator",
+    "predicted_category": "N"
+  },
+  "28": {
+    "term": "n_child",
+    "predicted_category": "N"
+  },
+  "29": {
+    "term": "Communication",
+    "predicted_category": "M"
+  },
+  "30": {
+    "term": "Percentage of world total - 1-year change",
+    "predicted_category": "U"
+  },
+  "31": {
+    "term": "Month",
+    "predicted_category": "N"
+  },
+  "32": {
+    "term": "Export unit value index (2015=100)",
+    "predicted_category": "A"
+  },
+  "33": {
+    "term": "Nationality of registration of vessel",
+    "predicted_category": "N"
+  },
+  "34": {
+    "term": "Tre¿njevka (S) - Zagreb Klara",
+    "predicted_category": "A"
+  },
+  "35": {
+    "term": "Legal type of the holding",
+    "predicted_category": "N"
+  },
+  "36": {
+    "term": "Kars - Do?Ukapy",
+    "predicted_category": "A"
+  },
+  "37": {
+    "term": "Snogh?J - Odense",
+    "predicted_category": "A"
+  },
+  "38": {
+    "term": "Terajoule",
+    "predicted_category": "U"
+  },
+  "39": {
+    "term": "Production in industry - total (excluding construction)",
+    "predicted_category": "M"
+  },
+  "40": {
+    "term": "Paloukia Salaminas",
+    "predicted_category": "A"
+  },
+  "41": {
+    "term": "Index, 2021=100",
+    "predicted_category": "U"
+  },
+  "42": {
+    "term": "Kind of business partners",
+    "predicted_category": "N"
+  },
+  "43": {
+    "term": "Municipal waste per inhabitant",
+    "predicted_category": "M"
+  },
+  "44": {
+    "term": "Client/Trader",
+    "predicted_category": "N"
+  },
+  "45": {
+    "term": "Šeštokai - Mockava",
+    "predicted_category": "A"
+  },
+  "46": {
+    "term": "Index, 1990=100",
+    "predicted_category": "U"
+  },
+  "47": {
+    "term": "Source sectors for emissions of air pollutants (Nomenclature for reporting, CLRTAP)",
+    "predicted_category": "N"
+  },
+  "48": {
+    "term": "Price index (implicit deflator), 2015=100, national currency",
+    "predicted_category": "U"
+  },
+  "49": {
+    "term": "Percentage of enterprises",
+    "predicted_category": "U"
+  },
+  "50": {
+    "term": "Dorne?Ti  - Suceava",
+    "predicted_category": "A"
+  },
+  "51": {
+    "term": "Population connected to at least secondary wastewater treatment",
+    "predicted_category": "M"
+  },
+  "52": {
+    "term": "Sector (ESA 2010)",
+    "predicted_category": "N"
+  },
+  "53": {
+    "term": "Aquaculture production in tonnes and value",
+    "predicted_category": "M"
+  },
+  "54": {
+    "term": "MIO_EUR",
+    "predicted_category": "U"
+  },
+  "55": {
+    "term": "Planetary Boundary",
+    "predicted_category": "U"
+  },
+  "56": {
+    "term": "Jesenice - Kranj",
+    "predicted_category": "A"
+  },
+  "57": {
+    "term": "Public water supply",
+    "predicted_category": "A"
+  },
+  "58": {
+    "term": "Parents educational attainment level",
+    "predicted_category": "M"
+  },
+  "59": {
+    "term": "Rating (0-10)",
+    "predicted_category": "U"
+  },
+  "60": {
+    "term": "Health indicator",
+    "predicted_category": "N"
+  },
+  "61": {
+    "term": "Three-year average",
+    "predicted_category": "U"
+  },
+  "62": {
+    "term": "Consequences - Yes/No",
+    "predicted_category": "N"
+  },
+  "63": {
+    "term": "Thousand cubic metres",
+    "predicted_category": "U"
+  },
+  "64": {
+    "term": "Ever-working women who have experienced sexual harassment at work, by frequency",
+    "predicted_category": "M"
+  },
+  "65": {
+    "term": "Estimated average age of young people leaving the parental household by sex",
+    "predicted_category": "M"
+  },
+  "66": {
+    "term": "Percentage of threatened species",
+    "predicted_category": "M"
+  },
+  "67": {
+    "term": "Euro-zone Business Climate Indicator - monthly data",
+    "predicted_category": "M"
+  },
+  "68": {
+    "term": "Sea transport of goods",
+    "predicted_category": "M"
+  },
+  "69": {
+    "term": "Person",
+    "predicted_category": "U"
+  },
+  "70": {
+    "term": "Rostijne - Boma",
+    "predicted_category": "A"
+  },
+  "71": {
+    "term": "Percentage based on full-time equivalents (FTE)",
+    "predicted_category": "U"
+  },
+  "72": {
+    "term": "Seasonal adjustment",
+    "predicted_category": "N"
+  },
+  "73": {
+    "term": "Working time",
+    "predicted_category": "N"
+  },
+  "74": {
+    "term": "Percentage of risk-weighted assets",
+    "predicted_category": "U"
+  },
+  "75": {
+    "term": "Percentage of turnover",
+    "predicted_category": "U"
+  },
+  "76": {
+    "term": "Organic material",
+    "predicted_category": "A"
+  },
+  "77": {
+    "term": "Gaziantep - Narly",
+    "predicted_category": "A"
+  },
+  "78": {
+    "term": "Usually",
+    "predicted_category": "U"
+  },
+  "79": {
+    "term": "Government schemes",
+    "predicted_category": "A"
+  },
+  "80": {
+    "term": "Family member, neighbour, work colleague",
+    "predicted_category": "A"
+  },
+  "81": {
+    "term": "Water process",
+    "predicted_category": "N"
+  },
+  "82": {
+    "term": "Annual work units in forestry and logging",
+    "predicted_category": "M"
+  },
+  "83": {
+    "term": "Activity and employment status",
+    "predicted_category": "N"
+  },
+  "84": {
+    "term": "Children at risk of poverty or social exclusion",
+    "predicted_category": "M"
+  },
+  "85": {
+    "term": "Price negotiated with platform, app or clients",
+    "predicted_category": "A"
+  },
+  "86": {
+    "term": "Euro per kilogram of oil equivalent (KGOE)",
+    "predicted_category": "U"
+  },
+  "87": {
+    "term": "Nove Mesto Nad Vahom - Leopoldov",
+    "predicted_category": "A"
+  },
+  "88": {
+    "term": "BUCURESTI/HENRI COANDA airport",
+    "predicted_category": "A"
+  },
+  "89": {
+    "term": "Micrograms per cubic metre",
+    "predicted_category": "U"
+  },
+  "90": {
+    "term": "Percentage of total",
+    "predicted_category": "U"
+  },
+  "91": {
+    "term": "Tonnes of CO2 equivalent",
+    "predicted_category": "U"
+  },
+  "92": {
+    "term": "Boychinovtzi - Brusartzi",
+    "predicted_category": "A"
+  },
+  "93": {
+    "term": "Type of operation and loading status",
+    "predicted_category": "N"
+  },
+  "94": {
+    "term": "Road traffic: road freight transport in volume",
+    "predicted_category": "M"
+  },
+  "95": {
+    "term": "Energy balance",
+    "predicted_category": "N"
+  },
+  "96": {
+    "term": "CPA_J6712B",
+    "predicted_category": "A"
+  },
+  "97": {
+    "term": "Control over working time",
+    "predicted_category": "N"
+  },
+  "98": {
+    "term": "GDP weights used in the calculation of the global specific indicator",
+    "predicted_category": "M"
+  },
+  "99": {
+    "term": "Household composition",
+    "predicted_category": "N"
+  },
+  "100": {
+    "term": "Death due to suicide, by sex",
+    "predicted_category": "M"
+  }
+}

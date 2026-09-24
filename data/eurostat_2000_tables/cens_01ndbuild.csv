@@ -1,0 +1,436 @@
+Time frequency,Type of building,Tenure status,Unit of measure,Geopolitical entity (reporting)\Time,2001.0
+Annual,Non-residential buildings,Other,Number,Austria,101096.0
+Annual,Non-residential buildings,Other,Number,Belgium,112287.0
+Annual,Non-residential buildings,Other,Number,Bulgaria,6683.0
+Annual,Non-residential buildings,Other,Number,Switzerland,1082109.0
+Annual,Non-residential buildings,Other,Number,Czechia,79269.0
+Annual,Non-residential buildings,Other,Number,Estonia,3592.0
+Annual,Non-residential buildings,Other,Number,Greece,14790.0
+Annual,Non-residential buildings,Other,Number,Spain,42754.0
+Annual,Non-residential buildings,Other,Number,Finland,70457.0
+Annual,Non-residential buildings,Other,Number,Hungary,14143.0
+Annual,Non-residential buildings,Other,Number,Ireland,13120.0
+Annual,Non-residential buildings,Other,Number,Italy,27807.0
+Annual,Non-residential buildings,Other,Number,Liechtenstein,2698.0
+Annual,Non-residential buildings,Other,Number,Lithuania,3153.0
+Annual,Non-residential buildings,Other,Number,Luxembourg,5883.0
+Annual,Non-residential buildings,Other,Number,Latvia,0.0
+Annual,Non-residential buildings,Other,Number,Poland,93796.0
+Annual,Non-residential buildings,Other,Number,Portugal,13520.0
+Annual,Non-residential buildings,Other,Number,Romania,55115.0
+Annual,Non-residential buildings,Other,Number,Slovenia,7425.0
+Annual,Non-residential buildings,Other,Number,Slovakia,82978.0
+Annual,Non-residential buildings,Owner,Number,Austria,95624.0
+Annual,Non-residential buildings,Owner,Number,Belgium,191896.0
+Annual,Non-residential buildings,Owner,Number,Switzerland,405876.0
+Annual,Non-residential buildings,Owner,Number,Czechia,9204.0
+Annual,Non-residential buildings,Owner,Number,Estonia,839.0
+Annual,Non-residential buildings,Owner,Number,Greece,22583.0
+Annual,Non-residential buildings,Owner,Number,Spain,122968.0
+Annual,Non-residential buildings,Owner,Number,Finland,26367.0
+Annual,Non-residential buildings,Owner,Number,Hungary,27245.0
+Annual,Non-residential buildings,Owner,Number,Ireland,10957.0
+Annual,Non-residential buildings,Owner,Number,Italy,18533.0
+Annual,Non-residential buildings,Owner,Number,Liechtenstein,1927.0
+Annual,Non-residential buildings,Owner,Number,Lithuania,6347.0
+Annual,Non-residential buildings,Owner,Number,Luxembourg,2806.0
+Annual,Non-residential buildings,Owner,Number,Latvia,0.0
+Annual,Non-residential buildings,Owner,Number,Poland,14062.0
+Annual,Non-residential buildings,Owner,Number,Portugal,23262.0
+Annual,Non-residential buildings,Owner,Number,Romania,31188.0
+Annual,Non-residential buildings,Owner,Number,Slovenia,6452.0
+Annual,Non-residential buildings,Total,Number,Austria,196720.0
+Annual,Non-residential buildings,Total,Number,Belgium,311398.0
+Annual,Non-residential buildings,Total,Number,Bulgaria,6683.0
+Annual,Non-residential buildings,Total,Number,Switzerland,1499984.0
+Annual,Non-residential buildings,Total,Number,Cyprus,38295.0
+Annual,Non-residential buildings,Total,Number,Czechia,88473.0
+Annual,Non-residential buildings,Total,Number,Estonia,4431.0
+Annual,Non-residential buildings,Total,Number,Greece,77739.0
+Annual,Non-residential buildings,Total,Number,Spain,165722.0
+Annual,Non-residential buildings,Total,Number,Finland,96824.0
+Annual,Non-residential buildings,Total,Number,Hungary,41388.0
+Annual,Non-residential buildings,Total,Number,Ireland,24077.0
+Annual,Non-residential buildings,Total,Number,Italy,75881.0
+Annual,Non-residential buildings,Total,Number,Liechtenstein,4644.0
+Annual,Non-residential buildings,Total,Number,Lithuania,9684.0
+Annual,Non-residential buildings,Total,Number,Luxembourg,8689.0
+Annual,Non-residential buildings,Total,Number,Latvia,0.0
+Annual,Non-residential buildings,Total,Number,Poland,107858.0
+Annual,Non-residential buildings,Total,Number,Portugal,36782.0
+Annual,Non-residential buildings,Total,Number,Romania,86303.0
+Annual,Non-residential buildings,Total,Number,Slovenia,13877.0
+Annual,Non-residential buildings,Total,Number,Slovakia,82978.0
+Annual,Non-residential buildings,Unknown,Number,Italy,29541.0
+Annual,Non-residential buildings,Unknown,Number,Lithuania,184.0
+Annual,Residential buildings,Other,Number,Austria,3323735.0
+Annual,Residential buildings,Other,Number,Belgium,2189035.0
+Annual,Residential buildings,Other,Number,Bulgaria,674000.0
+Annual,Residential buildings,Other,Number,Switzerland,2996700.0
+Annual,Residential buildings,Other,Number,Czechia,4961174.0
+Annual,Residential buildings,Other,Number,Estonia,254182.0
+Annual,Residential buildings,Other,Number,Greece,2406274.0
+Annual,Residential buildings,Other,Number,Spain,6904858.0
+Annual,Residential buildings,Other,Number,Finland,1506659.0
+Annual,Residential buildings,Other,Number,France,23933988.0
+Annual,Residential buildings,Other,Number,Hungary,724774.0
+Annual,Residential buildings,Other,Number,Ireland,694495.0
+Annual,Residential buildings,Other,Number,Italy,15636211.0
+Annual,Residential buildings,Other,Number,Liechtenstein,10800.0
+Annual,Residential buildings,Other,Number,Lithuania,226935.0
+Annual,Residential buildings,Other,Number,Luxembourg,118814.0
+Annual,Residential buildings,Other,Number,Latvia,805549.0
+Annual,Residential buildings,Other,Number,Netherlands,6093266.0
+Annual,Residential buildings,Other,Number,Norway,800785.0
+Annual,Residential buildings,Other,Number,Poland,11425320.0
+Annual,Residential buildings,Other,Number,Portugal,2358038.0
+Annual,Residential buildings,Other,Number,Romania,1336337.0
+Annual,Residential buildings,Other,Number,Slovenia,276509.0
+Annual,Residential buildings,Other,Number,Slovakia,1346761.0
+Annual,Residential buildings,Owner,Number,Austria,4371651.0
+Annual,Residential buildings,Owner,Number,Belgium,5955295.0
+Annual,Residential buildings,Owner,Number,Bulgaria,7146548.0
+Annual,Residential buildings,Owner,Number,Switzerland,2349851.0
+Annual,Residential buildings,Owner,Number,Czechia,5051655.0
+Annual,Residential buildings,Owner,Number,Estonia,1061878.0
+Annual,Residential buildings,Owner,Number,Greece,7502947.0
+Annual,Residential buildings,Owner,Number,Spain,33516964.0
+Annual,Residential buildings,Owner,Number,Finland,3477857.0
+Annual,Residential buildings,Owner,Number,France,33286136.0
+Annual,Residential buildings,Owner,Number,Hungary,9166871.0
+Annual,Residential buildings,Owner,Number,Ireland,2978299.0
+Annual,Residential buildings,Owner,Number,Italy,40840294.0
+Annual,Residential buildings,Owner,Number,Liechtenstein,15562.0
+Annual,Residential buildings,Owner,Number,Lithuania,3045472.0
+Annual,Residential buildings,Owner,Number,Luxembourg,304269.0
+Annual,Residential buildings,Owner,Number,Latvia,1314465.0
+Annual,Residential buildings,Owner,Number,Netherlands,9383305.0
+Annual,Residential buildings,Owner,Number,Norway,3685160.0
+Annual,Residential buildings,Owner,Number,Poland,26268063.0
+Annual,Residential buildings,Owner,Number,Portugal,7774902.0
+Annual,Residential buildings,Owner,Number,Romania,19936156.0
+Annual,Residential buildings,Owner,Number,Slovenia,1654193.0
+Annual,Residential buildings,Owner,Number,Slovakia,3949716.0
+Annual,Residential buildings,Total,Number,Austria,7695386.0
+Annual,Residential buildings,Total,Number,Belgium,8266981.0
+Annual,Residential buildings,Total,Number,Bulgaria,7820548.0
+Annual,Residential buildings,Total,Number,Switzerland,5355329.0
+Annual,Residential buildings,Total,Number,Cyprus,644294.0
+Annual,Residential buildings,Total,Number,Czechia,10012829.0
+Annual,Residential buildings,Total,Number,Estonia,1316060.0
+Annual,Residential buildings,Total,Number,Greece,9909221.0
+Annual,Residential buildings,Total,Number,Spain,40421822.0
+Annual,Residential buildings,Total,Number,Finland,4984516.0
+Annual,Residential buildings,Total,Number,France,57220124.0
+Annual,Residential buildings,Total,Number,Hungary,9891645.0
+Annual,Residential buildings,Total,Number,Ireland,3672794.0
+Annual,Residential buildings,Total,Number,Italy,56505102.0
+Annual,Residential buildings,Total,Number,Liechtenstein,26375.0
+Annual,Residential buildings,Total,Number,Lithuania,3335695.0
+Annual,Residential buildings,Total,Number,Luxembourg,423083.0
+Annual,Residential buildings,Total,Number,Latvia,2120014.0
+Annual,Residential buildings,Total,Number,Netherlands,15476571.0
+Annual,Residential buildings,Total,Number,Norway,4485945.0
+Annual,Residential buildings,Total,Number,Poland,37693383.0
+Annual,Residential buildings,Total,Number,Portugal,10132940.0
+Annual,Residential buildings,Total,Number,Romania,21272493.0
+Annual,Residential buildings,Total,Number,Slovenia,1930702.0
+Annual,Residential buildings,Total,Number,Slovakia,5296477.0
+Annual,Residential buildings,Unknown,Number,Italy,28597.0
+Annual,Residential buildings,Unknown,Number,Lithuania,63288.0
+Annual,One-dwelling residential buildings,Other,Number,Austria,320008.0
+Annual,One-dwelling residential buildings,Other,Number,Belgium,1045211.0
+Annual,One-dwelling residential buildings,Other,Number,Bulgaria,145983.0
+Annual,One-dwelling residential buildings,Other,Number,Switzerland,312845.0
+Annual,One-dwelling residential buildings,Other,Number,Czechia,300573.0
+Annual,One-dwelling residential buildings,Other,Number,Estonia,28990.0
+Annual,One-dwelling residential buildings,Other,Number,Greece,508463.0
+Annual,One-dwelling residential buildings,Other,Number,Finland,192415.0
+Annual,One-dwelling residential buildings,Other,Number,France,7873976.0
+Annual,One-dwelling residential buildings,Other,Number,Hungary,153722.0
+Annual,One-dwelling residential buildings,Other,Number,Ireland,541593.0
+Annual,One-dwelling residential buildings,Other,Number,Italy,1891582.0
+Annual,One-dwelling residential buildings,Other,Number,Liechtenstein,3214.0
+Annual,One-dwelling residential buildings,Other,Number,Lithuania,20798.0
+Annual,One-dwelling residential buildings,Other,Number,Luxembourg,37438.0
+Annual,One-dwelling residential buildings,Other,Number,Latvia,44193.0
+Annual,One-dwelling residential buildings,Other,Number,Netherlands,3435845.0
+Annual,One-dwelling residential buildings,Other,Number,Norway,376266.0
+Annual,One-dwelling residential buildings,Other,Number,Poland,891828.0
+Annual,One-dwelling residential buildings,Other,Number,Portugal,831963.0
+Annual,One-dwelling residential buildings,Other,Number,Romania,387230.0
+Annual,One-dwelling residential buildings,Other,Number,Slovenia,36729.0
+Annual,One-dwelling residential buildings,Other,Number,Slovakia,89366.0
+Annual,One-dwelling residential buildings,Owner,Number,Austria,2872088.0
+Annual,One-dwelling residential buildings,Owner,Number,Belgium,5329653.0
+Annual,One-dwelling residential buildings,Owner,Number,Bulgaria,3019495.0
+Annual,One-dwelling residential buildings,Owner,Number,Switzerland,1653967.0
+Annual,One-dwelling residential buildings,Owner,Number,Czechia,3128676.0
+Annual,One-dwelling residential buildings,Owner,Number,Estonia,313786.0
+Annual,One-dwelling residential buildings,Owner,Number,Greece,3342650.0
+Annual,One-dwelling residential buildings,Owner,Number,Finland,2390472.0
+Annual,One-dwelling residential buildings,Owner,Number,France,28205928.0
+Annual,One-dwelling residential buildings,Owner,Number,Hungary,6121518.0
+Annual,One-dwelling residential buildings,Owner,Number,Ireland,2944622.0
+Annual,One-dwelling residential buildings,Owner,Number,Italy,10519574.0
+Annual,One-dwelling residential buildings,Owner,Number,Liechtenstein,12648.0
+Annual,One-dwelling residential buildings,Owner,Number,Lithuania,1152807.0
+Annual,One-dwelling residential buildings,Owner,Number,Luxembourg,258635.0
+Annual,One-dwelling residential buildings,Owner,Number,Latvia,506518.0
+Annual,One-dwelling residential buildings,Owner,Number,Netherlands,8690952.0
+Annual,One-dwelling residential buildings,Owner,Number,Norway,2485953.0
+Annual,One-dwelling residential buildings,Owner,Number,Poland,15093724.0
+Annual,One-dwelling residential buildings,Owner,Number,Portugal,4766777.0
+Annual,One-dwelling residential buildings,Owner,Number,Romania,12110149.0
+Annual,One-dwelling residential buildings,Owner,Number,Slovenia,898153.0
+Annual,One-dwelling residential buildings,Owner,Number,Slovakia,2544675.0
+Annual,One-dwelling residential buildings,Total,Number,Austria,3192096.0
+Annual,One-dwelling residential buildings,Total,Number,Belgium,6443932.0
+Annual,One-dwelling residential buildings,Total,Number,Bulgaria,3165478.0
+Annual,One-dwelling residential buildings,Total,Number,Switzerland,1968105.0
+Annual,One-dwelling residential buildings,Total,Number,Cyprus,350295.0
+Annual,One-dwelling residential buildings,Total,Number,Czechia,3429249.0
+Annual,One-dwelling residential buildings,Total,Number,Estonia,342776.0
+Annual,One-dwelling residential buildings,Total,Number,Greece,3851113.0
+Annual,One-dwelling residential buildings,Total,Number,Finland,2582887.0
+Annual,One-dwelling residential buildings,Total,Number,France,36079904.0
+Annual,One-dwelling residential buildings,Total,Number,Hungary,6275240.0
+Annual,One-dwelling residential buildings,Total,Number,Ireland,3486215.0
+Annual,One-dwelling residential buildings,Total,Number,Italy,12418125.0
+Annual,One-dwelling residential buildings,Total,Number,Liechtenstein,15866.0
+Annual,One-dwelling residential buildings,Total,Number,Lithuania,1187647.0
+Annual,One-dwelling residential buildings,Total,Number,Luxembourg,296073.0
+Annual,One-dwelling residential buildings,Total,Number,Latvia,550711.0
+Annual,One-dwelling residential buildings,Total,Number,Netherlands,12126797.0
+Annual,One-dwelling residential buildings,Total,Number,Norway,2862219.0
+Annual,One-dwelling residential buildings,Total,Number,Poland,15985552.0
+Annual,One-dwelling residential buildings,Total,Number,Portugal,5598740.0
+Annual,One-dwelling residential buildings,Total,Number,Romania,12497379.0
+Annual,One-dwelling residential buildings,Total,Number,Slovenia,934882.0
+Annual,One-dwelling residential buildings,Total,Number,Slovakia,2634041.0
+Annual,One-dwelling residential buildings,Unknown,Number,Italy,6969.0
+Annual,One-dwelling residential buildings,Unknown,Number,Lithuania,14042.0
+Annual,Two-dwelling residential buildings,Other,Number,Austria,398827.0
+Annual,Two-dwelling residential buildings,Other,Number,Belgium,180506.0
+Annual,Two-dwelling residential buildings,Other,Number,Bulgaria,43686.0
+Annual,Two-dwelling residential buildings,Other,Number,Switzerland,235747.0
+Annual,Two-dwelling residential buildings,Other,Number,Czechia,351186.0
+Annual,Two-dwelling residential buildings,Other,Number,Estonia,8865.0
+Annual,Two-dwelling residential buildings,Other,Number,Greece,461023.0
+Annual,Two-dwelling residential buildings,Other,Number,France,763302.0
+Annual,Two-dwelling residential buildings,Other,Number,Hungary,26242.0
+Annual,Two-dwelling residential buildings,Other,Number,Ireland,44057.0
+Annual,Two-dwelling residential buildings,Other,Number,Italy,2406807.0
+Annual,Two-dwelling residential buildings,Other,Number,Liechtenstein,1779.0
+Annual,Two-dwelling residential buildings,Other,Number,Lithuania,14398.0
+Annual,Two-dwelling residential buildings,Other,Number,Luxembourg,15077.0
+Annual,Two-dwelling residential buildings,Other,Number,Latvia,27262.0
+Annual,Two-dwelling residential buildings,Other,Number,Netherlands,2657421.0
+Annual,Two-dwelling residential buildings,Other,Number,Norway,97537.0
+Annual,Two-dwelling residential buildings,Other,Number,Poland,702006.0
+Annual,Two-dwelling residential buildings,Other,Number,Portugal,327682.0
+Annual,Two-dwelling residential buildings,Other,Number,Romania,106719.0
+Annual,Two-dwelling residential buildings,Other,Number,Slovenia,80205.0
+Annual,Two-dwelling residential buildings,Other,Number,Slovakia,29745.0
+Annual,Two-dwelling residential buildings,Owner,Number,Austria,713637.0
+Annual,Two-dwelling residential buildings,Owner,Number,Belgium,156160.0
+Annual,Two-dwelling residential buildings,Owner,Number,Bulgaria,789975.0
+Annual,Two-dwelling residential buildings,Owner,Number,Switzerland,237723.0
+Annual,Two-dwelling residential buildings,Owner,Number,Czechia,824607.0
+Annual,Two-dwelling residential buildings,Owner,Number,Estonia,31002.0
+Annual,Two-dwelling residential buildings,Owner,Number,Greece,1507798.0
+Annual,Two-dwelling residential buildings,Owner,Number,France,442415.0
+Annual,Two-dwelling residential buildings,Owner,Number,Hungary,283851.0
+Annual,Two-dwelling residential buildings,Owner,Number,Ireland,5892.0
+Annual,Two-dwelling residential buildings,Owner,Number,Italy,7535670.0
+Annual,Two-dwelling residential buildings,Owner,Number,Liechtenstein,1436.0
+Annual,Two-dwelling residential buildings,Owner,Number,Lithuania,146469.0
+Annual,Two-dwelling residential buildings,Owner,Number,Luxembourg,10192.0
+Annual,Two-dwelling residential buildings,Owner,Number,Latvia,52604.0
+Annual,Two-dwelling residential buildings,Owner,Number,Netherlands,692353.0
+Annual,Two-dwelling residential buildings,Owner,Number,Norway,305364.0
+Annual,Two-dwelling residential buildings,Owner,Number,Poland,1677892.0
+Annual,Two-dwelling residential buildings,Owner,Number,Portugal,470946.0
+Annual,Two-dwelling residential buildings,Owner,Number,Romania,390232.0
+Annual,Two-dwelling residential buildings,Owner,Number,Slovenia,292872.0
+Annual,Two-dwelling residential buildings,Owner,Number,Slovakia,158977.0
+Annual,Two-dwelling residential buildings,Total,Number,Austria,1112464.0
+Annual,Two-dwelling residential buildings,Total,Number,Belgium,344857.0
+Annual,Two-dwelling residential buildings,Total,Number,Bulgaria,833661.0
+Annual,Two-dwelling residential buildings,Total,Number,Switzerland,474492.0
+Annual,Two-dwelling residential buildings,Total,Number,Cyprus,136858.0
+Annual,Two-dwelling residential buildings,Total,Number,Czechia,1175793.0
+Annual,Two-dwelling residential buildings,Total,Number,Estonia,39867.0
+Annual,Two-dwelling residential buildings,Total,Number,Greece,1968821.0
+Annual,Two-dwelling residential buildings,Total,Number,France,1205717.0
+Annual,Two-dwelling residential buildings,Total,Number,Hungary,310093.0
+Annual,Two-dwelling residential buildings,Total,Number,Ireland,49949.0
+Annual,Two-dwelling residential buildings,Total,Number,Italy,9948015.0
+Annual,Two-dwelling residential buildings,Total,Number,Liechtenstein,3219.0
+Annual,Two-dwelling residential buildings,Total,Number,Lithuania,163457.0
+Annual,Two-dwelling residential buildings,Total,Number,Luxembourg,25269.0
+Annual,Two-dwelling residential buildings,Total,Number,Latvia,79866.0
+Annual,Two-dwelling residential buildings,Total,Number,Netherlands,3349774.0
+Annual,Two-dwelling residential buildings,Total,Number,Norway,402901.0
+Annual,Two-dwelling residential buildings,Total,Number,Poland,2379898.0
+Annual,Two-dwelling residential buildings,Total,Number,Portugal,798628.0
+Annual,Two-dwelling residential buildings,Total,Number,Romania,496951.0
+Annual,Two-dwelling residential buildings,Total,Number,Slovenia,373077.0
+Annual,Two-dwelling residential buildings,Total,Number,Slovakia,188722.0
+Annual,Two-dwelling residential buildings,Unknown,Number,Italy,5538.0
+Annual,Two-dwelling residential buildings,Unknown,Number,Lithuania,2590.0
+Annual,Three or more dwelling residential buildings,Other,Number,Austria,2604900.0
+Annual,Three or more dwelling residential buildings,Other,Number,Belgium,963318.0
+Annual,Three or more dwelling residential buildings,Other,Number,Bulgaria,484331.0
+Annual,Three or more dwelling residential buildings,Other,Number,Switzerland,2448108.0
+Annual,Three or more dwelling residential buildings,Other,Number,Czechia,4309415.0
+Annual,Three or more dwelling residential buildings,Other,Number,Estonia,216327.0
+Annual,Three or more dwelling residential buildings,Other,Number,Greece,1436788.0
+Annual,Three or more dwelling residential buildings,Other,Number,Finland,1314244.0
+Annual,Three or more dwelling residential buildings,Other,Number,France,15296710.0
+Annual,Three or more dwelling residential buildings,Other,Number,Hungary,544810.0
+Annual,Three or more dwelling residential buildings,Other,Number,Ireland,108845.0
+Annual,Three or more dwelling residential buildings,Other,Number,Italy,11337822.0
+Annual,Three or more dwelling residential buildings,Other,Number,Liechtenstein,5807.0
+Annual,Three or more dwelling residential buildings,Other,Number,Lithuania,191739.0
+Annual,Three or more dwelling residential buildings,Other,Number,Luxembourg,66217.0
+Annual,Three or more dwelling residential buildings,Other,Number,Latvia,734094.0
+Annual,Three or more dwelling residential buildings,Other,Number,Norway,326982.0
+Annual,Three or more dwelling residential buildings,Other,Number,Poland,9831486.0
+Annual,Three or more dwelling residential buildings,Other,Number,Portugal,1198393.0
+Annual,Three or more dwelling residential buildings,Other,Number,Romania,842388.0
+Annual,Three or more dwelling residential buildings,Other,Number,Slovenia,159575.0
+Annual,Three or more dwelling residential buildings,Other,Number,Slovakia,1227650.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Austria,785926.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Belgium,469482.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Bulgaria,3337078.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Switzerland,458161.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Czechia,1098372.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Estonia,717090.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Greece,2652499.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Finland,1087385.0
+Annual,Three or more dwelling residential buildings,Owner,Number,France,4637793.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Hungary,2761502.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Ireland,27785.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Italy,22785050.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Liechtenstein,1478.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Lithuania,1746196.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Luxembourg,35238.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Latvia,755343.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Norway,893843.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Poland,9496447.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Portugal,2537179.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Romania,7435775.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Slovenia,463168.0
+Annual,Three or more dwelling residential buildings,Owner,Number,Slovakia,1246064.0
+Annual,Three or more dwelling residential buildings,Total,Number,Austria,3390826.0
+Annual,Three or more dwelling residential buildings,Total,Number,Belgium,1478192.0
+Annual,Three or more dwelling residential buildings,Total,Number,Bulgaria,3821409.0
+Annual,Three or more dwelling residential buildings,Total,Number,Switzerland,2912732.0
+Annual,Three or more dwelling residential buildings,Total,Number,Cyprus,157141.0
+Annual,Three or more dwelling residential buildings,Total,Number,Czechia,5407787.0
+Annual,Three or more dwelling residential buildings,Total,Number,Estonia,933417.0
+Annual,Three or more dwelling residential buildings,Total,Number,Greece,4089287.0
+Annual,Three or more dwelling residential buildings,Total,Number,Finland,2401629.0
+Annual,Three or more dwelling residential buildings,Total,Number,France,19934503.0
+Annual,Three or more dwelling residential buildings,Total,Number,Hungary,3306312.0
+Annual,Three or more dwelling residential buildings,Total,Number,Ireland,136630.0
+Annual,Three or more dwelling residential buildings,Total,Number,Italy,34138962.0
+Annual,Three or more dwelling residential buildings,Total,Number,Liechtenstein,7290.0
+Annual,Three or more dwelling residential buildings,Total,Number,Lithuania,1984591.0
+Annual,Three or more dwelling residential buildings,Total,Number,Luxembourg,101455.0
+Annual,Three or more dwelling residential buildings,Total,Number,Latvia,1489437.0
+Annual,Three or more dwelling residential buildings,Total,Number,Norway,1220825.0
+Annual,Three or more dwelling residential buildings,Total,Number,Poland,19327933.0
+Annual,Three or more dwelling residential buildings,Total,Number,Portugal,3735572.0
+Annual,Three or more dwelling residential buildings,Total,Number,Romania,8278163.0
+Annual,Three or more dwelling residential buildings,Total,Number,Slovenia,622743.0
+Annual,Three or more dwelling residential buildings,Total,Number,Slovakia,2473714.0
+Annual,Three or more dwelling residential buildings,Unknown,Number,Italy,16090.0
+Annual,Three or more dwelling residential buildings,Unknown,Number,Lithuania,46656.0
+Annual,Total,Other,Number,Austria,3424831.0
+Annual,Total,Other,Number,Belgium,2494032.0
+Annual,Total,Other,Number,Bulgaria,680683.0
+Annual,Total,Other,Number,Switzerland,4078809.0
+Annual,Total,Other,Number,Czechia,5040443.0
+Annual,Total,Other,Number,Estonia,263500.0
+Annual,Total,Other,Number,Greece,2421064.0
+Annual,Total,Other,Number,Spain,6947612.0
+Annual,Total,Other,Number,Finland,1577116.0
+Annual,Total,Other,Number,France,23933988.0
+Annual,Total,Other,Number,Hungary,738917.0
+Annual,Total,Other,Number,Ireland,756242.0
+Annual,Total,Other,Number,Italy,15664018.0
+Annual,Total,Other,Number,Liechtenstein,13498.0
+Annual,Total,Other,Number,Lithuania,238092.0
+Annual,Total,Other,Number,Luxembourg,124772.0
+Annual,Total,Other,Number,Latvia,805549.0
+Annual,Total,Other,Number,Netherlands,6093266.0
+Annual,Total,Other,Number,Norway,800785.0
+Annual,Total,Other,Number,Poland,11519116.0
+Annual,Total,Other,Number,Portugal,2371558.0
+Annual,Total,Other,Number,Romania,1391452.0
+Annual,Total,Other,Number,Slovenia,283934.0
+Annual,Total,Other,Number,Slovakia,1429739.0
+Annual,Total,Owner,Number,Austria,4467275.0
+Annual,Total,Owner,Number,Belgium,7066178.0
+Annual,Total,Owner,Number,Bulgaria,7146548.0
+Annual,Total,Owner,Number,Switzerland,2755727.0
+Annual,Total,Owner,Number,Czechia,5060859.0
+Annual,Total,Owner,Number,Estonia,1071642.0
+Annual,Total,Owner,Number,Greece,7525530.0
+Annual,Total,Owner,Number,Spain,33639932.0
+Annual,Total,Owner,Number,Finland,3504224.0
+Annual,Total,Owner,Number,France,33286136.0
+Annual,Total,Owner,Number,Hungary,9194116.0
+Annual,Total,Owner,Number,Ireland,3014500.0
+Annual,Total,Owner,Number,Italy,40858827.0
+Annual,Total,Owner,Number,Liechtenstein,17489.0
+Annual,Total,Owner,Number,Lithuania,3098250.0
+Annual,Total,Owner,Number,Luxembourg,307265.0
+Annual,Total,Owner,Number,Latvia,1314465.0
+Annual,Total,Owner,Number,Netherlands,9383305.0
+Annual,Total,Owner,Number,Norway,3685160.0
+Annual,Total,Owner,Number,Poland,26282125.0
+Annual,Total,Owner,Number,Portugal,7798164.0
+Annual,Total,Owner,Number,Romania,19967344.0
+Annual,Total,Owner,Number,Slovenia,1660645.0
+Annual,Total,Owner,Number,Slovakia,3949716.0
+Annual,Total,Total,Number,Austria,7892106.0
+Annual,Total,Total,Number,Belgium,9770014.0
+Annual,Total,Total,Number,Bulgaria,7827231.0
+Annual,Total,Total,Number,Switzerland,6855313.0
+Annual,Total,Total,Number,Cyprus,683412.0
+Annual,Total,Total,Number,Czechia,10101302.0
+Annual,Total,Total,Number,Estonia,1335142.0
+Annual,Total,Total,Number,Greece,9986960.0
+Annual,Total,Total,Number,Spain,40587544.0
+Annual,Total,Total,Number,Finland,5081340.0
+Annual,Total,Total,Number,France,57220124.0
+Annual,Total,Total,Number,Hungary,9933033.0
+Annual,Total,Total,Number,Ireland,3770742.0
+Annual,Total,Total,Number,Italy,56580983.0
+Annual,Total,Total,Number,Liechtenstein,31019.0
+Annual,Total,Total,Number,Lithuania,3401515.0
+Annual,Total,Total,Number,Luxembourg,432037.0
+Annual,Total,Total,Number,Latvia,2120014.0
+Annual,Total,Total,Number,Netherlands,15476571.0
+Annual,Total,Total,Number,Norway,4485945.0
+Annual,Total,Total,Number,Poland,37801241.0
+Annual,Total,Total,Number,Portugal,10169722.0
+Annual,Total,Total,Number,Romania,21358796.0
+Annual,Total,Total,Number,Slovenia,1944579.0
+Annual,Total,Total,Number,Slovakia,5379455.0
+Annual,Total,Unknown,Number,Italy,58138.0
+Annual,Total,Unknown,Number,Lithuania,65173.0
+Annual,Unknown,Other,Number,Estonia,5726.0
+Annual,Unknown,Other,Number,Lithuania,8004.0
+Annual,Unknown,Other,Number,Luxembourg,75.0
+Annual,Unknown,Owner,Number,Estonia,8925.0
+Annual,Unknown,Owner,Number,Lithuania,46431.0
+Annual,Unknown,Owner,Number,Luxembourg,190.0
+Annual,Unknown,Total,Number,Cyprus,823.0
+Annual,Unknown,Total,Number,Estonia,14651.0
+Annual,Unknown,Total,Number,Lithuania,56136.0
+Annual,Unknown,Total,Number,Luxembourg,265.0
+Annual,Unknown,Unknown,Number,Lithuania,1701.0

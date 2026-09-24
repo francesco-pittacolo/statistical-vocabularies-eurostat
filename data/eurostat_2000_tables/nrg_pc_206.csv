@@ -1,0 +1,281 @@
+Time frequency,Customer,Components of energy prices,product,unit,geo\TIME_PERIOD,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0,2023.0
+Annual,Household,Network distribution costs,4100.0,PC,AT,81.0000 e,79.0000 e,79.0000 e,79.5000 e,79.8000 e,71.3000 e,71.3000 e
+Annual,Household,Network distribution costs,4100.0,PC,BA,14.0,14.0,13.0,13.0,13.0,9.0,8.0
+Annual,Household,Network distribution costs,4100.0,PC,BE,89.9749 e,90.5684,90.57,89.95,89.88,90.23,90.0
+Annual,Household,Network distribution costs,4100.0,PC,BG,90.36,88.39,89.4092,89.3254,86.0436,84.9583,83.6314
+Annual,Household,Network distribution costs,4100.0,PC,CZ,96.0,95.0,94.0,95.0,95.0,93.2,91.6
+Annual,Household,Network distribution costs,4100.0,PC,DE,:,:,84.86,84.15,86.5,78.4,82.29
+Annual,Household,Network distribution costs,4100.0,PC,DK,94.0,93.0,91.0,91.0,90.0,91.0,91.0
+Annual,Household,Network distribution costs,4100.0,PC,EE,77.0000 e,: u,: u,: u,53.0,53.0000 u,53.0000 u
+Annual,Household,Network distribution costs,4100.0,PC,EL,: @C,83.38,84.22,86.86,85.8166,87.1006,88.9975
+Annual,Household,Network distribution costs,4100.0,PC,ES,:,:,64.8500 e,63.66,64.38,82.7239,74.826
+Annual,Household,Network distribution costs,4100.0,PC,FR,79.7065,77.5824,77.6497,80.6414,79.7673,80.5605,84.0933
+Annual,Household,Network distribution costs,4100.0,PC,GE,:,88.0,89.0,90.0,91.2,91.0,93.0
+Annual,Household,Network distribution costs,4100.0,PC,HR,74.14,75.61,82.39,81.6817,77.72,72.59,74.44
+Annual,Household,Network distribution costs,4100.0,PC,HU,56.9023 e,56.9000 e,32.0606,86.7387,64.9111,65.6107,65.6107
+Annual,Household,Network distribution costs,4100.0,PC,IE,68.8042,75.1791,74.2863,:,:,:,71.4
+Annual,Household,Network distribution costs,4100.0,PC,IT,:,:,75.068,75.3972,75.5701,65.8795,55.974
+Annual,Household,Network distribution costs,4100.0,PC,LT,79.7771,82.0191,85.4985,78.0703,83.2261,92.7686,93.7282
+Annual,Household,Network distribution costs,4100.0,PC,LU,92.11,86.26,85.36,85.36,86.33,86.05,:
+Annual,Household,Network distribution costs,4100.0,PC,LV,87.7,87.18,85.56,87.28,88.15,90.24,92.2
+Annual,Household,Network distribution costs,4100.0,PC,MD,96.9,97.3003,97.25,97.3108,82.7409,90.7496,93.7897
+Annual,Household,Network distribution costs,4100.0,PC,MK,7.0621,75.55,90.59,88.3,89.7312,68.5,99.8
+Annual,Household,Network distribution costs,4100.0,PC,NL,82.0000 e,82.0000 e,82.0000 e,82.0000 e,82.0000 e,82.0000 e,:
+Annual,Household,Network distribution costs,4100.0,PC,PL,: u,62.2971,99.9967,99.9732,99.9262,99.5546,99.459
+Annual,Household,Network distribution costs,4100.0,PC,PT,97.0,96.42,96.5,97.9,98.8,98.93,98.82
+Annual,Household,Network distribution costs,4100.0,PC,RO,77.5914 e,79.9308 e,80.3528,82.6364,82.3666,78.8624,80.5017
+Annual,Household,Network distribution costs,4100.0,PC,RS,100.0,100.0,100.0,100.0,100.0,:,22.2700 e
+Annual,Household,Network distribution costs,4100.0,PC,SE,66.98,66.98,66.98,66.98,68.0,68.0,:
+Annual,Household,Network distribution costs,4100.0,PC,SI,81.0,78.0,79.5000 e,72.0,72.0,71.0,57.0
+Annual,Household,Network distribution costs,4100.0,PC,SK,88.23,87.6,87.6,85.85,82.41,83.49,86.12
+Annual,Household,Network distribution costs,4100.0,PC,TR,83.0000 e,86.0000 e,86.0,82.0,84.35,88.75,85.5019
+Annual,Household,Network distribution costs,4100.0,PC,UK,93.0,93.0,93.0,:,:,:,:
+Annual,Household,Network distribution costs,6000.0,PC,AL,:,:,:,86.4621 e,86.4621 e,88.31,88.3081 e
+Annual,Household,Network distribution costs,6000.0,PC,AT,82.0000 e,79.0000 e,82.3,84.7000 e,84.1000 e,83.3000 e,83.3000 e
+Annual,Household,Network distribution costs,6000.0,PC,BA,80.35,79.4937,77.8551,78.3232,78.3928,79.2759,79.3934
+Annual,Household,Network distribution costs,6000.0,PC,BE,88.3488,88.3488,88.3,87.7,87.57,87.12,87.0
+Annual,Household,Network distribution costs,6000.0,PC,BG,80.5,79.7253,80.0,80.0,79.0,79.0,77.89
+Annual,Household,Network distribution costs,6000.0,PC,CY,:,68.1241,69.5803,70.044,70.9016,72.9018,74.7873
+Annual,Household,Network distribution costs,6000.0,PC,CZ,91.0,89.0,91.0,88.0,84.0,84.2,84.0
+Annual,Household,Network distribution costs,6000.0,PC,DE,:,:,75.54,76.61,75.6,76.3,67.4
+Annual,Household,Network distribution costs,6000.0,PC,DK,79.0,80.0,80.0,75.0,72.0,74.0,80.0
+Annual,Household,Network distribution costs,6000.0,PC,EE,77.0000 e,77.0000 e,75.0000 e,: u,: u,67.0000 u,67.0000 u
+Annual,Household,Network distribution costs,6000.0,PC,EL,80.07,80.0,80.02,79.96,79.63,78.3612,77.39
+Annual,Household,Network distribution costs,6000.0,PC,ES,:,:,76.8872,79.7903,75.4,71.19,78.3054
+Annual,Household,Network distribution costs,6000.0,PC,FI,85.0,90.0,90.0,90.0,90.0000 e,90.0000 e,90.0000 e
+Annual,Household,Network distribution costs,6000.0,PC,FR,78.7826,78.7161,78.503,79.3238,79.6136,80.6258,91.4039
+Annual,Household,Network distribution costs,6000.0,PC,GE,:,77.3,77.3,77.3,77.3,77.0,79.9
+Annual,Household,Network distribution costs,6000.0,PC,HR,73.33,73.37,73.3763,73.4658,73.2184,72.8893,72.578
+Annual,Household,Network distribution costs,6000.0,PC,HU,79.6175 e,81.8812,82.7347,77.2594,74.992,58.932,59.5099
+Annual,Household,Network distribution costs,6000.0,PC,IE,82.8884,79.65,77.0,79.1947,75.4215,68.0,64.0
+Annual,Household,Network distribution costs,6000.0,PC,IS,:,:,76.0000 e,77.0000 e,75.5000 e,77.7000 e,78.6646 e
+Annual,Household,Network distribution costs,6000.0,PC,IT,:,:,84.8977,83.2942,82.5184,82.69,82.2
+Annual,Household,Network distribution costs,6000.0,PC,LT,72.5641,72.0845,72.3312,70.3704,72.6433,63.9623,84.48
+Annual,Household,Network distribution costs,6000.0,PC,LU,100.0,100.0,100.0,100.0,100.0,99.99,99.9999
+Annual,Household,Network distribution costs,6000.0,PC,LV,77.34,77.9,79.03,77.2116,77.9347,78.4363,84.8885
+Annual,Household,Network distribution costs,6000.0,PC,MD,100.0,100.0,100.0,100.0,100.0,94.5837,95.3226
+Annual,Household,Network distribution costs,6000.0,PC,ME,82.97,82.9,83.0,83.0,83.0,83.0,83.0
+Annual,Household,Network distribution costs,6000.0,PC,MK,78.6897,78.223,86.2,85.08,81.78,85.8858,89.2
+Annual,Household,Network distribution costs,6000.0,PC,NL,82.0000 e,82.0000 e,82.0000 e,82.0000 e,82.0000 e,82.0000 e,82.0
+Annual,Household,Network distribution costs,6000.0,PC,NO,80.8,77.6937,74.8,71.4,68.6,73.3,81.4169
+Annual,Household,Network distribution costs,6000.0,PC,PL,69.1911,71.7748,85.7483,85.603,69.5705,69.326,72.393
+Annual,Household,Network distribution costs,6000.0,PC,PT,86.0,85.419,86.6,86.6,86.5,85.0,84.8
+Annual,Household,Network distribution costs,6000.0,PC,RO,85.1792 e,85.0129 e,84.8975 e,84.8687 e,85.6439 e,86.0887,87.6245 e
+Annual,Household,Network distribution costs,6000.0,PC,RS,80.7233,80.5614,81.3017,81.9006,84.7373,82.1519,81.8259
+Annual,Household,Network distribution costs,6000.0,PC,SE,87.79,87.79,87.79,88.31,88.31,88.31,88.31
+Annual,Household,Network distribution costs,6000.0,PC,SI,75.6,76.1,75.01,76.4,73.247,74.91,75.0
+Annual,Household,Network distribution costs,6000.0,PC,SK,89.6200 e,90.16,91.17,91.8,91.32,91.55,95.47
+Annual,Household,Network distribution costs,6000.0,PC,TR,83.02,83.8870 e,83.5,81.9016,82.87,82.6,78.52
+Annual,Household,Network distribution costs,6000.0,PC,UK,70.0,70.0,70.0,:,:,:,:
+Annual,Household,Network distribution costs,6000.0,PC,XK,84.606,88.5667,79.0237,81.7403,84.1994,89.5518,87.3311
+Annual,Household,Network transmission costs,4100.0,PC,AL,:,:,:,:,100.0000 e,:,:
+Annual,Household,Network transmission costs,4100.0,PC,AT,19.0000 e,20.0000 e,21.0000 e,20.5000 e,20.2000 e,28.7000 e,28.7000 e
+Annual,Household,Network transmission costs,4100.0,PC,BA,86.0,86.0,87.0,87.0,87.0,91.0,92.0
+Annual,Household,Network transmission costs,4100.0,PC,BE,10.0251 e,9.4316,9.43,10.05,10.12,9.77,10.0
+Annual,Household,Network transmission costs,4100.0,PC,BG,9.64,11.61,10.5908,10.6746,13.9564,15.0417,16.3686
+Annual,Household,Network transmission costs,4100.0,PC,CZ,4.0,5.0,6.0,5.0,5.0,6.8,8.4
+Annual,Household,Network transmission costs,4100.0,PC,DE,:,:,15.14,15.85,13.5,21.6,17.71
+Annual,Household,Network transmission costs,4100.0,PC,DK,6.0,7.0,9.0,9.0,10.0,9.0,9.0
+Annual,Household,Network transmission costs,4100.0,PC,EE,23.0,23.0,43.0,43.0,47.0,47.0000 u,47.0000 u
+Annual,Household,Network transmission costs,4100.0,PC,EL,: @C,16.62,15.78,13.14,14.1834,12.8994,10.9722
+Annual,Household,Network transmission costs,4100.0,PC,ES,:,:,35.1500 e,36.34,35.62,17.2761,25.174
+Annual,Household,Network transmission costs,4100.0,PC,FR,20.2935,22.4176,22.3503,19.3586,20.2327,19.4395,15.9067
+Annual,Household,Network transmission costs,4100.0,PC,GE,:,12.0,11.0,10.0,8.8,9.0,7.0
+Annual,Household,Network transmission costs,4100.0,PC,HR,25.86,24.39,17.61,18.3183,22.28,27.41,25.56
+Annual,Household,Network transmission costs,4100.0,PC,HU,43.0977 e,43.1000 e,67.9394,13.2613,35.0889,34.3893,34.3893
+Annual,Household,Network transmission costs,4100.0,PC,IE,31.1958,24.8209,25.7137,:,:,:,28.6
+Annual,Household,Network transmission costs,4100.0,PC,IT,:,:,24.932,24.6028,24.4299,34.1205,44.026
+Annual,Household,Network transmission costs,4100.0,PC,LT,20.2229,17.9809,14.5015,21.9297,16.7739,7.2314,6.2718
+Annual,Household,Network transmission costs,4100.0,PC,LU,7.89,13.74,14.64,14.64,13.67,13.95,:
+Annual,Household,Network transmission costs,4100.0,PC,LV,12.3,12.82,14.44,12.72,11.85,9.7576,7.8
+Annual,Household,Network transmission costs,4100.0,PC,MD,3.1,2.6997,2.75,2.6892,17.2591,9.2504,6.2103
+Annual,Household,Network transmission costs,4100.0,PC,MK,92.9379,24.45,9.41,11.7,10.2688,31.5,0.2
+Annual,Household,Network transmission costs,4100.0,PC,NL,18.0000 e,18.0000 e,18.0000 e,18.0000 e,18.0000 e,18.0000 e,:
+Annual,Household,Network transmission costs,4100.0,PC,PL,32.902,37.7029,0.0033,0.0268,0.0738,0.4454,0.541
+Annual,Household,Network transmission costs,4100.0,PC,PT,3.0,3.58,3.5,2.1,1.2,1.07,1.18
+Annual,Household,Network transmission costs,4100.0,PC,RO,22.4086 e,20.0692 e,19.6472,17.3636,17.6334,21.1376,19.4983
+Annual,Household,Network transmission costs,4100.0,PC,RS,0.0,0.0,0.0,0.0,0.0,:,77.73
+Annual,Household,Network transmission costs,4100.0,PC,SE,33.02,33.02,33.02,33.02,32.0,32.0,:
+Annual,Household,Network transmission costs,4100.0,PC,SI,19.0,22.0,20.5000 e,28.0,28.0,29.0,43.0
+Annual,Household,Network transmission costs,4100.0,PC,SK,11.77,12.4,12.4,14.15,17.59,16.51,13.88
+Annual,Household,Network transmission costs,4100.0,PC,TR,17.0000 e,14.0000 e,14.0,18.0,15.65,11.25,14.4981
+Annual,Household,Network transmission costs,4100.0,PC,UK,7.0,7.0,7.0,:,:,:,:
+Annual,Household,Network transmission costs,6000.0,PC,AL,:,:,:,13.5379 e,13.5379 e,11.69,11.6919 e
+Annual,Household,Network transmission costs,6000.0,PC,AT,18.0000 e,21.0000 e,17.7,15.3000 e,15.9000 e,16.7000 e,16.7000 e
+Annual,Household,Network transmission costs,6000.0,PC,BA,19.65,20.5063,22.1449,21.6768,21.6072,20.7241,20.6066
+Annual,Household,Network transmission costs,6000.0,PC,BE,11.6512,11.6512,11.7,12.3,12.43,12.88,13.0
+Annual,Household,Network transmission costs,6000.0,PC,BG,19.5,20.2747,20.0,20.0,21.0,21.0,22.11
+Annual,Household,Network transmission costs,6000.0,PC,CY,:,31.8759,30.4197,29.956,29.0983,27.0982,25.2127
+Annual,Household,Network transmission costs,6000.0,PC,CZ,9.0,11.0,9.0,12.0,17.0,15.8,16.0
+Annual,Household,Network transmission costs,6000.0,PC,DE,:,:,24.46,23.39,24.4,23.7,32.6
+Annual,Household,Network transmission costs,6000.0,PC,DK,21.0,20.0,20.0,25.0,28.0,26.0,20.0
+Annual,Household,Network transmission costs,6000.0,PC,EE,23.0,23.0,25.0,25.0,37.0,33.0000 u,33.0000 u
+Annual,Household,Network transmission costs,6000.0,PC,EL,19.93,20.0,19.98,20.04,20.37,21.6388,22.61
+Annual,Household,Network transmission costs,6000.0,PC,ES,:,:,23.1128,20.2097,24.6,28.81,21.6946
+Annual,Household,Network transmission costs,6000.0,PC,FI,15.0,10.0,10.0,10.0,10.0,10.0,10.0
+Annual,Household,Network transmission costs,6000.0,PC,FR,21.2174,21.2839,21.497,20.6762,20.3864,19.3742,8.5961
+Annual,Household,Network transmission costs,6000.0,PC,GE,:,22.7,22.7,22.7,22.7,23.0,20.1
+Annual,Household,Network transmission costs,6000.0,PC,HR,26.67,26.63,26.6237,26.5342,26.7816,27.1107,27.422
+Annual,Household,Network transmission costs,6000.0,PC,HU,20.3825 e,18.1188,17.2653,22.7406,25.008,41.068,40.4901
+Annual,Household,Network transmission costs,6000.0,PC,IE,17.1116,20.35,23.0,20.8054,24.5785,32.0,36.0
+Annual,Household,Network transmission costs,6000.0,PC,IS,:,:,24.0000 e,23.0,24.5,22.3000 e,21.3354 e
+Annual,Household,Network transmission costs,6000.0,PC,IT,:,:,15.1023,16.7058,17.4816,17.31,17.8
+Annual,Household,Network transmission costs,6000.0,PC,LT,27.4359,27.9155,27.6688,29.6296,27.3567,36.0377,15.52
+Annual,Household,Network transmission costs,6000.0,PC,LU,0.0,0.0,0.0,0.0,0.0,0.01,0.0001
+Annual,Household,Network transmission costs,6000.0,PC,LV,22.66,22.1,20.93,22.7884,22.0653,21.5637,15.1115
+Annual,Household,Network transmission costs,6000.0,PC,MD,:,:,0.0,0.0,0.0,5.4163,4.6774
+Annual,Household,Network transmission costs,6000.0,PC,ME,17.03,17.1,17.0,17.0,17.0,17.0,17.0
+Annual,Household,Network transmission costs,6000.0,PC,MK,21.3103,21.777,13.8,14.92,18.22,14.1142,10.8
+Annual,Household,Network transmission costs,6000.0,PC,NL,18.0000 e,18.0000 e,18.0000 e,18.0000 e,18.0000 e,18.0000 e,18.0
+Annual,Household,Network transmission costs,6000.0,PC,NO,19.2,22.3063,25.2,28.6,31.4,26.7,18.5831
+Annual,Household,Network transmission costs,6000.0,PC,PL,30.8089,28.2252,14.2517,14.397,30.4295,30.674,27.607
+Annual,Household,Network transmission costs,6000.0,PC,PT,14.0,14.581,13.4,13.4,13.5,15.0,15.2
+Annual,Household,Network transmission costs,6000.0,PC,RO,14.8208 e,14.9871 e,15.1025 e,15.1313 e,14.3561 e,13.9113,12.3755 e
+Annual,Household,Network transmission costs,6000.0,PC,RS,19.2767,19.4386,18.6983,18.0994,15.2627,17.8481,18.1741
+Annual,Household,Network transmission costs,6000.0,PC,SE,12.21,12.21,12.21,11.69,11.69,11.69,11.69
+Annual,Household,Network transmission costs,6000.0,PC,SI,24.4,23.9,24.99,23.6,26.753,25.09,25.0
+Annual,Household,Network transmission costs,6000.0,PC,SK,10.3800 e,9.84,8.83,8.2,8.68,8.45,4.53
+Annual,Household,Network transmission costs,6000.0,PC,TR,16.98,16.1130 e,16.5,18.0984,17.13,17.4,21.48
+Annual,Household,Network transmission costs,6000.0,PC,UK,30.0,30.0,30.0,:,:,:,:
+Annual,Household,Network transmission costs,6000.0,PC,XK,15.394,11.4333,20.9763,18.2597,15.8006,10.4482,12.6689
+Annual,Non-household,Network distribution costs,4100.0,PC,AT,81.0000 e,80.0000 e,79.0000 e,79.5000 e,79.8000 e,71.3000 e,71.3000 e
+Annual,Non-household,Network distribution costs,4100.0,PC,BA,34.0,34.0,31.0,31.0,33.0,23.0,22.0
+Annual,Non-household,Network distribution costs,4100.0,PC,BE,68.0639 e,69.6787,69.7,68.5832,68.22,68.8,69.0
+Annual,Non-household,Network distribution costs,4100.0,PC,BG,55.24,55.27,62.3239,54.9113,51.6134,54.7077,50.0637
+Annual,Non-household,Network distribution costs,4100.0,PC,CZ,92.2335,94.4191,94.2252,6.0045,92.6363,91.4736,86.7806
+Annual,Non-household,Network distribution costs,4100.0,PC,DE,:,:,84.86,84.15,86.5,78.4,82.29
+Annual,Non-household,Network distribution costs,4100.0,PC,DK,89.0,87.0,87.0,87.0,84.0,87.0,83.0
+Annual,Non-household,Network distribution costs,4100.0,PC,EE,64.0000 e,: u,: u,: u,: u,53.0000 u,53.0000 u
+Annual,Non-household,Network distribution costs,4100.0,PC,EL,: @C,48.52,58.31,69.58,72.6723,75.1097,70.9547
+Annual,Non-household,Network distribution costs,4100.0,PC,ES,:,:,63.5400 e,63.2012,63.39,67.6314,70.316
+Annual,Non-household,Network distribution costs,4100.0,PC,FI,8.5000 e,8.5000 e,8.5000 e,10.0000 e,30.0,25.0,30.0
+Annual,Non-household,Network distribution costs,4100.0,PC,FR,57.8638,54.5723,56.7695,58.1923,53.502,58.5058,50.6375
+Annual,Non-household,Network distribution costs,4100.0,PC,GE,:,82.0,82.0,65.0,86.2,85.0,89.0
+Annual,Non-household,Network distribution costs,4100.0,PC,HR,63.42,64.36,70.11,73.8978,61.31,54.29,55.13
+Annual,Non-household,Network distribution costs,4100.0,PC,HU,56.9000 e,56.9023 e,32.06,86.7387,64.9111,64.1549,65.6107
+Annual,Non-household,Network distribution costs,4100.0,PC,IE,55.0443,57.8889,57.07,:,:,:,57.0
+Annual,Non-household,Network distribution costs,4100.0,PC,IT,:,:,52.1674,48.8666,46.6012,40.7584,38.1819
+Annual,Non-household,Network distribution costs,4100.0,PC,LT,67.3303,73.96,69.5417,73.1817,72.5397,85.7709,85.5206
+Annual,Non-household,Network distribution costs,4100.0,PC,LU,77.04,62.83,64.82,65.75,66.2,65.15,:
+Annual,Non-household,Network distribution costs,4100.0,PC,LV,70.67,68.34,65.82,69.3,71.04,73.29,78.61
+Annual,Non-household,Network distribution costs,4100.0,PC,MD,96.9,97.3003,97.25,97.3108,85.4746,81.7937,92.377
+Annual,Non-household,Network distribution costs,4100.0,PC,MK,8.0955,47.423,5.4,:,19.2484,68.74,83.8
+Annual,Non-household,Network distribution costs,4100.0,PC,NL,82.0000 e,82.0000 e,82.0000 e,82.0000 e,82.0000 e,82.0000 e,:
+Annual,Non-household,Network distribution costs,4100.0,PC,PL,: u,62.2971,86.2403,91.8315,92.5886,88.8924,89.3087
+Annual,Non-household,Network distribution costs,4100.0,PC,PT,93.0,84.87,86.05,89.714,94.51,95.813,95.103
+Annual,Non-household,Network distribution costs,4100.0,PC,RO,67.3285 e,69.7979 e,70.5338,73.5024,73.5024,70.1129,75.5423
+Annual,Non-household,Network distribution costs,4100.0,PC,RS,27.02,30.1786,35.6522,35.5686,41.9358,49.38,53.7
+Annual,Non-household,Network distribution costs,4100.0,PC,SE,66.98,66.98,66.98,66.98,68.0,68.0,:
+Annual,Non-household,Network distribution costs,4100.0,PC,SI,71.0,71.0,71.0,69.0,70.0,71.0,45.0
+Annual,Non-household,Network distribution costs,4100.0,PC,SK,78.53,74.7,75.3,72.88,71.23,74.92,76.66
+Annual,Non-household,Network distribution costs,4100.0,PC,TR,58.0000 e,55.0000 e,55.0,63.0,65.06,54.58,66.2939
+Annual,Non-household,Network distribution costs,4100.0,PC,UK,92.9,93.0,93.0,:,:,:,:
+Annual,Non-household,Network distribution costs,6000.0,PC,AL,:,:,:,:,86.4621 e,84.7,84.6570 e
+Annual,Non-household,Network distribution costs,6000.0,PC,AT,82.0000 e,79.0000 e,82.3,84.7000 e,84.1000 e,83.3000 e,83.3000 e
+Annual,Non-household,Network distribution costs,6000.0,PC,BA,68.49,70.32,67.9776,68.4541,68.3199,68.6839,70.8715
+Annual,Non-household,Network distribution costs,6000.0,PC,BE,43.3122 e,43.4426,43.0,42.4,42.47,42.19,42.0
+Annual,Non-household,Network distribution costs,6000.0,PC,BG,67.4,66.3,68.02,66.14,67.32,64.67,63.77
+Annual,Non-household,Network distribution costs,6000.0,PC,CY,:,60.9534,61.5112,62.3661,62.6487,65.2683,67.4
+Annual,Non-household,Network distribution costs,6000.0,PC,CZ,: @C,: @C,: @C,: @C,91.1700 e,88.5000 e,87.9100 e
+Annual,Non-household,Network distribution costs,6000.0,PC,DE,:,:,75.5,76.61,75.6,76.3,67.4
+Annual,Non-household,Network distribution costs,6000.0,PC,DK,58.0,57.0,59.0,52.0,42.0,42.0,40.0
+Annual,Non-household,Network distribution costs,6000.0,PC,EE,63.0000 e,63.0000 e,65.0000 e,: u,: u,67.0000 u,67.0
+Annual,Non-household,Network distribution costs,6000.0,PC,EL,69.26,57.25,58.4,58.3,63.41,62.36,65.61
+Annual,Non-household,Network distribution costs,6000.0,PC,ES,:,:,76.8872,79.7903,75.4,71.19,78.3054
+Annual,Non-household,Network distribution costs,6000.0,PC,FI,75.0,80.0,80.0,80.0,80.0000 e,80.0000 e,80.0000 e
+Annual,Non-household,Network distribution costs,6000.0,PC,FR,62.2143,60.5521,60.1979,61.4262,60.7801,65.9597,93.5842
+Annual,Non-household,Network distribution costs,6000.0,PC,GE,:,37.5,37.5,37.5,37.3,37.0,75.0
+Annual,Non-household,Network distribution costs,6000.0,PC,HR,69.69,69.5,67.0,67.0115,66.86,66.1175,66.7984
+Annual,Non-household,Network distribution costs,6000.0,PC,HU,79.6175 e,81.8812,82.7347,77.2594,74.992,58.932,59.5099
+Annual,Non-household,Network distribution costs,6000.0,PC,IE,69.8541,65.2935,57.0871,59.0333,70.2539,50.8,47.23
+Annual,Non-household,Network distribution costs,6000.0,PC,IS,:,60.0000 e,:,:,:,72.2100 e,71.6900 e
+Annual,Non-household,Network distribution costs,6000.0,PC,IT,:,:,59.5144,45.744,43.6033,39.99,40.77
+Annual,Non-household,Network distribution costs,6000.0,PC,LT,58.709,56.4225,58.6336,57.8331,59.9005,56.4,78.0247
+Annual,Non-household,Network distribution costs,6000.0,PC,LU,91.88,89.12,82.49,91.01,81.13,79.66,80.66
+Annual,Non-household,Network distribution costs,6000.0,PC,LV,68.277,69.38,70.14,68.17,69.3,69.77,68.2
+Annual,Non-household,Network distribution costs,6000.0,PC,MD,100.0,100.0,100.0,100.0,100.0,94.5837,94.2954
+Annual,Non-household,Network distribution costs,6000.0,PC,ME,:,82.87,:,:,83.0,83.0,83.0
+Annual,Non-household,Network distribution costs,6000.0,PC,MK,84.7471,83.839,83.5,14.29,81.2547,81.54,78.2
+Annual,Non-household,Network distribution costs,6000.0,PC,NL,82.0000 e,82.0000 e,82.0000 e,82.0000 e,82.0000 e,82.0000 e,82.0
+Annual,Non-household,Network distribution costs,6000.0,PC,NO,66.6,59.2923,50.6265,45.7,39.5,48.3372,58.8318
+Annual,Non-household,Network distribution costs,6000.0,PC,PL,69.1911,71.7748,85.7483,85.603,69.5705,69.326,72.393
+Annual,Non-household,Network distribution costs,6000.0,PC,PT,76.0,73.0,74.5,72.9,75.4,74.1,72.5
+Annual,Non-household,Network distribution costs,6000.0,PC,RO,83.2659 e,69.1293 e,70.5841 e,72.2509 e,72.1625 e,78.2054 e,76.4672 e
+Annual,Non-household,Network distribution costs,6000.0,PC,RS,91.9025,90.8738,92.4416,92.4075,90.3672,87.3952,91.7054
+Annual,Non-household,Network distribution costs,6000.0,PC,SE,87.79,87.79,87.79,87.79,88.31,88.31,88.31
+Annual,Non-household,Network distribution costs,6000.0,PC,SI,75.4,75.6,74.5,73.5,72.0161,74.7,74.8
+Annual,Non-household,Network distribution costs,6000.0,PC,SK,80.3600 e,80.39,80.32,83.0,82.48,81.9,89.48
+Annual,Non-household,Network distribution costs,6000.0,PC,TR,83.02,83.8870 e,83.5,81.9016,82.87,82.6,78.52
+Annual,Non-household,Network distribution costs,6000.0,PC,UK,69.7509,70.0,70.0,:,:,:,:
+Annual,Non-household,Network distribution costs,6000.0,PC,XK,69.0771,76.0433,62.8182,64.7275,69.2365,83.9564,77.3834
+Annual,Non-household,Network transmission costs,4100.0,PC,AL,:,:,:,:,100.0000 e,:,:
+Annual,Non-household,Network transmission costs,4100.0,PC,AT,19.0000 e,20.0000 e,21.0000 e,20.5000 e,20.2000 e,28.7000 e,28.7000 e
+Annual,Non-household,Network transmission costs,4100.0,PC,BA,66.0,66.0,69.0,69.0,67.0,77.0,78.0
+Annual,Non-household,Network transmission costs,4100.0,PC,BE,31.9361 e,30.3213,30.3,31.4168,31.78,31.2,31.0
+Annual,Non-household,Network transmission costs,4100.0,PC,BG,44.76,44.73,37.6761,45.0887,48.3866,45.2923,49.9363
+Annual,Non-household,Network transmission costs,4100.0,PC,CZ,7.7665,5.5809,5.7748,93.9955,7.3637,8.5264,13.2194
+Annual,Non-household,Network transmission costs,4100.0,PC,DE,:,:,15.14,15.85,13.5,21.6,17.71
+Annual,Non-household,Network transmission costs,4100.0,PC,DK,11.0,13.0,13.0,13.0,16.0,13.0,17.0
+Annual,Non-household,Network transmission costs,4100.0,PC,EE,36.0,36.0,47.0,47.0,47.0,47.0000 u,47.0000 u
+Annual,Non-household,Network transmission costs,4100.0,PC,EL,: @C,51.48,41.69,30.42,27.3277,24.8903,29.0453
+Annual,Non-household,Network transmission costs,4100.0,PC,ES,:,:,36.4600 e,36.7988,36.61,32.3686,29.684
+Annual,Non-household,Network transmission costs,4100.0,PC,FI,91.5000 e,91.5,91.5,90.0,70.0,75.0,70.0
+Annual,Non-household,Network transmission costs,4100.0,PC,FR,42.1362,45.4277,43.2305,41.8077,46.498,41.4942,49.3625
+Annual,Non-household,Network transmission costs,4100.0,PC,GE,:,18.0,18.0,35.0,13.8,15.0,11.0
+Annual,Non-household,Network transmission costs,4100.0,PC,HR,36.58,35.64,29.89,26.1022,38.69,45.71,44.87
+Annual,Non-household,Network transmission costs,4100.0,PC,HU,43.1000 e,43.0977 e,67.94,13.2613,35.0889,35.8451,34.3893
+Annual,Non-household,Network transmission costs,4100.0,PC,IE,44.9557,42.1111,42.93,:,:,:,43.0
+Annual,Non-household,Network transmission costs,4100.0,PC,IT,:,:,47.8326,51.1334,53.3988,59.2416,61.8181
+Annual,Non-household,Network transmission costs,4100.0,PC,LT,32.6697,26.04,30.4583,26.8183,27.4603,14.2291,14.4794
+Annual,Non-household,Network transmission costs,4100.0,PC,LU,22.96,37.17,35.18,34.28,33.8,34.85,:
+Annual,Non-household,Network transmission costs,4100.0,PC,LV,29.33,31.66,34.18,30.7,28.96,26.71,21.3868
+Annual,Non-household,Network transmission costs,4100.0,PC,MD,3.1,2.6997,2.7503,2.6892,14.5254,18.2063,7.623
+Annual,Non-household,Network transmission costs,4100.0,PC,MK,91.9045,52.577,94.6,:,80.7516,31.26,16.2
+Annual,Non-household,Network transmission costs,4100.0,PC,NL,18.0000 e,18.0000 e,18.0000 e,18.0000 e,18.0000 e,18.0000 e,:
+Annual,Non-household,Network transmission costs,4100.0,PC,PL,32.902,37.7029,13.7597,8.1685,7.4114,11.1076,10.6913
+Annual,Non-household,Network transmission costs,4100.0,PC,PT,7.0,15.13,13.95,10.286,5.49,4.187,4.897
+Annual,Non-household,Network transmission costs,4100.0,PC,RO,32.6715 e,30.2021 e,29.4662,26.4976,26.4976,29.8871,24.4577
+Annual,Non-household,Network transmission costs,4100.0,PC,RS,72.98,69.8214,64.3478,64.4314,58.0642,50.62,46.3
+Annual,Non-household,Network transmission costs,4100.0,PC,SE,33.02,33.02,33.02,33.02,32.0,32.0,:
+Annual,Non-household,Network transmission costs,4100.0,PC,SI,29.0,29.0,29.0,31.0,30.0,29.0,55.0
+Annual,Non-household,Network transmission costs,4100.0,PC,SK,21.47,25.3,24.7,27.12,28.77,25.08,23.34
+Annual,Non-household,Network transmission costs,4100.0,PC,TR,42.0000 e,45.0000 e,45.0,37.0,34.94,45.42,33.7061
+Annual,Non-household,Network transmission costs,4100.0,PC,UK,7.1,7.0,7.0,:,:,:,:
+Annual,Non-household,Network transmission costs,6000.0,PC,AL,:,:,:,:,13.5379 e,15.3,15.3430 e
+Annual,Non-household,Network transmission costs,6000.0,PC,AT,18.0000 e,21.0000 e,17.7,15.3000 e,15.9000 e,16.7000 e,16.7000 e
+Annual,Non-household,Network transmission costs,6000.0,PC,BA,31.51,29.68,32.0224,31.5459,31.6801,31.3161,29.1285
+Annual,Non-household,Network transmission costs,6000.0,PC,BE,56.6878 e,56.5574,57.0,57.6,57.53,57.81,58.0
+Annual,Non-household,Network transmission costs,6000.0,PC,BG,32.6,33.7,31.98,33.86,32.68,35.33,36.23
+Annual,Non-household,Network transmission costs,6000.0,PC,CY,:,39.0466,38.4888,37.6339,37.3513,34.7317,32.6
+Annual,Non-household,Network transmission costs,6000.0,PC,CZ,: @C,: @C,: @C,: @C,8.8300 e,11.5000 e,12.09
+Annual,Non-household,Network transmission costs,6000.0,PC,DE,:,:,24.5,23.39,24.4,23.7,32.6
+Annual,Non-household,Network transmission costs,6000.0,PC,DK,42.0,43.0,41.0,48.0,58.0,58.0,60.0
+Annual,Non-household,Network transmission costs,6000.0,PC,EE,37.0,37.0,35.0,35.0,37.0,33.0000 u,33.0000 u
+Annual,Non-household,Network transmission costs,6000.0,PC,EL,30.75,42.75,41.6,41.7,36.59,37.54,34.39
+Annual,Non-household,Network transmission costs,6000.0,PC,ES,:,:,23.1128,20.2097,24.6,28.81,21.6946
+Annual,Non-household,Network transmission costs,6000.0,PC,FI,25.0,20.0,20.0,20.0,20.0,20.0,20.0000 e
+Annual,Non-household,Network transmission costs,6000.0,PC,FR,37.7857,39.4479,39.8021,38.5738,39.2199,34.0403,6.4158
+Annual,Non-household,Network transmission costs,6000.0,PC,GE,:,62.5,62.5,62.5,62.7,63.0,25.0
+Annual,Non-household,Network transmission costs,6000.0,PC,HR,30.31,30.5,33.0,32.9885,33.14,33.8825,33.2016
+Annual,Non-household,Network transmission costs,6000.0,PC,HU,20.3825 e,18.1188,17.2653,22.7406,25.008,41.068,40.4901
+Annual,Non-household,Network transmission costs,6000.0,PC,IE,30.1459,34.6951,42.9129,40.9667,29.7461,49.2,52.77
+Annual,Non-household,Network transmission costs,6000.0,PC,IS,:,40.0000 e,:,:,:,27.7900 e,28.3100 e
+Annual,Non-household,Network transmission costs,6000.0,PC,IT,:,:,40.4856,54.256,56.3967,60.01,59.23
+Annual,Non-household,Network transmission costs,6000.0,PC,LT,41.291,43.5775,41.3665,42.1669,40.0995,43.6,21.9753
+Annual,Non-household,Network transmission costs,6000.0,PC,LU,8.12,10.88,17.51,8.99,18.87,20.34,19.34
+Annual,Non-household,Network transmission costs,6000.0,PC,LV,31.723,30.62,29.86,31.83,30.7,30.23,31.8
+Annual,Non-household,Network transmission costs,6000.0,PC,MD,0.0,:,0.0,0.0,0.0,5.4163,5.7046
+Annual,Non-household,Network transmission costs,6000.0,PC,ME,:,17.13,:,:,17.0,17.0,17.0
+Annual,Non-household,Network transmission costs,6000.0,PC,MK,15.2529,16.161,16.5,85.71,18.7453,18.46,21.8
+Annual,Non-household,Network transmission costs,6000.0,PC,NL,18.0000 e,18.0000 e,18.0000 e,18.0000 e,18.0000 e,18.0000 e,18.0
+Annual,Non-household,Network transmission costs,6000.0,PC,NO,33.4,40.7077,49.3735,54.3,60.5,51.6628,41.1682
+Annual,Non-household,Network transmission costs,6000.0,PC,PL,30.8089,28.2252,14.2517,14.397,30.4295,30.674,27.607
+Annual,Non-household,Network transmission costs,6000.0,PC,PT,24.0,27.0,25.5,27.1,24.6,25.9,27.5
+Annual,Non-household,Network transmission costs,6000.0,PC,RO,16.7341 e,30.8707 e,29.4159 e,27.7491 e,27.8375 e,21.7946 e,23.5328 e
+Annual,Non-household,Network transmission costs,6000.0,PC,RS,8.0975,9.1262,7.5584,7.5925,9.6328,12.6048,8.2946
+Annual,Non-household,Network transmission costs,6000.0,PC,SE,12.21,12.21,12.21,12.21,11.69,11.69,11.69
+Annual,Non-household,Network transmission costs,6000.0,PC,SI,24.6,24.4,25.5,26.5,27.9839,25.3,25.2
+Annual,Non-household,Network transmission costs,6000.0,PC,SK,19.6400 e,19.61,19.68,17.0,17.52,18.1,10.52
+Annual,Non-household,Network transmission costs,6000.0,PC,TR,16.98,16.1130 e,16.5,18.0984,17.13,17.4,21.48
+Annual,Non-household,Network transmission costs,6000.0,PC,UK,30.2491,30.0,30.0,:,:,:,:
+Annual,Non-household,Network transmission costs,6000.0,PC,XK,30.9229,23.9567,37.1818,35.2725,30.7635,16.0436,22.6166

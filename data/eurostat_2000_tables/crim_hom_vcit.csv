@@ -1,0 +1,58 @@
+Time frequency,Sex,Unit of measure,Geopolitical entity (declaring)\Time,2008.0,2009.0,2010.0,2011.0,2012.0,2013.0,2014.0,2015.0,2016.0,2017.0,2018.0,2019.0,2020.0,2021.0,2022.0
+Annual,Total,Number,Tirana,18.0,25.0,33.0,28.0,29.0,32.0,23.0,16.0,20.0,9.0,10.0,13.0,12.0,11.0,9.0
+Annual,Total,Number,Wien (greater city),48.0,73.0,73.0,58.0,65.0,26.0,11.0,9.0,19.0,14.0,40.0,25.0,14.0,15.0,22.0
+Annual,Total,Number,Sarajevo,:,:,4.0,5.0,13.0,8.0,8.0,12.0,:,:,5.0,9.0,11.0,:,:
+Annual,Total,Number,Sofia,27.0,26.0,20.0,20.0,25.0,18.0,25.0,21.0,11.0,12.0,11.0,10.0,10.0,14.0,11.0
+Annual,Total,Number,Bern (greater city),:,:,:,:,:,:,:,:,:,:,2.0,8.0,1.0,3.0,4.0
+Annual,Total,Number,Zurich (greater city),:,4.0,11.0,1.0,2.0,0.0,2.0,2.0,4.0,2.0,2.0,8.0,1.0,:,:
+Annual,Total,Number,Lefkosia (greater city),:,:,:,2.0,5.0,4.0,3.0,4.0,2.0,1.0,3.0,11.0,:,:,:
+Annual,Total,Number,Praha,19.0,24.0,17.0,10.0,16.0,15.0,13.0,11.0,9.0,10.0,:,15.0,10.0,7.0,18.0
+Annual,Total,Number,Berlin,:,200.0,147.0,156.0,52.0,55.0,51.0,42.0,48.0,50.0,152.0,46.0,49.0,54.0,54.0
+Annual,Total,Number,København (greater city),:,:,4.0,16.0,14.0,1.0,7.0,11.0,5.0,23.0,8.0,8.0,4.0,3.0,9.0
+Annual,Total,Number,Athina (greater city),:,:,:,:,:,:,:,:,40.0,42.0,45.0,35.0,31.0,34.0,28.0
+Annual,Total,Number,Madrid (greater city),:,:,28.0,21.0,:,22.0,18.0,14.0,19.0,16.0,20.0,16.0,16.0,18.0,26.0
+Annual,Total,Number,Helsinki/Helsingfors,16.0,7.0,12.0,14.0,12.0,6.0,10.0,12.0,8.0,6.0,10.0,8.0,:,:,:
+Annual,Total,Number,Paris (greater city),:,:,:,:,:,:,:,181.0,35.0,30.0,31.0,34.0,16.0,18.0,30.0
+Annual,Total,Number,Zagreb,:,:,10.0,11.0,10.0,6.0,5.0,3.0,10.0,10.0,5.0,6.0,8.0,9.0,6.0
+Annual,Total,Number,Budapest (greater city),33.0,26.0,32.0,33.0,25.0,29.0,33.0,37.0,22.0,14.0,18.0,13.0,16.0,12.0,20.0
+Annual,Total,Number,Reykjavík,:,:,1.0,3.0,0.0,0.0,2.0,1.0,0.0,3.0,0.0,1.0,1.0,2.0,1.0
+Annual,Total,Number,Roma,28.0,29.0,9.0,27.0,24.0,27.0,27.0,21.0,17.0,16.0,13.0,13.0,11.0,16.0,13.0
+Annual,Total,Number,Vilnius,:,:,:,:,:,26.0,45.0,33.0,15.0,12.0,9.0,19.0,16.0,12.0,11.0
+Annual,Total,Number,Luxembourg (greater city),3.0,5.0,0.0,3.0,:,:,:,:,:,:,:,:,:,:,:
+Annual,Total,Number,Rīga,:,:,:,:,21.0,20.0,23.0,27.0,24.0,16.0,20.0,16.0,18.0,16.0,18.0
+Annual,Total,Number,Podgorika,:,:,:,8.0,:,1.0,5.0,2.0,4.0,4.0,7.0,5.0,11.0,5.0,2.0
+Annual,Total,Number,Skopje,13.0,12.0,14.0,11.0,8.0,8.0,7.0,8.0,5.0,14.0,:,9.0,:,:,7.0
+Annual,Total,Number,Greater Valletta,0.0,0.0,1.0,0.0,0.0,:,:,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0
+Annual,Total,Number,Amsterdam (greater city),11.0,24.0,10.0,12.0,17.0,16.0,17.0,12.0,19.0,11.0,9.0,17.0,12.0,15.0,10.0
+Annual,Total,Number,Oslo (greater city),12.0,7.0,5.0,19.0,8.0,8.0,7.0,12.0,4.0,6.0,7.0,3.0,2.0,7.0,4.0
+Annual,Total,Number,Warszawa,:,35.0,27.0,36.0,29.0,46.0,:,:,9.0,14.0,10.0,11.0,15.0,15.0,13.0
+Annual,Total,Number,Lisboa (greater city),9.0,4.0,6.0,5.0,13.0,10.0,:,:,:,:,:,:,:,:,:
+Annual,Total,Number,Belgrade,40.0,26.0,22.0,37.0,22.0,35.0,26.0,32.0,:,22.0,35.0,21.0,23.0,19.0,23.0
+Annual,Total,Number,Ljubljana,0.0,1.0,7.0,4.0,2.0,0.0,3.0,9.0,1.0,6.0,0.0,2.0,0.0,0.0,1.0
+Annual,Total,Number,Bratislava (greater city),:,:,:,:,:,:,17.0,15.0,9.0,15.0,18.0,17.0,6.0,11.0,9.0
+Annual,Total,Number,Istanbul,:,574.0,408.0,400.0,391.0,:,:,:,:,:,:,:,:,:,:
+Annual,Total,Number,Prishtinë/Priština,:,:,:,:,:,:,13.0,7.0,15.0,5.0,11.0,11.0,10.0,9.0,:
+Annual,Total,Per hundred thousand inhabitants,Wien (greater city),2.87,4.33,4.37,3.64,3.81,1.49,0.62,:,:,:,:,:,:,:,:
+Annual,Total,Per hundred thousand inhabitants,Sofia,2.32,2.23,1.72,1.66,2.07,1.48,2.02,1.7,0.89,0.98,0.89,0.81,0.81,1.15,0.9
+Annual,Total,Per hundred thousand inhabitants,Bern (greater city),:,:,:,:,:,:,:,:,:,:,0.88,3.5,0.44,1.3,1.74
+Annual,Total,Per hundred thousand inhabitants,Zurich (greater city),:,1.05,2.87,0.27,0.53,0.0,0.52,:,:,0.51,0.5,2.02,0.44,:,:
+Annual,Total,Per hundred thousand inhabitants,Lefkosia (greater city),:,:,:,0.84,2.03,1.62,1.23,1.66,0.83,0.41,1.24,4.56,:,:,:
+Annual,Total,Per hundred thousand inhabitants,Praha,1.54,1.92,1.35,0.81,1.28,1.21,1.0,0.85,0.71,0.79,:,1.17,0.76,0.56,1.43
+Annual,Total,Per hundred thousand inhabitants,Berlin,:,5.83,4.27,4.51,1.56,1.63,1.49,1.21,1.34,1.44,4.32,1.31,1.34,1.47,1.47
+Annual,Total,Per hundred thousand inhabitants,København (greater city),:,0.0,0.75,2.97,2.55,0.18,0.0,:,:,:,:,:,:,:,:
+Annual,Total,Per hundred thousand inhabitants,Madrid (greater city),:,:,0.86,0.66,:,0.69,0.57,0.45,0.6,0.51,0.63,0.51,0.32,0.36,0.51
+Annual,Total,Per hundred thousand inhabitants,Helsinki/Helsingfors,2.77,1.2,2.04,2.35,1.99,0.98,1.57,1.89,1.26,0.97,1.59,1.27,:,:,:
+Annual,Total,Per hundred thousand inhabitants,Paris (greater city),:,:,:,:,:,:,:,1.85,0.36,0.31,0.3,0.33,0.16,0.18,:
+Annual,Total,Per hundred thousand inhabitants,Zagreb,:,:,1.26,1.38,1.27,0.76,0.63,0.38,1.25,1.25,0.62,0.75,0.99,1.12,0.74
+Annual,Total,Per hundred thousand inhabitants,Budapest (greater city),1.94,1.52,1.86,1.91,1.45,1.67,1.89,2.11,1.25,0.8,1.03,0.74,0.91,0.7,1.16
+Annual,Total,Per hundred thousand inhabitants,Roma,1.03,1.06,0.33,1.04,0.92,1.02,0.94,0.73,0.59,0.56,0.45,0.45,0.39,0.58,0.47
+Annual,Total,Per hundred thousand inhabitants,Vilnius,:,:,:,:,:,4.84,8.34,6.45,3.86,2.21,1.63,3.44,2.9,2.16,1.98
+Annual,Total,Per hundred thousand inhabitants,Luxembourg (greater city),3.51,5.64,0.0,3.16,:,:,:,:,:,:,:,:,:,:,:
+Annual,Total,Per hundred thousand inhabitants,Rīga,:,:,:,:,3.23,3.11,3.57,4.21,3.75,2.5,3.19,2.56,2.87,2.6,2.93
+Annual,Total,Per hundred thousand inhabitants,Greater Valletta,0.0,0.0,15.89,0.0,0.0,:,:,0.47,0.47,0.0,0.0,0.41,0.41,0.0,0.39
+Annual,Total,Per hundred thousand inhabitants,Amsterdam (greater city),1.47,3.18,1.3,1.54,2.15,2.0,2.1,:,:,:,:,1.68,1.19,1.49,0.99
+Annual,Total,Per hundred thousand inhabitants,Oslo (greater city),2.14,1.22,0.85,3.17,1.3,1.28,:,:,:,:,:,:,:,:,:
+Annual,Total,Per hundred thousand inhabitants,Warszawa,:,2.04,1.57,2.11,1.69,2.67,:,:,:,0.79,0.6,:,:,:,0.7
+Annual,Total,Per hundred thousand inhabitants,Lisboa (greater city),0.44,0.2,1.09,0.91,2.42,1.91,:,:,:,:,:,:,:,:,:
+Annual,Total,Per hundred thousand inhabitants,Ljubljana,0.0,0.36,2.5,1.43,0.71,0.0,1.05,3.13,:,2.09,0.0,0.68,0.0,0.0,0.34
+Annual,Total,Per hundred thousand inhabitants,Bratislava (greater city),:,:,:,:,:,:,3.99,3.52,2.11,3.57,4.16,3.93,1.39,2.31,1.89
